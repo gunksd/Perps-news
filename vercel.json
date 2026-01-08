@@ -1,0 +1,24 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "regions": ["hkg1"],
+  "env": {
+    "NEXT_PUBLIC_APP_NAME": "Perps News AI",
+    "NEXT_PUBLIC_GITHUB_URL": "https://github.com/gunksd/Perps-news",
+    "NEXT_PUBLIC_API_URL": ""
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "s-maxage=300, stale-while-revalidate"
+        }
+      ]
+    }
+  ]
+}

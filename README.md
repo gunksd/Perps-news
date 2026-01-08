@@ -1,6 +1,9 @@
 # Perps News - AI驱动的金融新闻分析工具
 
-[English](#english) | [中文](#chinese)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/gunksd/Perps-news)
+[![GitHub Actions](https://github.com/gunksd/Perps-news/actions/workflows/scheduled-collect.yml/badge.svg)](https://github.com/gunksd/Perps-news/actions)
+
+[English](#english) | [中文](#chinese) | [部署到 Vercel →](VERCEL_DEPLOYMENT.md)
 
 ---
 
