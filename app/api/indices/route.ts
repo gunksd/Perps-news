@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
-import { YahooFinanceClient } from '@/lib/indices/yahooFinance'
+import { SinaFinanceClient } from '@/lib/indices/sinaFinance'
 
-const client = new YahooFinanceClient()
+const client = new SinaFinanceClient()
 
 /**
  * GET /api/indices - 获取所有支持的指数数据

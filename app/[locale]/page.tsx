@@ -1,6 +1,7 @@
 import { getTranslations } from 'next-intl/server'
 import NewsCard from './components/NewsCard'
 import IndexPanel from './components/IndexPanel'
+import SummaryPanel from './components/SummaryPanel'
 import Disclaimer from './components/Disclaimer'
 
 async function getNewsData() {
@@ -56,10 +57,11 @@ export default async function HomePage({ params: { locale } }: { params: { local
           <Disclaimer />
         </div>
 
-        {/* 右侧：指数面板 */}
+        {/* 右侧：指数面板 + 市场总结 */}
         <div className="lg:col-span-1">
-          <div className="sticky top-24">
+          <div className="sticky top-24 space-y-6">
             <IndexPanel />
+            <SummaryPanel />
           </div>
         </div>
       </div>

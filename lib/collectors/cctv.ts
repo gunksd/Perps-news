@@ -4,15 +4,19 @@ import Parser from 'rss-parser'
 
 /**
  * 央视财经采集器
- * 使用官方RSS源
+ * 使用中国新闻网财经RSS源
  */
 export class CCTVCollector extends BaseCollector {
-  private rssUrl = 'http://www.cctv.com/rss/financial.xml'
+  private rssUrl = 'https://www.chinanews.com/rss/finance.xml'
   private parser: Parser
 
   constructor() {
     super('cctv')
-    this.parser = new Parser()
+    this.parser = new Parser({
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+      }
+    })
   }
 
   async collect(): Promise<RawNews[]> {

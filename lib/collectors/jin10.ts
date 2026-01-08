@@ -1,31 +1,42 @@
 import { BaseCollector } from './base'
 import { RawNews } from '../types/news'
-import Parser from 'rss-parser'
 
 /**
  * 金十数据采集器
- * 使用RSS源（免费，无需API Key）
+ * 使用金十数据公开API（无需认证）
  */
 export class Jin10Collector extends BaseCollector {
-  private rssUrl = 'https://rss.jin10.com/app_article.xml'
-  private parser: Parser
+  private apiUrl = 'https://flash-api.jin10.com/get_flash_list'
 
   constructor() {
     super('jin10')
-    this.parser = new Parser()
   }
 
   async collect(): Promise<RawNews[]> {
     try {
-      const feed = await this.retry(() => this.parser.parseURL(this.rssUrl))
+      const response = await this.retry(() =>
+        fetch(this.apiUrl, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Accept': 'application/json',
+          }
+        })
+      )
 
-      const news: RawNews[] = feed.items.map(item => ({
-        id: this.generateId('jin10', item.title || '', item.pubDate || ''),
-        time: item.pubDate || new Date().toISOString(),
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`)
+      }
+
+      const data = await response.json()
+      const items = data?.data || []
+
+      const news: RawNews[] = items.map((item: any) => ({
+        id: this.generateId('jin10', item.content || '', item.time || ''),
+        time: new Date(item.time * 1000).toISOString(),
         source: 'jin10',
-        title: item.title || '',
-        content: this.cleanContent(item.contentSnippet || item.content || ''),
-        url: item.link || ''
+        title: item.content?.substring(0, 50) || '',
+        content: item.content || '',
+        url: `https://www.jin10.com/flash/${item.id}`
       }))
 
       return this.filterToday(news)
@@ -33,15 +44,5 @@ export class Jin10Collector extends BaseCollector {
       console.error('[Jin10Collector] Error:', error)
       return []
     }
-  }
-
-  /**
-   * 清理HTML标签和多余空白
-   */
-  private cleanContent(content: string): string {
-    return content
-      .replace(/<[^>]*>/g, '')
-      .replace(/\s+/g, ' ')
-      .trim()
   }
 }

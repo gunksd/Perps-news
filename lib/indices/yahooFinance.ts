@@ -15,7 +15,13 @@ export class YahooFinanceClient {
     const url = `${this.baseUrl}/v8/finance/chart/${config.yahooSymbol}?interval=1d&range=1d`
 
     try {
-      const response = await fetch(url)
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept': 'application/json',
+          'Accept-Language': 'en-US,en;q=0.9',
+        }
+      })
       if (!response.ok) {
         throw new Error(`Failed to fetch ${symbol}: ${response.statusText}`)
       }
@@ -55,7 +61,13 @@ export class YahooFinanceClient {
     const url = `${this.baseUrl}/v8/finance/chart/${config.yahooSymbol}?interval=${interval}&range=${range}`
 
     try {
-      const response = await fetch(url)
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept': 'application/json',
+          'Accept-Language': 'en-US,en;q=0.9',
+        }
+      })
       if (!response.ok) {
         throw new Error(`Failed to fetch candles: ${response.statusText}`)
       }

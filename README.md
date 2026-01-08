@@ -196,6 +196,112 @@ npm run collect summary
 
 ---
 
+## 🔧 故障排查
+
+### 已修复的问题
+
+#### 1. YahooFinance 403 Forbidden
+**问题**: Yahoo Finance API 拒绝访问（HTTP 403）
+**解决方案**: 已添加 User-Agent 和 Accept headers
+```typescript
+headers: {
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+  'Accept': 'application/json',
+}
+```
+
+### 2. CCTV RSS 404 错误
+**问题**: 原 RSS 源 `http://www.cctv.com/rss/financial.xml` 已失效
+**解决方案**: ✅ 已更新为中国新闻网财经 RSS `https://www.chinanews.com/rss/finance.xml`
+
+#### 3. Yahoo Finance 403 Forbidden
+**问题**: Yahoo Finance API 拒绝访问（HTTP 403），即使添加headers仍然失败
+**解决方案**: ✅ 已切换到**新浪财经API**，完全免费且稳定
+- 中证500、上证指数、纳斯达克指数实时数据全部正常
+- 使用公开接口：`https://hq.sinajs.cn/list=`
+- 代码路径：`lib/indices/sinaFinance.ts`
+
+#### 4. Jin10/CLS API 问题
+**问题**:
+- Jin10: API 返回 HTTP 502（服务器错误）
+- CLS: API 返回 HTTP 404（端点已变更）
+
+**替代方案**:
+
+**方案1: 使用自托管 RSSHub（推荐）**
+```bash
+# Docker 部署 RSSHub
+docker run -d --name rsshub -p 1200:1200 diygod/rsshub
+
+# 然后更新采集器 URL
+# Jin10: http://localhost:1200/jin10/telegraph
+# CLS: http://localhost:1200/cls/telegraph
+```
+
+**方案2: 申请官方 API Key**
+- Jin10: 访问 [open.jin10.com](https://open.jin10.com) 申请 API Key
+- CLS: 联系财联社申请数据接口权限
+
+**方案3: 使用其他财经数据源**
+- 新浪财经 RSS
+- 东方财富网
+- 华尔街见闻（需要 API Key）
+
+### 当前状态（2026-01-08）
+
+| 功能 | 状态 | 说明 |
+|------|------|------|
+| 指数实时数据 | ✅ 正常 | 使用新浪财经API |
+| 中证500 | ✅ 正常 | s_sh000905 |
+| 上证指数 | ✅ 正常 | s_sh000001 |
+| 纳斯达克 | ✅ 正常 | int_nasdaq |
+| 市场总结 | ✅ 正常 | SummaryPanel组件已添加 |
+| CCTV财经新闻 | ✅ 正常 | 使用中国新闻网RSS |
+| Fed (美联储) | ✅ 正常 | 官方RSS源 |
+| Jin10 (金十数据) | ⚠️ 需配置 | API需认证或已变更 |
+| CLS (财联社) | ⚠️ 需配置 | API端点已失效 |
+
+### 2026-01-08 重大更新
+
+1. **新浪财经API替代Yahoo Finance**
+   - Yahoo Finance存在严格的反爬虫机制，即使添加headers也无法访问
+   - 新浪财经API完全免费、稳定，无需API Key
+   - 支持所有需要的指数：中证500、上证指数、纳斯达克
+   - K线数据接口也已集成（新浪K线API）
+
+2. **添加SummaryPanel组件**
+   - 新增市场总结显示组件
+   - 显示短期和中期市场影响
+   - 包含置信度指标和生成时间
+   - 位于页面右侧，紧跟指数面板之下
+
+3. **所有采集器添加防爬虫headers**
+   - 所有RSS和API请求都添加了User-Agent
+   - 提高数据采集成功率和稳定性
+
+### 常见问题
+
+**问题: "ETIMEDOUT" 连接超时**
+- **原因**: 网络问题或服务器在某些地区被墙
+- **解决**: 使用 VPN 或自托管 RSSHub
+
+**问题: 采集到 0 条新闻**
+- **原因**: 可能今天没有新闻或过滤规则太严格
+- **解决**: 检查 `filterToday()` 方法的日期过滤逻辑
+
+**问题: AI 分析失败**
+- **原因**: DeepSeek API Key 未配置或余额不足
+- **解决**: 运行 `npm run test:api` 检查配置
+
+### 参考资料
+
+- [金十数据官网](https://www.jin10.com/)
+- [财联社官网](https://www.cls.cn/)
+- [RSSHub 金融路由文档](https://docs.rsshub.app/zh/routes/finance)
+- [中国新闻网 RSS](https://www.chinanews.com/rss/)
+
+---
+
 ## 🌐 数据源说明
 
 本项目所有数据源均为公开、免费资源：
