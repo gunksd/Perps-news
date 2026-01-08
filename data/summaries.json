@@ -1,0 +1,50 @@
+[
+  {
+    "index": "纳斯达克指数",
+    "timestamp": "2026-01-08T08:54:12.281Z",
+    "period": "22:00",
+    "short_term": {
+      "direction": "偏多",
+      "logic": "冰雪旅游需求强劲和半导体存储价格上涨，可能提振科技和消费相关板块情绪，对纳斯达克指数构成短期积极影响。"
+    },
+    "medium_term": {
+      "direction": "不确定",
+      "logic": "冰雪旅游趋势的持续性及半导体供需变化存在不确定性，中期影响需观察全球经济和行业动态。"
+    },
+    "key_news_ids": [
+      "Y2N0di3pgI/ov4fi",
+      "Y2N0di3lhoXlrZjm"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "index": "中证指数",
+    "timestamp": "2026-01-08T08:54:03.118Z",
+    "period": "22:00",
+    "short_term": {
+      "direction": "偏多",
+      "logic": "新闻显示两岸直航增长、冰雪旅游需求强劲、消费政策支持、区域经济一体化推进、春节消费活跃、快递业务量增长、基础设施项目进展、半导体价格上涨、数字人民币应用拓展等多方面积极信号，这些因素可能共同提振市场对航运、旅游、消费、基建、科技等板块的短期情绪，增强投资者信心。"
+    },
+    "medium_term": {
+      "direction": "偏多",
+      "logic": "新闻涉及的政策支持（如国补、创业贷款、区域发展）、产业布局（如上海新兴支柱产业、江苏航运网络）、消费趋势（冰雪旅游、年经济）和行业增长（快递、半导体）可能持续推动经济活动和相关板块发展，但需关注实际执行效果和外部环境变化，中期影响偏向积极但存在不确定性。"
+    },
+    "key_news_ids": [
+      "Y2N0di0yMDI15bm0",
+      "Y2N0di3kuK3lm73m",
+      "Y2N0di3pgI/ov4fi",
+      "Y2N0di3igJzlm73o",
+      "Y2N0di3lm73lrrbn",
+      "Y2N0di3ph43luobi",
+      "Y2N0di3pmZXopb/n",
+      "Y2N0di3igJzoj5zn",
+      "Y2N0di3igJzljYHl",
+      "Y2N0di3mlrDlubTk",
+      "Y2N0di3igJzljYHk",
+      "Y2N0di3pm4TllYbp",
+      "Y2N0di3lhoXlrZjm",
+      "Y2N0di3mlbDlrZfk"
+    ],
+    "confidence": 0.75
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Perps News - AI-Powered Financial News Analysis",
+    "description": "Professional financial news analysis tool"
+  },
+  "nav": {
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "news": {
+    "title": "Today's News Analysis",
+    "source": "Source",
+    "time": "Time",
+    "analysis": "AI Analysis",
+    "impact": "Market Impact",
+    "direction": {
+      "bullish": "Bullish",
+      "bearish": "Bearish",
+      "neutral": "Neutral"
+    }
+  },
+  "indices": {
+    "title": "Market Indices",
+    "realtime": "Real-time Data",
+    "change": "Change",
+    "changePercent": "Change %"
+  },
+  "summary": {
+    "title": "Market Impact Summary",
+    "short_term": "Short-term Impact",
+    "medium_term": "Medium-term Impact",
+    "confidence": "Confidence",
+    "generated_at": "Generated at",
+    "empty": "No market summary available",
+    "shortTerm": "Short-term (1-3 days)",
+    "mediumTerm": "Medium-term (1-2 weeks)",
+    "logic": "Key Logic",
+    "direction": {
+      "bullish": "Bullish",
+      "bearish": "Bearish",
+      "neutral": "Neutral",
+      "uncertain": "Uncertain"
+    }
+  },
+  "disclaimer": {
+    "text": "⚠️ Disclaimer: This content is for informational purposes only and does not constitute investment advice"
+  },
+  "loading": "Loading...",
+  "error": "Failed to load",
+  "retry": "Retry"
+}

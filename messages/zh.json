@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Perps News - AI驱动的金融新闻分析",
+    "description": "专业的金融新闻分析工具"
+  },
+  "nav": {
+    "language": "语言",
+    "theme": "主题"
+  },
+  "news": {
+    "title": "今日新闻分析",
+    "source": "来源",
+    "time": "时间",
+    "analysis": "AI分析",
+    "impact": "市场影响",
+    "direction": {
+      "bullish": "利多",
+      "bearish": "利空",
+      "neutral": "中性"
+    }
+  },
+  "indices": {
+    "title": "指数行情",
+    "realtime": "实时数据",
+    "change": "涨跌",
+    "changePercent": "涨跌幅"
+  },
+  "summary": {
+    "title": "市场影响汇总",
+    "short_term": "短期影响",
+    "medium_term": "中期影响",
+    "confidence": "置信度",
+    "generated_at": "生成于",
+    "empty": "暂无市场总结",
+    "shortTerm": "短期影响 (1-3天)",
+    "mediumTerm": "中期影响 (1-2周)",
+    "logic": "核心逻辑",
+    "direction": {
+      "bullish": "偏多",
+      "bearish": "偏空",
+      "neutral": "震荡",
+      "uncertain": "不确定"
+    }
+  },
+  "disclaimer": {
+    "text": "⚠️ 免责声明：本内容仅用于信息分析，不构成任何投资建议"
+  },
+  "loading": "加载中...",
+  "error": "加载失败",
+  "retry": "重试"
+}

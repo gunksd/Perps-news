@@ -35,9 +35,12 @@ lerna-debug.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Data files
-data/
-*.json
+# Data files (但保留采集的数据)
+# data/ 目录的内容需要被提交，供 GitHub Actions 更新
+
+# Ignore test and temporary JSON files
+test-*.json
+temp-*.json
 
 # IDE
 .vscode/
