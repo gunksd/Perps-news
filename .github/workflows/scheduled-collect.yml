@@ -1,0 +1,56 @@
+name: Scheduled News Collection
+
+on:
+  schedule:
+    # 每天早上10点（UTC 2:00 = 北京时间 10:00）
+    - cron: '0 2 * * *'
+    # 每天晚上10点（UTC 14:00 = 北京时间 22:00）
+    - cron: '0 14 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  collect-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run news collection
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_API_ENDPOINT: ${{ secrets.AI_API_ENDPOINT }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+        run: |
+          echo "开始采集新闻..."
+          npm run collect
+          echo "新闻采集完成！"
+
+      - name: Check for changes
+        id: verify_diff
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.json
+          git commit -m "🤖 自动更新: $(date '+%Y-%m-%d %H:%M:%S') 采集新闻数据"
+          git push
+
+      - name: No changes detected
+        if: steps.verify_diff.outputs.changed != 'true'
+        run: echo "📋 没有新的新闻数据需要更新"

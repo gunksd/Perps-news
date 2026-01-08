@@ -54,13 +54,18 @@ export class NewsAnalyzer {
 
       return {
         newsId: news.id,
+        title_en: result.title_en || '',
         summary_cn: result.summary_cn,
         summary_en: result.summary_en,
         market_impact: {
           direction: result.market_impact.direction,
+          direction_en: result.market_impact.direction_en || result.market_impact.direction,
           affected_markets: result.market_impact.affected_markets,
-          logic: result.market_impact.logic
+          affected_markets_en: result.market_impact.affected_markets_en || result.market_impact.affected_markets,
+          logic: result.market_impact.logic,
+          logic_en: result.market_impact.logic_en || result.market_impact.logic
         },
+        related_stocks: result.related_stocks || [],
         confidence: result.confidence,
         analyzedAt: new Date().toISOString()
       }
@@ -76,7 +81,8 @@ export class NewsAnalyzer {
   private getSystemPrompt(): string {
     return `你是一个专业的金融新闻分析师。你的任务是：
 1. 精炼总结新闻内容（中英文各3-5行）
-2. 分析新闻对金融市场的影响
+2. 翻译新闻标题为英文
+3. 分析新闻对金融市场的影响（中英文双语）
 
 【严格禁止】
 - 不得预测任何具体价格或点位
@@ -90,15 +96,32 @@ export class NewsAnalyzer {
 
 请以JSON格式输出：
 {
+  "title_en": "English translation of the news title",
   "summary_cn": "中文总结",
   "summary_en": "English summary",
   "market_impact": {
     "direction": "利多/利空/中性",
+    "direction_en": "Bullish/Bearish/Neutral",
     "affected_markets": ["中证指数", "纳斯达克指数"],
-    "logic": "影响逻辑说明"
+    "affected_markets_en": ["CSI Index", "NASDAQ"],
+    "logic": "影响逻辑说明",
+    "logic_en": "Impact logic explanation in English"
   },
+  "related_stocks": [
+    {
+      "symbol": "股票代码（如 AAPL, 600519.SH, 00700.HK）",
+      "name": "公司名称",
+      "market": "US/CN/HK"
+    }
+  ],
   "confidence": 0.8
 }
+
+【股票识别规则】
+- 只标注新闻中明确提到的上市公司
+- 提供准确的股票代码（A股加.SH/.SZ，港股加.HK，美股直接代码）
+- 如果新闻没有提到具体公司，related_stocks返回空数组[]
+- 最多标注5个最相关的股票
 
 免责声明：本分析仅用于信息参考，不构成投资建议。`
   }

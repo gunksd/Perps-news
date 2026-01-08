@@ -3,10 +3,9 @@ import { config } from 'dotenv'
 import { resolve } from 'path'
 config({ path: resolve(process.cwd(), '.env.local') })
 
-import { Jin10Collector } from '../lib/collectors/jin10'
 import { CCTVCollector } from '../lib/collectors/cctv'
-import { CLSCollector } from '../lib/collectors/cls'
 import { FedCollector } from '../lib/collectors/fed'
+import { XinhuaCollector } from '../lib/collectors/xinhua'
 import { NewsAnalyzer } from '../lib/analyzers/newsAnalyzer'
 import { SummaryAnalyzer } from '../lib/analyzers/summaryAnalyzer'
 import { FileStore } from '../lib/storage/fileStore'
@@ -26,30 +25,133 @@ const newsAnalyzer = new NewsAnalyzer()
 const summaryAnalyzer = new SummaryAnalyzer()
 
 const collectors = [
-  new Jin10Collector(),
-  new CCTVCollector(),
-  new CLSCollector(),
-  new FedCollector()
+  new CCTVCollector(),        // 中国新闻网 - 稳定 ✅
+  new FedCollector(),         // 美联储 - 官方源 ✅
+  new XinhuaCollector(),      // 新华网财经 - 官方RSS ✅
 ]
+
+// 新闻来源权重（与API保持一致）
+const SOURCE_WEIGHTS: Record<string, number> = {
+  'xinhua': 10,
+  'cctv': 9,
+  'fed': 8,
+  'people': 7,
+  'jin10': 6,
+  'cls': 6,
+  'sina': 5,
+  'default': 3
+}
+
+// 财经关键词词汇库（与API保持一致）
+const FINANCIAL_KEYWORDS = {
+  high: [
+    '降息', '加息', '降准', '加准',
+    'GDP', 'CPI', 'PPI', 'PMI',
+    '通胀', '通缩', '失业率',
+    '贸易战', '制裁', '关税',
+    '违约', '破产', '危机',
+    '央行', '美联储', 'Fed', 'Federal Reserve',
+    '降低利率', '提高利率', '基准利率',
+    '量化宽松', 'QE', '缩表'
+  ],
+  medium: [
+    '财政政策', '货币政策', '监管政策',
+    '利率', '汇率', '利润', '营收',
+    '股市', '债券', '期货', '大宗商品',
+    'IPO', '上市', '并购', '重组',
+    '财报', '业绩', '盈利', '亏损',
+    '投资', '融资', '估值', '市值',
+    '指数', '涨跌', '震荡', '波动',
+    '外汇', '黄金', '原油', '能源'
+  ],
+  standard: [
+    '经济', '金融', '市场', '行业',
+    '企业', '公司', '产业', '贸易',
+    '增长', '下降', '上涨', '下跌',
+    '预期', '预测', '展望', '前景',
+    '改革', '开放', '创新', '转型',
+    '消费', '生产', '出口', '进口',
+    '房地产', '制造业', '科技', '互联网'
+  ]
+}
+
+/**
+ * 计算关键词匹配评分（预筛选用）
+ */
+function calculateKeywordScore(newsItem: RawNews): number {
+  const text = `${newsItem.title} ${newsItem.content}`.toLowerCase()
+  let score = 0
+
+  for (const keyword of FINANCIAL_KEYWORDS.high) {
+    if (text.includes(keyword.toLowerCase())) {
+      score += 3
+    }
+  }
+
+  for (const keyword of FINANCIAL_KEYWORDS.medium) {
+    if (text.includes(keyword.toLowerCase())) {
+      score += 2
+    }
+  }
+
+  for (const keyword of FINANCIAL_KEYWORDS.standard) {
+    if (text.includes(keyword.toLowerCase())) {
+      score += 1
+    }
+  }
+
+  return Math.min(score, 10)
+}
+
+/**
+ * 计算预筛选分数（不包含AI分析）
+ */
+function calculatePreFilterScore(newsItem: RawNews): number {
+  let score = 0
+
+  // 来源权重 (0-10分)
+  score += SOURCE_WEIGHTS[newsItem.source] || SOURCE_WEIGHTS['default']
+
+  // 关键词匹配 (0-10分)
+  score += calculateKeywordScore(newsItem)
+
+  // 时效性 (0-5分)
+  const newsTime = new Date(newsItem.time).getTime()
+  const now = Date.now()
+  const hoursAgo = (now - newsTime) / (1000 * 60 * 60)
+
+  if (hoursAgo < 2) {
+    score += 5
+  } else if (hoursAgo < 6) {
+    score += 3
+  } else if (hoursAgo < 12) {
+    score += 1
+  }
+
+  return score
+}
 
 async function collectNews() {
   console.log('[Collect] Starting news collection...')
 
-  const allNews: RawNews[] = []
-
-  for (const collector of collectors) {
+  // ===== 并行采集所有新闻源，而不是串行 =====
+  const collectionPromises = collectors.map(async (collector) => {
     try {
       const news = await collector.collect()
       console.log(`[Collect] ${collector.constructor.name}: ${news.length} items`)
-      allNews.push(...news)
+      return news
     } catch (error) {
       console.error(`[Collect] ${collector.constructor.name} failed:`, error)
+      return []
     }
-  }
+  })
+
+  const results = await Promise.all(collectionPromises)
+  const allNews: RawNews[] = results.flat()
 
   if (allNews.length > 0) {
     await store.saveNews(allNews)
-    console.log(`[Collect] Saved ${allNews.length} news items`)
+    console.log(`[Collect] Saved ${allNews.length} news items (collected in parallel)`)
   }
 
   return allNews
@@ -70,26 +172,66 @@ async function analyzeNews() {
     return
   }
 
-  console.log(`[Analyze] Analyzing ${toAnalyze.length} news items...`)
+  console.log(`[Analyze] Found ${toAnalyze.length} unanalyzed news items`)
 
+  // ===== 预筛选：按重要性评分，只取前50条送AI分析 =====
+  const MAX_AI_ANALYSIS = 50 // 每次最多分析50条，避免API消耗过大
+
+  const scoredNews = toAnalyze.map(newsItem => ({
+    newsItem,
+    score: calculatePreFilterScore(newsItem)
+  }))
+
+  // 按分数降序排序
+  scoredNews.sort((a, b) => b.score - a.score)
+
+  // 取前N条
+  const selectedForAnalysis = scoredNews.slice(0, MAX_AI_ANALYSIS).map(item => item.newsItem)
+  const filteredCount = toAnalyze.length - selectedForAnalysis.length
+
+  console.log(`[Analyze] Pre-filter: Selected top ${selectedForAnalysis.length} items for AI analysis`)
+  if (filteredCount > 0) {
+    console.log(`[Analyze] Pre-filter: Skipped ${filteredCount} low-priority items (saves API calls)`)
+    console.log(`[Analyze] Score range: ${scoredNews[0].score.toFixed(1)} (highest) ~ ${scoredNews[scoredNews.length - 1].score.toFixed(1)} (lowest)`)
+    console.log(`[Analyze] Threshold: ${scoredNews[Math.min(MAX_AI_ANALYSIS - 1, scoredNews.length - 1)].score.toFixed(1)}`)
+  }
+
+  // ===== 批量并发AI分析（每批10条） =====
+  const BATCH_SIZE = 10 // 每批并发处理10条
   const newAnalyses = []
 
-  for (const newsItem of toAnalyze) {
-    try {
-      const analysis = await newsAnalyzer.analyze(newsItem)
-      newAnalyses.push(analysis)
-      console.log(`[Analyze] ✓ ${newsItem.id}`)
-    } catch (error) {
-      console.error(`[Analyze] ✗ ${newsItem.id}:`, error)
-    }
+  for (let i = 0; i < selectedForAnalysis.length; i += BATCH_SIZE) {
+    const batch = selectedForAnalysis.slice(i, i + BATCH_SIZE)
+    const batchNumber = Math.floor(i / BATCH_SIZE) + 1
+    const totalBatches = Math.ceil(selectedForAnalysis.length / BATCH_SIZE)
 
-    // 避免API速率限制
-    await new Promise(resolve => setTimeout(resolve, 1000))
+    console.log(`[Analyze] Processing batch ${batchNumber}/${totalBatches} (${batch.length} items)...`)
+
+    // 并发处理当前批次
+    const batchPromises = batch.map(async (newsItem) => {
+      try {
+        const analysis = await newsAnalyzer.analyze(newsItem)
+        console.log(`[Analyze] ✓ ${newsItem.id}`)
+        return analysis
+      } catch (error) {
+        console.error(`[Analyze] ✗ ${newsItem.id}:`, error)
+        return null
+      }
+    })
+
+    const batchResults = await Promise.all(batchPromises)
+    const successfulAnalyses = batchResults.filter(a => a !== null)
+    newAnalyses.push(...successfulAnalyses)
+
+    // 批次间短暂延迟，避免API速率限制
+    if (i + BATCH_SIZE < selectedForAnalysis.length) {
+      await new Promise(resolve => setTimeout(resolve, 2000))
+    }
   }
 
   if (newAnalyses.length > 0) {
     await store.saveAnalyses(newAnalyses)
-    console.log(`[Analyze] Saved ${newAnalyses.length} analyses`)
+    console.log(`[Analyze] Saved ${newAnalyses.length} analyses (batch processing complete)`)
   }
 }
 

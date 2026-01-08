@@ -4,7 +4,7 @@
 export interface RawNews {
   id: string
   time: string // ISO 8601 格式
-  source: 'jin10' | 'cls' | 'cctv' | 'fed'
+  source: 'jin10' | 'cls' | 'cctv' | 'fed' | 'sina' | 'eastmoney' | 'caixin' | 'netease' | 'yicai' | 'people' | 'xinhua'
   title: string
   content: string
   url: string

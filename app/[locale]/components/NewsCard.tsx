@@ -39,8 +39,37 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
     }
   }
 
+  // 根据语言选择内容
+  const title = locale === 'en' && analysis.title_en ? analysis.title_en : news.title
   const summary = locale === 'zh' ? analysis.summary_cn : analysis.summary_en
-  const direction = analysis.market_impact.direction
+  const direction = locale === 'en' && analysis.market_impact.direction_en
+    ? analysis.market_impact.direction_en
+    : analysis.market_impact.direction
+  const logic = locale === 'en' && analysis.market_impact.logic_en
+    ? analysis.market_impact.logic_en
+    : analysis.market_impact.logic
+  const affectedMarkets = locale === 'en' && analysis.market_impact.affected_markets_en
+    ? analysis.market_impact.affected_markets_en
+    : analysis.market_impact.affected_markets
+
+  // 生成股票链接
+  const getStockUrl = (symbol: string, market: string) => {
+    switch (market) {
+      case 'US':
+        return `https://finance.yahoo.com/quote/${symbol}`
+      case 'CN':
+        // A股：上海.SH / 深圳.SZ
+        const code = symbol.replace('.SH', '').replace('.SZ', '')
+        const exchange = symbol.includes('.SH') ? 'sh' : 'sz'
+        return `https://xueqiu.com/S/${exchange}${code}`
+      case 'HK':
+        // 港股：去掉.HK，补齐5位数
+        const hkCode = symbol.replace('.HK', '').padStart(5, '0')
+        return `https://xueqiu.com/S/${hkCode}`
+      default:
+        return '#'
+    }
+  }
 
   return (
     <article className="bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-800 p-4 hover:shadow-md transition">
@@ -59,7 +88,7 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
       </div>
 
       <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2 line-clamp-2">
-        {news.title}
+        {title}
       </h3>
 
       <div className="space-y-3">
@@ -77,10 +106,36 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
             {t('news.impact')}
           </h4>
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            {analysis.market_impact.logic}
+            {logic}
           </p>
+
+          {/* 相关股票标签 */}
+          {analysis.related_stocks && analysis.related_stocks.length > 0 && (
+            <div className="flex flex-wrap gap-2 mt-3">
+              <span className="text-xs text-gray-500 dark:text-gray-400">
+                {locale === 'zh' ? '相关股票:' : 'Related Stocks:'}
+              </span>
+              {analysis.related_stocks.map((stock, idx) => (
+                <a
+                  key={idx}
+                  href={getStockUrl(stock.symbol, stock.market)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 px-2 py-1 text-xs font-medium bg-blue-50 dark:bg-blue-900/20 text-blue-600 dark:text-blue-400 rounded hover:bg-blue-100 dark:hover:bg-blue-900/30 transition"
+                >
+                  <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                  </svg>
+                  {stock.symbol}
+                  <span className="opacity-75">{stock.name}</span>
+                </a>
+              ))}
+            </div>
+          )}
+
+          {/* 受影响市场 */}
           <div className="flex flex-wrap gap-2 mt-2">
-            {analysis.market_impact.affected_markets.map((market, idx) => (
+            {affectedMarkets.map((market, idx) => (
               <span
                 key={idx}
                 className="px-2 py-0.5 text-xs bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded"
