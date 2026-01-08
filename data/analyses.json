@@ -3575,5 +3575,518 @@
     },
     "confidence": 0.7,
     "analyzedAt": "2026-01-08T12:29:40.507Z"
+  },
+  {
+    "newsId": "Y2N0di3mtbfljZfo",
+    "title_en": "Hainan Free Trade Port Holds Government-Bank-Enterprise Matchmaking Event to Boost Private Investment 'Good Start'",
+    "summary_cn": "海南自贸港举办政银企对接活动，旨在促进民间投资实现“开门红”。湖南中南智能装备有限公司总经理表示，公司计划在海口投资能源关键装备智能机器人产业化项目，看好海南自贸港发展机遇，正寻求金融机构和风险投资支持以加速项目落地。",
+    "summary_en": "Hainan Free Trade Port held a government-bank-enterprise matchmaking event to boost private investment for a 'good start'. The general manager of Hunan Zhongnan Intelligent Equipment Co., Ltd. stated that the company plans to invest in an energy key equipment intelligent robot industrialization project in Haikou, is optimistic about Hainan Free Trade Port's development opportunities, and is seeking financial institution and venture capital support to accelerate project implementation.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "海南板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hainan Sector"
+      ],
+      "logic": "新闻显示海南自贸港积极推动政银企对接，旨在促进民间投资，这有助于改善区域投资环境和经济增长预期。具体企业项目寻求资金支持，可能带动相关产业链和区域经济活力，对金融市场情绪产生积极影响，特别是对海南本地板块和涉及自贸港概念的股票。",
+      "logic_en": "The news indicates that Hainan Free Trade Port is actively promoting government-bank-enterprise matchmaking to boost private investment, which helps improve regional investment environment and economic growth expectations. Specific enterprise projects seeking funding support may drive related industry chains and regional economic vitality, positively impacting financial market sentiment, especially for Hainan local sectors and stocks related to the free trade port concept."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:58.930Z"
+  },
+  {
+    "newsId": "Y2N0di3nvZflhbDo",
+    "title_en": "Roland Berger: Chinese Enterprises Increase Cross-border M&A, Deeper Integration into Global Industrial Chain",
+    "summary_cn": "罗兰贝格发布《预见2026：中国行业趋势报告》，指出跨境并购活动的多样化和跨区域性将推动中国企业更深度融入全球产业链，加快国际化步伐。",
+    "summary_en": "Roland Berger released the 'Foresight 2026: China Industry Trends Report', indicating that the diversification and cross-regional nature of cross-border M&A activities will drive Chinese enterprises to integrate more deeply into the global industrial chain and accelerate internationalization.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻显示中国企业通过跨境并购增强全球竞争力，有利于提升市场对中国企业国际化前景的乐观预期，可能提振投资者信心，对A股市场整体情绪产生积极影响。",
+      "logic_en": "The news indicates that Chinese enterprises are enhancing global competitiveness through cross-border M&A, which may boost market optimism about their internationalization prospects, potentially improving investor sentiment and positively impacting the overall A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:55.173Z"
+  },
+  {
+    "newsId": "Y2N0di3ljJfkuqzm",
+    "title_en": "Beijing Zhipu Lists in Hong Kong, Becoming World's First AGI Foundation Model Listed Company",
+    "summary_cn": "北京智谱华章科技股份有限公司于1月8日在香港联合交易所挂牌上市。该公司是全球首家以通用人工智能（AGI）基座模型为核心业务的上市公司。此次上市标志着中国在AGI领域取得重要突破，提升了全球AI产业的关注度。",
+    "summary_en": "Beijing Zhipu Huazhang Technology Co., Ltd. listed on the Hong Kong Stock Exchange on January 8. The company is the world's first listed firm with a core business focused on AGI foundation models. This listing signifies a major breakthrough for China in the AGI field and increases global attention on the AI industry.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "香港股市",
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "Hong Kong Stock Market",
+        "CSI Index"
+      ],
+      "logic": "该新闻对市场情绪有积极影响，因为智谱作为全球首家AGI基座模型上市公司，可能吸引投资者对AI和科技板块的关注，提升市场对相关领域的预期。这有助于提振香港股市和中证指数中科技股的估值，但具体影响取决于市场对AGI商业化的接受度。",
+      "logic_en": "The news has a positive impact on market sentiment, as Zhipu's listing as the world's first AGI foundation model company may attract investor attention to the AI and technology sectors, raising expectations for related fields. This could boost valuations of tech stocks in the Hong Kong stock market and CSI Index, though the actual impact depends on market acceptance of AGI commercialization."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:57.831Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3mnJ/l",
+    "title_en": "China Futures Association: December national futures market turnover increased by over 58% year-on-year",
+    "summary_cn": "中国期货业协会数据显示，12月全国期货市场成交量约95.086亿手，成交额约90.81万亿元，同比分别增长45.17%和58.55%。这表明期货市场交易活跃度显著提升，可能反映市场参与者对风险管理或投机需求增加。",
+    "summary_en": "Data from the China Futures Association shows that in December, the national futures market recorded approximately 9.5086 billion contracts in trading volume and about 90.81 trillion yuan in turnover, representing year-on-year increases of 45.17% and 58.55%, respectively. This indicates a significant rise in market activity, potentially reflecting increased demand for risk management or speculative trading among participants.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "期货市场",
+        "金融板块"
+      ],
+      "affected_markets_en": [
+        "Futures Market",
+        "Financial Sector"
+      ],
+      "logic": "期货市场成交额大幅增长，表明市场活跃度和流动性提升，可能增强投资者对金融市场的信心，对期货及相关金融板块构成利好。",
+      "logic_en": "The substantial increase in futures market turnover suggests enhanced market activity and liquidity, which may boost investor confidence in financial markets, creating a bullish sentiment for the futures and related financial sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:56.270Z"
+  },
+  {
+    "newsId": "Y2N0di3mgZLnlJ/p",
+    "title_en": "Hang Seng Bank Privatization Proposal Approved, Expected to Delist on January 27",
+    "summary_cn": "汇丰控股与汇丰亚太联合宣布，私有化恒生银行的计划在法院会议和股东大会上获得通过。该私有化以协议安排方式进行，预计恒生银行将于1月27日撤销上市地位。这标志着恒生银行将结束其上市公司的历史。",
+    "summary_en": "HSBC Holdings and HSBC Asia Pacific jointly announced that the plan to privatize Hang Seng Bank through a scheme of arrangement has been approved at court and shareholder meetings. The privatization is expected to result in Hang Seng Bank delisting on January 27, ending its status as a publicly traded company.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "恒生指数",
+        "香港股市"
+      ],
+      "affected_markets_en": [
+        "Hang Seng Index",
+        "Hong Kong Stock Market"
+      ],
+      "logic": "该新闻主要涉及公司私有化进程的完成，对恒生银行股价有直接影响（私有化通常以固定价格收购，股价将趋近于收购价），但对整体市场方向影响有限。私有化通过可能减少市场流动性，但汇丰作为母公司完成整合，长期看可能优化业务结构。市场情绪可能偏向观望，因私有化事件本身不改变宏观经济或行业基本面。",
+      "logic_en": "The news primarily concerns the completion of a privatization process, directly impacting Hang Seng Bank's stock price (privatization typically involves acquisition at a fixed price, causing the stock to converge to that price), but having limited directional effect on the overall market. The approval may reduce market liquidity, but HSBC's integration as the parent company could optimize business structure in the long term. Market sentiment may lean towards caution, as the privatization event itself does not alter macroeconomic or industry fundamentals."
+    },
+    "related_stocks": [
+      {
+        "symbol": "00011.HK",
+        "name": "恒生银行",
+        "market": "HK"
+      },
+      {
+        "symbol": "00005.HK",
+        "name": "汇丰控股",
+        "market": "HK"
+      }
+    ],
+    "confidence": 0.85,
+    "analyzedAt": "2026-01-08T14:42:01.387Z"
+  },
+  {
+    "newsId": "Y2N0di3ogZrnhKbl",
+    "title_en": "Focusing on Advanced Manufacturing, Chongqing State-Owned Enterprises Launch the First Initiative of the New Year",
+    "summary_cn": "重庆市国资委举行渝富智造·“6213”行动计划推进暨项目签约会。会上，2026年一季度先进制造业项目集中签约仪式举行，签约项目32个，投资总金额近180亿元。这标志着重庆国资国企在新年伊始积极布局先进制造业，推动产业升级。",
+    "summary_en": "The Chongqing State-owned Assets Supervision and Administration Commission held a promotion and project signing meeting for the \"6213\" action plan. During the event, 32 advanced manufacturing projects for the first quarter of 2026 were signed, with a total investment of nearly 18 billion yuan. This initiative highlights Chongqing's state-owned enterprises' efforts to boost advanced manufacturing and industrial upgrading at the start of the new year.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻显示重庆国资国企在先进制造业领域加大投资，签约项目32个，总投资近180亿元，这有助于推动相关产业发展和区域经济增长。此举可能提升市场对制造业板块的信心，带动相关股票表现，对A股市场整体情绪产生积极影响。",
+      "logic_en": "The news indicates that Chongqing's state-owned enterprises are increasing investment in advanced manufacturing, with 32 projects signed and a total investment of nearly 18 billion yuan. This move is expected to promote industrial development and regional economic growth, potentially boosting market confidence in the manufacturing sector and positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:58.943Z"
+  },
+  {
+    "newsId": "Y2N0di3mgLvmipXo",
+    "title_en": "Chongqing Signs 32 State-Owned Enterprise Advanced Manufacturing Projects with Total Investment of Nearly 180 Billion Yuan",
+    "summary_cn": "重庆集中签约32个市属重点国企先进制造业项目，总投资近180亿元。项目涵盖汽车、电子信息、新材料、智能装备制造、生物医药、基金等重点领域。此次签约旨在推动一季度制造业投资，促进产业升级和经济增长。",
+    "summary_en": "Chongqing signed 32 advanced manufacturing projects of key municipal state-owned enterprises in the first quarter, with a total investment of nearly 180 billion yuan. The projects cover key areas such as automotive, electronics and information, new materials, intelligent equipment manufacturing, biopharmaceuticals, and funds. This signing aims to boost manufacturing investment in the first quarter and promote industrial upgrading and economic growth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻显示重庆集中签约32个国企先进制造业项目，总投资近180亿元，涵盖汽车、电子信息、新材料、智能装备制造、生物医药等重点领域。这反映了政府对制造业和产业升级的支持，可能提振市场对相关行业和区域经济的信心，增加投资预期，从而对A股市场产生积极影响。",
+      "logic_en": "The news reports that Chongqing signed 32 advanced manufacturing projects of state-owned enterprises with a total investment of nearly 180 billion yuan, covering key areas such as automotive, electronics and information, new materials, intelligent equipment manufacturing, and biopharmaceuticals. This reflects government support for manufacturing and industrial upgrading, which may boost market confidence in related industries and regional economies, increase investment expectations, and thus have a positive impact on the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:59.339Z"
+  },
+  {
+    "newsId": "Y2N0di3lub/opb/m",
+    "title_en": "Guangxi Wuming Oranges Open Market, International 'Circle of Friends' Expands",
+    "summary_cn": "广西武鸣沃柑产业联合会会长罗增桂表示，凭借过硬品质，武鸣沃柑已出口至泰国、越南、加拿大、俄罗斯、德国、中东等30个国家和地区，国际“朋友圈”迅速扩大。这标志着该地区沃柑产业在国际市场的拓展取得进展。",
+    "summary_en": "Luo Zenggui, president of the Wuming Orange Industry Association in Guangxi, stated that due to high quality, Wuming oranges have been exported to 30 countries and regions including Thailand, Vietnam, Canada, Russia, Germany, and the Middle East, rapidly expanding its international 'circle of friends'. This indicates progress in the region's orange industry's expansion into global markets.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "农产品期货"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Agricultural Commodity Futures"
+      ],
+      "logic": "该新闻主要报道广西武鸣沃柑出口扩大，属于特定农产品产业的区域性进展，对整体金融市场影响有限。可能对农产品期货市场产生轻微正面情绪，但未涉及宏观经济政策或重大供需变化，因此判断为中性。",
+      "logic_en": "This news primarily reports the expansion of Wuming orange exports in Guangxi, which is a regional development in a specific agricultural industry with limited impact on overall financial markets. It may generate slight positive sentiment in agricultural commodity futures markets, but does not involve macroeconomic policies or significant supply-demand changes, thus judged as neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:58.607Z"
+  },
+  {
+    "newsId": "Y2N0di3kuJPlrrbl",
+    "title_en": "Experts and Scholars in Shanghai Focus on AI Empowering New Power System Construction",
+    "summary_cn": "新闻聚焦AI与新型电力系统融合，强调信息化、智能化浪潮正推动工业与能源体系变革。专家学者在上海讨论AI如何赋能新型电力系统建设，认为这是关键助力。",
+    "summary_en": "The news focuses on the integration of AI and new power systems, emphasizing that the wave of informatization and intelligence is driving industrial and energy system transformation. Experts and scholars in Shanghai discuss how AI can empower new power system construction, viewing it as a key enabler.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻强调AI赋能新型电力系统建设，属于政策和技术利好，可能提升市场对AI和能源科技板块的预期，带动相关股票情绪向好。",
+      "logic_en": "The news highlights AI empowering new power system construction, which is a policy and technological positive. It may boost market expectations for AI and energy technology sectors, driving positive sentiment in related stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:55.367Z"
+  },
+  {
+    "newsId": "Y2N0di3lkInmuK/k",
+    "title_en": "Jilin-Hong Kong Traditional Chinese Medicine Experts Exchange in Changchun, Jointly Promoting the Internationalization of the Ginseng Industry",
+    "summary_cn": "十位香港中医药专家学者访问长春中医药大学，与吉林省中医药人士就长白山人参等中药材产业国际化、中医药传承创新、质量检测等议题进行交流。活动由吉林省海外联谊会和香港吉林省社团总会联合举办，旨在推动人参产业国际化发展。",
+    "summary_en": "Ten Hong Kong traditional Chinese medicine experts visited Changchun University of Chinese Medicine to exchange views with Jilin counterparts on topics including the internationalization of the Changbai Mountain ginseng industry, TCM inheritance and innovation, and quality testing. The event was jointly organized by the Jilin Overseas Friendship Association and the Hong Kong Jilin Community Association to promote the global expansion of the ginseng sector.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻涉及中医药产业合作与国际化，可能对相关中药材和中医药板块产生长期积极预期，但未提及具体政策、资金或业绩数据，短期市场影响有限。事件属于行业交流性质，不直接改变基本面，市场情绪偏向中性。",
+      "logic_en": "The news involves cooperation and internationalization in the traditional Chinese medicine industry, which may generate long-term positive expectations for related herbal medicine and TCM sectors. However, no specific policies, funding, or performance data are mentioned, limiting short-term market impact. The event is an industry exchange, not directly altering fundamentals, leading to a neutral market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:41:58.359Z"
+  },
+  {
+    "newsId": "Y2N0di3kuIrmtbfo",
+    "title_en": "Shanghai's New Business Environment Policy Unlocks New Experiences, New Business Format Enterprises Enjoy Direct Policy Benefits",
+    "summary_cn": "上海推出优化营商环境新方案，重点支持在线新经济等新业态企业。该政策为企业创新试错提供坚实后盾，增强企业深耕新业态的决心。叠纸科技作为受益企业代表，表示政策让企业感到振奋和安心。",
+    "summary_en": "Shanghai has launched a new business environment optimization plan, focusing on supporting new business formats such as online new economy. The policy provides a solid backing for corporate innovation and trial-and-error, strengthening companies' determination to deepen new business models. Papergames, as a representative beneficiary, expressed that the policy makes them feel excited and reassured.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该政策通过优化营商环境、直接支持新业态企业，可能降低企业运营成本、鼓励创新投资，从而提升市场对相关行业和上海本地企业的信心，对A股市场特别是上海板块和新经济板块产生积极情绪影响。",
+      "logic_en": "The policy optimizes the business environment and directly supports new business format enterprises, potentially reducing operational costs and encouraging innovation investment. This may boost market confidence in related industries and Shanghai-based companies, positively impacting sentiment in the A-share market, especially the Shanghai sector and new economy sectors."
+    },
+    "related_stocks": [
+      {
+        "symbol": "Papergames (not publicly listed, no stock symbol available)",
+        "name": "叠纸科技",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:17.105Z"
+  },
+  {
+    "newsId": "Y2N0di3lpKnmtKXl",
+    "title_en": "Tianjin Launches Cultural Tourism Consumption Carnival to Create Immersive Consumption Experience",
+    "summary_cn": "天津于2026年1月8日启动“2026津游嗨购”文旅消费嘉年华活动。该活动由天津市文化和旅游局联合商务局、海河传媒中心主办，将持续至2026年3月。活动旨在打造沉浸式消费新体验，促进文旅消费。",
+    "summary_en": "Tianjin launched the \"2026 Jin You Hi Gou\" cultural tourism consumption carnival on January 8, 2026. The event is organized by the Tianjin Municipal Bureau of Culture and Tourism, the Commerce Bureau, and Haihe Media Center, and will run until March 2026. It aims to create immersive consumption experiences and boost cultural tourism spending.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻显示地方政府积极推动文旅消费活动，可能刺激相关行业需求，如旅游、零售和传媒，对A股市场整体情绪有正面影响，但具体效果取决于活动执行和宏观经济环境。",
+      "logic_en": "The news indicates local government initiatives to promote cultural tourism consumption, potentially stimulating demand in sectors like tourism, retail, and media. This could have a positive impact on overall sentiment in the A-share market, though the actual effect depends on event execution and macroeconomic conditions."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:16.303Z"
+  },
+  {
+    "newsId": "Y2N0di3pnZLmtbfv",
+    "title_en": "Qinghai: 'Double Hundred Enterprise Assistance and Public Convenience' Quality Action Activates County Economy",
+    "summary_cn": "青海省商务厅宣布，经过近一年推进，“双百助企便民”精品行动取得阶段性显著成效。全年支持县域商业项目39个，打造精品商业网点20个、精品便民店150个，储备项目17个，撬动社会资本投入超亿元。该行动旨在激活县域经济，通过支持商业项目和便民服务提升地方经济活力。",
+    "summary_en": "The Qinghai Provincial Department of Commerce announced that after nearly a year of implementation, the 'Double Hundred Enterprise Assistance and Public Convenience' quality action has achieved significant phased results. Throughout the year, it supported 39 county-level commercial projects, established 20 quality commercial outlets and 150 quality convenience stores, reserved 17 projects, and leveraged over 100 million yuan in social capital investment. The action aims to activate the county economy by enhancing local economic vitality through commercial and convenience service support.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道青海省地方性经济政策进展，涉及县域商业项目和小型便民服务，规模相对有限，对整体金融市场影响较小。可能对地方经济有轻微提振作用，但无直接、广泛的宏观或行业冲击，市场预期变化不大。",
+      "logic_en": "This news primarily reports on the progress of a local economic policy in Qinghai Province, involving county-level commercial projects and small-scale convenience services, with relatively limited scale and minimal impact on the overall financial markets. It may have a slight positive effect on the local economy but lacks direct, broad macroeconomic or sectoral shocks, resulting in little change in market expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:18.073Z"
+  },
+  {
+    "newsId": "Y2N0di3lub/opb/o",
+    "title_en": "Guangxi Guigang Ship Trading Scale Tops National Rankings for 8 Consecutive Years",
+    "summary_cn": "广西贵港珠江船舶交易市场2025年交易船舶645艘，交易金额20.99亿元，分别占国内二手船成交量和交易额的39.5%和41.6%。该市场交易数量和金额已连续8年位居全国第一。",
+    "summary_en": "Guangxi Guigang Pearl River Ship Trading Market recorded 645 ship transactions in 2025, with a transaction value of 2.099 billion yuan, accounting for 39.5% and 41.6% of domestic second-hand ship trading volume and value, respectively. The market has maintained the top national position in both metrics for eight consecutive years.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道区域船舶交易市场的统计数据，未涉及宏观经济政策、公司业绩或行业重大变革，对整体金融市场影响有限。可能轻微提振区域经济信心，但无直接利多或利空驱动。",
+      "logic_en": "The news primarily reports statistical data on a regional ship trading market, without involving macroeconomic policies, corporate earnings, or major industry changes, having limited impact on overall financial markets. It may slightly boost regional economic confidence but lacks direct bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-08T14:42:15.718Z"
+  },
+  {
+    "newsId": "Y2N0di3kurrlt6Xm",
+    "title_en": "Artificial Intelligence Empowers High-Quality Development in Shandong, Accelerating Industrial Upgrading Across Multiple Application Scenarios",
+    "summary_cn": "山东济南推出集成无人机自动机库的智慧灯杆，作为城市管理的“空中基站”，通过无人机自动巡飞，将市政管网巡检响应时间缩短一半以上，实现无人现场作业。济南计划部署首批48个智慧灯杆无人机库，基本覆盖城区，构建高效“空中机器人”感知网络。",
+    "summary_en": "Jinan, Shandong, has introduced smart light poles integrated with drone automatic hangars, serving as \"airborne base stations\" for urban management. These drones automatically patrol, reducing municipal pipeline inspection response time by over half and enabling remote operations. Jinan plans to deploy the first batch of 48 smart light pole drone hangars, covering most urban areas to build an efficient \"airborne robot\" sensing network.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻展示了人工智能在智慧城市和市政管理领域的实际应用，体现了技术赋能产业升级的趋势，可能提升市场对AI相关产业和智慧城市概念的预期，带动相关板块情绪向好。",
+      "logic_en": "The news demonstrates practical applications of AI in smart city and municipal management, highlighting the trend of technology-driven industrial upgrading. This may boost market expectations for AI-related industries and smart city concepts, fostering positive sentiment in related sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:16.143Z"
+  },
+  {
+    "newsId": "Y2N0di3lm73pmYXl",
+    "title_en": "International Media Panoramically Focus on Harbin Ice and Snow Festival, Ice City Charm Gains Global Attention",
+    "summary_cn": "哈尔滨市政府外事办公室发布消息，近期CNN、美联社、路透社、日本朝日新闻社等国际主流媒体记者齐聚哈尔滨，深入报道第42届哈尔滨国际冰雪节、2026哈尔滨国际冰雪经济博览会、哈尔滨国际冰雪雕比赛等系列活动。这场冰雪文化与经贸盛宴通过国际媒体报道生动呈现给世界。",
+    "summary_en": "Harbin Municipal Government Foreign Affairs Office announced that international mainstream media outlets such as CNN, AP, Reuters, and Asahi Shimbun have gathered in Harbin to extensively cover the 42nd Harbin International Ice and Snow Festival, 2026 Harbin International Ice and Snow Economy Expo, Harbin International Ice and Snow Sculpture Competition, and other winter season events. This cultural and economic feast is being vividly presented to the world through international media coverage.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻主要报道哈尔滨冰雪节获得国际媒体关注，属于文化旅游和区域经济事件，可能提升哈尔滨及黑龙江省的旅游和消费预期，对相关板块如旅游、消费、文化传媒有潜在积极情绪影响，但未涉及具体政策或经济数据，对整体金融市场直接影响有限，偏向中性。",
+      "logic_en": "The news primarily reports international media attention on Harbin's Ice and Snow Festival, a cultural tourism and regional economic event. It may boost expectations for tourism and consumption in Harbin and Heilongjiang Province, potentially positively affecting sectors like tourism, consumer goods, and media. However, it does not involve specific policies or economic data, having limited direct impact on overall financial markets, leaning neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:18.312Z"
+  },
+  {
+    "newsId": "Y2N0di3mlL/kvIHi",
+    "title_en": "Government and Enterprises 'Face-to-Face Monthly' in Zhejiang Jiashan to Address Concerns and Alleviate Difficulties for Taiwanese Businesses",
+    "summary_cn": "浙江嘉善推出政企“每月面对面”机制，旨在为台商台企解决生产经营中的困难。该机制鼓励台商直接提出发展计划、挑战诉求和政策建议，以优化营商环境。此举体现了地方政府对台资企业的支持，有助于提升企业信心和运营效率。",
+    "summary_en": "Zhejiang Jiashan has launched a 'face-to-face monthly' mechanism between government and enterprises to address operational challenges for Taiwanese businesses. The initiative encourages Taiwanese entrepreneurs to openly discuss development plans, difficulties, and policy suggestions, aiming to improve the business environment. This reflects local government support for Taiwanese-invested enterprises, potentially boosting confidence and operational efficiency.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻显示地方政府积极优化营商环境，特别是针对台资企业，可能提升企业运营效率和投资吸引力。这有助于增强市场对区域经济稳定性和企业盈利前景的预期，从而对A股市场产生积极情绪影响。",
+      "logic_en": "The news indicates local government efforts to improve the business environment, especially for Taiwanese-invested enterprises, which may enhance operational efficiency and investment appeal. This could strengthen market expectations for regional economic stability and corporate profit prospects, thereby generating positive sentiment for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:16.673Z"
+  },
+  {
+    "newsId": "Y2N0di3ljJfkuqzp",
+    "title_en": "Beijing Mentougou to Continuously Promote Infrastructure Upgrades Along the Entire Jingxi Ancient Road",
+    "summary_cn": "北京市门头沟区宣布将持续推进京西古道全线基础设施提升，打造国家示范性风景道。同时，积极探索社会力量参与文物保护利用新机制，建设“京西博物馆群落”，推动文化遗产空间向公众开放。",
+    "summary_en": "Beijing's Mentougou District announced it will continuously promote infrastructure upgrades along the entire Jingxi Ancient Road, aiming to build a national demonstration scenic route. Additionally, it will explore new mechanisms for social forces to participate in cultural heritage protection and utilization, establish the 'Jingxi Museum Cluster,' and open more cultural heritage spaces to the public.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要涉及地方基础设施和文化项目建设，对金融市场直接影响有限。可能间接利好相关基建和文化旅游板块，但无具体公司或资金规模信息，市场预期变化不明显。",
+      "logic_en": "This news primarily involves local infrastructure and cultural projects, with limited direct impact on financial markets. It may indirectly benefit related infrastructure and cultural tourism sectors, but without specific company or funding details, market expectations remain largely unchanged."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:14.837Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzkuK3l",
+    "title_en": "China's 'Cold Pole' Shows Unique Warmth: How Inner Mongolia's Genhe Transforms Cold into New Resources",
+    "summary_cn": "新闻介绍了内蒙古根河地区如何将寒冷气候转化为新资源，展示了当地在寒冷环境下的创新发展和资源利用。内容聚焦于根河作为“中国冷极”的特色，强调其通过独特方式将寒冷转化为经济和社会价值。报道体现了中国在区域发展中的探索，但未涉及具体金融数据或政策细节。",
+    "summary_en": "The news reports on how Genhe in Inner Mongolia transforms its cold climate into new resources, highlighting innovative development and resource utilization in frigid environments. It focuses on Genhe as China's 'Cold Pole', emphasizing its unique approach to converting cold into economic and social value. The coverage reflects China's exploration in regional development but does not include specific financial data or policy details.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻内容主要描述区域发展案例，未涉及宏观经济政策、公司业绩或市场数据，对金融市场无直接冲击。可能间接影响市场情绪，但缺乏具体金融指标，整体影响有限。",
+      "logic_en": "The news primarily describes a regional development case without involving macroeconomic policies, corporate performance, or market data, thus having no direct impact on financial markets. It may indirectly affect market sentiment but lacks specific financial indicators, resulting in limited overall impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-08T14:42:16.200Z"
+  },
+  {
+    "newsId": "Y2N0di3lroHms6Ll",
+    "title_en": "Ningbo Party and Government Delegation Visits Shanghai at New Year, Conveying Three Signals",
+    "summary_cn": "新年伊始，宁波市党政代表团赴上海学习交流。此举旨在呼应国家战略，并反映长三角一体化进入纵深推进新阶段。行程传递出区域合作、政策协同和经济发展三重信号。",
+    "summary_en": "At the start of the new year, the Ningbo Party and government delegation visited Shanghai for learning and exchange. This move aims to align with national strategies and reflects the deepening integration of the Yangtze River Delta into a new phase. The trip conveys three signals: regional cooperation, policy coordination, and economic development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示长三角一体化进入纵深推进阶段，可能促进区域经济协同发展，提升市场对相关板块（如基建、交通、科技）的预期，从而对A股市场产生积极情绪影响。",
+      "logic_en": "The news indicates that the integration of the Yangtze River Delta is entering a deeper phase, which may promote regional economic synergy and development, enhancing market expectations for related sectors (e.g., infrastructure, transportation, technology), thereby generating positive sentiment impact on the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:15.083Z"
+  },
+  {
+    "newsId": "Y2N0di3nsqTljJfp",
+    "title_en": "Rural Revitalization Workshops in Shaoguan, Northern Guangdong, Operating at Full Capacity",
+    "summary_cn": "粤北韶关乡村振兴车间全面投入运营，推动当地产业发展。该举措旨在通过建设生产车间，促进农村经济多元化，提升就业机会。新闻强调地方政府积极落实乡村振兴战略，助力区域经济平衡发展。",
+    "summary_en": "Rural revitalization workshops in Shaoguan, Northern Guangdong, are operating at full capacity to boost local industrial development. This initiative aims to diversify the rural economy and increase employment opportunities by establishing production facilities. The news highlights local government efforts to implement rural revitalization strategies and promote balanced regional economic growth.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻聚焦地方乡村振兴政策实施，对整体金融市场影响有限。可能间接利好相关农业或基建板块，但无直接市场冲击，情绪偏向中性。",
+      "logic_en": "The news focuses on the implementation of local rural revitalization policies, with limited direct impact on overall financial markets. It may indirectly benefit related agricultural or infrastructure sectors, but lacks immediate market shocks, leaning towards a neutral sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:31.064Z"
+  },
+  {
+    "newsId": "Y2N0di3lroHms6Lo",
+    "title_en": "Ningbo Zhoushan Port Opens First New Shipping Route in 2026",
+    "summary_cn": "宁波舟山港于1月8日迎来2026年首条新航线，澳大利亚航线首航货船“地中海杰西尼亚”轮靠泊穿山港区。这标志着港口业务扩展，可能提升物流效率和区域贸易活跃度。",
+    "summary_en": "Ningbo Zhoushan Port opened its first new shipping route in 2026 on January 8, with the maiden voyage of the Australian route ship \"MSC Jessenia\" docking at Chuanshan Port Area. This expansion may enhance logistics efficiency and regional trade activity.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示宁波舟山港业务扩展，新航线开通可能提升港口吞吐量和物流效率，利好港口运营和区域贸易，对相关航运和物流板块有积极影响，可能提振市场情绪。",
+      "logic_en": "The news indicates business expansion at Ningbo Zhoushan Port, with the new route potentially increasing port throughput and logistics efficiency. This is positive for port operations and regional trade, benefiting related shipping and logistics sectors, and may boost market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:42:31.582Z"
   }
 ]
