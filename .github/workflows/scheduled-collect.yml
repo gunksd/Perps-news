@@ -61,3 +61,14 @@ jobs:
       - name: No changes detected
         if: steps.verify_diff.outputs.changed != 'true'
         run: echo "📋 没有新的新闻数据需要更新"
+
+      - name: Trigger Vercel deployment
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          if [ -n "${{ secrets.VERCEL_DEPLOY_HOOK }}" ]; then
+            echo "🚀 触发 Vercel 重新部署..."
+            curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+            echo "✅ Vercel 部署已触发"
+          else
+            echo "⚠️ 未配置 VERCEL_DEPLOY_HOOK，跳过部署触发"
+          fi
