@@ -1,14 +1,13 @@
 import { notFound } from 'next/navigation'
-import { getTranslations } from 'next-intl/server'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
 import { NextIntlClientProvider } from 'next-intl'
 import { ThemeProvider } from 'next-themes'
 import Header from './components/Header'
+import { routing } from '@/i18n/routing'
 import '../globals.css'
 
-const locales = ['zh', 'en']
-
-export async function generateStaticParams() {
-  return locales.map((locale) => ({ locale }))
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }))
 }
 
 export default async function LocaleLayout({
@@ -18,7 +17,11 @@ export default async function LocaleLayout({
   children: React.ReactNode
   params: { locale: string }
 }) {
-  if (!locales.includes(locale)) {
+  // 启用静态渲染
+  setRequestLocale(locale)
+
+  // 验证 locale
+  if (!routing.locales.includes(locale as any)) {
     notFound()
   }
 

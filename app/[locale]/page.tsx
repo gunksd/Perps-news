@@ -1,8 +1,9 @@
-import { getTranslations } from 'next-intl/server'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
 import NewsCard from './components/NewsCard'
 import IndexPanel from './components/IndexPanel'
 import SummaryPanel from './components/SummaryPanel'
 import Disclaimer from './components/Disclaimer'
+import { routing } from '@/i18n/routing'
 
 async function getNewsData() {
   try {
@@ -22,7 +23,15 @@ async function getNewsData() {
   }
 }
 
+// 生成静态参数
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }))
+}
+
 export default async function HomePage({ params: { locale } }: { params: { locale: string } }) {
+  // 启用静态渲染
+  setRequestLocale(locale)
+
   const t = await getTranslations()
   const newsData = await getNewsData()
 

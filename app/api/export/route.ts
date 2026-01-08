@@ -5,6 +5,9 @@ import { RawNews } from '@/lib/types/news'
 import { NewsAnalysis } from '@/lib/types/analysis'
 import { ExportService, ExportFormat } from '@/lib/services/exportService'
 
+// 强制动态渲染，因为需要读取 searchParams
+export const dynamic = 'force-dynamic'
+
 export async function GET(request: NextRequest) {
   try {
     const searchParams = request.nextUrl.searchParams
