@@ -4,7 +4,28 @@ import { NextIntlClientProvider } from 'next-intl'
 import { ThemeProvider } from 'next-themes'
 import Header from './components/Header'
 import { routing } from '@/i18n/routing'
+import type { Metadata } from 'next'
 import '../globals.css'
+
+// Metadata 配置
+export const metadata: Metadata = {
+  title: 'Perps News - 永续合约财经新闻',
+  description: 'AI 驱动的财经新闻分析平台，专注于永续合约市场动态',
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+    apple: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+  },
+  manifest: '/manifest.json',
+}
+
+// Viewport 配置
+export const viewport = {
+  themeColor: '#667eea',
+}
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }))

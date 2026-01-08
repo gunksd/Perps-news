@@ -10,6 +10,8 @@ import { NewsAnalyzer } from '../lib/analyzers/newsAnalyzer'
 import { SummaryAnalyzer } from '../lib/analyzers/summaryAnalyzer'
 import { FileStore } from '../lib/storage/fileStore'
 import { RawNews } from '../lib/types/news'
+import { SinaFinanceClient } from '../lib/indices/sinaFinance'
+import { IndexSymbol } from '../lib/types/indices'
 
 /**
  * 定时采集脚本
@@ -23,12 +25,16 @@ import { RawNews } from '../lib/types/news'
 const store = new FileStore()
 const newsAnalyzer = new NewsAnalyzer()
 const summaryAnalyzer = new SummaryAnalyzer()
+const sinaFinance = new SinaFinanceClient()
 
 const collectors = [
   new CCTVCollector(),        // 中国新闻网 - 稳定 ✅
   new FedCollector(),         // 美联储 - 官方源 ✅
   new XinhuaCollector(),      // 新华网财经 - 官方RSS ✅
 ]
+
+// 需要获取的指数
+const INDICES_TO_TRACK: IndexSymbol[] = ['CSI500', 'NASDAQ']
 
 // 新闻来源权重（与API保持一致）
 const SOURCE_WEIGHTS: Record<string, number> = {
@@ -157,6 +163,24 @@ async function collectNews() {
   return allNews
 }
 
+async function updateIndices() {
+  console.log('[Indices] Updating market indices...')
+
+  try {
+    const indices = await sinaFinance.getMultipleIndices(INDICES_TO_TRACK)
+    await store.saveIndices(indices)
+
+    console.log('[Indices] Updated indices:')
+    indices.forEach(index => {
+      const arrow = index.change >= 0 ? '↑' : '↓'
+      const color = index.change >= 0 ? '+' : ''
+      console.log(`  ${index.name}: ${index.price.toFixed(2)} ${arrow} ${color}${index.change.toFixed(2)} (${color}${index.changePercent.toFixed(2)}%)`)
+    })
+  } catch (error) {
+    console.error('[Indices] Failed to update indices:', error)
+  }
+}
+
 async function analyzeNews() {
   console.log('[Analyze] Starting news analysis...')
 
@@ -278,6 +302,7 @@ async function main() {
   switch (command) {
     case 'collect':
       await collectNews()
+      await updateIndices()
       break
     case 'analyze':
       await analyzeNews()
@@ -285,9 +310,13 @@ async function main() {
     case 'summary':
       await generateSummaries()
       break
+    case 'indices':
+      await updateIndices()
+      break
     case 'all':
     default:
       await collectNews()
+      await updateIndices()
       await analyzeNews()
       // 只在10:00和22:00生成汇总
       const hour = new Date().getHours()

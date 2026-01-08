@@ -1,0 +1,17 @@
+{
+  "name": "Perps News - 永续合约财经新闻",
+  "short_name": "Perps News",
+  "description": "AI 驱动的财经新闻分析平台，专注于永续合约市场动态",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 圆角背景渐变 -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="chartGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- 圆角矩形背景 -->
+  <rect width="512" height="512" rx="120" fill="url(#bgGradient)"/>
+
+  <!-- 趋势线图表 -->
+  <g transform="translate(80, 140)">
+    <!-- 曲线路径（上升趋势） -->
+    <path
+      d="M 0 200 Q 80 180 120 160 T 240 100 T 352 40"
+      stroke="url(#chartGradient)"
+      stroke-width="24"
+      fill="none"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- 数据点（可爱的圆点） -->
+    <circle cx="0" cy="200" r="18" fill="#fbbf24"/>
+    <circle cx="120" cy="160" r="18" fill="#fbbf24"/>
+    <circle cx="240" cy="100" r="18" fill="#fbbf24"/>
+    <circle cx="352" cy="40" r="20" fill="#f59e0b"/>
+
+    <!-- 上升箭头（在最后一个点上） -->
+    <g transform="translate(352, -20)">
+      <path
+        d="M 0 0 L -15 20 L -5 20 L -5 40 L 5 40 L 5 20 L 15 20 Z"
+        fill="#fef3c7"
+      />
+    </g>
+  </g>
+
+  <!-- 底部装饰小圆点（可爱元素） -->
+  <circle cx="100" cy="420" r="12" fill="#ffffff" opacity="0.3"/>
+  <circle cx="140" cy="430" r="8" fill="#ffffff" opacity="0.25"/>
+  <circle cx="372" cy="430" r="8" fill="#ffffff" opacity="0.25"/>
+  <circle cx="412" cy="420" r="12" fill="#ffffff" opacity="0.3"/>
+</svg>

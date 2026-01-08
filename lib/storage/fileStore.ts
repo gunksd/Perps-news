@@ -2,6 +2,7 @@ import fs from 'fs/promises'
 import path from 'path'
 import { RawNews } from '../types/news'
 import { NewsAnalysis, IndexSummary } from '../types/analysis'
+import { IndexData } from '../types/indices'
 
 /**
  * 简单的文件存储系统
@@ -119,5 +120,26 @@ export class FileStore {
       newsDate.setHours(0, 0, 0, 0)
       return newsDate.getTime() === today.getTime()
     })
+  }
+
+  /**
+   * 保存指数数据
+   */
+  async saveIndices(indices: IndexData[]): Promise<void> {
+    const filePath = path.join(this.dataDir, 'indices.json')
+    await fs.writeFile(filePath, JSON.stringify(indices, null, 2), 'utf-8')
+  }
+
+  /**
+   * 加载指数数据
+   */
+  async loadIndices(): Promise<IndexData[]> {
+    const filePath = path.join(this.dataDir, 'indices.json')
+    try {
+      const content = await fs.readFile(filePath, 'utf-8')
+      return JSON.parse(content)
+    } catch {
+      return []
+    }
   }
 }
