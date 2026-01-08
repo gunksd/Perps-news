@@ -8,6 +8,9 @@ on:
     - cron: '0 14 * * *'
   workflow_dispatch: # 允许手动触发
 
+permissions:
+  contents: write  # 授予推送权限
+
 jobs:
   collect-news:
     runs-on: ubuntu-latest
