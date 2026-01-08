@@ -4,21 +4,82 @@ import IndexPanel from './components/IndexPanel'
 import SummaryPanel from './components/SummaryPanel'
 import Disclaimer from './components/Disclaimer'
 import { routing } from '@/i18n/routing'
+import { FileStore } from '@/lib/storage/fileStore'
+import { RawNews } from '@/lib/types/news'
+import { NewsAnalysis } from '@/lib/types/analysis'
+
+// 新闻来源权重
+const SOURCE_WEIGHTS: Record<string, number> = {
+  'xinhua': 10, 'cctv': 9, 'fed': 8, 'people': 7,
+  'jin10': 6, 'cls': 6, 'sina': 5, 'default': 3
+}
+
+// 财经关键词
+const FINANCIAL_KEYWORDS = {
+  high: ['降息', '加息', '降准', 'GDP', 'CPI', 'PPI', 'PMI', '通胀', '央行', '美联储'],
+  medium: ['财政政策', '货币政策', '利率', '汇率', '股市', '债券', 'IPO', '财报', '业绩'],
+  standard: ['经济', '金融', '市场', '行业', '企业', '增长', '预期', '改革']
+}
+
+function calculateKeywordScore(newsItem: RawNews): number {
+  const text = `${newsItem.title} ${newsItem.content}`.toLowerCase()
+  let score = 0
+  for (const keyword of FINANCIAL_KEYWORDS.high) {
+    if (text.includes(keyword.toLowerCase())) score += 3
+  }
+  for (const keyword of FINANCIAL_KEYWORDS.medium) {
+    if (text.includes(keyword.toLowerCase())) score += 2
+  }
+  for (const keyword of FINANCIAL_KEYWORDS.standard) {
+    if (text.includes(keyword.toLowerCase())) score += 1
+  }
+  return Math.min(score, 10)
+}
+
+function calculateImportance(newsItem: RawNews, analysis: NewsAnalysis | undefined): number {
+  let score = 0
+  score += SOURCE_WEIGHTS[newsItem.source] || SOURCE_WEIGHTS['default']
+  if (analysis) {
+    score += (analysis.confidence || 0) * 10
+    if (analysis.market_impact?.direction === '利多' || analysis.market_impact?.direction === '利空') {
+      score += 5
+    } else if (analysis.market_impact?.direction === '中性') {
+      score += 2
+    }
+  }
+  const hoursAgo = (Date.now() - new Date(newsItem.time).getTime()) / (1000 * 60 * 60)
+  if (hoursAgo < 2) score += 5
+  else if (hoursAgo < 6) score += 3
+  else if (hoursAgo < 12) score += 1
+  score += calculateKeywordScore(newsItem)
+  return score
+}
 
 async function getNewsData() {
   try {
-    const baseUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000'
-    const response = await fetch(`${baseUrl}/api/news`, {
-      next: { revalidate: 300 } // ISR: 5分钟重新生成
-    } as any)
+    const store = new FileStore()
+    await store.init()
 
-    if (!response.ok) {
-      throw new Error('Failed to fetch news')
-    }
+    const news = await store.getTodayNews()
+    const analyses = await store.loadAnalyses()
 
-    return response.json()
+    const combined = news.map(newsItem => {
+      const analysis = analyses.find(a => a.newsId === newsItem.id)
+      return {
+        news: newsItem,
+        analysis,
+        importance: calculateImportance(newsItem, analysis)
+      }
+    }).filter(item => item.analysis)
+
+    const topNews = combined
+      .sort((a, b) => b.importance - a.importance)
+      .slice(0, 20)
+      .map(({ news, analysis }) => ({ news, analysis }))
+
+    return topNews
   } catch (error) {
-    console.error('Error fetching news:', error)
+    console.error('Error loading news:', error)
     return []
   }
 }
