@@ -4088,5 +4088,76 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-08T14:42:31.582Z"
+  },
+  {
+    "newsId": "Y2N0di3lpKfpgZPk",
+    "title_en": "The Way of the Great Dao | 'Shared Living Room' at the Junction of Shanghai, Jiangsu, and Zhejiang: One Courtyard Across Three Places, One Glimpse of the Yangtze River Delta",
+    "summary_cn": "新闻聚焦长三角地区（上海、浙江、江苏、安徽），强调其作为我国经济发展最具活力、开放程度最高、创新能力最强的区域之一。报道通过描述沪苏浙交界处的“共享客厅”项目，展现了三省一市地域相邻、文脉相通、市场相连的特点，旨在突出区域一体化和协同发展的成果。",
+    "summary_en": "The news focuses on the Yangtze River Delta region (Shanghai, Zhejiang, Jiangsu, Anhui), highlighting it as one of China's most economically dynamic, open, and innovative areas. It describes a 'shared living room' project at the junction of Shanghai, Jiangsu, and Zhejiang, showcasing the region's geographical proximity, cultural connections, and integrated markets, aiming to emphasize achievements in regional integration and coordinated development.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻主要报道长三角区域一体化发展的积极成果，如“共享客厅”项目，这反映了政策支持和基础设施建设的进展，可能提振市场对区域经济长期前景的信心。但新闻内容为描述性报道，未涉及具体经济数据、政策变动或企业动态，因此对短期金融市场直接影响有限，更多是情绪上的温和正面影响。",
+      "logic_en": "The news primarily reports positive outcomes of regional integration in the Yangtze River Delta, such as the 'shared living room' project, reflecting progress in policy support and infrastructure development, which may boost market confidence in the region's long-term economic prospects. However, as the content is descriptive and lacks specific economic data, policy changes, or corporate updates, its direct impact on short-term financial markets is limited, with more of a mild positive effect on sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:53:27.565Z"
+  },
+  {
+    "newsId": "Y2N0di0yMDI25Lit",
+    "title_en": "2026 China Economic Outlook: Leveraging the Super-Sized Market Advantage",
+    "summary_cn": "新闻聚焦2026年中国经济展望，强调发挥超大规模市场优势。内容指出中国需利用其庞大内需市场促进经济增长，可能涉及消费升级、产业转型等领域。这反映了政策层面对内循环战略的持续重视，旨在增强经济韧性和自主性。",
+    "summary_en": "The news focuses on the 2026 China economic outlook, emphasizing the leverage of the super-sized market advantage. It highlights China's need to utilize its vast domestic demand to drive economic growth, potentially involving areas like consumption upgrading and industrial transformation. This reflects the policy emphasis on the dual circulation strategy to enhance economic resilience and autonomy.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻强调发挥超大规模市场优势，这通常指向内需驱动和消费升级，可能提振市场对中国经济增长前景的预期，增强投资者信心，对A股市场构成积极情绪支撑。",
+      "logic_en": "The news emphasizes leveraging the super-sized market advantage, which typically points to domestic demand-driven growth and consumption upgrading. This may boost market expectations for China's economic growth prospects, enhance investor confidence, and provide positive sentiment support for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:53:23.511Z"
+  },
+  {
+    "newsId": "Y2N0di3kuIDnur/o",
+    "title_en": "Frontline Research | Traditional Supply and Marketing Cooperatives 'Tap Potential' for New Consumer Space, Services Guide New Consumption Trends",
+    "summary_cn": "央视网报道，新年伊始，西部城市新建社区中，传统供销合作社正积极向地下空间布局，打造新型供销集市与商业综合体。此举旨在挖掘消费新潜力，通过服务创新引导消费新潮流，记者通过一线调研探讨其潜力和服务新意。",
+    "summary_en": "CCTV reports that at the start of the new year, traditional supply and marketing cooperatives in new communities in western cities are actively expanding into underground spaces to create new supply and marketing markets and commercial complexes. This aims to tap new consumer potential and guide new consumption trends through service innovation, with frontline research exploring its potential and novel services.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻聚焦传统供销社通过布局地下空间和创新服务挖掘消费潜力，可能提振消费板块情绪，但未涉及具体政策或财务数据，对整体市场影响有限，偏向中性。",
+      "logic_en": "The news focuses on traditional supply and marketing cooperatives tapping consumer potential through underground space expansion and service innovation, which may boost sentiment in the consumer sector, but lacks specific policy or financial data, resulting in limited overall market impact, leaning neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-08T14:53:23.441Z"
   }
 ]
