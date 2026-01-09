@@ -271,8 +271,11 @@ async function generateSummaries() {
   }
 
   const indices: Array<'中证指数' | '纳斯达克指数'> = ['中证指数', '纳斯达克指数']
-  const hour = new Date().getHours()
-  const period = hour < 16 ? '10:00' : '22:00' as '10:00' | '22:00'
+  // 使用 UTC 小时判断，因为 GitHub Actions 运行在 UTC 时区
+  // UTC 2:00 = 北京 10:00 (早上汇总)
+  // UTC 14:00 = 北京 22:00 (晚上汇总)
+  const utcHour = new Date().getUTCHours()
+  const period = utcHour < 8 ? '10:00' : '22:00' as '10:00' | '22:00'
 
   const summaries = []
 
@@ -319,9 +322,14 @@ async function main() {
       await updateIndices()
       await analyzeNews()
       // 只在10:00和22:00生成汇总
-      const hour = new Date().getHours()
-      if (hour === 10 || hour === 22) {
+      // GitHub Actions 运行在 UTC 时区
+      // UTC 2:00 = 北京 10:00, UTC 14:00 = 北京 22:00
+      const utcHour = new Date().getUTCHours()
+      if (utcHour === 2 || utcHour === 14) {
+        console.log(`[Summary] Scheduled summary time detected (UTC ${utcHour}:00)`)
         await generateSummaries()
+      } else {
+        console.log(`[Summary] Skipping summary generation (current UTC hour: ${utcHour})`)
       }
       break
   }
