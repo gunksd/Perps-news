@@ -136,7 +136,8 @@ export async function GET() {
   try {
     await store.init()
 
-    const news = await store.getTodayNews()
+    // 改为获取最近48小时的新闻，与页面保持一致
+    const news = await store.getRecentNews(48)
     const analyses = await store.loadAnalyses()
 
     // 合并新闻和分析结果
