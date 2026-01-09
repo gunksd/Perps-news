@@ -4579,5 +4579,357 @@
     "related_stocks": [],
     "confidence": 0,
     "analyzedAt": "2026-01-09T04:05:52.397Z"
+  },
+  {
+    "newsId": "Y2N0di3ov47kuIrl",
+    "title_en": "Welcoming the IPO Boom: Why Are AI Industry Chain Related Companies Choosing Shanghai to 'Settle'?",
+    "summary_cn": "新闻探讨了AI产业链相关企业选择在上海上市的原因。\n上海作为金融中心，为AI企业提供了良好的融资环境和政策支持。\n这反映了中国资本市场对AI产业的重视和吸引力。",
+    "summary_en": "The news explores why AI industry chain related companies are choosing to list in Shanghai.\nAs a financial hub, Shanghai offers favorable financing environments and policy support for AI firms.\nThis reflects the importance and attractiveness of China's capital market to the AI industry.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示AI企业积极在上海上市，表明资本市场对AI产业的支持和信心增强，可能提升市场对AI板块的关注度和投资情绪，利好相关指数。",
+      "logic_en": "The news shows AI companies actively listing in Shanghai, indicating increased support and confidence from the capital market in the AI industry, which may boost market attention and investment sentiment towards the AI sector, benefiting related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:49:44.684Z"
+  },
+  {
+    "newsId": "Y2N0di3ku7Lph4/o",
+    "title_en": "JLL: Beijing Commercial Real Estate Major Transactions Totaled Approximately 18 Billion Yuan in 2025",
+    "summary_cn": "仲量联行报告显示，2025年北京商业地产大宗交易市场成交节奏放缓，全年成交总额约180亿元。从资产类别看，商业零售资产相对更受资本青睐。",
+    "summary_en": "JLL's report indicates that the Beijing commercial real estate major transaction market slowed in 2025, with total transactions reaching approximately 18 billion yuan. Among asset categories, commercial retail assets were relatively more favored by capital.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "房地产指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Index"
+      ],
+      "logic": "新闻报告了北京商业地产大宗交易数据，显示市场放缓但零售资产受青睐，这反映了区域市场动态，对整体金融市场影响有限，可能轻微影响房地产相关指数情绪，但无明确利多或利空信号。",
+      "logic_en": "The news reports data on Beijing commercial real estate major transactions, showing a market slowdown but retail asset preference. This reflects regional market dynamics with limited impact on overall financial markets, potentially slightly affecting sentiment in real estate-related indices, but no clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:49:45.265Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzlk4Hn",
+    "title_en": "\"Brand Vision: Global Beauty Communication Influence Forum\" and White Paper Global Launch Held in Shanghai",
+    "summary_cn": "1月8日，\"品牌远见：全球美妆传播影响力论坛\"暨《中美化妆品品牌建设与传播策略比较研究(2025)》白皮书全球首发式在上海举办。活动由《中国化妆品》杂志社与美国南加州大学安纳伯格传播与新闻学院联合发起，近百位来自学术机构、美妆企业、产业平台及媒体的代表参与，系统研讨全球美妆品牌的长期构建逻辑。",
+    "summary_en": "On January 8, the \"Brand Vision: Global Beauty Communication Influence Forum\" and the global launch of the white paper \"Comparative Study on Brand Building and Communication Strategies of Chinese and American Cosmetics Brands (2025)\" were held in Shanghai. The event was co-organized by China Cosmetics magazine and the USC Annenberg School for Communication and Journalism, with nearly 100 representatives from academic institutions, beauty companies, industry platforms, and media participating to systematically discuss the long-term construction logic of global beauty brands.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "该新闻为行业论坛和白皮书发布活动，聚焦美妆品牌传播策略的学术研讨，未涉及具体政策、财务数据或市场交易信息。此类活动通常对金融市场无直接冲击，可能间接影响市场对美妆行业长期发展的预期，但短期影响有限，整体偏向中性。",
+      "logic_en": "This news reports an industry forum and white paper launch event focused on academic discussions about beauty brand communication strategies, without involving specific policies, financial data, or market transactions. Such events typically have no direct impact on financial markets and may indirectly influence expectations for the long-term development of the beauty industry, but short-term effects are limited, making the overall impact neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-09T06:49:49.930Z"
+  },
+  {
+    "newsId": "Y2N0di1MM+S4iui3",
+    "title_en": "L3 Road Pilot: How Can Autonomous Driving Truly Take Off?",
+    "summary_cn": "重庆内环快速路已启动L3级自动驾驶试点，46辆配备专用号牌的新能源汽车可在限定路段行驶。这标志着自动驾驶技术从测试向实际应用迈出关键一步，有望推动相关产业发展。",
+    "summary_en": "Chongqing has launched a pilot program for L3 autonomous driving on its inner ring expressway, with 46 new energy vehicles equipped with special license plates allowed to operate in designated sections. This marks a crucial step from testing to practical application, potentially boosting the development of related industries.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "L3自动驾驶试点落地表明政策支持和技术进步，可能提升市场对自动驾驶产业链（如传感器、算法、新能源汽车）的预期，带动相关板块情绪向好。",
+      "logic_en": "The implementation of the L3 autonomous driving pilot demonstrates policy support and technological advancement, potentially boosting market expectations for the autonomous driving industry chain (e.g., sensors, algorithms, new energy vehicles) and improving sentiment in related sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:49:45.323Z"
+  },
+  {
+    "newsId": "Y2N0di3miqXlkYrm",
+    "title_en": "Report Shows Chinese Humanoid Robot Companies Top Global Shipment Rankings",
+    "summary_cn": "全球市场研究机构Omdia发布报告，分析2025年全球人形机器人市场趋势。报告显示中国厂商整体领跑全球，其中智元(AGIBOT)在出货量与市场份额均位列全球第一。",
+    "summary_en": "Global market research firm Omdia released a report analyzing the 2025 global humanoid robot market trends. The report indicates that Chinese manufacturers are leading globally, with AGIBOT ranking first in both shipment volume and market share.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示中国在人形机器人领域取得全球领先地位，可能提升市场对中国科技产业和制造业升级的预期，增强投资者信心，对相关板块和指数构成积极情绪支撑。",
+      "logic_en": "The news indicates China's global leadership in the humanoid robot sector, potentially boosting market expectations for China's technology industry and manufacturing upgrades, enhancing investor confidence, and providing positive sentiment support for related sectors and indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:49:44.862Z"
+  },
+  {
+    "newsId": "Y2N0di3otZTku5jk",
+    "title_en": "China Life Insurance Releases 2025 Life Insurance Claims Service Report with Over 62 Million Claims Paid",
+    "summary_cn": "中国人寿发布2025年度理赔服务报告，显示理赔总件数超6200万件，理赔总金额超1000亿元，稳居行业前列。报告体现了公司服务能力和业务规模。",
+    "summary_en": "China Life Insurance released its 2025 claims service report, showing over 62 million claims paid with a total amount exceeding 100 billion yuan, maintaining a leading position in the industry. The report highlights the company's service capabilities and business scale.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "保险板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Insurance Sector"
+      ],
+      "logic": "该报告显示中国人寿理赔服务规模庞大，业务稳健，可能增强市场对其经营能力和行业地位的信心，对保险板块和A股市场情绪有积极影响。",
+      "logic_en": "The report demonstrates China Life's large-scale claims service and stable operations, potentially boosting market confidence in its operational capabilities and industry leadership, positively impacting sentiment in the insurance sector and A-share market."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601628.SH",
+        "name": "中国人寿保险股份有限公司",
+        "market": "CN"
+      },
+      {
+        "symbol": "2628.HK",
+        "name": "中国人寿保险股份有限公司",
+        "market": "HK"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:49:46.977Z"
+  },
+  {
+    "newsId": "Y2N0di3nkIblk43k",
+    "title_en": "Focus on China's Economy in 2026: Why Emphasize the 'Five Musts' in Economic Work Under the New Situation?",
+    "summary_cn": "2025年末，中央经济工作会议在北京召开，总结2025年经济工作，分析当前经济形势，并部署2026年经济任务。作为'十五五'规划的开局之年，做好经济工作至关重要。新闻聚焦于解读会议提出的'五个必须'，并邀请专家深入分析如何在新形势下落实相关指引。",
+    "summary_en": "At the end of 2025, the Central Economic Work Conference was held in Beijing to review economic performance in 2025, analyze the current economic situation, and set tasks for 2026. As the start of the '15th Five-Year Plan', effective economic work is crucial. The news focuses on interpreting the 'Five Musts' proposed at the conference, with experts invited to provide in-depth analysis on implementing guidance under the new situation.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻主要报道中央经济工作会议的政策部署和专家解读，强调'五个必须'的指导原则，但未公布具体政策细节或数据。这通常被视为政策方向性信号，可能增强市场对经济稳定和结构性改革的预期，但缺乏即时可操作信息，短期影响有限。整体上，新闻传递积极政策基调，但未直接触发市场波动，因此判断为中性影响。",
+      "logic_en": "The news primarily reports on policy deployments from the Central Economic Work Conference and expert interpretations, emphasizing the guiding principles of the 'Five Musts', but without disclosing specific policy details or data. This is generally seen as a directional policy signal that may enhance market expectations for economic stability and structural reforms, but the lack of immediate actionable information limits short-term impact. Overall, the news conveys a positive policy tone but does not directly trigger market fluctuations, thus judged as neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:49:52.215Z"
+  },
+  {
+    "newsId": "Y2N0di3mtYHliqjk",
+    "title_en": "Flowing China Demonstrates Economic Confidence",
+    "summary_cn": "新闻评论指出，中国的高流动性（如人口流动、物流等）展现了经济活力和韧性。这反映了经济基本面的积极信号，强调内需和供应链的稳定性。整体基调乐观，旨在提振市场信心。",
+    "summary_en": "The news commentary highlights that China's high mobility (e.g., population flow, logistics) demonstrates economic vitality and resilience. It reflects positive signals in economic fundamentals, emphasizing domestic demand and supply chain stability. The overall tone is optimistic, aiming to boost market confidence.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻强调经济流动性和韧性，可能提升投资者对中国经济前景的乐观预期，从而利好A股市场情绪。这有助于缓解对经济放缓的担忧，支持内需相关板块。",
+      "logic_en": "The news emphasizes economic mobility and resilience, which may boost investor optimism about China's economic prospects, thereby benefiting sentiment in the A-share market. This helps alleviate concerns about economic slowdown and supports sectors related to domestic demand."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:49:45.650Z"
+  },
+  {
+    "newsId": "Y2N0di3oj5zpuJ/l",
+    "title_en": "Cainiao's Global Layout Breaks Through Again: Enables US-Mexico Mutual Express Delivery, Covering 99% of Mexico",
+    "summary_cn": "菜鸟全球物流网络实现新突破，上线美洲G2G跨境物流服务。首期开通美国至墨西哥跨境物流，覆盖美西活跃电商区及墨西哥99%地区。以行业均价六折打破高成本壁垒，为电商平台和跨境卖家提供高性价比物流服务。",
+    "summary_en": "Cainiao's global logistics network achieves a new breakthrough with the launch of its Americas G2G cross-border logistics service. The initial phase enables US-Mexico cross-border logistics, covering active e-commerce areas in the western US and 99% of Mexico. It breaks high-cost barriers at 60% of the industry average price, offering cost-effective logistics for e-commerce platforms and cross-border sellers.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻显示菜鸟在美洲物流网络扩张，通过低价策略打破跨境物流成本壁垒，可能提升其母公司阿里巴巴的物流竞争力和市场份额，利好相关电商和物流板块，增强市场对科技和消费股的增长预期。",
+      "logic_en": "The news indicates Cainiao's expansion of its logistics network in the Americas, breaking cross-border logistics cost barriers with low-price strategies. This may enhance the logistics competitiveness and market share of its parent company Alibaba, benefiting related e-commerce and logistics sectors, and boosting market expectations for growth in tech and consumer stocks."
+    },
+    "related_stocks": [
+      {
+        "symbol": "BABA",
+        "name": "阿里巴巴集团控股有限公司",
+        "market": "US"
+      }
+    ],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-09T06:49:49.379Z"
+  },
+  {
+    "newsId": "Y2N0di3kuIrmtbfm",
+    "title_en": "Shanghai Port's First Newly Built Oil Tanker of the Year Sets Sail with Whistle",
+    "summary_cn": "上海港今年首艘新造油船“海洋双子星”轮于1月9日从上海外高桥口岸鸣笛起航，由上海边检总站外高桥边检站提供保障。这标志着上海港在油船运输领域的新进展，可能反映港口运营和航运业的积极动态。",
+    "summary_en": "On January 9, the first newly built oil tanker of the year at Shanghai Port, named 'Ocean Gemini', set sail from Shanghai Waigaoqiao Port with a whistle, facilitated by the Waigaoqiao Border Inspection Station. This event highlights new developments in oil tanker transportation at the port, potentially indicating positive trends in port operations and the shipping industry.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "航运指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shipping Index"
+      ],
+      "logic": "新闻显示上海港油船运输有新进展，可能提升港口运营效率和航运业信心，对相关指数如中证指数和航运指数有积极情绪影响，但影响程度有限，因事件规模较小且未涉及具体财务数据。",
+      "logic_en": "The news indicates new progress in oil tanker transportation at Shanghai Port, potentially boosting port operational efficiency and confidence in the shipping industry. This has a positive sentiment impact on related indices such as the CSI Index and Shipping Index, but the impact is limited due to the small scale of the event and lack of specific financial data."
+    },
+    "related_stocks": [],
+    "confidence": 0.6,
+    "analyzedAt": "2026-01-09T06:49:47.766Z"
+  },
+  {
+    "newsId": "Y2N0di3lhrLkuIrn",
+    "title_en": "Trending on Hot Search! 'Memory Module Prices Rising Faster Than Gold Bars', Will Mobile Phones Get More Expensive?",
+    "summary_cn": "新闻关注内存条价格快速上涨现象，引发社交媒体热议。记者展开调查，探讨内存价格上涨对手机等消费电子产品可能带来的影响。报道未提供具体数据或官方声明，主要聚焦市场关注和潜在连锁反应。",
+    "summary_en": "The news highlights the rapid price increase of memory modules, sparking widespread discussion on social media. Journalists investigate the potential impact of rising memory prices on consumer electronics like mobile phones. The report lacks specific data or official statements, focusing instead on market concerns and potential ripple effects.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "内存价格上涨可能增加电子产品制造成本，压缩相关企业利润空间，引发市场对消费电子行业盈利能力的担忧。这可能导致投资者情绪转向谨慎，对科技股和消费电子板块构成压力。",
+      "logic_en": "Rising memory prices could increase manufacturing costs for electronic products, squeezing profit margins for related companies and raising market concerns about the profitability of the consumer electronics sector. This may lead to a shift towards cautious investor sentiment, putting pressure on technology and consumer electronics stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T06:50:07.153Z"
+  },
+  {
+    "newsId": "Y2N0di3ovrnmrKPv",
+    "title_en": "Bian Xin: The Optimist Who Turns Possibilities into Reality",
+    "summary_cn": "新闻标题为《边欣：将可能变为现实的乐观主义者》，内容仅提及记者孙厚铭，未提供具体财经事件或数据。新闻来源为CCTV，发布时间为2026年1月9日。由于内容过于简略，无法提炼实质性财经信息。",
+    "summary_en": "The news title is 'Bian Xin: The Optimist Who Turns Possibilities into Reality', with content only mentioning reporter Sun Houming and no specific financial events or data provided. The source is CCTV, published on January 9, 2026. The content is too brief to extract substantive financial information.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [],
+      "affected_markets_en": [],
+      "logic": "新闻内容仅包含标题和记者信息，未涉及任何具体财经事件、政策、数据或公司动态，因此无法判断对金融市场的直接影响。缺乏实质性信息，市场预期和情绪无变化。",
+      "logic_en": "The news content only includes the title and reporter information, with no specific financial events, policies, data, or company dynamics involved, thus unable to determine direct impact on financial markets. Lack of substantive information results in no change in market expectations or sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-09T06:50:06.722Z"
+  },
+  {
+    "newsId": "Y2N0di3lkajliZHv",
+    "title_en": "Zhou Jian: The 'Front Wave' of Humanoid Robots",
+    "summary_cn": "新闻介绍了周剑在人形机器人领域的角色和贡献，作为该领域的早期探索者或引领者。内容聚焦于其个人经历、行业地位及对中国机器人产业发展的影响，可能涉及技术创新或市场推广方面的讨论。",
+    "summary_en": "The news introduces Zhou Jian's role and contributions in the humanoid robot field, as an early explorer or leader. It focuses on his personal experience, industry status, and impact on China's robotics industry development, possibly involving discussions on technological innovation or market promotion.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻内容主要为人形机器人领域的人物介绍和行业背景分析，未涉及具体政策、财务数据或重大事件，对市场情绪和预期影响有限。可能间接提振机器人相关板块情绪，但无直接利多或利空驱动。",
+      "logic_en": "The news content primarily focuses on character introduction and industry background analysis in the humanoid robot field, without involving specific policies, financial data, or major events, having limited impact on market sentiment and expectations. It may indirectly boost sentiment in robotics-related sectors, but lacks direct bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-09T06:50:07.248Z"
+  },
+  {
+    "newsId": "Y2N0di3mlrnmtKrm",
+    "title_en": "Fang Hongbo: 'Invisible' in Transformation",
+    "summary_cn": "新闻标题为《方洪波：在变革中“隐身”》，来源CCTV，发布时间2026年1月9日。内容由记者孟倩撰写，但新闻正文未提供具体内容，仅提及标题和作者信息。因此无法基于内容进行详细总结。",
+    "summary_en": "The news title is 'Fang Hongbo: 'Invisible' in Transformation', sourced from CCTV, published on January 9, 2026. The content is written by reporter Meng Qian, but the news body is not provided, only mentioning the title and author information. Thus, a detailed summary based on content is not possible.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [],
+      "affected_markets_en": [],
+      "logic": "新闻内容未提供，无法分析具体事件或数据对金融市场的影响。标题提及方洪波（可能指美的集团董事长），但缺乏上下文，无法判断其言论或行动对市场的影响。因此，市场影响为中性，无明确利多或利空信号。",
+      "logic_en": "The news content is not provided, making it impossible to analyze the impact of specific events or data on financial markets. The title mentions Fang Hongbo (likely referring to the chairman of Midea Group), but without context, it cannot be determined how his statements or actions affect the market. Therefore, the market impact is neutral, with no clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.5,
+    "analyzedAt": "2026-01-09T06:50:08.049Z"
+  },
+  {
+    "newsId": "Y2N0di3kuIrmtbfp",
+    "title_en": "Shanghai's International Dining Scene Ranks Highest Nationwide, Gathering Nearly 10,000 International Cuisine Restaurants",
+    "summary_cn": "上海市商务委表示，上海已汇聚全球五大洲、43个国家和地区的近万家国际美食餐厅，全力打造国际美食之都。这反映了上海餐饮业的国际化程度在全国处于领先地位。",
+    "summary_en": "Shanghai's commerce department announced that the city has gathered nearly 10,000 international cuisine restaurants from five continents and 43 countries and regions, aiming to build an international food capital. This highlights Shanghai's leading position in the national dining industry's internationalization.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要描述上海餐饮业的国际化成就，属于地方经济和文化发展报告，未涉及宏观经济政策、企业盈利或行业重大变革。对金融市场直接影响有限，可能轻微提振消费板块情绪，但无明确利多或利空信号。",
+      "logic_en": "This news primarily describes Shanghai's achievements in the internationalization of its dining industry, serving as a local economic and cultural development report without involving macroeconomic policies, corporate earnings, or major industry changes. It has limited direct impact on financial markets, potentially slightly boosting sentiment in the consumer sector, but offers no clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-09T06:50:07.493Z"
   }
 ]

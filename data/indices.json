@@ -2,10 +2,10 @@
   {
     "symbol": "000905.SS",
     "name": "中证500",
-    "price": 8024.4511,
-    "change": 129.9064,
-    "changePercent": 1.65,
-    "timestamp": "2026-01-09T06:08:58.316Z"
+    "price": 8053.7897,
+    "change": 159.245,
+    "changePercent": 2.02,
+    "timestamp": "2026-01-09T06:49:33.150Z"
   },
   {
     "symbol": "^IXIC",
@@ -13,6 +13,6 @@
     "price": 22484.07,
     "change": 99.37,
     "changePercent": 0.44,
-    "timestamp": "2026-01-09T06:08:58.315Z"
+    "timestamp": "2026-01-09T06:49:33.174Z"
   }
 ]
