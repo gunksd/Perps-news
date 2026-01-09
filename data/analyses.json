@@ -4931,5 +4931,429 @@
     "related_stocks": [],
     "confidence": 0.9,
     "analyzedAt": "2026-01-09T06:50:07.493Z"
+  },
+  {
+    "newsId": "Y2N0di3lkJXmlofm",
+    "title_en": "Lü Wenbin: Carbon Emission Dual Control Will Provide Greater Space for China's Green and Low-Carbon Industry Development",
+    "summary_cn": "中国国家发展改革委能源研究所所长吕文斌表示，今年是碳排放双控全面实施的第一年。该制度将稳定绿色低碳高质量发展预期，并有助于中国产品拓展国际市场。这标志着中国从能耗双控转向碳排放双控，为绿色产业提供更大发展空间。",
+    "summary_en": "Lü Wenbin, director of the Energy Research Institute at China's National Development and Reform Commission, stated that this year marks the first full implementation of the carbon emission dual control system. This system will stabilize expectations for green and low-carbon high-quality development and help Chinese products expand into international markets. It signifies China's shift from energy consumption dual control to carbon emission dual control, providing greater development space for green industries.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻强调碳排放双控制度将稳定绿色低碳产业发展预期，并促进中国产品国际竞争力，这直接利好新能源、环保等绿色产业板块。政策导向明确，可能提升市场对相关行业的投资信心和估值预期，从而对A股市场尤其是绿色概念股产生积极影响。",
+      "logic_en": "The news highlights that the carbon emission dual control system will stabilize expectations for green and low-carbon industry development and enhance the international competitiveness of Chinese products, directly benefiting sectors such as new energy and environmental protection. The clear policy direction may boost market confidence and valuation expectations for related industries, positively impacting the A-share market, especially green concept stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:58.375Z"
+  },
+  {
+    "newsId": "Y2N0di3mtZnmsZ/v",
+    "title_en": "Zhejiang: Plans to Supply Over 300,000 Mu of Construction Land in 2026",
+    "summary_cn": "浙江省自然资源工作会议在杭州举行，宣布2026年将深化存量空间提质增效改革，计划供应建设用地30万亩以上，旨在为创新浙江和现代化产业体系建设提供高品质国土空间。",
+    "summary_en": "The Zhejiang Natural Resources Work Conference was held in Hangzhou, announcing plans to deepen reforms for improving the quality and efficiency of existing space in 2026, with over 300,000 mu of construction land to be supplied, aiming to provide high-quality land space for building an innovative Zhejiang and a modern industrial system.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "房地产指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Index"
+      ],
+      "logic": "该新闻显示浙江省计划增加建设用地供应，有助于缓解土地资源紧张，降低开发成本，可能刺激房地产和基建投资，对相关行业和市场情绪产生积极影响。",
+      "logic_en": "The news indicates Zhejiang plans to increase construction land supply, which could alleviate land resource constraints, reduce development costs, potentially stimulate real estate and infrastructure investment, and have a positive impact on related sectors and market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:54.855Z"
+  },
+  {
+    "newsId": "Y2N0di3mt7HljJbi",
+    "title_en": "Deepening the Integration of 'Two New' and Exploring New Models for Talent Mobility and Sharing in Zhejiang",
+    "summary_cn": "浙江省在湖州召开产业高层次人才“校(院)企双聘”工作推进会，会上进行了第四批16组案例签约、示范单位揭牌、联合实验室启用和校企横向课题立项签约。此举旨在深化科技创新与产业创新的深度融合，推动人才流动共享新模式。",
+    "summary_en": "Zhejiang Province held a work promotion meeting in Huzhou for the 'dual appointment' of high-level industrial talent between universities/institutions and enterprises. The event included the signing of 16 new cases, unveiling of demonstration units, launch of joint laboratories, and signing of horizontal research projects. This aims to deepen the integration of technological and industrial innovation and explore new models for talent mobility and sharing.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻聚焦浙江省人才政策创新，属于区域性、长期性产业支持措施，短期内对金融市场直接影响有限。它可能通过提升区域创新能力和产业升级潜力，间接利好相关科技和产业板块，但无具体公司或资金注入信息，市场预期变化不明显。",
+      "logic_en": "The news focuses on talent policy innovation in Zhejiang Province, a regional and long-term industrial support measure with limited direct impact on financial markets in the short term. It may indirectly benefit technology and industrial sectors by enhancing regional innovation capacity and industrial upgrading potential, but lacks specific company or funding details, resulting in minimal market expectation changes."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:57.379Z"
+  },
+  {
+    "newsId": "Y2N0di3or4Hnm5Hk",
+    "title_en": "CSRC Investigates Tianpu Co., Ltd. for Suspected Major Omissions in Abnormal Stock Trading Fluctuation Announcement",
+    "summary_cn": "证监会针对天普股份股票交易异常波动公告涉嫌重大遗漏立案调查。天普股份近期股价异常波动引发市场高度关注。证监会将在全面调查后依法处理，以维护市场健康稳定发展。",
+    "summary_en": "The CSRC has launched an investigation into Tianpu Co., Ltd. for suspected major omissions in its abnormal stock trading fluctuation announcement. The company's recent abnormal stock price fluctuations have drawn significant market attention. The CSRC will handle the case according to law after a comprehensive investigation to safeguard market health and stability.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "证监会立案调查天普股份涉嫌信息披露违规，可能引发市场对该公司治理风险的担忧，并影响投资者对相关板块的信心，导致短期情绪偏负面。",
+      "logic_en": "The CSRC's investigation into Tianpu Co., Ltd. for suspected information disclosure violations may raise concerns about the company's governance risks and affect investor confidence in related sectors, leading to short-term negative sentiment."
+    },
+    "related_stocks": [
+      {
+        "symbol": "605255.SH",
+        "name": "宁波市天普橡胶科技股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-09T14:14:56.252Z"
+  },
+  {
+    "newsId": "Y2N0di3lm73lrrbl",
+    "title_en": "China to Launch Investigation into 'Internal Competition' in Food Delivery Industry, Meituan: Firmly Support and Fully Cooperate",
+    "summary_cn": "国家市场监督管理总局宣布将对外卖平台服务行业市场竞争状况开展调查评估。美团官方回应称坚决拥护并全力配合，表示将以此为契机与行业平台共同落实主体责任，公平参与竞争。此举旨在规范外卖行业竞争秩序，防止内卷式恶性竞争。",
+    "summary_en": "China's State Administration for Market Regulation announced an investigation into the competitive landscape of the food delivery platform industry. Meituan responded by stating firm support and full cooperation, aiming to work with industry peers to uphold market responsibilities and ensure fair competition. This move targets regulating industry competition and preventing excessive internal rivalry.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "调查可能增加外卖平台监管压力，影响行业盈利预期和竞争策略，引发市场对平台经济监管收紧的担忧，短期情绪偏负面。",
+      "logic_en": "The investigation could increase regulatory pressure on food delivery platforms, affecting profit expectations and competitive strategies, raising concerns about tighter regulation in the platform economy, leading to short-term negative sentiment."
+    },
+    "related_stocks": [
+      {
+        "symbol": "03690.HK",
+        "name": "美团",
+        "market": "HK"
+      }
+    ],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-09T14:14:56.545Z"
+  },
+  {
+    "newsId": "Y2N0di3pm7flt57l",
+    "title_en": "Feasibility Study Report for Leizhou Peninsula Irrigation Project Approved",
+    "summary_cn": "广东省水利厅宣布，《雷州半岛灌区工程可行性研究报告》已获广东省发改委正式批复。这为工程全面开工奠定基础，标志着这一保障粤西地区长远发展和粮食安全的重大水利工程取得关键进展。",
+    "summary_en": "The Guangdong Provincial Water Resources Department announced that the feasibility study report for the Leizhou Peninsula Irrigation Project has been officially approved by the Guangdong Development and Reform Commission. This lays the foundation for full-scale construction, marking a key milestone for this major water conservancy project aimed at ensuring long-term development and food security in western Guangdong.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及重大水利工程获批，可能提振基建相关板块（如水利建设、工程机械）的市场情绪，因项目推进预期将带动投资和产业链需求，对A股市场整体情绪有积极影响。",
+      "logic_en": "The news involves approval of a major water conservancy project, which may boost market sentiment in infrastructure-related sectors (e.g., water conservancy construction, engineering machinery) as project advancement is expected to drive investment and supply chain demand, positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:55.552Z"
+  },
+  {
+    "newsId": "Y2N0di3msqrmuK/k",
+    "title_en": "Experts from Shanghai and Hong Kong Discuss Science and Technology Innovation Cooperation",
+    "summary_cn": "1月8日，上海市香港商会与香港大公文汇智库在上海联合举办“沪港联动 科创共融——沪港创新项目发展研讨会”。会议聚焦沪港两地科技创新合作，旨在促进两地创新项目发展。",
+    "summary_en": "On January 8, the Shanghai Hong Kong Chamber of Commerce and Hong Kong Ta Kung Wen Wei Media Group's think tank jointly held a seminar in Shanghai titled \"Shanghai-Hong Kong Linkage, Integration of Science and Technology Innovation—Development of Innovation Projects.\" The event focused on enhancing science and technology innovation cooperation between Shanghai and Hong Kong to foster the development of innovation projects.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "新闻主要报道沪港两地专家就科创合作进行研讨，属于政策交流和合作倡议，未涉及具体政策出台、资金投入或企业业绩变化。此类事件短期内对市场情绪影响有限，可能长期利好两地科技和创新板块，但无直接、即时市场冲击。",
+      "logic_en": "The news reports a seminar where experts from Shanghai and Hong Kong discussed science and technology innovation cooperation, focusing on policy exchange and collaboration initiatives. It does not involve specific policy announcements, funding injections, or corporate performance changes. Such events have limited short-term impact on market sentiment, potentially benefiting the technology and innovation sectors in both regions in the long run, but with no direct or immediate market effects."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:57.733Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzlpLTp",
+    "title_en": "\"Leading Goose New Year Shopping Festival\" Held in Hangzhou, \"Leading Goose\" Participants Showcase New Year Goods",
+    "summary_cn": "1月9日，浙江农林大学第三届“头雁年货节”在杭州举行，来自12个省份的数千种年货产品亮相，包括草莓、山核桃、酱牛肉、蜂蜜等，吸引民众采购。该活动是“头雁臻品”消费季的一部分，旨在推广农产品。",
+    "summary_en": "On January 9, the third \"Leading Goose New Year Shopping Festival\" was held in Hangzhou, Zhejiang, featuring thousands of New Year goods from 12 provinces, such as strawberries, walnuts, beef sauce, and honey, attracting public purchases. The event is part of the \"Leading Goose Premium Products\" consumption season, aiming to promote agricultural products.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道地方性农产品展销活动，涉及消费促进和农业推广，但规模有限且未提及具体上市公司或宏观政策变化，对金融市场整体影响较小，可能轻微提振消费板块情绪，但无直接利多或利空驱动。",
+      "logic_en": "This news primarily reports a local agricultural product exhibition and sales event, involving consumption promotion and agricultural outreach. However, it is limited in scale and does not mention specific listed companies or macroeconomic policy changes, having minimal overall impact on financial markets. It may slightly boost sentiment in the consumer sector but lacks direct bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:57.132Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3lm73o",
+    "title_en": "China Adjusts Export Tax Rebate Policy for Photovoltaic and Other Products",
+    "summary_cn": "中国财政部和国家税务总局于1月9日发布公告，调整光伏等产品的出口退税政策。此举旨在优化出口结构，支持相关产业发展。具体调整细节包括退税率的变动，影响光伏产业链的出口竞争力。",
+    "summary_en": "China's Ministry of Finance and State Taxation Administration issued an announcement on January 9, adjusting the export tax rebate policy for photovoltaic and other products. This move aims to optimize the export structure and support related industries. Specific adjustments include changes in rebate rates, affecting the export competitiveness of the photovoltaic industry chain.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "光伏行业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Photovoltaic Industry Index"
+      ],
+      "logic": "政策调整可能对光伏出口企业产生双向影响：退税增加或减少将直接影响企业利润和出口成本，但具体细节未公布，市场预期存在不确定性。整体上，政策旨在优化产业，短期情绪可能波动，长期取决于实施细节。",
+      "logic_en": "The policy adjustment may have mixed effects on photovoltaic export companies: increases or decreases in tax rebates will directly impact corporate profits and export costs, but specific details are not disclosed, leading to uncertainty in market expectations. Overall, the policy aims to optimize the industry, with short-term sentiment potentially fluctuating and long-term effects depending on implementation details."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:56.545Z"
+  },
+  {
+    "newsId": "Y2N0di3lhajlubTm",
+    "title_en": "Annual Tourist Numbers Grow by 10%, Photography Becomes New Engine for Yixian Tourism Development",
+    "summary_cn": "安徽省黟县官方发布数据显示，2025年累计接待游客1909.8万人次，同比增长10%；旅游总花费210.8亿元人民币，同比增长12%。摄影成为当地旅游发展的新引擎，推动游客数量和消费增长。",
+    "summary_en": "Official data from Yixian County, Anhui Province, shows that in 2025, the county received 19.098 million tourists, a year-on-year increase of 10%, with total tourism spending reaching 21.08 billion yuan, up 12% year-on-year. Photography has emerged as a new engine for local tourism development, driving growth in both visitor numbers and consumption.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "旅游板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Tourism Sector"
+      ],
+      "logic": "新闻显示黟县旅游数据强劲增长，游客数量和消费均实现两位数增长，表明国内旅游市场复苏势头良好，可能提振市场对旅游及相关行业的乐观情绪，对旅游板块和整体消费市场构成利好。",
+      "logic_en": "The news indicates strong growth in Yixian's tourism data, with both visitor numbers and spending achieving double-digit increases, suggesting a robust recovery in the domestic tourism market. This may boost market optimism towards the tourism and related sectors, constituting a bullish factor for the tourism sector and overall consumer market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:14:56.298Z"
+  },
+  {
+    "newsId": "Y2N0di3lkIjogqXm",
+    "title_en": "Hefei Airport to Launch First Direct Flight Route to Kuala Lumpur",
+    "summary_cn": "安徽民航机场集团宣布，合肥新桥国际机场将于2月4日首次开通至马来西亚吉隆坡的航线。此举标志着合肥机场国际航线网络的进一步扩展，有助于提升区域航空连通性。",
+    "summary_en": "Anhui Civil Aviation Airport Group announced that Hefei Xinqiao International Airport will launch its first direct flight route to Kuala Lumpur, Malaysia on February 4. This move marks an expansion of the airport's international route network and enhances regional air connectivity.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "航空运输指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Air Transport Index"
+      ],
+      "logic": "该新闻对航空运输板块构成利多，因新航线开通可能增加机场运营收入和航空公司的客流量，提升相关企业的盈利预期。同时，区域交通便利性的改善可能促进经贸往来，对整体市场情绪有积极影响。",
+      "logic_en": "This news is bullish for the air transport sector, as the new route may increase airport operating revenue and airline passenger traffic, boosting profit expectations for related companies. Improved regional connectivity could also foster economic and trade exchanges, positively impacting overall market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:15:12.250Z"
+  },
+  {
+    "newsId": "Y2N0di3miJDpg73l",
+    "title_en": "Chengdu Tianfu International Airport Doubles Number of Through Flights, Further Enhancing International Transit Hub Capability",
+    "summary_cn": "海南航空HU782航班在成都天府国际机场降落，标志着国际通程航班业务正式开通。旅客通过专用通道实现国际转国内，全程仅25分钟，托运行李由航空公司代办海关手续。此举填补了成都至中东欧地区通程服务空白，构建了连接西部内陆与欧洲的高效空中通道。",
+    "summary_en": "Hainan Airlines flight HU782 landed at Chengdu Tianfu International Airport, marking the official launch of international through-flight services. Passengers transferred from international to domestic flights via dedicated channels in just 25 minutes, with checked baggage handled by the airline for customs procedures. This initiative fills the gap in through services from Chengdu to Central and Eastern Europe, establishing an efficient air corridor connecting western inland China and Europe.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "航空运输指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Air Transportation Index"
+      ],
+      "logic": "新闻显示成都天府国际机场通程航班数量翻倍，国际中转枢纽能级提升，可能促进航空运输和区域经济发展。这有助于提升相关航空公司和机场的运营效率与收入预期，对航空运输板块和区域经济相关指数产生积极情绪影响。",
+      "logic_en": "The news indicates that Chengdu Tianfu International Airport has doubled its through-flight numbers and enhanced its international transit hub capability, potentially boosting air transportation and regional economic development. This could improve operational efficiency and revenue expectations for related airlines and airports, generating positive sentiment for the air transportation sector and regional economic indices."
+    },
+    "related_stocks": [
+      {
+        "symbol": "600221.SH",
+        "name": "海南航空",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:15:15.554Z"
+  },
+  {
+    "newsId": "Y2N0di3miqXlkYrv",
+    "title_en": "Report: China's Automotive Industry Consolidation Enters Deepening Phase",
+    "summary_cn": "咨询公司罗兰贝格发布《预见2026：中国行业趋势报告》，指出中国汽车行业淘汰赛已进入深化阶段。报告基于专家团队对各行业的长期追踪，聚焦汽车、政府与公共、消费品与零售等领域，提供系统性趋势解析与战略洞察。",
+    "summary_en": "Consulting firm Roland Berger released the 'Foresight 2026: China Industry Trends Report', indicating that the consolidation in China's automotive industry has entered a deepening phase. The report, based on long-term tracking by expert teams, focuses on key sectors like automotive, government & public, and consumer goods & retail, offering systematic trend analysis and strategic insights.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "汽车行业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Automotive Industry Index"
+      ],
+      "logic": "报告指出汽车行业淘汰赛深化，可能加剧市场竞争和整合压力，对行业整体盈利能力和增长预期构成挑战，影响投资者情绪和市场估值。",
+      "logic_en": "The report highlights a deepening consolidation phase in the automotive industry, which may intensify market competition and integration pressures, posing challenges to overall profitability and growth expectations, thereby affecting investor sentiment and market valuations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:15:12.281Z"
+  },
+  {
+    "newsId": "Y2N0di1B6IKh5ZGo",
+    "title_en": "A-shares Surge on Friday with Heavy Volume, Shanghai Composite Index Closes at 4120 Points",
+    "summary_cn": "A股市场周五放量上涨，主要股指全线走高。上证指数收盘突破4100点，创下十年新高。",
+    "summary_en": "China's A-share market surged on Friday with heavy trading volume, as major stock indices all rose. The Shanghai Composite Index closed above 4100 points, hitting a new ten-year high.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示A股市场放量上涨且创十年新高，表明市场情绪积极，可能增强投资者信心，推动资金流入股市。",
+      "logic_en": "The news indicates a surge in A-shares with heavy volume and a new ten-year high, suggesting positive market sentiment that could boost investor confidence and drive capital inflows into the stock market."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-09T14:15:09.705Z"
+  },
+  {
+    "newsId": "Y2N0di3vvIjkuaHm",
+    "title_en": "Rural Tour·Viewing Revitalization: Zhejiang Huangyan's Common Prosperity 'Vegetable Basket': Group Development Enables Good Agricultural Products to Sell at Good Prices",
+    "summary_cn": "浙江台州黄岩区新前街道东江村的柑橘种植基地迎来丰收，长潭湖共富“菜篮子”收购团队上门收购优质蜜橘。鲜果经分拣、装箱后直供长潭湖农副产品旗舰店，销往市民餐桌。新闻聚焦乡村振兴背景下，通过抱团发展模式提升农产品销售效率和价值，促进农民增收。",
+    "summary_en": "In Dongjiang Village, Huangyan District, Taizhou, Zhejiang, the citrus planting base is experiencing a harvest season. The Changtan Lake Common Prosperity 'Vegetable Basket' procurement team visits the fields to purchase high-quality honey oranges. After sorting and packaging, the fresh fruits are directly supplied to the Changtan Lake agricultural products flagship store for urban consumers. The news highlights how group development models enhance agricultural product sales efficiency and value, boosting farmers' income amid rural revitalization efforts.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道乡村振兴和农产品销售模式创新，属于地方性农业经济新闻，不涉及宏观政策调整或重大市场事件。对金融市场整体影响有限，可能轻微提振农业板块情绪，但无直接利多或利空驱动。",
+      "logic_en": "The news primarily covers rural revitalization and innovations in agricultural product sales models, representing a local agricultural economic story without involving macro policy changes or significant market events. Its overall impact on financial markets is limited, potentially slightly boosting sentiment in the agricultural sector, but lacking direct bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:15:15.093Z"
+  },
+  {
+    "newsId": "Y2N0di3npo/lu7rm",
+    "title_en": "Fujian Ports Achieve 756 Million Tons of Cargo Throughput in 2025",
+    "summary_cn": "福建省2025年交通运输数据显示，沿海港口货物吞吐量达7.56亿吨，集装箱吞吐量1844万标箱。宁德市域港口吞吐量首次突破亿吨大关，反映区域物流活动活跃。",
+    "summary_en": "Fujian Province's 2025 transportation data shows coastal ports achieved 756 million tons of cargo throughput and 18.44 million TEUs of container throughput. Ningde's port throughput exceeded 100 million tons for the first time, indicating active regional logistics activity.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻为回顾性数据，显示福建港口吞吐量增长，可能反映区域经济活动和物流需求稳定。但未涉及具体政策或事件，对市场短期情绪影响有限，更多体现基本面信息。",
+      "logic_en": "The news is retrospective data showing growth in Fujian port throughput, potentially reflecting stable regional economic activity and logistics demand. However, it does not involve specific policies or events, having limited short-term impact on market sentiment, primarily reflecting fundamental information."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:15:11.898Z"
+  },
+  {
+    "newsId": "Y2N0di3ph43luobl",
+    "title_en": "Chongqing State-owned Assets 2026 Version Authorization and Delegation List Released, Granting State-owned Enterprises More Operational Autonomy",
+    "summary_cn": "重庆市国资委发布2026年版授权放权清单，旨在赋予市属重点国企更充分的经营自主权，以进一步激发国有企业活力。此举是深化国企改革、优化监管方式的重要举措，有助于提升国企运营效率和市场竞争力。",
+    "summary_en": "The Chongqing State-owned Assets Supervision and Administration Commission has released the 2026 version of the authorization and delegation list, aiming to grant more operational autonomy to key municipal state-owned enterprises to further stimulate their vitality. This move is a significant step in deepening state-owned enterprise reform and optimizing regulatory methods, helping to enhance operational efficiency and market competitiveness.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻释放了国企改革深化、监管优化的积极信号，可能提升市场对国企运营效率和盈利能力的预期，从而提振相关板块情绪。通过赋予更多经营自主权，国企有望更灵活应对市场变化，增强竞争力，对A股市场整体构成利好。",
+      "logic_en": "This news releases a positive signal of deepening state-owned enterprise reform and regulatory optimization, potentially boosting market expectations for the operational efficiency and profitability of state-owned enterprises, thereby improving sentiment in related sectors. By granting more operational autonomy, state-owned enterprises are expected to respond more flexibly to market changes and enhance competitiveness, which is bullish for the overall A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:15:14.171Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3lm73p",
+    "title_en": "China's First Ultra-Large Diameter Shield Tunneling Machines Under Taihu Lake Roll Off Production Line",
+    "summary_cn": "中国首条穿太湖超大直径盾构隧道工程——无锡至宜兴城际轨道交通工程（锡宜S2线）取得重大进展。两台14米级超大直径盾构机同步完成工厂制造并成功下线，标志着S2线建设进入新阶段。该突破展示了中国在高端装备制造和基础设施建设领域的技术实力。",
+    "summary_en": "China's first ultra-large diameter shield tunneling project under Taihu Lake, the Wuxi-Yixing intercity rail transit project (S2 line), has achieved a major breakthrough. Two 14-meter-class ultra-large diameter shield tunneling machines have been simultaneously manufactured and rolled off the production line, marking a new phase in the S2 line construction. This advancement demonstrates China's technological capabilities in high-end equipment manufacturing and infrastructure development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻涉及重大基础设施项目进展和高端装备制造突破，可能提振市场对基建和制造业板块的信心。作为中国首条穿太湖超大直径盾构隧道工程，其技术突破和建设推进可能被视为基建投资和科技创新的积极信号，对相关行业股票产生正面情绪影响。",
+      "logic_en": "This news involves a major infrastructure project advancement and a breakthrough in high-end equipment manufacturing, which may boost market confidence in the infrastructure and manufacturing sectors. As China's first ultra-large diameter shield tunneling project under Taihu Lake, its technological breakthrough and construction progress could be seen as a positive signal for infrastructure investment and technological innovation, potentially generating positive sentiment for related industry stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T14:15:15.679Z"
   }
 ]
