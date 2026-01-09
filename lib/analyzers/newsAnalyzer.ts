@@ -57,6 +57,30 @@ export class NewsAnalyzer {
         throw new Error(`Invalid API response: missing choices array. Response: ${JSON.stringify(data)}`)
       }
 
+      // 检查是否被内容过滤器拦截
+      const finishReason = data.choices[0]?.finish_reason
+      if (finishReason === 'content_filter') {
+        console.warn(`[NewsAnalyzer] Content filtered for news: ${news.id} - ${news.title}`)
+        // 返回一个默认的分析结果，标记为内容被过滤
+        return {
+          newsId: news.id,
+          title_en: news.title, // 使用原标题
+          summary_cn: '该新闻内容因触发内容过滤器而无法分析。',
+          summary_en: 'Content filtered - unable to analyze.',
+          market_impact: {
+            direction: '中性',
+            direction_en: 'Neutral',
+            affected_markets: [],
+            affected_markets_en: [],
+            logic: '内容被过滤',
+            logic_en: 'Content filtered'
+          },
+          related_stocks: [],
+          confidence: 0.0,
+          analyzedAt: new Date().toISOString()
+        }
+      }
+
       const messageContent = data.choices[0]?.message?.content
       if (!messageContent || messageContent.trim() === '') {
         throw new Error(`API returned empty content. Response: ${JSON.stringify(data)}`)
