@@ -46,11 +46,34 @@ export class NewsAnalyzer {
       })
 
       if (!response.ok) {
-        throw new Error(`API request failed: ${response.statusText}`)
+        const errorText = await response.text()
+        throw new Error(`API request failed (${response.status}): ${errorText}`)
       }
 
       const data = await response.json()
-      const result = JSON.parse(data.choices[0].message.content)
+
+      // 验证 API 响应结构
+      if (!data.choices || !Array.isArray(data.choices) || data.choices.length === 0) {
+        throw new Error(`Invalid API response: missing choices array. Response: ${JSON.stringify(data)}`)
+      }
+
+      const messageContent = data.choices[0]?.message?.content
+      if (!messageContent || messageContent.trim() === '') {
+        throw new Error(`API returned empty content. Response: ${JSON.stringify(data)}`)
+      }
+
+      // 解析 JSON 并提供详细错误信息
+      let result
+      try {
+        result = JSON.parse(messageContent)
+      } catch (parseError) {
+        throw new Error(`Failed to parse JSON response. Content: ${messageContent.substring(0, 200)}...`)
+      }
+
+      // 验证必需字段
+      if (!result.summary_cn || !result.summary_en || !result.market_impact) {
+        throw new Error(`Missing required fields in analysis result. Result: ${JSON.stringify(result)}`)
+      }
 
       return {
         newsId: news.id,
