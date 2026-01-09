@@ -4159,5 +4159,408 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-08T14:53:23.441Z"
+  },
+  {
+    "newsId": "Y2N0di3kupTpg6jp",
+    "title_en": "Five Departments Jointly Issue 'Industrial Green Microgrid Construction and Application Guidelines (2026-2030)'",
+    "summary_cn": "工业和信息化部等五部门联合印发《工业绿色微电网建设与应用指南（2026—2030年）》，旨在引导工业企业和园区推进绿色微电网建设与应用，扩大绿电应用范围，促进重点行业节能降碳。该指南明确了未来五年的发展方向和政策支持。",
+    "summary_en": "Five departments, including the Ministry of Industry and Information Technology, jointly issued the 'Industrial Green Microgrid Construction and Application Guidelines (2026-2030)' to guide industrial enterprises and parks in promoting green microgrid construction and application, expanding green electricity usage, and facilitating energy conservation and carbon reduction in key industries. The guidelines outline development directions and policy support for the next five years.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "新能源板块",
+        "环保板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "New Energy Sector",
+        "Environmental Protection Sector"
+      ],
+      "logic": "该政策直接支持工业绿色微电网建设，利好新能源发电、储能、智能电网等相关产业，可能提升市场对绿色能源和节能技术公司的预期，带动相关板块情绪向好。",
+      "logic_en": "This policy directly supports industrial green microgrid construction, benefiting related industries such as new energy power generation, energy storage, and smart grids. It may enhance market expectations for green energy and energy-saving technology companies, boosting sentiment in relevant sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-09T03:31:55.993Z"
+  },
+  {
+    "newsId": "Y2N0di3msqrmjIfp",
+    "title_en": "Shanghai Composite Index Opens 0.09% Higher, Oil and Gas Stocks Broadly Strengthen",
+    "summary_cn": "周五A股三大指数开盘表现分化，沪指小幅高开0.09%，深成指和创业板指分别低开0.30%和0.69%。油气板块表现强势，大面积走强。",
+    "summary_en": "On Friday, China's three major A-share indices opened with mixed performance. The Shanghai Composite Index opened 0.09% higher, while the Shenzhen Component Index and the ChiNext Index opened 0.30% and 0.69% lower respectively. The oil and gas sector showed broad strength.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "A股市场"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "A-share Market"
+      ],
+      "logic": "新闻仅报道了开盘数据，未提及具体驱动因素或宏观事件。沪指小幅高开显示市场情绪略有积极，但深成指和创业板指低开表明市场分化，油气股走强可能反映行业短期利好，但整体影响有限，属于中性信息。",
+      "logic_en": "The news only reports opening data without mentioning specific drivers or macroeconomic events. The slight higher opening of the Shanghai Composite Index indicates mildly positive sentiment, but the lower openings of the Shenzhen and ChiNext indices suggest market divergence. The strength in oil and gas stocks may reflect short-term sector-specific positives, but overall impact is limited, making this neutral information."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:31:56.093Z"
+  },
+  {
+    "newsId": "Y2N0di3msLTliKnp",
+    "title_en": "Ministry of Water Resources: China Completed 1.28 Trillion Yuan in Water Conservancy Construction Investment in 2025",
+    "summary_cn": "水利部在国新办发布会上宣布，2025年我国完成水利建设投资1.28万亿元，吸纳就业315万人。该投资有效发挥了稳增长、促就业的作用，体现了国家水网建设的积极进展。",
+    "summary_en": "The Ministry of Water Resources announced at a State Council press conference that China completed 1.28 trillion yuan in water conservancy construction investment in 2025, creating 3.15 million jobs. This investment effectively contributed to stabilizing growth and promoting employment, reflecting positive progress in national water network construction.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "基建板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Infrastructure Sector"
+      ],
+      "logic": "新闻显示水利建设投资规模巨大且带动就业，这有助于稳定经济增长预期，提振市场对基建相关行业的信心，可能推动基建板块表现。",
+      "logic_en": "The news indicates a large-scale water conservancy investment that boosts employment, which helps stabilize economic growth expectations and enhances market confidence in infrastructure-related sectors, potentially driving performance in the infrastructure sector."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:31:54.000Z"
+  },
+  {
+    "newsId": "Y2N0di3kurrmsJTm",
+    "title_en": "Popularity Booms, Consumption Heats Up, Steaming Hot! Active and Prosperous Markets Across Regions, 'Year Economy' Releases 'New' Heat",
+    "summary_cn": "央视报道，湖南长沙红星全球农批中心作为湖南最大农产品交易市场，虽距春节还有一个多月，但水果交易区已提前进入批发备货高峰期，显示消费市场活跃。",
+    "summary_en": "CCTV reports that the Red Star Global Agricultural Wholesale Center in Changsha, Hunan, the largest agricultural product trading market in the province, has entered a peak period for wholesale stockpiling in its fruit trading area over a month before the Spring Festival, indicating active consumer markets.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻显示春节前消费市场提前活跃，水果批发备货进入高峰期，反映消费需求旺盛，可能提振市场对消费板块的乐观预期，利好相关指数和板块情绪。",
+      "logic_en": "The news shows that consumer markets are active ahead of the Spring Festival, with fruit wholesale stockpiling entering a peak period, reflecting strong consumer demand. This may boost market optimism towards the consumer sector, benefiting related indices and sector sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:31:54.816Z"
+  },
+  {
+    "newsId": "Y2N0di3ljYHkuozo",
+    "title_en": "Twelve Years of Deep Cultivation, Passion Restarts: DouYu Live Streaming Upgrades and Renews, Building a New Ecosystem of Omni-Channel Symbiotic Live Streaming",
+    "summary_cn": "斗鱼直播作为行业奠基者，深耕十二载，从游戏直播开拓者转型为多元化兴趣生态构建者。在行业迈向“价值共生”的关键节点，斗鱼启动品牌焕新战略，推出新LOGO和品牌主张，标志着从平台视角向用户价值视角的深度转型，旨在构建全域共生生态体系，为直播行业高质量发展注入新动能。",
+    "summary_en": "DouYu Live, as a pioneer in the live streaming industry, has cultivated the sector for twelve years, transitioning from a game streaming trailblazer to a builder of a diversified interest ecosystem. At a critical juncture as the industry shifts from 'traffic competition' to 'value symbiosis,' DouYu launched a brand renewal strategy, introducing a new logo and brand proposition, marking a deep transformation from a platform-centric narrative to a user-value perspective, aiming to build an omni-channel symbiotic ecosystem and inject new momentum into the high-quality development of the live streaming industry.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻主要报道斗鱼直播的品牌焕新和战略升级，属于公司层面的运营动态，未涉及具体财务数据、业绩指引或行业政策变化。此类消息通常对短期市场情绪影响有限，可能略微提振投资者对公司长期发展的信心，但缺乏直接催化剂，整体影响偏向中性。",
+      "logic_en": "The news primarily reports on DouYu Live's brand renewal and strategic upgrade, which are operational dynamics at the company level, without involving specific financial data, performance guidance, or industry policy changes. Such news typically has limited impact on short-term market sentiment, potentially slightly boosting investor confidence in the company's long-term development, but lacks direct catalysts, resulting in an overall neutral impact."
+    },
+    "related_stocks": [
+      {
+        "symbol": "DOYU",
+        "name": "斗鱼",
+        "market": "US"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:00.376Z"
+  },
+  {
+    "newsId": "Y2N0di0x5pyIOeaX",
+    "title_en": "January 9th: RMB Central Parity Rate Against USD Set at 7.0128, Up 69 Basis Points",
+    "summary_cn": "中国人民银行授权中国外汇交易中心公布，2025年1月9日人民币对美元中间价为7.0128元，较前一日上调69个基点。这显示人民币汇率有所升值，反映央行对汇率市场的调控。",
+    "summary_en": "The People's Bank of China authorized the China Foreign Exchange Trade System to announce that on January 9, 2025, the central parity rate of RMB against USD was set at 7.0128, up 69 basis points from the previous day. This indicates a slight appreciation of the RMB, reflecting the central bank's management of the exchange rate market.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "人民币汇率",
+        "A股市场",
+        "港股市场"
+      ],
+      "affected_markets_en": [
+        "RMB Exchange Rate",
+        "A-share Market",
+        "Hong Kong Stock Market"
+      ],
+      "logic": "人民币中间价上调69个基点，显示人民币短期升值倾向，可能提振市场对人民币资产的信心，利好A股和港股，因人民币升值有助于降低进口成本和吸引外资流入。",
+      "logic_en": "The upward adjustment of the RMB central parity rate by 69 basis points indicates a short-term appreciation trend, which may boost market confidence in RMB-denominated assets. This is bullish for A-shares and Hong Kong stocks, as RMB appreciation helps reduce import costs and attract foreign capital inflows."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:31:55.925Z"
+  },
+  {
+    "newsId": "Y2N0di3lj5HmjKXm",
+    "title_en": "Leverage Policy Integration Effects to Enhance Macroeconomic Governance Efficiency",
+    "summary_cn": "宏观政策是保障中国经济平稳运行和高质量发展的关键。2025年首次实施更积极的财政政策和适度宽松的货币政策，推动经济回升向好。2026年将继续实施积极有为的宏观政策，发挥政策集成效应，加大逆周期和跨周期调节力度，提升治理效能。",
+    "summary_en": "Macro policies are crucial for China's stable economic operation and high-quality development. In 2025, China implemented more proactive fiscal policy and moderately accommodative monetary policy for the first time, boosting economic recovery. In 2026, proactive macro policies will continue, leveraging policy integration effects and strengthening counter-cyclical and cross-cyclical adjustments to enhance governance efficiency.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻强调2026年将继续实施积极有为的宏观政策，包括更积极的财政政策和适度宽松的货币政策，这有助于稳定经济增长预期，提振市场信心。政策集成效应和加大逆周期调节力度可能改善企业盈利环境，对A股市场整体构成利好，尤其利好周期性行业和金融板块。",
+      "logic_en": "The news emphasizes that proactive macro policies, including more active fiscal policy and moderately accommodative monetary policy, will continue in 2026, which helps stabilize economic growth expectations and boost market confidence. The policy integration effects and strengthened counter-cyclical adjustments may improve corporate profitability, generally benefiting the A-share market, especially cyclical industries and financial sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.75,
+    "analyzedAt": "2026-01-09T03:31:57.271Z"
+  },
+  {
+    "newsId": "Y2N0di3ku6Xml6fm",
+    "title_en": "Sales of Goods Related to Old-for-New Replacement Reach 3.92 Trillion Yuan",
+    "summary_cn": "商务部数据显示，自2024年消费品以旧换新政策实施以来，相关商品销售额达3.92万亿元，惠及4.94亿人次。具体包括汽车以旧换新超1830万辆、家电以旧换新超1.92亿件、手机等数码产品购新超9100万部。该政策有效刺激了消费需求，促进了相关行业增长。",
+    "summary_en": "According to the Ministry of Commerce, since the implementation of the old-for-new replacement policy for consumer goods in 2024, sales of related goods have reached 3.92 trillion yuan, benefiting 494 million people. This includes over 18.3 million vehicles, over 192 million home appliances, and over 91 million digital products like mobile phones. The policy has effectively stimulated consumer demand and boosted growth in related industries.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "该新闻显示以旧换新政策显著拉动消费，销售额达3.92万亿元，表明政策效果积极，可能提振市场对消费板块和相关制造业的信心。汽车、家电和数码产品销量增长，有助于相关上市公司业绩改善，从而对A股市场产生正面情绪影响。",
+      "logic_en": "The news indicates that the old-for-new replacement policy has significantly boosted consumption, with sales reaching 3.92 trillion yuan, suggesting positive policy outcomes that may enhance market confidence in the consumer sector and related manufacturing industries. Increased sales of vehicles, home appliances, and digital products could improve the performance of related listed companies, thereby generating positive sentiment for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-09T03:31:58.431Z"
+  },
+  {
+    "newsId": "Y2N0di3jgJDigJzl",
+    "title_en": "A Good Start and Steady Progress for the '15th Five-Year Plan': New Year, New Beginning, Hard Work Promotes Development",
+    "summary_cn": "新年伊始，各地出台务实新举措，旨在实现“十五五”良好开局，促进经济高质量发展。新闻强调实干精神，为中长期发展奠定基础。",
+    "summary_en": "At the start of the new year, various regions have introduced practical new measures to achieve a good beginning for the '15th Five-Year Plan' and promote high-quality economic development. The news emphasizes a spirit of hard work, laying the foundation for medium- to long-term growth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻强调各地出台务实措施促进经济高质量发展，这有助于提振市场对“十五五”期间经济增长的预期，可能增强投资者信心，对A股市场构成积极情绪支撑。",
+      "logic_en": "The news highlights practical measures introduced by various regions to promote high-quality economic development, which may boost market expectations for economic growth during the '15th Five-Year Plan' period, potentially enhancing investor confidence and providing positive sentiment support for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:31:54.913Z"
+  },
+  {
+    "newsId": "Y2N0di3luILlnLrn",
+    "title_en": "State Administration for Market Regulation Releases Two National Standards for Infant and Child Products",
+    "summary_cn": "市场监管总局近日批准发布两项婴童用品国家标准，涉及便携式婴儿睡篮技术要求和挥发性有机物释放量测定。新标准聚焦质量安全，构建产品要求与检测方法协同的标准体系，旨在守护婴童健康。",
+    "summary_en": "The State Administration for Market Regulation has recently approved and released two national standards for infant and child products, covering technical requirements for portable infant sleeping baskets and the determination of volatile organic compound emissions. The new standards focus on quality and safety, establishing a coordinated system of product requirements and testing methods to safeguard children's health.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻发布婴童用品国家标准，旨在提升产品质量安全，可能对相关行业（如婴童用品制造）产生长期规范作用，但未涉及具体政策变动或经济数据，短期对金融市场直接影响有限，市场情绪偏向中性。",
+      "logic_en": "The news announces national standards for infant and child products, aiming to improve product quality and safety, which may have long-term regulatory effects on related industries (e.g., infant product manufacturing). However, it does not involve specific policy changes or economic data, so the short-term direct impact on financial markets is limited, with market sentiment leaning neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:14.224Z"
+  },
+  {
+    "newsId": "Y2N0di3mmJ/nkZ7p",
+    "title_en": "Xingrui Group Chairman Lu Zhuangwen: 'Anchoring 'Smart Healthcare and Elderly Care', Serving National Strategy with Innovation and Practical Action'",
+    "summary_cn": "星瑞集团董事长吕状文在接受专访时表示，习近平总书记的新年贺词为民营企业提供了根本遵循。他强调集团将锚定'智慧医养'领域，以创新实干服务国家战略。这体现了民营企业对国家政策的积极响应和战略转型。",
+    "summary_en": "Xingrui Group Chairman Lu Zhuangwen stated in an interview that President Xi Jinping's New Year address provides fundamental guidance for private enterprises. He emphasized the group's focus on the 'smart healthcare and elderly care' sector, serving national strategy through innovation and practical action. This reflects private enterprises' active response to national policies and strategic transformation.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道星瑞集团董事长表态支持国家战略并聚焦智慧医养领域，这属于企业战略宣示，未涉及具体财务数据、政策变动或市场事件，对整体金融市场影响有限。可能轻微提振相关行业情绪，但无直接利多或利空驱动。",
+      "logic_en": "The news primarily reports Xingrui Group Chairman's statement supporting national strategy and focusing on the smart healthcare and elderly care sector. This is a corporate strategic announcement without specific financial data, policy changes, or market events, having limited impact on overall financial markets. It may slightly boost sentiment in related industries but lacks direct bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:15.308Z"
+  },
+  {
+    "newsId": "Y2N0di3msqrlroHl",
+    "title_en": "Shanghai-Nanjing-Hefei High-Speed Rail Nanjing Grand Bridge Cross-Chuhe River Cable-Stayed Bridge Closes",
+    "summary_cn": "沪宁合高铁控制性工程——南京特大桥跨滁河斜拉桥于1月8日合龙，标志着主体工程全面完工，转入桥面系施工阶段。该桥梁跨越数百米水域实现精准对接，是高铁建设的重要进展。",
+    "summary_en": "The cross-Chuhe River cable-stayed bridge of the Shanghai-Nanjing-Hefei high-speed rail Nanjing Grand Bridge closed on January 8, marking the completion of the main structure and transition to deck system construction. The bridge achieved precise connection over hundreds of meters of water, representing a key milestone in high-speed rail development.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻报道高铁基础设施建设的工程进展，属于常规项目更新，未涉及政策变化、资金投入或公司业绩等直接影响市场的因素。此类新闻通常对短期市场情绪和价格无显著影响，可能长期利好相关基建板块，但当前信息不足以判断具体方向。",
+      "logic_en": "The news reports progress on high-speed rail infrastructure construction, which is a routine project update without direct market impacts such as policy changes, funding announcements, or corporate earnings. Such news typically has no significant effect on short-term market sentiment or prices, though it may be mildly positive for the infrastructure sector in the long term, but current information is insufficient to determine a specific direction."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-09T03:32:16.012Z"
+  },
+  {
+    "newsId": "Y2N0di3kuLrkvZXl",
+    "title_en": "Why the World is Focusing on Super Artificial Intelligence (Commentator Connection)",
+    "summary_cn": "新闻讨论了全球对超级人工智能的关注，可能涉及技术发展、经济影响或政策讨论。作为评论员连线，内容可能分析AI趋势、市场预期或行业动态，但未提供具体事件或数据。",
+    "summary_en": "The news discusses global attention on super artificial intelligence, potentially covering technological advancements, economic impacts, or policy debates. As a commentator connection, it may analyze AI trends, market expectations, or industry dynamics without specific events or data.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻内容为评论性讨论，未提及具体政策、数据或公司事件，对市场无直接利多或利空影响。可能间接影响AI相关板块情绪，但缺乏明确因果逻辑，整体市场方向倾向中性。",
+      "logic_en": "The news content is a commentary discussion without specific policies, data, or corporate events, having no direct bullish or bearish impact on markets. It may indirectly affect sentiment in AI-related sectors, but lacks clear causal logic, resulting in an overall neutral market direction."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:13.564Z"
+  },
+  {
+    "newsId": "Y2N0di3oiKrnqbrm",
+    "title_en": "Aviation Population Exceeds 500 Million, Witnessing Comprehensive National Strength Leap",
+    "summary_cn": "新闻指出中国航空总人口已超过5亿，反映了天空交通日益繁忙。这被视为国家综合国力提升的体现，强调了航空业在经济社会发展中的重要作用。",
+    "summary_en": "The news reports that China's aviation population has surpassed 500 million, indicating increasingly busy air traffic. This is seen as a reflection of the country's comprehensive national strength enhancement, highlighting the aviation industry's role in economic and social development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "航空运输指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Aviation Transportation Index"
+      ],
+      "logic": "新闻显示航空人口增长和综合国力提升，可能提振市场对航空及相关产业（如机场、飞机制造）的乐观预期，增强投资者信心，从而对相关市场产生积极影响。",
+      "logic_en": "The news indicates growth in aviation population and enhancement of comprehensive national strength, which may boost market optimism towards aviation and related industries (e.g., airports, aircraft manufacturing), enhancing investor confidence and positively impacting relevant markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:13.359Z"
+  },
+  {
+    "newsId": "Y2N0di3ljLvkv53k",
+    "title_en": "What are the benefits of the latest work notice on cross-province pooling of medical insurance personal accounts? Official interpretation",
+    "summary_cn": "国家医保局与财政部联合印发通知，部署职工基本医疗保险个人账户跨省共济工作。该政策旨在优化医保资源配置，提升个人账户使用效率。官方解读强调此举将便利参保人员异地就医结算。",
+    "summary_en": "The National Healthcare Security Administration and the Ministry of Finance jointly issued a notice to deploy cross-province pooling of employee basic medical insurance personal accounts. The policy aims to optimize medical insurance resource allocation and improve the efficiency of personal account usage. Official interpretation highlights that this will facilitate cross-region medical expense settlement for insured individuals.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该政策主要涉及社会保障体系优化，对金融市场直接影响有限。可能间接利好医疗健康相关板块，但未明确提及具体公司或资金流向变化，市场预期偏向中性。",
+      "logic_en": "The policy primarily involves optimization of the social security system, with limited direct impact on financial markets. It may indirectly benefit the healthcare sector, but no specific companies or capital flow changes are mentioned, leading to a neutral market expectation."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:13.458Z"
+  },
+  {
+    "newsId": "Y2N0di3kvKDljJbp",
+    "title_en": "Chuanhua Group Chairman Xu Guanyu: 'Embrace the AI Era, Fully Promote Entrepreneurship and Innovation, and Win a New Future Through Transformative Development'",
+    "summary_cn": "传化集团董事长徐冠巨在新年之际发表讲话，强调企业应积极拥抱人工智能时代，全面推动创业创新，通过变革发展来赢得未来。讲话聚焦于企业战略转型和科技驱动发展，旨在激发内部活力和外部竞争力。",
+    "summary_en": "Chuanhua Group Chairman Xu Guanyu delivered a speech at the start of the new year, emphasizing that enterprises should actively embrace the AI era, fully promote entrepreneurship and innovation, and win the future through transformative development. The speech focuses on corporate strategic transformation and technology-driven growth, aiming to stimulate internal vitality and external competitiveness.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻为传化集团董事长的战略表态，强调AI和创新发展，可能提升市场对传化集团及其所在行业的长期信心，但未涉及具体财务数据或政策变动，短期影响有限。整体上，这反映了企业积极应对科技趋势的正面信号，但对整体市场方向无直接利多或利空驱动。",
+      "logic_en": "This news is a strategic statement from Chuanhua Group's chairman, emphasizing AI and innovation-driven development, which may boost long-term market confidence in Chuanhua Group and its industry. However, it does not involve specific financial data or policy changes, limiting short-term impact. Overall, it reflects a positive signal of enterprises actively responding to technological trends, but has no direct bullish or bearish drivers for the overall market direction."
+    },
+    "related_stocks": [
+      {
+        "symbol": "002010.SZ",
+        "name": "传化智联",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:18.212Z"
+  },
+  {
+    "newsId": "Y2N0di3phILopb/l",
+    "title_en": "Unconventional Oil and Gas Survey in Western Hubei Yields Industrial Gas Flow",
+    "summary_cn": "中国地质科研人员在鄂西地区二叠系页岩层系实现非常规油气工业气流突破，开拓了新层系新类型。新增页岩气地质资源量达1329.5亿立方米，标志着页岩气勘探从四川盆地向鄂西地区有效拓展。",
+    "summary_en": "Chinese geological researchers have achieved a breakthrough in unconventional oil and gas industrial gas flow in the Permian shale formations in western Hubei, opening up new layers and types. The newly added shale gas geological resources amount to 1329.5 billion cubic meters, marking an effective expansion of shale gas exploration from the Sichuan Basin to western Hubei.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "能源板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Energy Sector"
+      ],
+      "logic": "新闻显示中国在非常规油气资源勘探取得重大进展，新增大量页岩气资源，可能提升国内能源自给能力和相关产业链预期，对能源板块和整体市场情绪有积极影响。",
+      "logic_en": "The news indicates a significant breakthrough in China's unconventional oil and gas resource exploration, adding substantial shale gas resources, which may enhance domestic energy self-sufficiency expectations and boost sentiment in the energy sector and broader market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-09T03:32:14.485Z"
   }
 ]
