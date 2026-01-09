@@ -9,8 +9,8 @@ import '../globals.css'
 
 // Metadata 配置
 export const metadata: Metadata = {
-  title: 'Perps News - 永续合约财经新闻',
-  description: 'AI 驱动的财经新闻分析平台，专注于永续合约市场动态',
+  title: 'Perps News',
+  description: 'AI 驱动的财经新闻分析平台',
   icons: {
     icon: [
       { url: '/favicon.svg', type: 'image/svg+xml' },
