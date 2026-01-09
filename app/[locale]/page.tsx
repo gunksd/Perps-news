@@ -47,10 +47,15 @@ function calculateImportance(newsItem: RawNews, analysis: NewsAnalysis | undefin
       score += 2
     }
   }
+
+  // 时效性评分（改进：使用平滑衰减）
   const hoursAgo = (Date.now() - new Date(newsItem.time).getTime()) / (1000 * 60 * 60)
-  if (hoursAgo < 2) score += 5
-  else if (hoursAgo < 6) score += 3
-  else if (hoursAgo < 12) score += 1
+  if (hoursAgo < 2) score += 8       // 2小时内：非常新
+  else if (hoursAgo < 6) score += 6  // 6小时内：很新
+  else if (hoursAgo < 12) score += 4 // 12小时内：较新
+  else if (hoursAgo < 24) score += 2 // 24小时内：一天内
+  else if (hoursAgo < 48) score += 1 // 48小时内：两天内
+
   score += calculateKeywordScore(newsItem)
   return score
 }
@@ -60,7 +65,8 @@ async function getNewsData() {
     const store = new FileStore()
     await store.init()
 
-    const news = await store.getTodayNews()
+    // 改为获取最近48小时的新闻，避免凌晨空白
+    const news = await store.getRecentNews(48)
     const analyses = await store.loadAnalyses()
 
     const combined = news.map(newsItem => {
@@ -114,7 +120,7 @@ export default async function HomePage({ params: { locale } }: { params: { local
               {t('news.title')}
             </h2>
             <span className="text-sm text-gray-500 dark:text-gray-400">
-              {locale === 'zh' ? '今日最重要的20条新闻' : 'Top 20 Important News Today'}
+              {locale === 'zh' ? '最近48小时的重要新闻' : 'Top News in Last 48 Hours'}
             </span>
           </div>
 

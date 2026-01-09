@@ -210,6 +210,19 @@ export class FileStore {
   }
 
   /**
+   * 获取最近N小时的新闻（避免凌晨空白期）
+   */
+  async getRecentNews(hours: number = 48): Promise<RawNews[]> {
+    const allNews = await this.loadNews()
+    const cutoffTime = Date.now() - hours * 60 * 60 * 1000
+
+    return allNews.filter(news => {
+      const newsTime = new Date(news.time).getTime()
+      return newsTime >= cutoffTime
+    }).sort((a, b) => new Date(b.time).getTime() - new Date(a.time).getTime())
+  }
+
+  /**
    * 保存指数数据
    */
   async saveIndices(indices: IndexData[]): Promise<void> {
