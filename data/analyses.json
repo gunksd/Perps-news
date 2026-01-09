@@ -4562,5 +4562,22 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-09T03:32:14.485Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3muK/o",
+    "title_en": "中港联盈总裁穆佳音：“技术攻坚、开放协同，赋能实体经济发展”",
+    "summary_cn": "该新闻内容因触发内容过滤器而无法分析。",
+    "summary_en": "Content filtered - unable to analyze.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [],
+      "affected_markets_en": [],
+      "logic": "内容被过滤",
+      "logic_en": "Content filtered"
+    },
+    "related_stocks": [],
+    "confidence": 0,
+    "analyzedAt": "2026-01-09T04:05:52.397Z"
   }
 ]
