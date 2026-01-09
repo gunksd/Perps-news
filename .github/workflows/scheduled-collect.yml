@@ -54,7 +54,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/*.json
+          git add data/
           git commit -m "🤖 自动更新: $(date '+%Y-%m-%d %H:%M:%S') 采集新闻数据"
           git push
 
