@@ -67,8 +67,8 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
             "w-full mb-4 p-4 rounded-xl",
             "bg-gradient-to-r from-primary/10 via-primary/5 to-primary/10",
             "border-2 border-primary/20",
-            "hover:border-primary/40 hover:shadow-lg hover:shadow-primary/10",
-            "transition-all duration-300",
+            "hover:border-primary/40",
+            "transition-colors",
             "group"
           )}
         >
@@ -116,7 +116,7 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
 
               {/* 展开图标 */}
               <svg
-                className="w-6 h-6 text-primary group-hover:scale-110 transition-transform"
+                className="w-6 h-6 text-primary"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -197,8 +197,8 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
                       onClick={() => scrollToNews(item.news.id)}
                       className={cn(
                         "group flex items-start gap-3 p-3 rounded-xl text-left",
-                        "transition-all duration-200",
-                        "hover:bg-primary/10 hover:shadow-md hover:shadow-primary/5",
+                        "transition-colors",
+                        "hover:bg-primary/10",
                         "border border-border/50 hover:border-primary/30"
                       )}
                     >
@@ -229,7 +229,7 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
 
                       {/* 箭头指示 */}
                       <svg
-                        className="w-5 h-5 text-muted-foreground group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1"
+                        className="w-5 h-5 text-muted-foreground group-hover:text-primary transition-colors flex-shrink-0 mt-1"
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"
