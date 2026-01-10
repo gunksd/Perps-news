@@ -184,7 +184,8 @@ async function updateIndices() {
 async function analyzeNews() {
   console.log('[Analyze] Starting news analysis...')
 
-  const news = await store.getTodayNews()
+  // 改为获取最近48小时的新闻，与页面显示逻辑保持一致
+  const news = await store.getRecentNews(48)
   const existingAnalyses = await store.loadAnalyses()
   const existingIds = new Set(existingAnalyses.map(a => a.newsId))
 
@@ -262,7 +263,8 @@ async function analyzeNews() {
 async function generateSummaries() {
   console.log('[Summary] Generating market impact summaries...')
 
-  const news = await store.getTodayNews()
+  // 改为获取最近48小时的新闻，与页面显示逻辑保持一致
+  const news = await store.getRecentNews(48)
   const analyses = await store.loadAnalyses()
 
   if (analyses.length === 0) {
