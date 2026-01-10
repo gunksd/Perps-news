@@ -5355,5 +5355,47 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-09T14:15:15.679Z"
+  },
+  {
+    "newsId": "Y2N0di3kuInkuKrl",
+    "title_en": "Three Keywords to See the Vitality of the Private Economy Bursting Forth",
+    "summary_cn": "新闻以三个关键词探讨民营经济活力迸发，但内容仅以问句形式提及卫星重量，缺乏具体细节。整体信息不完整，难以进行深入分析。",
+    "summary_en": "The news discusses the vitality of the private economy through three keywords, but the content only mentions satellite weight in a question form, lacking specific details. Overall information is incomplete, making in-depth analysis difficult.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻内容过于简略且不完整，仅提及民营经济和卫星相关话题，但无具体政策、数据或事件支撑，无法判断对市场的影响方向。可能引发对民营经济或航天领域的关注，但信息不足导致市场预期变化不明确。",
+      "logic_en": "The news content is too brief and incomplete, only mentioning topics related to the private economy and satellites, but lacks specific policies, data, or events to support any market impact. It may draw attention to the private economy or aerospace sector, but insufficient information leads to unclear changes in market expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.3,
+    "analyzedAt": "2026-01-10T03:37:33.709Z"
+  },
+  {
+    "newsId": "Y2N0di3nrKw0NeWx",
+    "title_en": "The 45th China Fresh Corn Conference Held in Mangshi, Yunnan",
+    "summary_cn": "第45届中国鲜食玉米大会在云南芒市举行，来自全国各地的行业嘉宾参与品种观摩、品鉴和产业考察，共谋产业长远发展。",
+    "summary_en": "The 45th China Fresh Corn Conference was held in Mangshi, Yunnan, with industry guests from across the country participating in variety observation, tasting, and industrial base inspections to discuss long-term industry development.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道行业会议活动，未涉及具体政策、数据或公司业绩变化，对金融市场无直接或显著影响，属于中性信息。",
+      "logic_en": "The news primarily reports an industry conference event without involving specific policies, data, or corporate performance changes, having no direct or significant impact on financial markets, thus it is neutral information."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-10T03:37:32.225Z"
   }
 ]
