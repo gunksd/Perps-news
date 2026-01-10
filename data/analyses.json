@@ -5397,5 +5397,70 @@
     "related_stocks": [],
     "confidence": 0.9,
     "analyzedAt": "2026-01-10T03:37:32.225Z"
+  },
+  {
+    "newsId": "Y2N0di3mk6bkuq7l",
+    "title_en": "Polishing the City's New Industrial Name Card: Nanjing Releases Cross-border E-commerce Talent 'Cultivation Plan'",
+    "summary_cn": "1月9日，南京市举办跨境电商人才培养交流大会，发布了'全层级人才培育计划'。该计划旨在通过政府、院校、协会和企业合作，培养跨境电商人才，以提升城市产业竞争力。会议吸引了200多位代表参与，标志着南京在跨境电商领域的人才战略正式启动。",
+    "summary_en": "On January 9, Nanjing held a cross-border e-commerce talent cultivation exchange conference and launched the 'Comprehensive Talent Cultivation Plan'. The plan aims to foster cross-border e-commerce talent through collaboration among government, educational institutions, associations, and enterprises to enhance the city's industrial competitiveness. The event attracted over 200 representatives, marking the official start of Nanjing's talent strategy in the cross-border e-commerce sector.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及地方政府人才政策，对金融市场直接影响有限。长期可能通过促进跨境电商产业发展，间接利好相关行业，但短期市场反应预计中性，无明确利多或利空信号。",
+      "logic_en": "The news involves local government talent policy, with limited direct impact on financial markets. In the long term, it may indirectly benefit related industries by promoting cross-border e-commerce development, but short-term market reaction is expected to be neutral, with no clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T07:54:40.260Z"
+  },
+  {
+    "newsId": "Y2N0di3mjqLorr/l",
+    "title_en": "Exploring Guangxi Daxin Sugar Mill's New Crushing Season: The 'Management Experience' of a Cross-Border Supply Chain",
+    "summary_cn": "新闻探访广西大新糖厂新榨季，描述其自动化生产线高效运转、智能控制系统和洁净车间，展现现代化国有糖企的新气象。报道聚焦糖业供应链管理，强调技术进步和效率提升。",
+    "summary_en": "The news visits Guangxi Daxin Sugar Mill's new crushing season, describing its automated production lines running efficiently, intelligent control systems, and clean workshops, showcasing the new outlook of a modern state-owned sugar enterprise. The report focuses on sugar industry supply chain management, emphasizing technological advancement and efficiency improvements.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道糖厂生产管理和技术进步，属于行业运营描述，未涉及重大政策、供需变化或财务数据。可能轻微提振市场对糖业板块情绪，但无直接利多或利空驱动，整体影响有限。",
+      "logic_en": "The news primarily reports on sugar mill production management and technological progress, which is descriptive of industry operations without involving major policies, supply-demand changes, or financial data. It may slightly boost sentiment in the sugar sector, but lacks direct bullish or bearish drivers, resulting in limited overall impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T07:54:40.055Z"
+  },
+  {
+    "newsId": "Y2N0di3nmb7lp5Pi",
+    "title_en": "People's 'Vegetable Basket' Abundant and Fresh, Local Specialties Ignite New Engine for 'New Year Goods Economy'",
+    "summary_cn": "央视网报道，随着气温降低，北方室外无法种植瓜菜，海南三亚的冬季瓜菜销售进入旺季。元旦后，三亚每日冬季瓜菜交易量约200万斤，显示农产品供应充足。新闻强调百姓'菜篮子'物丰量足，土特产成为'年货经济'新引擎，反映消费市场活力。",
+    "summary_en": "CCTV reports that as temperatures drop, outdoor vegetable cultivation in northern China is halted, while winter vegetable sales in Sanya, Hainan, enter peak season. After New Year's Day, daily winter vegetable transactions in Sanya reach around 2 million jin, indicating ample agricultural supply. The news highlights abundant 'vegetable basket' goods for people, with local specialties driving the 'New Year goods economy', reflecting consumer market vitality.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻显示农产品供应稳定、消费需求旺盛，特别是'年货经济'被土特产点燃，可能提振市场对消费板块的信心，利好相关指数。这反映了经济基本面的积极信号，如内需增强和供应链顺畅，可能改善市场情绪。",
+      "logic_en": "The news indicates stable agricultural supply and strong consumer demand, especially with local specialties boosting the 'New Year goods economy', which may enhance market confidence in the consumer sector, benefiting related indices. This reflects positive economic fundamentals, such as increased domestic demand and smooth supply chains, potentially improving market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T07:54:41.840Z"
   }
 ]
