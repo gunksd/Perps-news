@@ -1,5 +1,6 @@
 'use client'
 
+import { useState } from 'react'
 import { useTranslations } from 'next-intl'
 import { RawNews } from '@/lib/types/news'
 import { NewsAnalysis } from '@/lib/types/analysis'
@@ -12,6 +13,7 @@ interface NewsDirectoryProps {
 
 export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps) {
   const t = useTranslations()
+  const [isExpanded, setIsExpanded] = useState(false)
 
   const scrollToNews = (newsId: string) => {
     const element = document.getElementById(`news-${newsId}`)
@@ -22,6 +24,8 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
       setTimeout(() => {
         element.classList.remove('highlight-pulse')
       }, 2000)
+      // 关闭目录
+      setIsExpanded(false)
     }
   }
 
@@ -54,76 +58,190 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
   }
 
   return (
-    <div className="bg-card/50 backdrop-blur-sm rounded-xl border border-border/50 p-6 mb-6">
-      <div className="flex items-center justify-between mb-4">
-        <h3 className="text-lg font-semibold text-foreground flex items-center gap-2">
-          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h7" />
-          </svg>
-          {locale === 'zh' ? '新闻目录' : 'News Directory'}
-        </h3>
-        <span className="text-sm text-muted-foreground">
-          {newsItems.length} {locale === 'zh' ? '条' : 'items'}
-        </span>
-      </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-2 max-h-[400px] overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-primary/20 scrollbar-track-transparent">
-        {newsItems.map((item, index) => {
-          const direction = item.analysis?.market_impact
-            ? (locale === 'en' && item.analysis.market_impact.direction_en
-                ? item.analysis.market_impact.direction_en
-                : item.analysis.market_impact.direction)
-            : undefined
-
-          return (
-            <button
-              key={item.news.id}
-              onClick={() => scrollToNews(item.news.id)}
-              className={cn(
-                "group flex items-start gap-3 p-3 rounded-lg text-left",
-                "transition-all duration-200",
-                "hover:bg-primary/5 hover:shadow-sm",
-                "border border-transparent hover:border-primary/20"
-              )}
-            >
-              {/* 序号和方向图标 */}
-              <div className="flex flex-col items-center gap-1 flex-shrink-0">
-                <span className="text-xs font-medium text-muted-foreground w-6 h-6 rounded-full bg-muted/50 flex items-center justify-center">
-                  {index + 1}
-                </span>
-                <span className={cn("text-lg font-bold", getDirectionColor(direction))}>
-                  {getDirectionIcon(direction)}
-                </span>
+    <>
+      {/* 收缩状态 - 顶部栏 */}
+      {!isExpanded && (
+        <button
+          onClick={() => setIsExpanded(true)}
+          className={cn(
+            "w-full mb-4 p-4 rounded-xl",
+            "bg-gradient-to-r from-primary/10 via-primary/5 to-primary/10",
+            "border-2 border-primary/20",
+            "hover:border-primary/40 hover:shadow-lg hover:shadow-primary/10",
+            "transition-all duration-300",
+            "group"
+          )}
+        >
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <div className="p-2 rounded-lg bg-primary/10 group-hover:bg-primary/20 transition-colors">
+                <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h7" />
+                </svg>
               </div>
-
-              {/* 新闻标题 */}
-              <div className="flex-1 min-w-0">
-                <p className="text-sm font-medium text-foreground line-clamp-2 group-hover:text-primary transition-colors">
-                  {item.news.title}
+              <div className="text-left">
+                <h3 className="text-sm font-semibold text-foreground">
+                  {locale === 'zh' ? '📑 新闻目录' : '📑 News Directory'}
+                </h3>
+                <p className="text-xs text-muted-foreground">
+                  {locale === 'zh' ? `点击展开 ${newsItems.length} 条新闻` : `Click to expand ${newsItems.length} items`}
                 </p>
-                <div className="flex items-center gap-2 mt-1">
-                  <span className="text-xs text-muted-foreground">
-                    {item.news.source.toUpperCase()}
+              </div>
+            </div>
+
+            <div className="flex items-center gap-4">
+              {/* 快速统计 */}
+              <div className="hidden sm:flex items-center gap-3 text-xs">
+                <span className="flex items-center gap-1">
+                  <span className="text-positive font-bold">↑</span>
+                  <span className="text-muted-foreground">
+                    {newsItems.filter(item => {
+                      const dir = item.analysis?.market_impact?.direction
+                      return dir === '利多' || dir === 'Bullish'
+                    }).length}
                   </span>
-                  <span className="text-xs text-muted-foreground">
-                    {new Date(item.news.time).toLocaleDateString(locale === 'zh' ? 'zh-CN' : 'en-US')}
+                </span>
+                <span className="flex items-center gap-1">
+                  <span className="text-negative font-bold">↓</span>
+                  <span className="text-muted-foreground">
+                    {newsItems.filter(item => {
+                      const dir = item.analysis?.market_impact?.direction
+                      return dir === '利空' || dir === 'Bearish'
+                    }).length}
                   </span>
-                </div>
+                </span>
               </div>
 
-              {/* 箭头指示 */}
+              {/* 展开图标 */}
               <svg
-                className="w-4 h-4 text-muted-foreground group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1"
+                className="w-6 h-6 text-primary group-hover:scale-110 transition-transform"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
               >
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
               </svg>
-            </button>
-          )
-        })}
-      </div>
-    </div>
+            </div>
+          </div>
+        </button>
+      )}
+
+      {/* 展开状态 - 弹出式面板 */}
+      {isExpanded && (
+        <div
+          className="fixed inset-0 z-50 flex items-start justify-center pt-20 px-4"
+          onClick={() => setIsExpanded(false)}
+        >
+          {/* 背景遮罩 */}
+          <div className="absolute inset-0 bg-background/80 backdrop-blur-sm" />
+
+          {/* 目录内容 */}
+          <div
+            className={cn(
+              "relative w-full max-w-4xl max-h-[70vh]",
+              "bg-card/95 backdrop-blur-md rounded-2xl",
+              "border-2 border-primary/30 shadow-2xl shadow-primary/20",
+              "animate-in slide-in-from-top-10 duration-300"
+            )}
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* 头部 */}
+            <div className="sticky top-0 z-10 bg-card/95 backdrop-blur-md border-b border-border px-6 py-4 rounded-t-2xl">
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-3">
+                  <div className="p-2 rounded-lg bg-primary/10">
+                    <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="text-lg font-semibold text-foreground">
+                      {locale === 'zh' ? '新闻目录' : 'News Directory'}
+                    </h3>
+                    <p className="text-sm text-muted-foreground">
+                      {locale === 'zh' ? '点击新闻快速跳转' : 'Click to jump to news'}
+                    </p>
+                  </div>
+                </div>
+
+                <button
+                  onClick={() => setIsExpanded(false)}
+                  className={cn(
+                    "p-2 rounded-lg",
+                    "hover:bg-muted transition-colors",
+                    "text-muted-foreground hover:text-foreground"
+                  )}
+                >
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+
+            {/* 目录列表 */}
+            <div className="overflow-y-auto p-6 max-h-[calc(70vh-80px)]">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                {newsItems.map((item, index) => {
+                  const direction = item.analysis?.market_impact
+                    ? (locale === 'en' && item.analysis.market_impact.direction_en
+                        ? item.analysis.market_impact.direction_en
+                        : item.analysis.market_impact.direction)
+                    : undefined
+
+                  return (
+                    <button
+                      key={item.news.id}
+                      onClick={() => scrollToNews(item.news.id)}
+                      className={cn(
+                        "group flex items-start gap-3 p-3 rounded-xl text-left",
+                        "transition-all duration-200",
+                        "hover:bg-primary/10 hover:shadow-md hover:shadow-primary/5",
+                        "border border-border/50 hover:border-primary/30"
+                      )}
+                    >
+                      {/* 序号和方向图标 */}
+                      <div className="flex flex-col items-center gap-1 flex-shrink-0">
+                        <span className="text-xs font-medium text-muted-foreground w-7 h-7 rounded-full bg-muted/50 flex items-center justify-center group-hover:bg-primary/20 group-hover:text-primary transition-colors">
+                          {index + 1}
+                        </span>
+                        <span className={cn("text-lg font-bold", getDirectionColor(direction))}>
+                          {getDirectionIcon(direction)}
+                        </span>
+                      </div>
+
+                      {/* 新闻标题 */}
+                      <div className="flex-1 min-w-0">
+                        <p className="text-sm font-medium text-foreground line-clamp-2 group-hover:text-primary transition-colors">
+                          {item.news.title}
+                        </p>
+                        <div className="flex items-center gap-2 mt-1.5">
+                          <span className="text-xs px-2 py-0.5 rounded-full bg-primary/10 text-primary font-medium">
+                            {item.news.source.toUpperCase()}
+                          </span>
+                          <span className="text-xs text-muted-foreground">
+                            {new Date(item.news.time).toLocaleDateString(locale === 'zh' ? 'zh-CN' : 'en-US')}
+                          </span>
+                        </div>
+                      </div>
+
+                      {/* 箭头指示 */}
+                      <svg
+                        className="w-5 h-5 text-muted-foreground group-hover:text-primary group-hover:translate-x-1 transition-all flex-shrink-0 mt-1"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      </svg>
+                    </button>
+                  )
+                })}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+    </>
   )
 }

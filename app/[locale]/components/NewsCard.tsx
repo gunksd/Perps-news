@@ -116,9 +116,8 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
       <Card
         className={cn(
           "relative overflow-hidden",
-          "border-l-4 transition-all duration-300 ease-out",
-          "hover:shadow-xl hover:shadow-primary/10",
-          "hover:-translate-y-1 hover:scale-[1.01]",
+          "border-l-4 transition-all duration-200",
+          "hover:shadow-lg hover:shadow-primary/5",
           "bg-gradient-to-br from-card via-card to-card/80",
           getBorderColor(direction)
         )}
