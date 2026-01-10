@@ -25,8 +25,8 @@ export default function SummaryPanel() {
 
   useEffect(() => {
     fetchSummaries()
-    const interval = setInterval(fetchSummaries, 300000) // 每5分钟刷新
-    return () => clearInterval(interval)
+    // 数据只在GitHub Actions运行时更新（每天2次），无需轮询
+    // 用户刷新页面即可获取最新数据
   }, [])
 
   const fetchSummaries = async () => {

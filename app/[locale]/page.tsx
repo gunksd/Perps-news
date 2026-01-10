@@ -155,5 +155,7 @@ export default async function HomePage({ params: { locale } }: { params: { local
   )
 }
 
-// ISR配置
-export const revalidate = 300 // 5分钟
+// 静态生成 - 依赖 Vercel 部署时重新生成
+// 数据只在 GitHub Actions 运行时更新（每天2次）
+export const dynamic = 'force-static'
+export const revalidate = false

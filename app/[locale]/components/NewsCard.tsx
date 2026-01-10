@@ -1,6 +1,7 @@
 'use client'
 
 import { useTranslations } from 'next-intl'
+import { useMemo } from 'react'
 import { RawNews } from '@/lib/types/news'
 import { NewsAnalysis } from '@/lib/types/analysis'
 
@@ -12,6 +13,18 @@ interface NewsCardProps {
 
 export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
   const t = useTranslations()
+
+  // 使用 useMemo 确保时间格式化在客户端一致
+  const formattedTime = useMemo(() => {
+    return new Date(news.time).toLocaleString(locale === 'zh' ? 'zh-CN' : 'en-US', {
+      timeZone: 'Asia/Shanghai',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+      hour: '2-digit',
+      minute: '2-digit'
+    })
+  }, [news.time, locale])
 
   const getDirectionColor = (direction: string) => {
     switch (direction) {
@@ -87,8 +100,8 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
           <span className="px-2 py-1 text-xs font-medium bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded">
             {news.source.toUpperCase()}
           </span>
-          <time className="text-sm text-gray-500 dark:text-gray-400">
-            {new Date(news.time).toLocaleString(locale === 'zh' ? 'zh-CN' : 'en-US')}
+          <time className="text-sm text-gray-500 dark:text-gray-400" suppressHydrationWarning>
+            {formattedTime}
           </time>
         </div>
         <span className={`px-2 py-1 text-xs font-medium rounded ${getDirectionBg(direction)} ${getDirectionColor(direction)}`}>

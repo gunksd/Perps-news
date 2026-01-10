@@ -9,7 +9,13 @@ const client = new SinaFinanceClient()
 export async function GET() {
   try {
     const indices = await client.getMultipleIndices(['CSI500', 'SSE', 'NASDAQ'])
-    return NextResponse.json(indices)
+
+    return NextResponse.json(indices, {
+      headers: {
+        // 浏览器缓存12小时（两次GitHub Action更新之间的间隔）
+        'Cache-Control': 'public, max-age=43200, stale-while-revalidate=86400'
+      }
+    })
   } catch (error) {
     console.error('[API /indices] Error:', error)
     return NextResponse.json(
@@ -19,5 +25,5 @@ export async function GET() {
   }
 }
 
-// 5分钟缓存
-export const revalidate = 300
+// 静态生成 - 指数数据实时从新浪获取
+export const dynamic = 'force-dynamic'
