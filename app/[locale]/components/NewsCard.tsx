@@ -111,24 +111,16 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
   return (
     <article
       id={`news-${news.id}`}
-      className="group scroll-mt-24"
+      className="scroll-mt-24"
     >
       <Card
         className={cn(
-          "relative overflow-hidden",
-          "border-l-4 transition-all duration-200",
-          "hover:shadow-lg hover:shadow-primary/5",
-          "bg-gradient-to-br from-card via-card to-card/80",
+          "relative",
+          "border-l-4",
           getBorderColor(direction)
         )}
       >
-        {/* 背景渐变装饰 */}
-        <div className="absolute inset-0 bg-gradient-to-br from-primary/[0.02] to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-
-        {/* 右上角装饰光斑 */}
-        <div className="absolute -top-10 -right-10 w-40 h-40 bg-primary/5 rounded-full blur-3xl opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-
-        <CardContent className="p-6 relative">
+        <CardContent className="p-6">
           <div className="flex items-center justify-between mb-3">
             <div className="flex items-center gap-3">
               <span className="px-3 py-1 text-xs font-medium bg-primary/10 text-primary rounded-full">
@@ -139,8 +131,7 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
               </time>
             </div>
             <span className={cn(
-              "px-3 py-1 text-xs font-semibold rounded-full transition-all",
-              "group-hover:scale-110",
+              "px-3 py-1 text-xs font-semibold rounded-full",
               getDirectionBg(direction),
               getDirectionColor(direction)
             )}>
@@ -148,7 +139,7 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
             </span>
           </div>
 
-          <h3 className="text-xl font-bold text-foreground mb-3 line-clamp-2 group-hover:text-primary transition-colors">
+          <h3 className="text-xl font-bold text-foreground mb-3 line-clamp-2">
             {title}
           </h3>
 
@@ -205,7 +196,7 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
                         className={cn(
                           "inline-flex items-center gap-1 px-3 py-1 text-xs font-medium rounded-full",
                           "bg-primary/10 text-primary",
-                          "hover:bg-primary/20 hover:scale-105 transition-all",
+                          "hover:bg-primary/20 transition-colors",
                           "border border-primary/20"
                         )}
                       >
@@ -246,7 +237,7 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
                 "text-sm font-medium text-primary",
                 "bg-primary/5 hover:bg-primary/10",
                 "border border-primary/20 hover:border-primary/40",
-                "transition-all hover:scale-105"
+                "transition-colors"
               )}
             >
               {locale === 'zh' ? '查看原文' : 'Read More'}
