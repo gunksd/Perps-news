@@ -5462,5 +5462,406 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-10T07:54:41.840Z"
+  },
+  {
+    "newsId": "Y2N0di3ov57lubPv",
+    "title_en": "Lian Ping: Direct Financing Scale Expected to Exceed Indirect Financing in China's Financial Structure in Recent Years",
+    "summary_cn": "中国首席经济学家论坛理事长连平在2026年论坛年会上表示，中国金融结构优化将进入关键阶段，直接融资比重有望超过一半，形成直接融资规模超过间接融资的趋势。这一趋势对经济发展具有多方面积极意义，有助于加快经济结构转型升级，为需要直接融资支持的领域和行业提供有力保障，推动经济高质量发展。",
+    "summary_en": "Lian Ping, Chairman of the China Chief Economists Forum, stated at the 2026 annual meeting that China's financial structure optimization will enter a critical stage in recent years, with the proportion of direct financing expected to exceed half, forming a trend where direct financing scale surpasses indirect financing. This trend has multiple positive implications for economic development, helping accelerate economic restructuring and upgrading, providing strong support for sectors and industries requiring direct financing, and promoting high-quality economic growth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指数",
+        "科创板指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index",
+        "STAR Market Index"
+      ],
+      "logic": "新闻指出中国金融结构将向直接融资倾斜，这通常利好资本市场，因为直接融资（如股票和债券发行）的增长可能提升市场活跃度和流动性，支持科技创新和新兴产业，从而对A股市场特别是成长板块产生积极情绪影响。",
+      "logic_en": "The news indicates a shift in China's financial structure towards direct financing, which is generally bullish for capital markets as increased direct financing (e.g., equity and bond issuance) could enhance market activity and liquidity, support technological innovation and emerging industries, thereby positively impacting sentiment in A-share markets, especially growth sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:11:01.157Z"
+  },
+  {
+    "newsId": "Y2N0di0yMDI25rCR",
+    "title_en": "2026 Private Book Industry (Summit) Annual Gala Focuses on Transformation Path in the Digital Economy Era",
+    "summary_cn": "2026民营书业(峰会)年度盛典在北京举行，主题聚焦数字经济背景下的民营书业转型路径。该活动旨在探讨民营书业在数字经济时代的转型方向和发展策略。",
+    "summary_en": "The 2026 Private Book Industry (Summit) Annual Gala was held in Beijing, focusing on the transformation path of the private book industry in the context of the digital economy. The event aims to explore the direction and development strategies for the private book industry in the digital economy era.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道行业峰会活动，聚焦民营书业在数字经济时代的转型路径，属于行业性事件，未涉及具体政策、财务数据或市场交易信息，对金融市场整体影响有限，可能仅对相关行业板块产生轻微情绪影响。",
+      "logic_en": "The news primarily reports on an industry summit event focusing on the transformation path of the private book industry in the digital economy era. It is an industry-specific event without involving specific policies, financial data, or market trading information, having limited overall impact on financial markets, possibly only generating slight sentiment effects on related industry sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:10:58.280Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzokIzl",
+    "title_en": "\"Pets + Shopping\" Zhengzhou Reappears New Scenarios of Experiential Consumption",
+    "summary_cn": "郑州中大门MOMO PARK城市公园开放日活动引入萌宠互动体验，市民可近距离接触羊驼、矮脚马等动物。\n该活动融合宠物与购物元素，打造新型消费场景。\n体验式消费模式在郑州再现，旨在吸引消费者并提升购物体验。",
+    "summary_en": "Zhengzhou's Zhongda Gate MOMO PARK urban park held an opening event featuring interactive experiences with pets like alpacas and miniature horses.\nThe activity combines pet interaction with shopping, creating a new consumption scenario.\nExperiential consumption models are reappearing in Zhengzhou to attract consumers and enhance shopping experiences.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻描述郑州本地消费场景创新，属于微观经济活动，对整体金融市场影响有限。可能间接反映消费升级趋势，但无直接数据或政策支持，市场预期变化不明显。",
+      "logic_en": "The news describes a local consumption innovation in Zhengzhou, which is a microeconomic activity with limited impact on overall financial markets. It may indirectly reflect consumption upgrade trends, but lacks direct data or policy support, leading to minimal changes in market expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:10:58.299Z"
+  },
+  {
+    "newsId": "Y2N0di3or4Torrrv",
+    "title_en": "Commentary: Why More People Are Actively Participating in the Circular Economy",
+    "summary_cn": "新闻评论探讨了循环经济日益流行的现象。以杭州一家二手物品店为例，年轻人通过以物换物方式寻找旧相机、老家具等物品，更注重趣味性和实用性而非价值比较。这反映了公众对可持续生活方式的兴趣增长。",
+    "summary_en": "The commentary discusses the growing popularity of the circular economy. Using a second-hand goods store in Hangzhou as an example, young people exchange items like old cameras and furniture, focusing more on fun and utility than value comparison. This highlights increasing public interest in sustainable lifestyles.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻强调了循环经济的积极趋势和公众参与度提升，可能提振环保、回收和二手交易相关板块的市场情绪。这反映了消费观念向可持续方向转变，对相关行业构成长期利好预期。",
+      "logic_en": "The news highlights a positive trend in the circular economy and increased public participation, potentially boosting market sentiment for sectors like environmental protection, recycling, and second-hand trading. This reflects a shift in consumer attitudes towards sustainability, creating long-term bullish expectations for related industries."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:10:57.974Z"
+  },
+  {
+    "newsId": "Y2N0di3lubTkuqfm",
+    "title_en": "Annual production of 9750 tons of camellia seeds, Zhejiang Changshan extracts a drop of good oil to build a complete industrial chain",
+    "summary_cn": "浙江常山县在杭州举行的活动中宣布，2025年油茶籽产量达9750吨，油茶籽油产量2400余吨。当地坚持绿色生态种植，引进良种良法，推动油茶全产业链发展。",
+    "summary_en": "At an event in Hangzhou, Zhejiang Changshan County announced that in 2025, camellia seed production reached 9750 tons, with camellia seed oil output exceeding 2400 tons. The region adheres to green ecological planting and introduces improved varieties and methods to promote the development of the entire camellia oil industrial chain.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道地方农业产业发展成果，未涉及宏观经济政策、公司业绩或重大市场事件，对金融市场直接影响有限。可能间接反映农业板块或区域经济活力，但无明确利多或利空信号。",
+      "logic_en": "The news primarily reports on local agricultural industry development achievements, without involving macroeconomic policies, corporate earnings, or major market events, having limited direct impact on financial markets. It may indirectly reflect the vitality of the agricultural sector or regional economy, but there are no clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-10T14:10:59.012Z"
+  },
+  {
+    "newsId": "Y2N0di3opb/kuqTl",
+    "title_en": "Xi'an Jiaotong-Liverpool University Team Makes New Breakthrough in Anti-Quantum Cryptography Field",
+    "summary_cn": "西交利物浦大学后量子迁移交叉实验室丁津泰教授团队攻克SVP-210维格最短向量难题，在抗量子密码领域取得新突破。该突破为全球抗量子密码迁移提供了重要理论支撑，由江苏省金融学会和西交利物浦大学在南京联合发布。",
+    "summary_en": "The PQC-X laboratory team led by Professor Ding Jintai at Xi'an Jiaotong-Liverpool University has solved the SVP-210 lattice shortest vector problem, achieving a new breakthrough in anti-quantum cryptography. This breakthrough provides important theoretical support for global anti-quantum cryptography migration, announced jointly by Jiangsu Financial Society and the university in Nanjing.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "该新闻涉及抗量子密码技术突破，属于长期基础研究进展，对金融市场短期直接影响有限。可能间接利好网络安全和量子计算相关板块，但未涉及具体公司或政策变化，市场情绪影响中性。",
+      "logic_en": "This news involves a breakthrough in anti-quantum cryptography technology, which is a long-term basic research advancement with limited direct short-term impact on financial markets. It may indirectly benefit cybersecurity and quantum computing related sectors, but no specific companies or policy changes are mentioned, resulting in a neutral market sentiment impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:10:59.497Z"
+  },
+  {
+    "newsId": "Y2N0di3mlrDnlobn",
+    "title_en": "Xinjiang Economic Highlights: Xinjiang Fruits Go Global, Fragrance Spreads Worldwide",
+    "summary_cn": "海关数据显示，2025年1-11月新疆果品出口量达28万吨，金额35.8亿元，同比分别增长40%和45%。新疆果品加速拓展海外市场，表现亮眼。",
+    "summary_en": "Customs data shows that from January to November 2025, Xinjiang fruit exports reached 280,000 tons, valued at 3.58 billion yuan, up 40% and 45% year-on-year respectively. Xinjiang fruits are accelerating their expansion into overseas markets, delivering strong performance.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道新疆果品出口增长，属于区域经济数据，对整体金融市场影响有限。可能对农业或新疆相关板块有轻微正面情绪，但无直接重大影响。",
+      "logic_en": "The news primarily reports growth in Xinjiang fruit exports, which is regional economic data with limited impact on overall financial markets. It may generate slight positive sentiment for agricultural or Xinjiang-related sectors, but no direct significant effect."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:10:57.554Z"
+  },
+  {
+    "newsId": "Y2N0di3muK/ogqHn",
+    "title_en": "Hong Kong Stocks Stabilize Above 26,000 Points, Multiple Sectors Help Market Recover",
+    "summary_cn": "港股三大指数9日齐涨，恒生指数涨0.32%至26231.79点，恒生科技指数涨0.15%至5687.14点，国企指数涨0.1%至9048.53点。多板块助力市场企稳回升，港股站稳26000点。",
+    "summary_en": "Hong Kong's three major indices all rose on the 9th, with the Hang Seng Index up 0.32% to 26,231.79 points, the Hang Seng Tech Index up 0.15% to 5,687.14 points, and the HSCEI up 0.1% to 9,048.53 points. Multiple sectors helped the market stabilize and recover, with Hong Kong stocks holding above 26,000 points.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "恒生指数",
+        "恒生科技指数",
+        "国企指数"
+      ],
+      "affected_markets_en": [
+        "Hang Seng Index",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "logic": "新闻显示港股三大指数齐涨，市场企稳回升，站稳26000点，表明市场情绪积极，短期趋势向好，对港股市场整体有利多影响。",
+      "logic_en": "The news shows that all three major Hong Kong stock indices rose, with the market stabilizing and recovering above 26,000 points, indicating positive market sentiment and a short-term upward trend, which is bullish for the overall Hong Kong stock market."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-10T14:10:59.805Z"
+  },
+  {
+    "newsId": "Y2N0di3lpoLkvZXl",
+    "title_en": "How to Curb 'Ghost Scale' Cheating at the Production End? New Regulations on Electronic Pricing Scales Launch a 'Combination Punch'",
+    "summary_cn": "新闻聚焦电子计价秤新规，旨在打击生产端“鬼秤”作弊行为，以维护市场公平和消费者信任。新规通过组合措施加强监管，防止称重缺斤少两问题。此举回应了消费者在日常购物中遇到的信任危机，强调从源头遏制欺诈。",
+    "summary_en": "The news highlights new regulations on electronic pricing scales, targeting 'ghost scale' cheating at the production end to ensure market fairness and consumer trust. The regulations implement a combination of measures to enhance supervision and prevent underweight issues. This addresses consumer trust crises in daily shopping, emphasizing curbing fraud from the source.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要涉及市场监管和消费者保护，对金融市场直接影响有限。新规可能提升相关行业合规成本，但长期看有助于规范市场、增强消费者信心，对整体经济环境有轻微正面影响，但无明确利多或利空指向。",
+      "logic_en": "The news primarily concerns market regulation and consumer protection, with limited direct impact on financial markets. The new regulations may increase compliance costs for related industries, but in the long term, they help standardize the market and boost consumer confidence, having a slightly positive effect on the overall economic environment without clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:10:59.891Z"
+  },
+  {
+    "newsId": "Y2N0di3kuInlpKfl",
+    "title_en": "Three Major Food Delivery Platforms Jointly State: Actively Cooperate with Market Competition Status Investigation and Assessment",
+    "summary_cn": "国家市场监督管理总局近日依据《反垄断法》，对外卖平台服务行业开展市场竞争状况调查评估。三大外卖平台集体表态将积极配合此次调查。此举旨在评估行业竞争状况，可能涉及反垄断审查。",
+    "summary_en": "The State Administration for Market Regulation recently initiated an investigation and assessment of the market competition status in the food delivery platform service industry based on the Anti-Monopoly Law. Three major food delivery platforms jointly stated they will actively cooperate with the investigation. This move aims to evaluate industry competition and may involve antitrust scrutiny.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "新闻显示监管机构对外卖平台行业启动反垄断调查，三大平台集体表态配合。这增加了行业监管不确定性，可能引发市场对平台企业合规风险和潜在处罚的担忧，从而对相关股票和指数产生压力。",
+      "logic_en": "The news indicates that regulators have initiated an antitrust investigation into the food delivery platform industry, with three major platforms jointly stating cooperation. This increases regulatory uncertainty, potentially raising market concerns about compliance risks and possible penalties for platform companies, thereby exerting pressure on related stocks and indices."
+    },
+    "related_stocks": [
+      {
+        "symbol": "03690.HK",
+        "name": "美团",
+        "market": "HK"
+      },
+      {
+        "symbol": "09988.HK",
+        "name": "阿里巴巴",
+        "market": "HK"
+      },
+      {
+        "symbol": "09618.HK",
+        "name": "京东",
+        "market": "HK"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:11:01.142Z"
+  },
+  {
+    "newsId": "Y2N0di3lub/kuJzm",
+    "title_en": "Guangdong Qingyuan Lunzhou Island's Golden Honey Sweet Potatoes Welcome Harvest, Becoming 'Wealth-Golden Fruit'",
+    "summary_cn": "广东清远伦洲岛的80亩黄金蜜薯试验基地迎来丰收季，金黄蜜薯缀满田间。该基地吸引市民游客参与田间体验和品尝本土风味，成为当地特色农业项目。新闻聚焦农业丰收和乡村旅游发展，未涉及金融市场或上市公司。",
+    "summary_en": "An 80-acre golden honey sweet potato trial base on Lunzhou Island in Qingyuan, Guangdong, has entered its harvest season, with golden sweet potatoes filling the fields. The base attracts citizens and tourists for field experiences and local flavor tasting, serving as a local agricultural and tourism project. The news focuses on agricultural harvest and rural tourism development, without mentioning financial markets or listed companies.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [],
+      "affected_markets_en": [],
+      "logic": "新闻内容为地方农业丰收和乡村旅游报道，未涉及宏观经济数据、政策变动、公司业绩或金融市场事件，对金融市场无直接影响。此类新闻通常不改变市场预期或情绪，属于中性信息。",
+      "logic_en": "The news content reports on local agricultural harvest and rural tourism, without involving macroeconomic data, policy changes, corporate performance, or financial market events, having no direct impact on financial markets. Such news typically does not alter market expectations or sentiment and is considered neutral information."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-10T14:11:15.301Z"
+  },
+  {
+    "newsId": "Y2N0di0yOTnovobk",
+    "title_en": "299 Chinese-made Buses Loaded in Shanghai for Shipment to Algeria",
+    "summary_cn": "1月9日，大型散杂货船“新海通505”轮在上海龙吴码头完成299辆国产客车的装载，运往阿尔及利亚阿尔及尔港。这是上海黄浦江水域2026年首单国产汽车批量出口业务，属于“一带一路”合作项目。",
+    "summary_en": "On January 9, the large bulk carrier 'Xinhaitong 505' loaded 299 domestically produced buses at Shanghai Longwu Terminal for shipment to Algiers Port in Algeria. This marks the first batch export of Chinese-made vehicles in 2026 from Shanghai's Huangpu River waters, part of the Belt and Road Initiative cooperation.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "汽车制造板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Automotive Manufacturing Sector"
+      ],
+      "logic": "新闻显示中国汽车出口业务在“一带一路”框架下取得进展，可能提振市场对中国汽车制造业和出口贸易的信心，对相关板块和指数有积极情绪影响。",
+      "logic_en": "The news indicates progress in Chinese automotive exports under the Belt and Road Initiative, potentially boosting market confidence in China's automotive manufacturing and export trade, with a positive sentiment impact on related sectors and indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:11:14.867Z"
+  },
+  {
+    "newsId": "Y2N0di3orabmg5Xv",
+    "title_en": "Beware! 'Large Meal Orders' Could Be Scams, Multiple Restaurants Already Affected",
+    "summary_cn": "北京十多家餐馆遭遇新型订餐诈骗，顾客扫码付款后商户反被扣费。反诈中心已发布紧急提醒，揭示背后骗术手法。该事件涉及餐饮行业支付安全风险。",
+    "summary_en": "Over ten restaurants in Beijing have fallen victim to a new type of meal order scam, where merchants are charged fees after customers scan codes for payment. The anti-fraud center has issued an urgent warning, exposing the scam tactics. This incident highlights payment security risks in the catering industry.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "该新闻主要报道餐饮行业诈骗事件，涉及支付安全风险，但未直接关联宏观经济或政策变化。对金融市场整体影响有限，可能轻微影响餐饮相关股票情绪，但无明确利多或利空驱动。",
+      "logic_en": "This news primarily reports on fraud incidents in the catering industry involving payment security risks, with no direct link to macroeconomic or policy changes. The overall impact on financial markets is limited, potentially causing slight sentiment fluctuations in catering-related stocks, but no clear bullish or bearish drivers are present."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:11:14.935Z"
+  },
+  {
+    "newsId": "Y2N0di0yMjk55YWD",
+    "title_en": "Bosideng's 2299 yuan down jacket only contains 86 grams of down? Brand trends again due to product pricing",
+    "summary_cn": "波司登因一款售价2299元的羽绒服充绒量仅86克引发争议，网友质疑其品牌溢价过高。该事件在社交平台发酵，再次将波司登的产品定价问题推上热搜。",
+    "summary_en": "Bosideng has sparked controversy over a down jacket priced at 2299 yuan containing only 86 grams of down, with netizens questioning excessive brand premium. The incident gained traction on social media, putting Bosideng's product pricing issues in the spotlight again.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "香港恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hong Kong Hang Seng Index"
+      ],
+      "logic": "该新闻涉及波司登产品质量和定价争议，可能损害品牌声誉和消费者信任，导致市场对其盈利能力预期下调，从而对股价产生负面影响。",
+      "logic_en": "The news involves controversy over Bosideng's product quality and pricing, potentially damaging brand reputation and consumer trust, leading to downward revisions in market expectations for its profitability, which could negatively impact its stock price."
+    },
+    "related_stocks": [
+      {
+        "symbol": "3998.HK",
+        "name": "波司登国际控股有限公司",
+        "market": "HK"
+      }
+    ],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-10T14:11:16.033Z"
+  },
+  {
+    "newsId": "Y2N0di3kuLvmkq3o",
+    "title_en": "Anchor Talks: Behind 360 Million Trips, Three Breakthroughs in Ice and Snow Tourism",
+    "summary_cn": "中国旅游研究院报告预测，2025-2026冬季冰雪旅游休闲人数将达3.6亿人次，收入有望达4500亿元。冰雪旅游已进化出新版本，展现出强劲增长势头。",
+    "summary_en": "A report from the China Tourism Academy predicts that ice and snow tourism will attract 360 million trips and generate 450 billion yuan in revenue during the 2025-2026 winter season. The sector has evolved into a new version, showing strong growth momentum.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "旅游板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Tourism Sector"
+      ],
+      "logic": "新闻显示冰雪旅游数据超预期增长，可能提振市场对旅游及相关消费板块的乐观情绪，带动相关股票上涨。",
+      "logic_en": "The news indicates stronger-than-expected growth in ice and snow tourism, which may boost market optimism towards the tourism and related consumer sectors, potentially driving up related stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:11:13.283Z"
+  },
+  {
+    "newsId": "Y2N0di3lkITlnLDp",
+    "title_en": "Key Projects Across Regions Accelerate Progress to Achieve a Strong Start, Adding Momentum to High-Quality Development",
+    "summary_cn": "央视网报道，各地重点工程正加速推进，以争取“开门红”。例如，江苏南京的沪宁合高铁项目完成了南京特大桥跨滁河斜拉桥合龙及转体梁转体等关键节点，为全线贯通奠定基础。这反映了中国在基础设施建设方面的持续投入，旨在推动高质量发展。",
+    "summary_en": "CCTV reports that key projects across regions are accelerating progress to achieve a strong start. For instance, in Nanjing, Jiangsu, the Shanghai-Nanjing-Hefei high-speed rail project completed critical milestones like the closure of the Nanjing Grand Bridge's cable-stayed bridge over the Chu River and the rotation of the swivel beam, laying the foundation for full-line connectivity. This highlights China's ongoing investment in infrastructure to drive high-quality development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示中国各地重点工程加速推进，如高铁项目取得进展，这通常被视为积极信号，可能提振市场对基建相关板块的预期，增强投资者对经济增长和高质量发展的信心，从而对A股市场产生正面情绪影响。",
+      "logic_en": "The news indicates accelerated progress in key projects across China, such as advancements in high-speed rail, which is generally viewed as a positive signal. This may boost market expectations for infrastructure-related sectors, enhance investor confidence in economic growth and high-quality development, thereby generating positive sentiment for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:11:17.126Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3or4Hl",
+    "title_en": "Securities Association of China Revises and Issues Self-Regulatory Measures Implementation Rules",
+    "summary_cn": "中国证券业协会修订并发布了《自律措施实施办法》，旨在强化自律管理职能，优化自律检查处分工作机制。该办法自发布之日起生效，以提升行业规范性和监管效率。",
+    "summary_en": "The Securities Association of China has revised and issued the 'Self-Regulatory Measures Implementation Rules' to strengthen self-regulatory management functions and optimize the mechanism for inspection and disciplinary actions. The rules are effective immediately, aiming to enhance industry standardization and regulatory efficiency.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该修订强化了证券业自律管理，有助于提升市场透明度和规范性，可能增强投资者信心，对A股市场整体情绪产生积极影响。",
+      "logic_en": "The revision strengthens self-regulatory management in the securities industry, which may improve market transparency and standardization, potentially boosting investor confidence and positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-10T14:11:13.816Z"
   }
 ]
