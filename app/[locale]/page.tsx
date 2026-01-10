@@ -76,11 +76,12 @@ async function getNewsData() {
         analysis,
         importance: calculateImportance(newsItem, analysis)
       }
-    }).filter(item => item.analysis)
+    })
+    // 移除 .filter(item => item.analysis) - 允许显示未分析的新闻
 
     const topNews = combined
       .sort((a, b) => b.importance - a.importance)
-      .slice(0, 20)
+      .slice(0, 30) // 增加到30条以显示更多新闻
       .map(({ news, analysis }) => ({ news, analysis }))
 
     return topNews

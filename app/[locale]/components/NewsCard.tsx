@@ -6,7 +6,7 @@ import { NewsAnalysis } from '@/lib/types/analysis'
 
 interface NewsCardProps {
   news: RawNews
-  analysis: NewsAnalysis
+  analysis?: NewsAnalysis | undefined
   locale: string
 }
 
@@ -39,18 +39,24 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
     }
   }
 
-  // 根据语言选择内容
-  const title = locale === 'en' && analysis.title_en ? analysis.title_en : news.title
-  const summary = locale === 'zh' ? analysis.summary_cn : analysis.summary_en
-  const direction = locale === 'en' && analysis.market_impact.direction_en
-    ? analysis.market_impact.direction_en
-    : analysis.market_impact.direction
-  const logic = locale === 'en' && analysis.market_impact.logic_en
-    ? analysis.market_impact.logic_en
-    : analysis.market_impact.logic
-  const affectedMarkets = locale === 'en' && analysis.market_impact.affected_markets_en
-    ? analysis.market_impact.affected_markets_en
-    : analysis.market_impact.affected_markets
+  // 如果没有分析数据，使用原始新闻标题和默认值
+  const title = analysis && locale === 'en' && analysis.title_en ? analysis.title_en : news.title
+  const summary = analysis ? (locale === 'zh' ? analysis.summary_cn : analysis.summary_en) : null
+  const direction = analysis
+    ? (locale === 'en' && analysis.market_impact.direction_en
+        ? analysis.market_impact.direction_en
+        : analysis.market_impact.direction)
+    : (locale === 'zh' ? '待分析' : 'Pending')
+  const logic = analysis
+    ? (locale === 'en' && analysis.market_impact.logic_en
+        ? analysis.market_impact.logic_en
+        : analysis.market_impact.logic)
+    : null
+  const affectedMarkets = analysis
+    ? (locale === 'en' && analysis.market_impact.affected_markets_en
+        ? analysis.market_impact.affected_markets_en
+        : analysis.market_impact.affected_markets)
+    : []
 
   // 生成股票链接
   const getStockUrl = (symbol: string, market: string) => {
@@ -92,59 +98,76 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
       </h3>
 
       <div className="space-y-3">
-        <div>
-          <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-            {t('news.analysis')}
-          </h4>
-          <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
-            {summary}
-          </p>
-        </div>
-
-        <div>
-          <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-            {t('news.impact')}
-          </h4>
-          <p className="text-sm text-gray-600 dark:text-gray-400">
-            {logic}
-          </p>
-
-          {/* 相关股票标签 */}
-          {analysis.related_stocks && analysis.related_stocks.length > 0 && (
-            <div className="flex flex-wrap gap-2 mt-3">
-              <span className="text-xs text-gray-500 dark:text-gray-400">
-                {locale === 'zh' ? '相关股票:' : 'Related Stocks:'}
-              </span>
-              {analysis.related_stocks.map((stock, idx) => (
-                <a
-                  key={idx}
-                  href={getStockUrl(stock.symbol, stock.market)}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 px-2 py-1 text-xs font-medium bg-blue-50 dark:bg-blue-900/20 text-blue-600 dark:text-blue-400 rounded hover:bg-blue-100 dark:hover:bg-blue-900/30 transition"
-                >
-                  <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
-                  </svg>
-                  {stock.symbol}
-                  <span className="opacity-75">{stock.name}</span>
-                </a>
-              ))}
-            </div>
-          )}
-
-          {/* 受影响市场 */}
-          <div className="flex flex-wrap gap-2 mt-2">
-            {affectedMarkets.map((market, idx) => (
-              <span
-                key={idx}
-                className="px-2 py-0.5 text-xs bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded"
-              >
-                {market}
-              </span>
-            ))}
+        {summary && (
+          <div>
+            <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+              {t('news.analysis')}
+            </h4>
+            <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
+              {summary}
+            </p>
           </div>
-        </div>
+        )}
+
+        {!analysis && news.content && (
+          <div>
+            <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+              {locale === 'zh' ? '新闻内容' : 'Content'}
+            </h4>
+            <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed line-clamp-3">
+              {news.content}
+            </p>
+          </div>
+        )}
+
+        {logic && (
+          <div>
+            <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+              {t('news.impact')}
+            </h4>
+            <p className="text-sm text-gray-600 dark:text-gray-400">
+              {logic}
+            </p>
+
+            {/* 相关股票标签 */}
+            {analysis && analysis.related_stocks && analysis.related_stocks.length > 0 && (
+              <div className="flex flex-wrap gap-2 mt-3">
+                <span className="text-xs text-gray-500 dark:text-gray-400">
+                  {locale === 'zh' ? '相关股票:' : 'Related Stocks:'}
+                </span>
+                {analysis.related_stocks.map((stock, idx) => (
+                  <a
+                    key={idx}
+                    href={getStockUrl(stock.symbol, stock.market)}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 px-2 py-1 text-xs font-medium bg-blue-50 dark:bg-blue-900/20 text-blue-600 dark:text-blue-400 rounded hover:bg-blue-100 dark:hover:bg-blue-900/30 transition"
+                  >
+                    <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                    </svg>
+                    {stock.symbol}
+                    <span className="opacity-75">{stock.name}</span>
+                  </a>
+                ))}
+              </div>
+            )}
+
+            {/* 受影响市场 */}
+            {affectedMarkets.length > 0 && (
+              <div className="flex flex-wrap gap-2 mt-2">
+                {affectedMarkets.map((market, idx) => (
+                  <span
+                    key={idx}
+                    className="px-2 py-0.5 text-xs bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded"
+                  >
+                    {market}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
       </div>
 
       {news.url && (
