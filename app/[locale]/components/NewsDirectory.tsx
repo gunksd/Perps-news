@@ -97,7 +97,8 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
                   <span className="text-muted-foreground">
                     {newsItems.filter(item => {
                       const dir = item.analysis?.market_impact?.direction
-                      return dir === '利多' || dir === 'Bullish'
+                      const dirEn = item.analysis?.market_impact?.direction_en
+                      return dir === '利多' || dirEn === 'Bullish'
                     }).length}
                   </span>
                 </span>
@@ -106,7 +107,8 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
                   <span className="text-muted-foreground">
                     {newsItems.filter(item => {
                       const dir = item.analysis?.market_impact?.direction
-                      return dir === '利空' || dir === 'Bearish'
+                      const dirEn = item.analysis?.market_impact?.direction_en
+                      return dir === '利空' || dirEn === 'Bearish'
                     }).length}
                   </span>
                 </span>
