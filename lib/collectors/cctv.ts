@@ -32,7 +32,8 @@ export class CCTVCollector extends BaseCollector {
         url: item.link || ''
       }))
 
-      return this.filterToday(news)
+      // 改为过滤最近48小时的新闻，避免丢弃昨天的数据
+      return this.filterRecent(news, 48)
     } catch (error) {
       console.error('[CCTVCollector] Error:', error)
       return []

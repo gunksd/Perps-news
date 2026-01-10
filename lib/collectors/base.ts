@@ -16,16 +16,14 @@ export abstract class BaseCollector {
   abstract collect(): Promise<RawNews[]>
 
   /**
-   * 过滤今天的新闻
+   * 过滤最近N小时的新闻（默认48小时，与页面显示逻辑一致）
    */
-  protected filterToday(news: RawNews[]): RawNews[] {
-    const today = new Date()
-    today.setHours(0, 0, 0, 0)
+  protected filterRecent(news: RawNews[], hours: number = 48): RawNews[] {
+    const cutoffTime = Date.now() - hours * 60 * 60 * 1000
 
     return news.filter(item => {
-      const newsDate = new Date(item.time)
-      newsDate.setHours(0, 0, 0, 0)
-      return newsDate.getTime() === today.getTime()
+      const newsTime = new Date(item.time).getTime()
+      return newsTime >= cutoffTime
     })
   }
 
