@@ -40,23 +40,26 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
   }
 
   // 如果没有分析数据，使用原始新闻标题和默认值
-  const title = analysis && locale === 'en' && analysis.title_en ? analysis.title_en : news.title
-  const summary = analysis ? (locale === 'zh' ? analysis.summary_cn : analysis.summary_en) : null
-  const direction = analysis
+  const title = (locale === 'en' && analysis?.title_en) ? analysis.title_en : news.title
+  const summary = analysis
+    ? (locale === 'zh' ? analysis.summary_cn : analysis.summary_en)
+    : null
+
+  const direction = analysis?.market_impact
     ? (locale === 'en' && analysis.market_impact.direction_en
         ? analysis.market_impact.direction_en
         : analysis.market_impact.direction)
     : (locale === 'zh' ? '待分析' : 'Pending')
-  const logic = analysis
+
+  const logic = analysis?.market_impact
     ? (locale === 'en' && analysis.market_impact.logic_en
         ? analysis.market_impact.logic_en
         : analysis.market_impact.logic)
     : null
-  const affectedMarkets = analysis
-    ? (locale === 'en' && analysis.market_impact.affected_markets_en
-        ? analysis.market_impact.affected_markets_en
-        : analysis.market_impact.affected_markets)
-    : []
+
+  const affectedMarkets = analysis?.market_impact?.affected_markets_en && locale === 'en'
+    ? analysis.market_impact.affected_markets_en
+    : (analysis?.market_impact?.affected_markets || [])
 
   // 生成股票链接
   const getStockUrl = (symbol: string, market: string) => {
