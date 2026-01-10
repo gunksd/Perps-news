@@ -1,5 +1,6 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 import NewsCard from './components/NewsCard'
+import NewsDirectory from './components/NewsDirectory'
 import IndexPanel from './components/IndexPanel'
 import SummaryPanel from './components/SummaryPanel'
 import Disclaimer from './components/Disclaimer'
@@ -117,18 +118,23 @@ export default async function HomePage({ params: { locale } }: { params: { local
         {/* 右侧：新闻流（自然延伸） */}
         <div className="lg:col-span-3">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+            <h2 className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
               {t('news.title')}
             </h2>
-            <span className="text-sm text-gray-500 dark:text-gray-400">
+            <span className="text-sm text-muted-foreground">
               {locale === 'zh' ? '最近48小时的重要新闻' : 'Top News in Last 48 Hours'}
             </span>
           </div>
 
+          {/* 新闻目录导航 */}
+          {newsData.length > 0 && (
+            <NewsDirectory newsItems={newsData} locale={locale} />
+          )}
+
           <div className="space-y-4">
             {newsData.length === 0 ? (
-              <div className="bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-800 p-8 text-center">
-                <p className="text-gray-500 dark:text-gray-400">
+              <div className="bg-card rounded-lg border border-border p-8 text-center">
+                <p className="text-muted-foreground">
                   {locale === 'zh' ? '暂无新闻数据' : 'No news available'}
                 </p>
               </div>

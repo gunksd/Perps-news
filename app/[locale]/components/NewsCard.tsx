@@ -4,6 +4,8 @@ import { useTranslations } from 'next-intl'
 import { useMemo } from 'react'
 import { RawNews } from '@/lib/types/news'
 import { NewsAnalysis } from '@/lib/types/analysis'
+import { Card, CardContent } from '@/components/ui/card'
+import { cn } from '@/lib/utils'
 
 interface NewsCardProps {
   news: RawNews
@@ -52,6 +54,19 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
     }
   }
 
+  const getBorderColor = (direction: string) => {
+    switch (direction) {
+      case '利多':
+      case 'Bullish':
+        return 'border-l-positive'
+      case '利空':
+      case 'Bearish':
+        return 'border-l-negative'
+      default:
+        return 'border-l-muted'
+    }
+  }
+
   // 如果没有分析数据，使用原始新闻标题和默认值
   const title = (locale === 'en' && analysis?.title_en) ? analysis.title_en : news.title
   const summary = analysis
@@ -94,111 +109,155 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
   }
 
   return (
-    <article className="bg-white dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-800 p-4 hover:shadow-md transition">
-      <div className="flex items-center justify-between mb-3">
-        <div className="flex items-center gap-3">
-          <span className="px-2 py-1 text-xs font-medium bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded">
-            {news.source.toUpperCase()}
-          </span>
-          <time className="text-sm text-gray-500 dark:text-gray-400" suppressHydrationWarning>
-            {formattedTime}
-          </time>
-        </div>
-        <span className={`px-2 py-1 text-xs font-medium rounded ${getDirectionBg(direction)} ${getDirectionColor(direction)}`}>
-          {direction}
-        </span>
-      </div>
-
-      <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2 line-clamp-2">
-        {title}
-      </h3>
-
-      <div className="space-y-3">
-        {summary && (
-          <div>
-            <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-              {t('news.analysis')}
-            </h4>
-            <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
-              {summary}
-            </p>
-          </div>
+    <article
+      id={`news-${news.id}`}
+      className="group scroll-mt-24"
+    >
+      <Card
+        className={cn(
+          "relative overflow-hidden",
+          "border-l-4 transition-all duration-300 ease-out",
+          "hover:shadow-xl hover:shadow-primary/10",
+          "hover:-translate-y-1 hover:scale-[1.01]",
+          "bg-gradient-to-br from-card via-card to-card/80",
+          getBorderColor(direction)
         )}
+      >
+        {/* 背景渐变装饰 */}
+        <div className="absolute inset-0 bg-gradient-to-br from-primary/[0.02] to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 
-        {!analysis && news.content && (
-          <div>
-            <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-              {locale === 'zh' ? '新闻内容' : 'Content'}
-            </h4>
-            <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed line-clamp-3">
-              {news.content}
-            </p>
+        {/* 右上角装饰光斑 */}
+        <div className="absolute -top-10 -right-10 w-40 h-40 bg-primary/5 rounded-full blur-3xl opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+
+        <CardContent className="p-6 relative">
+          <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center gap-3">
+              <span className="px-3 py-1 text-xs font-medium bg-primary/10 text-primary rounded-full">
+                {news.source.toUpperCase()}
+              </span>
+              <time className="text-sm text-muted-foreground" suppressHydrationWarning>
+                {formattedTime}
+              </time>
+            </div>
+            <span className={cn(
+              "px-3 py-1 text-xs font-semibold rounded-full transition-all",
+              "group-hover:scale-110",
+              getDirectionBg(direction),
+              getDirectionColor(direction)
+            )}>
+              {direction}
+            </span>
           </div>
-        )}
 
-        {logic && (
-          <div>
-            <h4 className="text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-              {t('news.impact')}
-            </h4>
-            <p className="text-sm text-gray-600 dark:text-gray-400">
-              {logic}
-            </p>
+          <h3 className="text-xl font-bold text-foreground mb-3 line-clamp-2 group-hover:text-primary transition-colors">
+            {title}
+          </h3>
 
-            {/* 相关股票标签 */}
-            {analysis && analysis.related_stocks && analysis.related_stocks.length > 0 && (
-              <div className="flex flex-wrap gap-2 mt-3">
-                <span className="text-xs text-gray-500 dark:text-gray-400">
-                  {locale === 'zh' ? '相关股票:' : 'Related Stocks:'}
-                </span>
-                {analysis.related_stocks.map((stock, idx) => (
-                  <a
-                    key={idx}
-                    href={getStockUrl(stock.symbol, stock.market)}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1 px-2 py-1 text-xs font-medium bg-blue-50 dark:bg-blue-900/20 text-blue-600 dark:text-blue-400 rounded hover:bg-blue-100 dark:hover:bg-blue-900/30 transition"
-                  >
-                    <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
-                    </svg>
-                    {stock.symbol}
-                    <span className="opacity-75">{stock.name}</span>
-                  </a>
-                ))}
+          <div className="space-y-4">
+            {summary && (
+              <div className="bg-muted/30 rounded-lg p-4 border border-border/50">
+                <h4 className="text-sm font-semibold text-foreground mb-2 flex items-center gap-2">
+                  <svg className="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                  {t('news.analysis')}
+                </h4>
+                <p className="text-sm text-muted-foreground leading-relaxed">
+                  {summary}
+                </p>
               </div>
             )}
 
-            {/* 受影响市场 */}
-            {affectedMarkets.length > 0 && (
-              <div className="flex flex-wrap gap-2 mt-2">
-                {affectedMarkets.map((market, idx) => (
-                  <span
-                    key={idx}
-                    className="px-2 py-0.5 text-xs bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded"
-                  >
-                    {market}
-                  </span>
-                ))}
+            {!analysis && news.content && (
+              <div className="bg-muted/20 rounded-lg p-4 border border-border/30">
+                <h4 className="text-sm font-semibold text-foreground mb-2">
+                  {locale === 'zh' ? '新闻内容' : 'Content'}
+                </h4>
+                <p className="text-sm text-muted-foreground leading-relaxed line-clamp-3">
+                  {news.content}
+                </p>
+              </div>
+            )}
+
+            {logic && (
+              <div>
+                <h4 className="text-sm font-semibold text-foreground mb-2 flex items-center gap-2">
+                  <svg className="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                  </svg>
+                  {t('news.impact')}
+                </h4>
+                <p className="text-sm text-muted-foreground leading-relaxed">
+                  {logic}
+                </p>
+
+                {/* 相关股票标签 */}
+                {analysis && analysis.related_stocks && analysis.related_stocks.length > 0 && (
+                  <div className="flex flex-wrap gap-2 mt-3">
+                    <span className="text-xs font-medium text-muted-foreground">
+                      {locale === 'zh' ? '相关股票:' : 'Related Stocks:'}
+                    </span>
+                    {analysis.related_stocks.map((stock, idx) => (
+                      <a
+                        key={idx}
+                        href={getStockUrl(stock.symbol, stock.market)}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={cn(
+                          "inline-flex items-center gap-1 px-3 py-1 text-xs font-medium rounded-full",
+                          "bg-primary/10 text-primary",
+                          "hover:bg-primary/20 hover:scale-105 transition-all",
+                          "border border-primary/20"
+                        )}
+                      >
+                        <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                        </svg>
+                        {stock.symbol}
+                        <span className="opacity-75">{stock.name}</span>
+                      </a>
+                    ))}
+                  </div>
+                )}
+
+                {/* 受影响市场 */}
+                {affectedMarkets.length > 0 && (
+                  <div className="flex flex-wrap gap-2 mt-3">
+                    {affectedMarkets.map((market, idx) => (
+                      <span
+                        key={idx}
+                        className="px-2 py-1 text-xs bg-muted text-muted-foreground rounded-md border border-border/50"
+                      >
+                        {market}
+                      </span>
+                    ))}
+                  </div>
+                )}
               </div>
             )}
           </div>
-        )}
-      </div>
 
-      {news.url && (
-        <a
-          href={news.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-1 mt-3 text-sm text-blue-600 dark:text-blue-400 hover:underline"
-        >
-          {locale === 'zh' ? '查看原文' : 'Read More'}
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-          </svg>
-        </a>
-      )}
+          {news.url && (
+            <a
+              href={news.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={cn(
+                "inline-flex items-center gap-2 mt-4 px-4 py-2 rounded-lg",
+                "text-sm font-medium text-primary",
+                "bg-primary/5 hover:bg-primary/10",
+                "border border-primary/20 hover:border-primary/40",
+                "transition-all hover:scale-105"
+              )}
+            >
+              {locale === 'zh' ? '查看原文' : 'Read More'}
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </a>
+          )}
+        </CardContent>
+      </Card>
     </article>
   )
 }
