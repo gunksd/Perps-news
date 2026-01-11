@@ -6101,5 +6101,306 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-11T03:54:46.134Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3mrKfn",
+    "title_en": "China-Europe Economic Cooperation Forum Held in Shenzhen to Explore Two-Way Cooperation Paths",
+    "summary_cn": "第九届深商盛典暨中国企业家俱乐部20年系列活动之“中欧经济合作论坛”在深圳前海国际会议中心举行。论坛聚焦“投资深圳，出海欧洲”主题，围绕新能源、金融科技、生命健康、文旅、数字经济等新兴产业，探讨双向投资与合作路径。",
+    "summary_en": "The 9th Shenzhen Business Gala and the China Entrepreneurs Club's 20th anniversary series event, the \"China-Europe Economic Cooperation Forum,\" was held at the Shenzhen Qianhai International Conference Center. The forum focused on the theme \"Invest in Shenzhen, Go Global to Europe,\" exploring two-way investment and cooperation paths in emerging industries such as new energy, fintech, life health, culture and tourism, and digital economy.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻显示中欧经济合作论坛在深圳举行，聚焦新兴产业的双向投资与合作，这有助于促进相关产业的发展和市场开放，可能提升投资者对中欧经济合作前景的乐观情绪，从而对A股市场，特别是深圳本地及新兴产业相关板块产生积极影响。",
+      "logic_en": "The news reports that the China-Europe Economic Cooperation Forum was held in Shenzhen, focusing on two-way investment and cooperation in emerging industries. This may promote the development and market openness of related industries, potentially boosting investor optimism about the prospects of China-Europe economic cooperation, thereby having a positive impact on the A-share market, especially sectors related to Shenzhen and emerging industries."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:41.132Z"
+  },
+  {
+    "newsId": "Y2N0di3ov5nms6JB",
+    "title_en": "Behind the Wave of AI Company IPOs, What Really Deserves Attention is Shanghai State-Owned Assets",
+    "summary_cn": "新闻指出，当前AI企业上市潮背后，真正值得关注的是上海国资的角色。上海国资正积极布局AI产业，通过投资和扶持推动相关企业发展。这反映了地方政府在科技创新领域的战略导向，旨在提升区域竞争力。",
+    "summary_en": "The news highlights that behind the current wave of AI company IPOs, the role of Shanghai state-owned assets deserves attention. Shanghai state-owned assets are actively investing in and supporting AI enterprises to foster industry growth. This reflects local government strategic efforts in technological innovation to enhance regional competitiveness.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上海证券交易所"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Stock Exchange"
+      ],
+      "logic": "新闻显示上海国资加大对AI产业的投资和支持，可能提升市场对AI板块和相关国有企业的信心，推动资金流入，对A股市场尤其是上海本地股和科技股产生积极情绪影响。",
+      "logic_en": "The news indicates increased investment and support from Shanghai state-owned assets in the AI sector, which may boost market confidence in AI-related stocks and state-owned enterprises, leading to capital inflows and positive sentiment for the A-share market, particularly Shanghai-listed and tech stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:38.759Z"
+  },
+  {
+    "newsId": "Y2N0di3mtZnmsZ/n",
+    "title_en": "Zhejiang Social Security Science and Technology Innovation Fund Signs First Batch of 9 Projects with Total Investment Exceeding 1.6 Billion Yuan",
+    "summary_cn": "浙江社保科创基金在杭州举行2026年大会，首批签约9个项目，总投资超16亿元。项目涵盖人工智能、集成电路、先进制造、医疗健康、新材料等领域，包括6个首投项目和3个拟投项目。此举旨在支持科技型企业和股权投资基金，推动科技创新发展。",
+    "summary_en": "Zhejiang Social Security Science and Technology Innovation Fund held its 2026 conference in Hangzhou, signing the first batch of 9 projects with total investment exceeding 1.6 billion yuan. The projects cover fields such as AI, integrated circuits, advanced manufacturing, healthcare, and new materials, including 6 initial investments and 3 planned investments. This initiative aims to support technology-based enterprises and equity investment funds, promoting technological innovation.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻显示浙江社保科创基金投资16亿元于科技领域，涵盖AI、集成电路等新兴产业，可能提振市场对相关板块的信心，增加资金流入预期，对A股科技股和成长股构成利好。",
+      "logic_en": "The news indicates that Zhejiang Social Security Science and Technology Innovation Fund is investing 1.6 billion yuan in technology sectors, covering emerging industries like AI and integrated circuits. This may boost market confidence in related sectors, increase expectations of capital inflows, and be bullish for A-share technology and growth stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:40.304Z"
+  },
+  {
+    "newsId": "Y2N0di3mm7nlvrfm",
+    "title_en": "Cao Dewang: Entrepreneurs Should Stop Fantasizing About 'Waiting for the Wind' and Dare to Take Responsibility",
+    "summary_cn": "福耀玻璃创始人曹德旺在深商盛典上呼吁企业家摒弃'等风来'的幻想，强调坚守实业和主动担当的重要性。他鼓励企业家以积极姿态应对挑战，推动企业发展。",
+    "summary_en": "Cao Dewang, founder of Fuyao Glass, called on entrepreneurs to abandon the fantasy of 'waiting for the wind' and emphasized the importance of sticking to real industries and taking proactive responsibility. He encouraged entrepreneurs to face challenges actively to drive business growth.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻内容为企业家精神呼吁，未涉及具体政策、经济数据或公司业绩，对市场无直接利多或利空影响。可能间接提振市场对实体经济的信心，但影响有限且不明确。",
+      "logic_en": "The news is a call for entrepreneurial spirit without specific policies, economic data, or corporate performance, having no direct bullish or bearish impact on markets. It may indirectly boost confidence in the real economy, but the effect is limited and unclear."
+    },
+    "related_stocks": [
+      {
+        "symbol": "600660.SH",
+        "name": "福耀玻璃工业集团股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:39.254Z"
+  },
+  {
+    "newsId": "Y2N0di3opb/ljZfl",
+    "title_en": "Southwest China's Largest Railway Marshalling Yard Launches Centralized Maintenance",
+    "summary_cn": "西南地区规模最大的铁路编组站——兴隆场编组站于1月11日启动集中修。该编组站由国铁成都局管理，是西南地区铁路网络的关键枢纽。集中修旨在提升设施运行效率和安全性，可能涉及设备更新和维护工作。",
+    "summary_en": "The largest railway marshalling yard in Southwest China, Xinglongchang Marshalling Yard, launched centralized maintenance on January 11. Managed by China Railway Chengdu Group, it is a key hub in the regional railway network. The maintenance aims to improve operational efficiency and safety, potentially involving equipment upgrades and repairs.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及铁路基础设施维护，短期内可能对铁路运输效率产生轻微影响，但属于常规运营活动，不直接改变宏观经济或公司基本面。对金融市场整体影响有限，可能仅对铁路相关板块有轻微情绪波动，但无明确利多或利空信号。",
+      "logic_en": "The news involves railway infrastructure maintenance, which may have a minor short-term impact on railway transport efficiency but is a routine operational activity that does not directly alter macroeconomic or corporate fundamentals. The overall impact on financial markets is limited, possibly causing slight sentiment fluctuations in railway-related sectors, but no clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:39.382Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzlpKnp",
+    "title_en": "Tianma-1000 Unmanned Transport Aircraft Makes First Flight",
+    "summary_cn": "1月11日，中国兵器工业集团西安爱生技术集团有限公司自主研发的“天马-1000”无人运输机完成首飞试验，飞行数据表现良好，首飞取得圆满成功。该事件标志着中国在无人运输机领域的技术突破，可能推动相关产业发展。",
+    "summary_en": "On January 11, the Tianma-1000 unmanned transport aircraft, independently developed by Xi'an Aisheng Technology Group Co., Ltd. under China North Industries Group Corporation (NORINCO), successfully completed its first flight test with good performance data. This event signifies a technological breakthrough in China's unmanned transport aircraft sector and may promote related industry development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示中国在高端制造和无人运输机领域取得技术进展，可能提升市场对相关产业链（如航空制造、人工智能、新材料）的预期，增强投资者对科技创新板块的信心，从而对A股市场产生积极情绪影响。",
+      "logic_en": "This news indicates technological progress in China's high-end manufacturing and unmanned transport aircraft sectors, potentially boosting market expectations for related industrial chains (e.g., aviation manufacturing, AI, new materials) and enhancing investor confidence in technology innovation segments, thereby generating positive sentiment for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:39.561Z"
+  },
+  {
+    "newsId": "Y2N0di3okpnlj6Tl",
+    "title_en": "Mongolia Public Utility Service Association Delegation Visits Inner Mongolia to Learn Water Service 'Upgrade'",
+    "summary_cn": "蒙古国公共事业服务协会代表团结束对内蒙古呼和浩特的访问。代表团由36名成员组成，包括乌兰巴托市及21个省的水务专家和负责人。此行旨在学习内蒙古在水务系统升级方面的经验。",
+    "summary_en": "A delegation from the Mongolia Public Utility Service Association concluded its visit to Hohhot, Inner Mongolia. The 36-member delegation included water service experts and officials from Ulaanbaatar and 21 provinces. The visit aimed to learn from Inner Mongolia's experience in upgrading water service systems.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻涉及蒙古国与内蒙古在水务领域的交流合作，但未提及具体投资、政策或财务数据，对金融市场直接影响有限。可能间接反映区域基础设施合作趋势，但无明确市场信号。",
+      "logic_en": "The news covers cooperation between Mongolia and Inner Mongolia in the water service sector, but does not mention specific investments, policies, or financial data, limiting direct impact on financial markets. It may indirectly reflect trends in regional infrastructure cooperation, but lacks clear market signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:38.216Z"
+  },
+  {
+    "newsId": "Y2N0di3mt7HmsZ/p",
+    "title_en": "All Main Towers of Shenzhen-Jiangmen Railway Hongqili Waterway Bridge Successfully Topped Out",
+    "summary_cn": "深江铁路洪奇沥水道公铁大桥两座主塔全部封顶，塔高258米，标志着该粤港澳大湾区关键交通工程取得阶段性重大突破，进入中跨主梁架设及斜拉索施工阶段。",
+    "summary_en": "Both main towers of the Shenzhen-Jiangmen Railway Hongqili Waterway Bridge have been successfully topped out, with a height of 258 meters. This marks a significant milestone in the key transportation project of the Guangdong-Hong Kong-Macao Greater Bay Area, entering the stage of mid-span main beam erection and cable-stayed construction.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "该新闻涉及粤港澳大湾区基础设施建设的积极进展，可能提振市场对区域经济增长和基建板块的预期，利好相关基建、建材和交通类股票，增强投资者对区域经济一体化的信心。",
+      "logic_en": "This news involves positive progress in infrastructure construction in the Guangdong-Hong Kong-Macao Greater Bay Area, potentially boosting market expectations for regional economic growth and the infrastructure sector. It is favorable for related stocks in construction, building materials, and transportation, enhancing investor confidence in regional economic integration."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:38.979Z"
+  },
+  {
+    "newsId": "Y2N0di3mtojotLni",
+    "title_en": "Consumption 'Heats Up' and Scenes 'Renew' as Pre-Holiday Markets Across Regions Warm Up and Welcome a 'Good Start'",
+    "summary_cn": "距离春节还有一个多月，各地消费活动日益升温。各大平台机票预订火热，热门目的地机票预订量同比大幅上升。这反映了节前消费市场的活跃态势。",
+    "summary_en": "With over a month to go before the Spring Festival, consumption activities across regions are heating up. Air ticket bookings on major platforms are booming, with bookings for popular destinations rising significantly year-on-year. This reflects the active momentum in the pre-holiday consumer market.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector Index"
+      ],
+      "logic": "新闻显示节前消费市场活跃，机票预订量同比大幅上升，表明消费需求强劲，可能提振消费相关行业和整体经济预期，对市场情绪有积极影响。",
+      "logic_en": "The news indicates an active pre-holiday consumer market with a significant year-on-year rise in air ticket bookings, suggesting strong consumer demand. This may boost expectations for consumer-related industries and the overall economy, positively impacting market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:37.898Z"
+  },
+  {
+    "newsId": "Y2N0di3ku47np5Hl",
+    "title_en": "From Sci-Fi to Reality: China's 'Computing Power Highland' Empowers All Industries",
+    "summary_cn": "新闻指出，随着算力爆发式增长，科幻电影中的智能场景正逐步走向现实。从家居、医疗到办公、消费等领域，都依赖庞大算力支撑，实现更智能、更流畅的体验。这反映了中国在算力基础设施方面的进展及其对各行业的赋能作用。",
+    "summary_en": "The news highlights that with the explosive growth of computing power, sci-fi scenarios like robots managing household chores and smart assistants handling tasks are becoming reality. From home and healthcare to office and consumption, smarter and smoother experiences rely on massive computing power support. This underscores China's progress in computing infrastructure and its enabling role across various industries.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻强调算力增长赋能千行百业，可能提升市场对科技和人工智能相关板块的乐观预期，推动投资者关注算力基础设施、云计算和AI应用公司，从而对科技股占比较高的指数产生积极情绪影响。",
+      "logic_en": "The news emphasizes that computing power growth empowers all industries, potentially boosting market optimism towards technology and AI-related sectors. This could drive investor interest in computing infrastructure, cloud computing, and AI application companies, positively impacting indices with high tech stock weightings."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:40.025Z"
+  },
+  {
+    "newsId": "Y2N0di0yMDI24oCc",
+    "title_en": "2026 'Two New' Policies Implemented, Consumer Enthusiasm Continues to Rise Across Regions",
+    "summary_cn": "2026年国家大规模设备更新和消费品以旧换新政策正式落地，覆盖汽车、家电、数码智能产品等多个领域。各地消费活动全面铺开，消费热度持续攀升。政策旨在刺激内需，推动产业升级和绿色消费。",
+    "summary_en": "China's 2026 large-scale equipment renewal and consumer goods replacement policies have been officially implemented, covering sectors such as automobiles, home appliances, and digital smart products. Consumer activities are fully rolled out across regions, with enthusiasm continuing to rise. The policies aim to stimulate domestic demand, promote industrial upgrading, and encourage green consumption.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数",
+        "消费板块指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index",
+        "Consumer Sector Index"
+      ],
+      "logic": "政策落地直接刺激汽车、家电、数码等消费领域需求，预计将带动相关行业销售增长，提升企业盈利预期。这有助于提振市场对消费板块的信心，推动相关指数上行，并可能通过产业链传导效应影响整体市场情绪。",
+      "logic_en": "The implementation of policies directly stimulates demand in consumer sectors such as automobiles, home appliances, and digital products, which is expected to drive sales growth and improve corporate earnings expectations. This helps boost market confidence in the consumer sector, pushing related indices higher, and may influence overall market sentiment through supply chain effects."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-11T14:10:57.063Z"
+  },
+  {
+    "newsId": "Y2N0di3lkInmnpfl",
+    "title_en": "Jilin Development and Reform Commission Party Secretary Li Ping: High-standard Promotion of Changchun Modern Metropolitan Area Construction",
+    "summary_cn": "吉林发改委党组书记李平表示，将高标准推进长春现代化都市圈建设，增强长春中心城市辐射带动作用，促进圈内城市同城化发展，并加强同东北地区各省份合作，目标是将其建设成为带动全省高质量发展的动力源和东北振兴的增长极。",
+    "summary_en": "Li Ping, Party Secretary of the Jilin Development and Reform Commission, stated that they will accelerate the construction of the Changchun Modern Metropolitan Area with high standards, enhance Changchun's central city radiation and driving role, promote integrated development within the area, and strengthen cooperation with other provinces in Northeast China, aiming to build it into a driving force for high-quality development in the province and a growth pole for Northeast China's revitalization.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该新闻涉及区域发展规划，可能提振市场对东北地区经济增长和基础设施投资的预期，利好相关板块如基建、房地产和区域经济概念股，从而对A股市场产生积极情绪影响。",
+      "logic_en": "This news involves regional development planning, which may boost market expectations for economic growth and infrastructure investment in Northeast China, benefiting sectors such as infrastructure, real estate, and regional economic concepts, thereby generating positive sentiment for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T14:10:57.062Z"
+  },
+  {
+    "newsId": "Y2N0di3pl6vlrabm",
+    "title_en": "Yan Xuejing's Live Streaming Remarks Spark Controversy, Brand Terminates Endorsement Cooperation After Over Ten Years",
+    "summary_cn": "演员闫学晶在直播中的言论引发争议，导致合作超过十年的品牌方终止了代言合作。该事件涉及品牌形象和公众舆论，可能对相关公司的市场声誉产生影响。",
+    "summary_en": "Actress Yan Xuejing's remarks during a live stream sparked controversy, leading a brand to terminate its endorsement cooperation with her after over ten years. The incident involves brand image and public opinion, potentially affecting the market reputation of related companies.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该事件可能损害品牌方的声誉和消费者信任，从而影响其股价和市场表现。负面舆论可能导致投资者对相关公司信心下降，引发短期抛售压力。",
+      "logic_en": "The incident may damage the brand's reputation and consumer trust, potentially affecting its stock price and market performance. Negative public opinion could lead to decreased investor confidence in related companies, triggering short-term selling pressure."
+    },
+    "related_stocks": [],
+    "confidence": 0.6,
+    "analyzedAt": "2026-01-11T14:10:54.520Z"
   }
 ]
