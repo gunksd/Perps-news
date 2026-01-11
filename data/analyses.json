@@ -5863,5 +5863,243 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-10T14:11:13.816Z"
+  },
+  {
+    "newsId": "Y2N0di3mg4Xnu6rm",
+    "title_en": "Emotional Consumption Becomes New Trend: Why Young People Are Eager to Spend for Mood",
+    "summary_cn": "情绪消费成为新趋势，年轻人热衷为心情买单。小确幸里有大市场，反映了消费行为的变化。",
+    "summary_en": "Emotional consumption emerges as a new trend, with young people eager to spend for mood. Small pleasures hold big market potential, reflecting shifts in consumer behavior.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻描述了消费趋势变化，但未涉及具体政策、经济数据或公司业绩，对金融市场无直接利多或利空影响。可能间接影响消费相关板块预期，但方向不明确。",
+      "logic_en": "The news describes a shift in consumption trends but does not involve specific policies, economic data, or corporate earnings, having no direct bullish or bearish impact on financial markets. It may indirectly affect expectations for consumer-related sectors, but the direction is unclear."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:43.795Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3oiLnp",
+    "title_en": "China State Shipbuilding Corporation Hudong-Zhonghua Independently Develops and Releases China's New Generation Ship Product",
+    "summary_cn": "中船集团沪东中华造船公司自主研发的中国新一代船舶产品数据全生命周期管理平台SPDM3.0在上海发布。该平台打通了设计制造管理全栈，将引领中国船舶行业数字化转型新生态。此举对助力船舶行业实现高水平科技自立自强和数字中国建设具有重要意义。",
+    "summary_en": "China State Shipbuilding Corporation Hudong-Zhonghua Shipbuilding (Group) Co., Ltd. has independently developed and released the new generation Ship Product Data Management platform SPDM3.0 in Shanghai. The platform integrates the entire design, manufacturing, and management stack, aiming to lead the digital transformation of China's shipbuilding industry. This is significant for achieving high-level technological self-reliance and supporting the Digital China initiative.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "船舶制造板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shipbuilding Sector"
+      ],
+      "logic": "新闻显示中船集团在船舶数字化领域取得突破，提升了行业技术水平和竞争力，可能增强市场对中国船舶制造业数字化转型的预期，从而对相关板块和指数产生积极情绪影响。",
+      "logic_en": "The news highlights a breakthrough in digitalization by China State Shipbuilding Corporation, enhancing the technological level and competitiveness of the shipbuilding industry. This may boost market expectations for digital transformation in China's shipbuilding sector, leading to positive sentiment impacts on related sectors and indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:46.868Z"
+  },
+  {
+    "newsId": "Y2N0di3lsIHlhbPl",
+    "title_en": "Hainan Free Trade Port After Closure: A Pearl 'Chaining' the World",
+    "summary_cn": "海南自贸港封关后，正通过珍珠产业等特色经济，打造全球产业链。新闻强调自贸港政策推动产业升级和国际化，提升海南在全球贸易中的地位。",
+    "summary_en": "After the closure, Hainan Free Trade Port is building global industrial chains through specialty economies like the pearl industry. The news highlights policy-driven industrial upgrading and internationalization, enhancing Hainan's role in global trade.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "海南板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hainan Sector"
+      ],
+      "logic": "新闻聚焦海南自贸港封关后的积极发展，强调产业升级和全球链接，可能提振市场对海南区域经济和自贸港政策的信心，利好相关板块。",
+      "logic_en": "The news focuses on the positive development of Hainan Free Trade Port post-closure, emphasizing industrial upgrading and global connectivity, which may boost market confidence in the regional economy and free trade policies, benefiting related sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:44.285Z"
+  },
+  {
+    "newsId": "Y2N0di3kuKTpg6jp",
+    "title_en": "Two Departments Issue Document: 'West-to-East Power Transmission' Scale to Exceed 420 Million Kilowatts by 2030",
+    "summary_cn": "两部门联合印发意见，提出到2030年“西电东送”规模将超过4.2亿千瓦。该政策旨在优化能源资源配置，促进清洁能源消纳，支持国家能源战略转型。此举将推动西部地区能源基地建设和东部地区电力保障。",
+    "summary_en": "Two departments jointly issued a document stating that the 'West-to-East Power Transmission' scale will exceed 420 million kilowatts by 2030. This policy aims to optimize energy resource allocation, promote clean energy consumption, and support national energy strategy transformation. It will drive energy base construction in western regions and enhance power supply security in eastern areas.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该政策明确长期能源基础设施目标，利好电力设备、新能源和电网建设相关板块。市场预期将提振相关企业订单和业绩，增强投资者对清洁能源和基建领域的信心，可能带动A股相关指数上涨。",
+      "logic_en": "This policy sets clear long-term energy infrastructure targets, benefiting sectors such as power equipment, new energy, and grid construction. Market expectations are that it will boost orders and performance for related companies, enhance investor confidence in clean energy and infrastructure sectors, and potentially drive up related A-share indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-11T03:54:47.326Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3lu7rl",
+    "title_en": "China Construction Fourth Engineering Bureau Installation Engineering Co., Ltd. Fined for Production Safety Accident Responsibility Violation",
+    "summary_cn": "中建四局安装工程有限公司因生产安全事故责任类违法，被深圳市龙岗区应急管理局罚款50万元。违法事实为2025年7月16日，龙岗区南湾街道乾成数创文化园项目发生一般触电事故，造成1人死亡。信用中国网站公布了此处罚信息。",
+    "summary_en": "China Construction Fourth Engineering Bureau Installation Engineering Co., Ltd. was fined 500,000 yuan by the Shenzhen Longgang District Emergency Management Bureau for production safety accident responsibility violations. The violation involved a general electric shock accident on July 16, 2025, at the Qiancheng Digital Innovation Cultural Park project in Longgang District, resulting in one fatality. The penalty was disclosed on the Credit China website.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "建筑行业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Construction Industry Index"
+      ],
+      "logic": "该新闻涉及中国建筑集团旗下公司因安全事故被罚款，可能引发市场对建筑行业安全管理和合规风险的担忧，影响投资者情绪，对相关建筑板块和母公司股价构成短期压力。",
+      "logic_en": "The news involves a subsidiary of China State Construction Engineering Corporation being fined for safety violations, which may raise concerns about safety management and compliance risks in the construction industry, negatively impacting investor sentiment and putting short-term pressure on related construction sector stocks and the parent company's share price."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601668.SH",
+        "name": "中国建筑股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:48.519Z"
+  },
+  {
+    "newsId": "Y2N0di3nqbrkuK3i",
+    "title_en": "Air 'Huolala' Arrives! 'Tianma-1000' Unmanned Transport Aircraft Successfully Completes Maiden Flight",
+    "summary_cn": "中国兵器工业集团西安爱生技术集团自主研发的'天马-1000'无人运输机成功完成首次飞行试验，飞行数据表现良好，标志着无人运输技术取得新进展。",
+    "summary_en": "The 'Tianma-1000' unmanned transport aircraft, independently developed by Xi'an Aisheng Technology Group under China North Industries Group Corporation, successfully completed its maiden flight test with good flight data, marking progress in unmanned transport technology.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻展示了中国在无人运输机领域的自主创新成果，可能提振市场对相关科技和军工板块的信心，推动投资者关注高端制造和人工智能应用，从而对A股市场产生积极情绪影响。",
+      "logic_en": "The news showcases China's independent innovation achievements in unmanned transport aircraft, potentially boosting market confidence in related technology and defense sectors, driving investor attention to high-end manufacturing and AI applications, thus generating positive sentiment for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:45.782Z"
+  },
+  {
+    "newsId": "Y2N0di3nu4/mtY7l",
+    "title_en": "Economists Analyze: Long-Term Development Momentum of China's Capital Market Continues to Accumulate",
+    "summary_cn": "2026年中国首席经济学家论坛年会在上海举行，多位专家表示，在实体经济稳步复苏、新质生产力加速培育及政策预期明朗等多重因素推动下，中国资本市场呈现稳健发展态势，长期发展动能持续积聚。",
+    "summary_en": "The 2026 China Chief Economists Forum Annual Meeting was held in Shanghai, where multiple experts indicated that driven by factors such as steady recovery of the real economy, accelerated cultivation of new quality productive forces, and clearer policy expectations, China's capital market is showing a stable development trend, with long-term momentum continuing to accumulate.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻中经济学家观点强调实体经济复苏、新质生产力发展和政策预期明朗，这些因素可能提升市场对中国资本市场长期前景的信心，从而对A股市场产生积极情绪影响。",
+      "logic_en": "The economists' views in the news highlight the recovery of the real economy, development of new quality productive forces, and clearer policy expectations, which may boost confidence in the long-term prospects of China's capital market, thereby positively impacting sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:46.096Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3lpK7o",
+    "title_en": "Central Government Allocates 103 Billion Yuan to Support 52 'Landscape Engineering' Projects",
+    "summary_cn": "中央财政累计安排1030亿元资金，支持52个山水林田湖草沙一体化保护和修复工程项目。这些项目旨在提升生态环境质量，促进区域可持续发展。资金投入体现了国家对生态保护的重视，预计将带动相关产业发展。",
+    "summary_en": "The central government has allocated a total of 103 billion yuan to support 52 integrated protection and restoration projects for mountains, rivers, forests, farmlands, lakes, grasslands, and deserts. These projects aim to improve ecological environment quality and promote regional sustainable development. The funding reflects the government's emphasis on ecological conservation and is expected to drive related industries.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该新闻显示中央财政大规模投入生态保护项目，可能利好环保、基建、园林绿化等相关行业。资金注入有望带动产业链需求，提升市场对绿色经济板块的预期，对A股市场情绪有积极影响。",
+      "logic_en": "The news indicates large-scale central government funding for ecological protection projects, which may benefit related sectors such as environmental protection, infrastructure, and landscaping. The capital injection is expected to boost demand in the industrial chain and enhance market expectations for the green economy sector, positively impacting sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:46.521Z"
+  },
+  {
+    "newsId": "Y2N0di3lhazlhbHm",
+    "title_en": "Public Services 'Follow the People', Painting a Warm Picture of a Mobile China",
+    "summary_cn": "新闻聚焦中国公共服务制度的变革，强调以人为中心，旨在适应人口流动趋势，提升民众生活便利性。内容宏观描述制度重塑对亿万人的影响，未涉及具体经济数据或政策细节。",
+    "summary_en": "The news focuses on a reform in China's public service system, emphasizing a people-centered approach to adapt to population mobility trends and improve convenience for citizens. It provides a macro-level description of how this institutional reshaping affects hundreds of millions of people, without specific economic data or policy details.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻内容为宏观社会政策描述，未涉及具体经济指标、财政支出或行业政策，对金融市场无直接或间接的明确影响。可能长期利好消费和民生相关板块，但短期市场预期和情绪无明显变化。",
+      "logic_en": "The news content is a macro-level social policy description, without specific economic indicators, fiscal expenditures, or industry policies, having no direct or indirect clear impact on financial markets. It may be long-term positive for consumption and livelihood-related sectors, but short-term market expectations and sentiment show no significant change."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-11T03:54:46.275Z"
+  },
+  {
+    "newsId": "Y2N0di3ku6Xmrabo",
+    "title_en": "Seeking Oil by Force, America's Illusion of Victory",
+    "summary_cn": "美国总统特朗普宣布，委内瑞拉临时政府将向美国移交3000万至5000万桶石油。这些石油将按市场价出售，所得资金由美方监管。此举可能影响全球石油供应和地缘政治格局。",
+    "summary_en": "U.S. President Trump announced that Venezuela's interim government will transfer 30 to 50 million barrels of oil to the United States. The oil will be sold at market prices, with proceeds overseen by the U.S. This move could impact global oil supply and geopolitical dynamics.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "原油期货",
+        "能源股",
+        "新兴市场指数"
+      ],
+      "affected_markets_en": [
+        "Crude Oil Futures",
+        "Energy Stocks",
+        "Emerging Markets Index"
+      ],
+      "logic": "新闻显示美国可能增加石油供应，这通常对油价构成下行压力，因为供应增加可能缓解市场紧张情绪。同时，地缘政治风险可能影响能源股和新兴市场，尤其是与委内瑞拉相关的资产。",
+      "logic_en": "The news indicates potential increased oil supply from the U.S., which typically exerts downward pressure on oil prices as higher supply may ease market tightness. Additionally, geopolitical risks could affect energy stocks and emerging markets, particularly assets related to Venezuela."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-11T03:54:46.134Z"
   }
 ]
