@@ -18,7 +18,8 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
   const scrollToNews = (newsId: string) => {
     const element = document.getElementById(`news-${newsId}`)
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      // 使用 auto 而不是 smooth 滚动，避免性能问题
+      element.scrollIntoView({ behavior: 'auto', block: 'center' })
       // 添加高亮效果
       element.classList.add('highlight-pulse')
       setTimeout(() => {
@@ -68,13 +69,12 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
             "bg-gradient-to-r from-primary/10 via-primary/5 to-primary/10",
             "border-2 border-primary/20",
             "hover:border-primary/40",
-            "transition-colors",
             "group"
           )}
         >
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <div className="p-2 rounded-lg bg-primary/10 group-hover:bg-primary/20 transition-colors">
+              <div className="p-2 rounded-lg bg-primary/10 group-hover:bg-primary/20">
                 <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h7" />
                 </svg>
@@ -134,21 +134,20 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
           className="fixed inset-0 z-50 flex items-start justify-center pt-20 px-4"
           onClick={() => setIsExpanded(false)}
         >
-          {/* 背景遮罩 */}
-          <div className="absolute inset-0 bg-background/80 backdrop-blur-sm" />
+          {/* 背景遮罩 - 移除 backdrop-blur */}
+          <div className="absolute inset-0 bg-background/95" />
 
-          {/* 目录内容 */}
+          {/* 目录内容 - 移除 backdrop-blur 和动画 */}
           <div
             className={cn(
               "relative w-full max-w-4xl max-h-[70vh]",
-              "bg-card/95 backdrop-blur-md rounded-2xl",
-              "border-2 border-primary/30 shadow-2xl shadow-primary/20",
-              "animate-in slide-in-from-top-10 duration-300"
+              "bg-card rounded-2xl",
+              "border-2 border-primary/30 shadow-2xl shadow-primary/20"
             )}
             onClick={(e) => e.stopPropagation()}
           >
-            {/* 头部 */}
-            <div className="sticky top-0 z-10 bg-card/95 backdrop-blur-md border-b border-border px-6 py-4 rounded-t-2xl">
+            {/* 头部 - 移除 backdrop-blur */}
+            <div className="sticky top-0 z-10 bg-card border-b border-border px-6 py-4 rounded-t-2xl">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
                   <div className="p-2 rounded-lg bg-primary/10">
@@ -170,7 +169,7 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
                   onClick={() => setIsExpanded(false)}
                   className={cn(
                     "p-2 rounded-lg",
-                    "hover:bg-muted transition-colors",
+                    "hover:bg-muted",
                     "text-muted-foreground hover:text-foreground"
                   )}
                 >
@@ -197,14 +196,13 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
                       onClick={() => scrollToNews(item.news.id)}
                       className={cn(
                         "group flex items-start gap-3 p-3 rounded-xl text-left",
-                        "transition-colors",
                         "hover:bg-primary/10",
                         "border border-border/50 hover:border-primary/30"
                       )}
                     >
                       {/* 序号和方向图标 */}
                       <div className="flex flex-col items-center gap-1 flex-shrink-0">
-                        <span className="text-xs font-medium text-muted-foreground w-7 h-7 rounded-full bg-muted/50 flex items-center justify-center group-hover:bg-primary/20 group-hover:text-primary transition-colors">
+                        <span className="text-xs font-medium text-muted-foreground w-7 h-7 rounded-full bg-muted/50 flex items-center justify-center group-hover:bg-primary/20 group-hover:text-primary">
                           {index + 1}
                         </span>
                         <span className={cn("text-lg font-bold", getDirectionColor(direction))}>
@@ -214,7 +212,7 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
 
                       {/* 新闻标题 */}
                       <div className="flex-1 min-w-0">
-                        <p className="text-sm font-medium text-foreground line-clamp-2 group-hover:text-primary transition-colors">
+                        <p className="text-sm font-medium text-foreground line-clamp-2 group-hover:text-primary">
                           {item.news.title}
                         </p>
                         <div className="flex items-center gap-2 mt-1.5">
@@ -229,7 +227,7 @@ export default function NewsDirectory({ newsItems, locale }: NewsDirectoryProps)
 
                       {/* 箭头指示 */}
                       <svg
-                        className="w-5 h-5 text-muted-foreground group-hover:text-primary transition-colors flex-shrink-0 mt-1"
+                        className="w-5 h-5 text-muted-foreground group-hover:text-primary flex-shrink-0 mt-1"
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"

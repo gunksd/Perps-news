@@ -196,7 +196,7 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
                         className={cn(
                           "inline-flex items-center gap-1 px-3 py-1 text-xs font-medium rounded-full",
                           "bg-primary/10 text-primary",
-                          "hover:bg-primary/20 transition-colors",
+                          "hover:bg-primary/20",
                           "border border-primary/20"
                         )}
                       >
@@ -236,8 +236,7 @@ export default function NewsCard({ news, analysis, locale }: NewsCardProps) {
                 "inline-flex items-center gap-2 mt-4 px-4 py-2 rounded-lg",
                 "text-sm font-medium text-primary",
                 "bg-primary/5 hover:bg-primary/10",
-                "border border-primary/20 hover:border-primary/40",
-                "transition-colors"
+                "border border-primary/20 hover:border-primary/40"
               )}
             >
               {locale === 'zh' ? '查看原文' : 'Read More'}
