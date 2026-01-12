@@ -6876,5 +6876,520 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-12T03:54:43.065Z"
+  },
+  {
+    "newsId": "Y2N0di3lk4jlsJTm",
+    "title_en": "Harbin-Slovakia Investment and Trade Day Successfully Held, Promoting Deepening and Substantial China-Slovakia Cooperation",
+    "summary_cn": "哈尔滨—斯洛伐克投资贸易日活动于1月12日在哈尔滨成功举办。活动旨在深化双方经贸投资合作，吸引了40家哈尔滨本地企业和5家斯洛伐克企业参与对接洽谈。此举有助于推动中斯合作走深走实，加强区域经济联系。",
+    "summary_en": "The Harbin-Slovakia Investment and Trade Day was successfully held in Harbin on January 12. The event aimed to deepen economic and trade investment cooperation between the two sides, attracting 40 local Harbin enterprises and 5 Slovak companies for face-to-face negotiations. This initiative helps promote deeper and more substantial China-Slovakia cooperation and strengthen regional economic ties.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该活动促进中斯经贸合作，可能提升市场对区域经济一体化和贸易增长的预期，增强投资者信心，对A股市场情绪有积极影响。",
+      "logic_en": "The event promotes China-Slovakia economic and trade cooperation, potentially boosting market expectations for regional economic integration and trade growth, enhancing investor confidence, and having a positive impact on A-share market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:46.603Z"
+  },
+  {
+    "newsId": "Y2N0di3jgJDlpb3o",
+    "title_en": "Praise China: Guided by Three Major Brand Constructions Including 'Buy in China', High-Quality Development Steps More Confidently",
+    "summary_cn": "2026年是'十五五'规划开局之年，全国商务工作会议提出打造'购在中国''出口中国''投资中国'三大品牌，并部署提振消费专项行动等八方面工作。此举旨在扩大内需和推动高水平对外开放，为中国品牌建设提供支撑，激发国内市场潜力，助力构建新发展格局和高质量发展。",
+    "summary_en": "In 2026, the start of the 15th Five-Year Plan, the National Commerce Work Conference proposed building three major brands: 'Buy in China', 'Export China', and 'Invest in China', and deployed eight tasks including boosting consumption. This aims to expand domestic demand and promote high-level opening-up, supporting brand construction, stimulating domestic market potential, and aiding new development patterns and high-quality growth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻强调通过品牌建设和提振消费专项行动来扩大内需和推动高质量发展，这有助于增强市场对中国经济前景的信心，可能提升消费和投资相关板块的预期，对A股市场整体情绪有积极影响。",
+      "logic_en": "The news emphasizes expanding domestic demand and promoting high-quality development through brand construction and consumption-boosting initiatives, which may enhance market confidence in China's economic outlook, potentially improving expectations for consumer and investment-related sectors, positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:47.963Z"
+  },
+  {
+    "newsId": "Y2N0di3liJvmhI/j",
+    "title_en": "Creativity and Speed Make the Year of the Horse Toy Market 'Hot and Spicy', Booming Orders Drive Enterprises to 'Go Full Throttle' in Production",
+    "summary_cn": "新闻报道了浙江义乌商家在春节前一个多月已进入繁忙状态，马年元素的饰品玩具订单火爆，企业正开足马力生产。这反映了玩具市场的强劲需求和节日消费的提前启动。",
+    "summary_en": "The news reports that merchants in Yiwu, Zhejiang, are already busy more than a month before the Spring Festival, with booming orders for Year of the Horse-themed accessories and toys, driving enterprises to ramp up production. This reflects strong demand in the toy market and early activation of holiday consumption.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻显示玩具市场订单火爆，企业生产积极性高，这通常预示着消费需求旺盛，可能提振相关消费板块和整体市场情绪，对股市有积极影响。",
+      "logic_en": "The news indicates booming orders in the toy market and high production enthusiasm among enterprises, which typically signals strong consumer demand, potentially boosting related consumer sectors and overall market sentiment, having a positive impact on the stock market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:45.942Z"
+  },
+  {
+    "newsId": "Y2N0di3lpKnmtKXk",
+    "title_en": "Tianjin Dongjiang Used Car Exports Reach New High",
+    "summary_cn": "天津东疆综保区2025年二手车出口业务表现强劲，出口数量和货值均实现两位数增长。全年服务超60家企业，完成二手车出口超3.4万台，出口货值超60亿元。该区域出口货值约占天津全市二手车出口货值的三分之二，显示其在二手车出口领域的领先地位。",
+    "summary_en": "Tianjin Dongjiang Comprehensive Bonded Zone's used car export business showed strong performance in 2025, with both export volume and value achieving double-digit growth. It served over 60 enterprises, exporting more than 34,000 used cars with a total value exceeding 6 billion yuan. The zone's export value accounted for about two-thirds of Tianjin's total used car export value, highlighting its leading position in this sector.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "汽车行业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Automotive Industry Index"
+      ],
+      "logic": "新闻显示天津东疆二手车出口业务增长强劲，出口数量和货值均实现两位数增长，可能提振市场对汽车出口和贸易相关板块的乐观情绪。这反映了中国二手车出口市场的扩张趋势，有助于增强投资者对汽车产业链和区域经济的信心，对相关指数构成积极影响。",
+      "logic_en": "The news indicates strong growth in Tianjin Dongjiang's used car export business, with double-digit increases in both export volume and value, potentially boosting market optimism towards the automotive export and trade-related sectors. This reflects the expansion trend in China's used car export market, helping to enhance investor confidence in the automotive industry chain and regional economy, positively impacting related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:48.642Z"
+  },
+  {
+    "newsId": "Y2N0di3nu4/mtY7o",
+    "title_en": "Economic Observation: The 'Change and Unchange' of Zhejiang Merchants Under Intergenerational Inheritance",
+    "summary_cn": "新闻聚焦于浙江民营企业的代际传承。2026年新生代浙商主题活动在杭州举行，标志着浙江民企从“创一代”主导转向“创二代”引领的新阶段。活动旨在探索新途，展现新生代企业家的集体亮相和信心。",
+    "summary_en": "The news focuses on the intergenerational inheritance of Zhejiang's private enterprises. The 2026 New Generation Zhejiang Merchants event in Hangzhou marks a new phase where the 'second generation' is taking the lead from the 'first generation'. The event aims to explore new paths and showcase the collective emergence and confidence of new-generation entrepreneurs.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道浙江民营企业的代际传承活动，属于长期结构性变化，不涉及短期经济数据、政策调整或公司具体业绩。这可能会提升市场对浙江民企未来稳定性和创新能力的预期，但无直接利好或利空信息，对金融市场短期影响有限，偏向中性。",
+      "logic_en": "The news primarily reports on an intergenerational inheritance event for Zhejiang's private enterprises, which is a long-term structural change without short-term economic data, policy adjustments, or specific corporate performance. It may enhance market expectations for the future stability and innovation capabilities of Zhejiang's private firms, but lacks direct bullish or bearish signals, resulting in limited short-term impact on financial markets, leaning neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:47.958Z"
+  },
+  {
+    "newsId": "Y2N0di3miLTlvrfm",
+    "title_en": "Cushman & Wakefield: Total Transaction Volume of China's Mainland Real Estate Bulk Deals in 2025 Reaches 144.8 Billion Yuan",
+    "summary_cn": "戴德梁行报告显示，2025年中国内地房地产大宗交易总成交规模为1448亿元。北京市场录得150亿元交易规模，呈现阶段性回落态势。自用型买家崛起，正在重塑市场买方结构。",
+    "summary_en": "Cushman & Wakefield's latest report indicates that the total transaction volume of China's mainland real estate bulk deals in 2025 reached 144.8 billion yuan. The Beijing market recorded 15 billion yuan in transaction volume, showing a phased decline. The rise of owner-occupier buyers is reshaping the market's buyer structure.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "房地产板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Sector"
+      ],
+      "logic": "新闻报告了2025年房地产大宗交易数据，显示北京市场交易规模回落，但自用型买家崛起可能带来结构性变化。整体数据反映市场调整而非剧烈波动，对金融市场影响有限，主要提供行业现状参考，未释放明确利多或利空信号。",
+      "logic_en": "The news reports 2025 real estate bulk deal data, showing a decline in Beijing's transaction volume, but the rise of owner-occupier buyers may bring structural changes. Overall, the data reflects market adjustment rather than sharp volatility, with limited impact on financial markets, primarily providing industry status reference without clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:47.985Z"
+  },
+  {
+    "newsId": "Y2N0di3lpJrkvY3n",
+    "title_en": "Multiple Renowned Entrepreneurs Gather and Speak at the Ninth Shenzhen Business Gala",
+    "summary_cn": "第九届深商盛典暨中国企业家俱乐部20年活动在深圳举行。多位知名企业家围绕产业革新、技术突破、生态构建、社会责任等议题深入探讨。活动以“遇见未来的中国企业思想”为核心主题，旨在推动企业创新与发展。",
+    "summary_en": "The Ninth Shenzhen Business Gala and the 20th anniversary event of the China Entrepreneurs Club were held in Shenzhen. Multiple renowned entrepreneurs gathered to discuss key topics such as industrial innovation, technological breakthroughs, ecosystem building, and social responsibility. The event centered on the theme \"Encountering the Future of Chinese Enterprise Thought,\" aiming to promote corporate innovation and development.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "该新闻主要报道企业家论坛活动，聚焦思想交流和宏观议题探讨，未涉及具体政策、财务数据或市场操作。此类活动通常传递积极的企业家精神和创新信号，可能对市场情绪有轻微正面影响，但缺乏直接影响金融市场的实质性信息，因此整体影响中性。",
+      "logic_en": "This news primarily reports on an entrepreneur forum event, focusing on idea exchange and discussions of macro topics, without involving specific policies, financial data, or market operations. Such events typically convey positive entrepreneurial spirit and innovation signals, which may have a slight positive impact on market sentiment. However, due to the lack of substantive information directly affecting financial markets, the overall impact is neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:47.955Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3mlrDn",
+    "title_en": "China News Review: Don't Let 'Avoidance Posts' Become 'Mine-Laying Posts'",
+    "summary_cn": "新闻评论指出，不实的网络“避雷帖”对企业造成严重经济损失，丽江某企业因不实信息退订超100万元，间接损失超500万元。事件涉及丽江文旅局和小红书平台，引发社会关注。评论呼吁规范网络信息传播，防止虚假内容损害企业利益。",
+    "summary_en": "The news commentary highlights that false online 'avoidance posts' have caused significant economic losses to businesses. A company in Lijiang suffered over 1 million yuan in cancellations and indirect losses exceeding 5 million yuan due to misinformation. The incident involves the Lijiang Cultural and Tourism Bureau and the Xiaohongshu platform, drawing public attention. The commentary calls for regulating online information dissemination to prevent false content from harming business interests.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻主要讨论网络虚假信息对企业的影响，不直接涉及宏观经济政策或公司基本面变化，对金融市场整体影响有限。但可能引发对社交媒体平台监管的预期，间接影响相关科技股情绪，但方向不明确。",
+      "logic_en": "The news primarily discusses the impact of false online information on businesses, without directly involving macroeconomic policies or changes in company fundamentals, thus having limited overall impact on financial markets. However, it may trigger expectations for increased regulation of social media platforms, indirectly affecting sentiment in related tech stocks, but the direction is unclear."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:48.495Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzpkp/m",
+    "title_en": "\"Zhong Caiping\" Publishes Six Articles in a Row, Conveying Important Signals",
+    "summary_cn": "1月12日，《人民日报》刊发署名为“钟才平”的文章《持续扩大开放，为世界提供新机遇》。该文章强调中国将继续扩大对外开放，为全球提供新的发展机遇。这传递出政策层面积极推动开放合作的信号，可能影响市场对经济前景的预期。",
+    "summary_en": "On January 12, the People's Daily published an article titled \"Continuously Expanding Opening Up to Provide New Opportunities for the World\" under the byline \"Zhong Caiping.\" The article emphasizes China's commitment to further opening up and offering new development opportunities globally. This signals policy support for open cooperation, potentially influencing market expectations for economic prospects.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "该新闻传递出中国持续扩大开放的积极政策信号，可能提振市场对经济增长和外资流入的预期，从而利好A股市场情绪。",
+      "logic_en": "The news conveys a positive policy signal of China's continued opening up, which may boost market expectations for economic growth and foreign capital inflows, thereby benefiting sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:46.353Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzln47l",
+    "title_en": "'Urban Renewal + Cultural Tourism Integration' Revitalizes Old Streets, Specialty Breakfasts Warm Stomachs and Boost Industries",
+    "summary_cn": "央视报道青海西宁通过城市更新和文旅融合，让老街区焕发新活力。特色早餐不仅温暖市民，还带动了当地产业发展。记者实地探访，感受地道青海早餐文化。",
+    "summary_en": "CCTV reports that Xining, Qinghai, is revitalizing old streets through urban renewal and cultural tourism integration. Specialty breakfasts not only warm residents but also boost local industries. Journalists visited to experience authentic Qinghai breakfast culture.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻聚焦地方文旅和城市更新，可能提振相关消费和基建预期，但未涉及具体政策或数据，影响有限。整体偏向中性，短期对金融市场无明显直接冲击。",
+      "logic_en": "The news focuses on local cultural tourism and urban renewal, potentially boosting expectations for consumption and infrastructure, but lacks specific policies or data, limiting impact. Overall neutral, with no direct short-term shock to financial markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:16:45.009Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzkurrm",
+    "title_en": "'People's Cafe' Branch Fined and Under Investigation",
+    "summary_cn": "国家企业信用信息公示系统显示，大同臻爵餐饮有限公司因违规被平城区市场监督管理局罚款3000元。该事件涉及“人民咖啡馆”门店，目前已被立案调查。",
+    "summary_en": "According to the National Enterprise Credit Information Publicity System, Datong Zhenjue Catering Co., Ltd. was fined 3,000 yuan by the Pingcheng District Market Supervision Administration for violations. The incident involves a branch of 'People's Cafe' and is currently under investigation.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻显示餐饮企业因违规被罚款并立案调查，可能引发市场对相关行业监管加强的担忧，影响投资者情绪，对餐饮板块和消费类股票构成短期压力。",
+      "logic_en": "The news shows a catering company being fined and investigated for violations, which may raise concerns about increased regulatory scrutiny in the industry, affecting investor sentiment and putting short-term pressure on the catering sector and consumer stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:01.661Z"
+  },
+  {
+    "newsId": "Y2N0di3lub/opb/k",
+    "title_en": "Guangxi and Thailand 'Agriculturally' Connected: Tropical Fruits and Smart Agricultural Technology Move Towards Each Other",
+    "summary_cn": "广西与泰国基于地理和人文优势，近年来在农业领域开展全方位深度协作。2025年1-11月，双方农产品贸易额达44.7亿元，其中出口额4.1亿元，同比增长18.2%。这体现了区域农业合作的深化和贸易增长趋势。",
+    "summary_en": "Guangxi and Thailand have engaged in comprehensive, multi-level agricultural cooperation in recent years, leveraging geographical and cultural ties. From January to November 2025, their agricultural product trade reached 4.47 billion yuan, with exports totaling 410 million yuan, up 18.2% year-on-year. This highlights deepening regional agricultural collaboration and trade growth.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "农产品期货"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Agricultural Futures"
+      ],
+      "logic": "新闻主要报道广西与泰国的农业合作进展和贸易数据，属于区域经济合作新闻，对整体金融市场影响有限。可能轻微提振农业板块情绪，但无直接重大政策或事件驱动，市场预期变化不大。",
+      "logic_en": "The news reports progress in agricultural cooperation and trade data between Guangxi and Thailand, which is a regional economic development story with limited impact on overall financial markets. It may slightly boost sentiment in the agricultural sector, but lacks direct major policy or event drivers, resulting in minimal changes in market expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:04.370Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzovr3l",
+    "title_en": "Liaoning Products Out of Liaoning' Benefit Procurement Platform Launched in Shenyang",
+    "summary_cn": "辽宁省推出“辽品出辽”惠采平台，旨在促进本地产品外销。该平台在沈阳正式启动，由地方政府主导，通过集中采购和优惠政策支持企业拓展市场。此举是区域经济发展战略的一部分，旨在提升辽宁品牌影响力。",
+    "summary_en": "Liaoning Province launched the 'Liaoning Products Out of Liaoning' benefit procurement platform in Shenyang to boost the sales of local products. The platform, led by local government, supports enterprises in expanding markets through centralized procurement and preferential policies. This initiative is part of regional economic development strategy to enhance the brand influence of Liaoning.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻涉及区域经济政策，可能对辽宁本地企业有积极影响，但影响范围有限，主要针对特定区域和行业，对整体金融市场影响较小。市场预期变化不大，情绪偏向中性，因政策细节和具体实施效果尚不明确。",
+      "logic_en": "The news involves regional economic policy, which may have a positive impact on local enterprises in Liaoning, but the scope is limited to specific regions and industries, with minimal effect on overall financial markets. Market expectations remain largely unchanged, and sentiment is neutral due to unclear policy details and implementation outcomes."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:04.024Z"
+  },
+  {
+    "newsId": "Y2N0di3mianlpKfl",
+    "title_en": "Expanding Opening-up: Pingtan Advances Implementation of 'First Line Liberalization, Second Line Control' Customs Supervision System",
+    "summary_cn": "福建省平潭综合实验区正全力推进“一线放开、二线管住”海关监管制度实施。此举是在海南自由贸易港全岛封关运作启动后，中国进一步扩大开放的举措之一。该制度旨在优化海关监管，促进贸易便利化，推动区域经济发展。",
+    "summary_en": "Pingtan Comprehensive Experimental Zone in Fujian Province is advancing the implementation of the 'first line liberalization, second line control' customs supervision system. This follows the full-island customs closure operation of Hainan Free Trade Port, marking another step in China's opening-up. The system aims to optimize customs supervision, facilitate trade, and boost regional economic development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该新闻显示中国继续扩大开放，推进海关监管制度改革，有利于提升贸易便利化水平，可能吸引更多投资和贸易活动，对区域经济和相关产业构成积极影响，从而提振市场情绪。",
+      "logic_en": "The news indicates China's continued opening-up and reform of customs supervision, which enhances trade facilitation, potentially attracting more investment and trade activities. This positively impacts regional economies and related sectors, boosting market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:03.519Z"
+  },
+  {
+    "newsId": "Y2N0di3ogZrnhKbn",
+    "title_en": "Focusing on Logistics and Chemical Industries, Dutch Business Delegation Seeks Practical Cooperation in Shandong",
+    "summary_cn": "荷兰De Rijke集团首席执行官凯斯·德赖克表示，通过与山东政府部门、机构及企业的交流，认识到山东作为欧洲长期战略合作伙伴的重要性，渴望深化合作。新闻聚焦物流与化工行业，荷兰客商在山东寻求务实合作机会。",
+    "summary_en": "Kees de Rijke, CEO of De Rijke Group from the Netherlands, stated that through exchanges with Shandong government departments, institutions, and enterprises, they recognize the importance of Shandong as a long-term strategic partner for Europe and are eager to deepen cooperation. The news focuses on the logistics and chemical industries, with Dutch businesses seeking practical cooperation opportunities in Shandong.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道荷兰企业在山东寻求物流与化工行业合作，属于一般性商业交流新闻，未涉及具体政策、财务数据或重大交易，对市场情绪和预期影响有限，短期对A股市场无明显利多或利空驱动。",
+      "logic_en": "The news primarily reports on Dutch businesses seeking cooperation in logistics and chemical industries in Shandong, which is a general business exchange story without involving specific policies, financial data, or major deals. It has limited impact on market sentiment and expectations, with no clear bullish or bearish drivers for the A-share market in the short term."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-12T14:17:04.826Z"
+  },
+  {
+    "newsId": "Y2N0di3msrPljZfk",
+    "title_en": "Henan Transportation Releases 2025 'Report Card': Investment Exceeds 100 Billion Yuan, Expressway Mileage Surpasses 10,000 Kilometers",
+    "summary_cn": "河南省交通运输工作会议通报2025年成绩单：全年完成公路水路固定资产投资超千亿元，高速公路通车总里程突破一万公里，港口吞吐量突破七千万吨。数据显示交通基础设施投资强劲，建设成果显著。",
+    "summary_en": "The Henan Provincial Transportation Work Conference announced the 2025 report card: annual investment in highway and waterway fixed assets exceeded 100 billion yuan, expressway mileage surpassed 10,000 kilometers, and port throughput exceeded 70 million tons. The data indicates strong infrastructure investment and significant construction achievements.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "基建板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Infrastructure Sector"
+      ],
+      "logic": "新闻显示河南省交通基础设施投资超千亿且里程突破，反映地方政府在基建领域的积极投入和经济增长支撑，可能提振市场对基建相关板块的预期，带动相关产业链情绪向好。",
+      "logic_en": "The news shows that Henan's transportation infrastructure investment exceeded 100 billion yuan with mileage breakthroughs, reflecting active local government investment in infrastructure and support for economic growth. This may boost market expectations for the infrastructure-related sector and improve sentiment in related industrial chains."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:03.725Z"
+  },
+  {
+    "newsId": "Y2N0di0yMDI25rGJ",
+    "title_en": "2026 Hannover International Fire Safety Exhibition to be held in June, Chinese companies set record in both number of exhibitors and booth area",
+    "summary_cn": "2026汉诺威国际消防安全展览会新闻发布会12日在上海举办。主办方透露，本届展会中国企业参展数量和展位面积均创历史之最。展会将于6月举办。",
+    "summary_en": "The press conference for the 2026 Hannover International Fire Safety Exhibition was held in Shanghai on the 12th. Organizers revealed that Chinese companies have set a record in both the number of exhibitors and booth area for this edition. The exhibition is scheduled for June.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻仅报道中国企业参展情况，未涉及具体财务数据、政策变化或行业重大事件，对金融市场直接影响有限。可能轻微提振相关行业情绪，但无实质性利多或利空因素。",
+      "logic_en": "The news only reports on Chinese companies' participation in an exhibition, without involving specific financial data, policy changes, or major industry events, having limited direct impact on financial markets. It may slightly boost sentiment in related sectors, but there are no substantive bullish or bearish factors."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-12T14:17:02.493Z"
+  },
+  {
+    "newsId": "Y2N0di3mrKfnm5/k",
+    "title_en": "EU-China Chamber of Commerce: Highly Welcomes the 'Soft Landing' of the EU-China Electric Vehicle Case",
+    "summary_cn": "欧盟中国商会发表声明，高度欢迎中欧通过对话磋商推动电动汽车案实现“软着陆”。商会认为这一共同决定将显著提振市场信心，体现了双方在贸易争端中的合作态度。",
+    "summary_en": "The EU-China Chamber of Commerce issued a statement, highly welcoming the 'soft landing' of the EU-China electric vehicle case through dialogue and consultation. The chamber believes this joint decision will significantly boost market confidence, reflecting cooperative attitudes in trade disputes.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "欧洲股市"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "European Stock Markets"
+      ],
+      "logic": "新闻显示中欧电动汽车贸易争端通过对话实现“软着陆”，避免了潜在的贸易摩擦升级，这有助于缓解市场对贸易紧张局势的担忧，提振投资者信心，对相关市场和电动汽车产业链构成利好。",
+      "logic_en": "The news indicates that the EU-China electric vehicle trade dispute achieved a 'soft landing' through dialogue, avoiding potential escalation of trade friction. This helps alleviate market concerns over trade tensions, boosts investor confidence, and is beneficial for related markets and the electric vehicle industry chain."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-12T14:17:02.551Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3pg6jn",
+    "title_en": "Central Province Hunan Seeks Development 'Intelligent Transformation' by Empowering Industries with AI",
+    "summary_cn": "新闻介绍了湖南利用人工智能技术推动产业升级的案例。在国家超级计算长沙中心，AI技术被应用于金融领域，为某银行构建了“产融+大模型”生态体系。该系统将产业链全景分析的时间从三周手动完成大幅缩短至48小时内自动生成，展示了AI赋能产业效率提升的潜力。",
+    "summary_en": "The news highlights Hunan province's efforts to drive industrial upgrading through AI technology. At the National Supercomputing Center in Changsha, AI is applied in the financial sector, building an 'industry-finance + large model' ecosystem for a bank. This system reduces the time for industrial chain analysis from three weeks manually to 48 hours automatically, demonstrating AI's potential to enhance industrial efficiency.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻展示了AI技术在产业应用中的积极进展，特别是金融领域的效率提升案例，可能提振市场对AI相关产业和科技创新的乐观情绪。这有助于增强投资者对中国科技板块和区域经济发展的信心，对A股市场尤其是科技股和湖南本地相关产业构成利好。",
+      "logic_en": "The news showcases positive progress in AI technology applications in industries, particularly efficiency improvements in the financial sector, which may boost market optimism towards AI-related industries and technological innovation. This could enhance investor confidence in China's tech sector and regional economic development, benefiting the A-share market, especially tech stocks and related industries in Hunan."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:05.534Z"
+  },
+  {
+    "newsId": "Y2N0di3muZbljJfl",
+    "title_en": "Hubei Yichang Seizes New Track of Green Intelligent Ships to Help Build 'Electrified Yangtze River'",
+    "summary_cn": "湖北宜昌正积极布局绿色智能船舶新赛道，以助力“电化长江”建设。新项目落地将壮大宜昌绿色船舶制造产业集群，巩固其在“电化长江”领域的先发优势。宜昌市人大常委会副主任丁庆荣表示，此举将进一步推动绿色船舶产业发展。",
+    "summary_en": "Hubei Yichang is actively developing the new track of green intelligent ships to support the construction of the 'Electrified Yangtze River'. The implementation of new projects will expand Yichang's green ship manufacturing industry cluster and consolidate its first-mover advantage in the 'Electrified Yangtze River' field. Ding Qingrong, Deputy Director of the Yichang Municipal People's Congress Standing Committee, stated that this will further promote the development of the green ship industry.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻显示宜昌推动绿色智能船舶产业发展，这属于新能源和高端制造领域，符合国家“双碳”战略和产业升级方向。此类政策支持通常利好相关产业链，如船舶制造、新能源电池、智能控制系统等板块，可能提升市场对绿色船舶主题的投资情绪和预期。",
+      "logic_en": "The news indicates that Yichang is promoting the development of the green intelligent ship industry, which falls under the new energy and high-end manufacturing sectors, aligning with China's 'dual carbon' strategy and industrial upgrading. Such policy support typically benefits related industrial chains, such as shipbuilding, new energy batteries, and intelligent control systems, potentially boosting market sentiment and expectations for the green ship theme."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:06.752Z"
+  },
+  {
+    "newsId": "Y2N0di3muIXljY7l",
+    "title_en": "Tsinghua University Self-funds Over 670 Million Yuan to Renovate Student Dormitories",
+    "summary_cn": "清华大学近日发布招标公告，计划自筹超过6.7亿元资金，对紫荆学生公寓1-6、8-13号楼进行综合维修改造。该项目涉及方案设计、初步设计和施工图设计，旨在提升学生住宿条件。",
+    "summary_en": "Tsinghua University recently issued a tender announcement, planning to self-fund over 670 million yuan for comprehensive renovation of Zijing Student Apartments Buildings 1-6 and 8-13. The project includes scheme design, preliminary design, and construction drawing design, aiming to improve student accommodation conditions.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及清华大学自筹资金进行校园基建改造，属于教育机构内部投资行为，不直接关联宏观经济政策或企业盈利变化，对金融市场整体影响有限。可能轻微提振相关建筑或教育板块情绪，但无明确市场方向性影响。",
+      "logic_en": "This news involves Tsinghua University self-funding campus infrastructure renovation, which is an internal investment by an educational institution and not directly linked to macroeconomic policies or corporate earnings changes. It has limited overall impact on financial markets. It may slightly boost sentiment in related construction or education sectors, but no clear market directional effect is evident."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-12T14:17:21.864Z"
+  },
+  {
+    "newsId": "Y2N0di3ooqvmjIfi",
+    "title_en": "Jindi Chocolate Apologizes for Alleged 'Inappropriate' Marketing",
+    "summary_cn": "金帝巧克力因在社交平台发布疑似含有“擦边”广告语的内容而受到网友指责。该内容涉及一款金色小熊头包装的“美滋滋榛仁脆心巧克力”产品。公司已就此事件公开道歉。",
+    "summary_en": "Jindi Chocolate has apologized after being accused of posting content with alleged 'inappropriate' advertising language on social media. The content involved a product called 'Meizizi Hazelnut Crisp Chocolate' with a golden bear head packaging. The company issued a public apology regarding the incident.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及金帝巧克力的负面营销事件，可能损害公司品牌形象和消费者信任，从而对相关股票产生负面影响。此类事件通常引发市场对该公司治理和声誉风险的担忧，可能导致股价承压。",
+      "logic_en": "This news involves a negative marketing incident for Jindi Chocolate, which could damage the company's brand image and consumer trust, negatively impacting related stocks. Such events typically raise market concerns about corporate governance and reputational risks, potentially putting downward pressure on the stock price."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:21.298Z"
+  },
+  {
+    "newsId": "Y2N0di3msJHnlJ/o",
+    "title_en": "People's Livelihood Investigation Bureau | Xiaohongshu's 'Avoidance Posts' Backfire",
+    "summary_cn": "2025年底，丽江官方公开致函小红书，要求审核平台上的“避雷帖”，此事登上热搜。新闻聚焦民生调查，关注网络平台内容管理问题。",
+    "summary_en": "In late 2025, Lijiang authorities publicly wrote to Xiaohongshu, requesting a review of 'avoidance posts' on the platform, which became a trending topic. The news focuses on livelihood investigations and content management issues on online platforms.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻涉及网络平台内容监管，可能引发对相关行业政策风险的关注，但未直接涉及宏观经济或公司基本面，对金融市场影响有限，情绪偏向中性。",
+      "logic_en": "The news involves content regulation on online platforms, which may raise concerns about policy risks in related industries, but it does not directly affect macroeconomic factors or corporate fundamentals, having limited impact on financial markets with a neutral sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T14:17:19.811Z"
   }
 ]
