@@ -6402,5 +6402,479 @@
     "related_stocks": [],
     "confidence": 0.6,
     "analyzedAt": "2026-01-11T14:10:54.520Z"
+  },
+  {
+    "newsId": "Y2N0di3lhajlm73l",
+    "title_en": "Liu Hanyuan, Vice Chairman of All-China Federation of Industry and Commerce and Chairman of Tongwei Group: 'Conveying China's Confidence in Green Development to the World'",
+    "summary_cn": "习近平总书记的新年贺词回顾了“十四五”成就并展望“十五五”蓝图，强调高质量发展和民族复兴。全国人大代表、全国工商联副主席、通威集团董事局主席刘汉元表示，作为深耕绿色农业和绿色能源的民营企业，通威集团的发展与国家战略同步，贺词增强了企业扎根实业、创新能源转型和服务全球市场的信心。",
+    "summary_en": "President Xi Jinping's New Year address reviewed the achievements of the 14th Five-Year Plan and outlined the vision for the 15th Five-Year Plan, emphasizing high-quality development and national rejuvenation. Liu Hanyuan, a National People's Congress deputy, Vice Chairman of the All-China Federation of Industry and Commerce, and Chairman of Tongwei Group, stated that as a private enterprise deeply involved in green agriculture and green energy for over 40 years, Tongwei's growth aligns with national strategies, and the address has strengthened the company's confidence in focusing on real economy, innovating in energy transition, and serving global markets.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "新能源板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "New Energy Sector"
+      ],
+      "logic": "新闻强调国家支持绿色发展和能源转型，通威集团作为相关龙头企业表态积极，可能提振市场对新能源和绿色产业的政策预期和投资情绪，利好相关板块。",
+      "logic_en": "The news highlights national support for green development and energy transition, with Tongwei Group, a leading company in the field, expressing positive commitment. This may boost market expectations for policies and investment sentiment in the new energy and green industries, benefiting related sectors."
+    },
+    "related_stocks": [
+      {
+        "symbol": "600438.SH",
+        "name": "通威股份",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:27.961Z"
+  },
+  {
+    "newsId": "Y2N0di3lm73pmYXp",
+    "title_en": "International Gold Futures Price Hits New High",
+    "summary_cn": "美国纽约商品交易所黄金期货价格在1月11日创下历史新高，一度突破每盎司4612美元。这反映了市场对黄金的强劲需求，可能受到避险情绪或通胀预期推动。",
+    "summary_en": "Gold futures prices on the New York Commodity Exchange hit a record high on January 11, briefly surpassing $4,612 per ounce. This indicates strong market demand for gold, likely driven by safe-haven sentiment or inflation expectations.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "黄金期货",
+        "黄金ETF",
+        "贵金属板块"
+      ],
+      "affected_markets_en": [
+        "Gold Futures",
+        "Gold ETFs",
+        "Precious Metals Sector"
+      ],
+      "logic": "黄金期价创新高通常反映市场避险情绪升温或通胀预期增强，可能提振黄金及相关资产的市场情绪，吸引更多资金流入贵金属板块。",
+      "logic_en": "The record high in gold futures prices typically reflects increased safe-haven sentiment or rising inflation expectations, which may boost market sentiment for gold and related assets, attracting more capital inflows into the precious metals sector."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-12T03:54:22.702Z"
+  },
+  {
+    "newsId": "Y2N0di3lm5vpg6jp",
+    "title_en": "Four Departments Issue New Regulations, Systematically Regulating Government Investment Fund Layout and Direction for the First Time",
+    "summary_cn": "国家发改委、财政部、科技部、工信部四部门联合印发《关于加强政府投资基金布局规划和投向指导的工作办法(试行)》。该办法首次对政府投资基金的布局和投向作出系统性规范，旨在优化基金结构、提高投资效率。此举将引导政府投资基金更精准地支持国家战略和重点领域，如科技创新和产业升级。",
+    "summary_en": "Four departments, including the National Development and Reform Commission and the Ministry of Finance, jointly issued the \"Measures for Strengthening the Layout Planning and Direction Guidance of Government Investment Funds (Trial)\". This marks the first systematic regulation of the layout and direction of government investment funds, aiming to optimize fund structure and enhance investment efficiency. It will guide funds to more precisely support national strategies and key areas, such as technological innovation and industrial upgrading.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新规通过系统规范政府投资基金的布局和投向，有望引导更多资金流向科技创新、产业升级等国家战略重点领域，从而提振相关行业和企业的市场预期。这可能会增强投资者对A股市场中科技和成长板块的信心，推动市场情绪向好，对整体市场产生积极影响。",
+      "logic_en": "The new regulations systematically standardize the layout and direction of government investment funds, which is expected to channel more capital into key national strategic areas like technological innovation and industrial upgrading. This may boost market expectations for related sectors and companies, enhancing investor confidence in technology and growth segments of the A-share market, thereby fostering positive market sentiment and having a bullish impact overall."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:26.734Z"
+  },
+  {
+    "newsId": "Y2N0di3njrDotKfp",
+    "title_en": "Spot Gold Price Hits Record High",
+    "summary_cn": "12日早盘，现货黄金（伦敦金现）强势上涨，盘中突破2025年12月29日创下的历史纪录（4550.520美元），再创新高。截至发稿，报4550.880美元/盎司，涨幅0.93%。COMEX黄金期货同步上涨。",
+    "summary_en": "In early trading on the 12th, spot gold (London spot) surged strongly, breaking through the historical record set on December 29, 2025 (4550.520 USD) and reaching a new high. As of the report, it was quoted at 4550.880 USD per ounce, up 0.93%. COMEX gold futures rose in tandem.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "黄金现货市场",
+        "黄金期货市场"
+      ],
+      "affected_markets_en": [
+        "Spot Gold Market",
+        "Gold Futures Market"
+      ],
+      "logic": "新闻显示现货黄金价格创历史新高，表明市场对黄金的避险需求或投资情绪增强，可能反映对经济不确定性或通胀预期的担忧，从而提振黄金相关资产。",
+      "logic_en": "The news indicates that spot gold prices have hit a record high, suggesting increased safe-haven demand or investment sentiment for gold, which may reflect concerns about economic uncertainty or inflation expectations, thereby boosting gold-related assets."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-12T03:54:23.998Z"
+  },
+  {
+    "newsId": "Y2N0di3lpKfluobm",
+    "title_en": "Daqing Oilfield Xingnan Development Zone's 100-Day Campaign: 'One Well, One Strategy' Revives Old Oil Reservoirs",
+    "summary_cn": "大庆油田采油五厂第七作业区完成'百日百井稳油增效'专项攻坚行动，通过三维'体检'和对症'诊治'，成功唤醒老油藏。行动使自然递减率下降1.4个百分点，提升了原油稳产能力，为老油区注入新活力。",
+    "summary_en": "Daqing Oilfield's Fifth Oil Production Plant completed a 100-day campaign to stabilize and enhance oil production, using 3D 'check-ups' and targeted treatments to revive old reservoirs. The campaign reduced the natural decline rate by 1.4 percentage points, boosting crude oil stability and rejuvenating the aging oilfield.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻聚焦大庆油田通过技术手段提升老油区生产效率，可能对能源板块情绪有轻微提振，但影响有限，因未涉及重大政策或产量数据变化，且为单一区域事件，整体市场影响中性。",
+      "logic_en": "The news highlights Daqing Oilfield's efforts to improve efficiency in old reservoirs through technical measures, which may slightly boost sentiment in the energy sector. However, the impact is limited as it does not involve major policy changes or production data, and it is a localized event, resulting in a neutral overall market effect."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:25.405Z"
+  },
+  {
+    "newsId": "Y2N0di3mlrDkuJzm",
+    "title_en": "New Oriental Education & Technology Group Chairman Yu Minhong: 'Practical Innovation, Integrating into the High-Quality Development Landscape'",
+    "summary_cn": "新东方教育科技集团董事长俞敏洪强调实干创新，融入高质量发展大局。作为全国工商联知名企业委员会秘书长，他呼吁企业积极适应国家发展策略。新闻聚焦教育行业在高质量发展中的角色，未提及具体财务数据或政策变动。",
+    "summary_en": "Yu Minhong, Chairman of New Oriental Education & Technology Group, emphasizes practical innovation and integration into the high-quality development landscape. As Secretary-General of the National Federation of Industry and Commerce's Committee of Well-Known Enterprises, he calls for businesses to actively adapt to national development strategies. The news focuses on the role of the education sector in high-quality development, without mentioning specific financial data or policy changes.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻内容为企业家表态，强调创新和高质量发展，但未涉及具体政策、财务业绩或行业重大变动，对市场情绪影响有限。可能轻微提振教育板块信心，但缺乏实质性利好或利空信息，整体市场影响中性。",
+      "logic_en": "The news content involves an entrepreneur's statement emphasizing innovation and high-quality development, but does not involve specific policies, financial performance, or major industry changes, having limited impact on market sentiment. It may slightly boost confidence in the education sector, but lacks substantive bullish or bearish information, resulting in an overall neutral market impact."
+    },
+    "related_stocks": [
+      {
+        "symbol": "EDU",
+        "name": "新东方教育科技集团",
+        "market": "US"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:26.452Z"
+  },
+  {
+    "newsId": "Y2N0di3msb3ovabo",
+    "title_en": "Automotive Industry Digital Transformation Accelerates",
+    "summary_cn": "工信部、教育部、市场监管总局、国家数据局联合印发《汽车行业数字化转型实施方案》。该方案旨在推动汽车行业数字化升级，涵盖技术研发、生产制造、市场服务等环节。此举将促进汽车产业与数字技术深度融合，提升行业竞争力。",
+    "summary_en": "Four ministries including the Ministry of Industry and Information Technology jointly issued the \"Automotive Industry Digital Transformation Implementation Plan.\" The plan aims to accelerate digital upgrades in the automotive sector, covering technology R&D, manufacturing, and market services. This initiative will deepen integration between the automotive industry and digital technologies, enhancing competitiveness.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该政策直接支持汽车行业数字化转型，可能提升相关企业技术水平和生产效率，利好汽车产业链及科技板块。市场预期政策将带动行业投资和需求增长，增强投资者信心。",
+      "logic_en": "This policy directly supports digital transformation in the automotive industry, potentially improving technology and production efficiency for related companies, benefiting the automotive supply chain and tech sectors. Market expectations include increased industry investment and demand growth, boosting investor confidence."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:23.769Z"
+  },
+  {
+    "newsId": "Y2N0di3nlLXllYbl",
+    "title_en": "E-commerce Platform Support Policies Upgraded Again to Stabilize Merchant Expectations and Promote Growth",
+    "summary_cn": "电商竞争进入存量深耕阶段，各大平台转向生态建设。扶持商家发展、改善营商环境成为行业共识趋势。政策升级旨在稳定商家预期并促进增长。",
+    "summary_en": "As e-commerce competition enters a stage of deepening existing markets, major platforms are shifting from extensive expansion to ecosystem building. Supporting merchant development and improving the business environment have become a consensus trend in the industry. Policy upgrades aim to stabilize merchant expectations and promote growth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "电商平台扶持政策升级有助于改善商家经营环境，稳定市场预期，可能提升平台生态健康度和长期增长潜力，对电商及相关科技板块构成利好。",
+      "logic_en": "The upgrade of e-commerce platform support policies helps improve the business environment for merchants, stabilizes market expectations, and may enhance the health and long-term growth potential of platform ecosystems, which is bullish for the e-commerce and related technology sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-12T03:54:22.752Z"
+  },
+  {
+    "newsId": "Y2N0di3lvIDlubTp",
+    "title_en": "First State Council Executive Meeting of the Year: Fiscal and Financial Coordination to Precisely Boost Domestic Demand",
+    "summary_cn": "开年首次国常会强调财政金融协同，精准促进内需。会议提出优化“双贴息”政策，并设立民间投资专项担保计划，旨在通过政策工具组合激发市场活力，支持经济增长。",
+    "summary_en": "The first State Council Executive Meeting of the year emphasized fiscal and financial coordination to precisely boost domestic demand. The meeting proposed optimizing the \"dual discount\" policy and establishing a special guarantee plan for private investment, aiming to stimulate market vitality and support economic growth through policy tool combinations.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻显示政府通过财政金融协同政策（如优化贴息和设立担保计划）精准促内需，这有助于降低企业融资成本、激发民间投资活力，从而提振市场对经济增长的预期，对A股市场情绪产生积极影响。",
+      "logic_en": "The news indicates that the government is using fiscal and financial coordination policies (such as optimizing discount rates and establishing guarantee plans) to precisely boost domestic demand. This helps reduce corporate financing costs and stimulate private investment vitality, thereby improving market expectations for economic growth and positively impacting sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:24.463Z"
+  },
+  {
+    "newsId": "Y2N0di0x5pyIMTLm",
+    "title_en": "January 12th: RMB to USD Central Parity Rate Set at 7.0108 Yuan, Up 20 Basis Points",
+    "summary_cn": "中国人民银行授权中国外汇交易中心公布，2026年1月12日人民币对美元中间价报7.0108元，较前一日上调20个基点。这表明人民币汇率有所升值，反映了市场供需和央行政策导向。",
+    "summary_en": "The People's Bank of China authorized the China Foreign Exchange Trade System to announce that on January 12, 2026, the central parity rate of the RMB against the USD was set at 7.0108 yuan, up 20 basis points from the previous day. This indicates a slight appreciation of the RMB, reflecting market supply and demand and central bank policy guidance.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "人民币汇率",
+        "A股市场",
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "RMB Exchange Rate",
+        "A-Share Market",
+        "CSI Index"
+      ],
+      "logic": "人民币中间价上调20个基点，表明人民币短期升值倾向，可能提振市场对人民币资产的信心，利好A股市场，尤其是出口依赖度较低的板块，同时可能吸引外资流入。但需注意，汇率变动受多重因素影响，市场反应可能有限。",
+      "logic_en": "The upward adjustment of the RMB central parity rate by 20 basis points indicates a short-term appreciation tendency for the RMB, which may boost market confidence in RMB-denominated assets, benefiting the A-share market, especially sectors less dependent on exports, and potentially attracting foreign capital inflows. However, it should be noted that exchange rate movements are influenced by multiple factors, and market reactions may be limited."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:26.161Z"
+  },
+  {
+    "newsId": "Y2N0di3lm73lrrbm",
+    "title_en": "National Standards Full Text Free Public Access Achieves Significant Results, Annual Page Views Exceed 100 Million",
+    "summary_cn": "市场监管总局推进国家标准全文免费公开一年来，可下载国家标准数量从1500多项大幅增加到32000多项。此举有效满足了企业和社会公众的需求，产生了积极的社会影响。全年浏览量达到1亿多次，显示公众对标准信息的关注度显著提升。",
+    "summary_en": "Over the past year since the State Administration for Market Regulation promoted free public access to national standards, the number of downloadable standards has increased from over 1,500 to more than 32,000. This initiative has effectively met the needs of enterprises and the public, generating positive impacts. Annual page views exceeded 100 million, indicating a significant rise in public attention to standard information.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻主要报道国家标准免费公开的成效，属于政策执行层面的积极进展，但未直接涉及宏观经济数据、企业盈利或货币政策变化。此举可能长期利好企业合规和效率提升，但对短期金融市场无直接影响，市场情绪偏向中性。",
+      "logic_en": "The news primarily reports the positive outcomes of free public access to national standards, which is an administrative policy achievement. It does not directly involve macroeconomic data, corporate earnings, or monetary policy changes. This initiative may benefit long-term corporate compliance and efficiency, but has no immediate impact on short-term financial markets, leading to a neutral market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-12T03:54:43.187Z"
+  },
+  {
+    "newsId": "Y2N0di3lm5vmnInp",
+    "title_en": "Founder of Siyou Youth Catering Entrepreneurship Service Group Zhao Gang: 'Focusing on People's Livelihood, Supporting Ordinary People's Entrepreneurial Dreams'",
+    "summary_cn": "2026年是“十五五”开局之年，习近平总书记的新年贺词回顾了“十四五”成就并擘画了“十五五”蓝图。四有青年餐饮创业服务集团创始人赵刚表示，贺词中关于“依靠创新为高质量发展赋能”“继续敞开胸怀拥抱世界”的论述，为民营企业发展注入了信心和动力。",
+    "summary_en": "2026 marks the beginning of the 15th Five-Year Plan. President Xi Jinping's New Year address reviewed achievements of the 14th Five-Year Plan and outlined the blueprint for the 15th Five-Year Plan. Zhao Gang, founder of Siyou Youth Catering Entrepreneurship Service Group, stated that the address's emphasis on 'empowering high-quality development through innovation' and 'continuing to embrace the world with an open mind' injects strong confidence and momentum into private enterprise development.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻内容主要涉及宏观政策导向和民营企业信心提振，未提及具体经济数据、政策变动或公司业绩，对金融市场直接影响有限。可能间接利好消费和创业相关板块，但缺乏具体催化因素，整体市场影响偏向中性。",
+      "logic_en": "The news primarily covers macro policy direction and boosting confidence in private enterprises, without mentioning specific economic data, policy changes, or corporate performance, thus having limited direct impact on financial markets. It may indirectly benefit consumption and entrepreneurship-related sectors, but lacks concrete catalysts, resulting in an overall neutral market impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:44.385Z"
+  },
+  {
+    "newsId": "Y2N0di0yMDI15oqW",
+    "title_en": "2025 Douyin Technology Content Ecosystem Report Released: Technology Content Views Exceed 1.4 Trillion, AI Interest User Growth Doubles",
+    "summary_cn": "《2025抖音科技内容生态报告》发布，显示2025年抖音科技内容观看量突破1.4万亿次。AI兴趣用户数量实现翻倍增长，反映了科技内容在平台上的普及和用户兴趣的提升。报告展示了抖音科技内容生态的发展趋势和变化。",
+    "summary_en": "The '2025 Douyin Technology Content Ecosystem Report' has been released, showing that technology content views on Douyin exceeded 1.4 trillion in 2025. The number of users interested in AI doubled, indicating increased popularity of tech content and user engagement on the platform. The report highlights trends and changes in Douyin's tech content ecosystem.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "该报告显示抖音科技内容观看量大幅增长，特别是AI兴趣用户翻倍，可能提振市场对科技和AI相关板块的乐观情绪，增强投资者对科技行业增长潜力的信心，从而对科技股为主的指数产生积极影响。",
+      "logic_en": "The report shows significant growth in technology content views on Douyin, especially with AI interest users doubling, which may boost market optimism towards technology and AI-related sectors. This could enhance investor confidence in the growth potential of the tech industry, positively impacting indices dominated by tech stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:42.833Z"
+  },
+  {
+    "newsId": "Y2N0di3mnYPlqIHo",
+    "title_en": "Authoritative Interview: Laying a Solid Foundation and Cultivating New Momentum to Strive for a New Situation in New Industrialization - Interview with Li Lecheng, Secretary of the Party Leadership Group and Minister of the Ministry of Industry and Information Technology",
+    "summary_cn": "工业和信息化部部长李乐成接受专访，强调在“十五五”开局之年，要夯实工业基本盘并培育新动能，以推动新型工业化发展。访谈聚焦于工业领域的战略部署，旨在通过稳定基础和创新发展来开创新局面。这反映了政府对工业现代化和高质量发展的重视，为相关产业提供了政策导向。",
+    "summary_en": "Li Lecheng, Minister of the Ministry of Industry and Information Technology, emphasized in an interview that at the start of the \"15th Five-Year Plan,\" it is crucial to solidify the industrial foundation and cultivate new momentum to promote new industrialization. The interview focuses on strategic deployments in the industrial sector, aiming to create a new situation through stable foundations and innovative development. This reflects the government's emphasis on industrial modernization and high-quality growth, providing policy guidance for related industries.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻强调了政府对工业基本盘和新动能的重视，这通常意味着政策支持将加强，可能提振工业板块和相关制造业的信心。通过夯实基础和培育新动能，预期将促进工业现代化和高质量发展，从而对A股市场中的工业、科技和制造业股票产生积极影响，但具体影响取决于后续政策实施和市场反应。",
+      "logic_en": "The news highlights the government's focus on solidifying the industrial foundation and cultivating new momentum, which typically implies increased policy support that could boost confidence in the industrial sector and related manufacturing. By strengthening the base and fostering new growth drivers, it is expected to promote industrial modernization and high-quality development, positively impacting stocks in the industrial, technology, and manufacturing sectors in the A-share market, though the specific effects depend on subsequent policy implementation and market reactions."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:46.957Z"
+  },
+  {
+    "newsId": "Y2N0di3nqoHnoLQ4",
+    "title_en": "Breakthrough 84 Million Tons! SCO (Lianyungang) International Logistics Park Sets Record High in 2025 Logistics Volume",
+    "summary_cn": "2025年上合组织(连云港)国际物流园物流量达8435.88万吨，同比增长13.52%，集装箱运量67.7万标箱，同比增长4.48%，均创历史新高。园区持续提升物流中转基地功能，显示区域物流活动活跃。",
+    "summary_en": "In 2025, the SCO (Lianyungang) International Logistics Park achieved a logistics volume of 84.3588 million tons, up 13.52% year-on-year, and container throughput of 677,000 TEUs, up 4.48% year-on-year, both setting record highs. The park continues to enhance its logistics hub functions, indicating robust regional logistics activity.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示连云港物流园物流量创历史新高，同比增长强劲，表明区域经济活动和贸易往来活跃，可能提振市场对物流、港口和基础设施相关板块的信心，对A股市场整体情绪有积极影响。",
+      "logic_en": "The news shows record-high logistics volume at the Lianyungang logistics park with strong year-on-year growth, indicating robust regional economic activity and trade flows. This may boost market confidence in logistics, port, and infrastructure-related sectors, positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:42.991Z"
+  },
+  {
+    "newsId": "Y2N0di3lpKfov57n",
+    "title_en": "Dalian and 8 Other Cities' Pilot Tasks Clarified - New 'Roadmap' for Expanding Opening-up in Service Industry",
+    "summary_cn": "中国宣布大连等9个城市作为服务业扩大开放试点，任务已明确。此举旨在推动服务业高质量发展，优化营商环境。试点将聚焦金融、科技、文化等领域开放，为全国提供可复制经验。",
+    "summary_en": "China announced Dalian and eight other cities as pilot zones for expanding opening-up in the service industry, with tasks clarified. This aims to promote high-quality development in services and optimize the business environment. The pilots will focus on opening sectors like finance, technology, and culture, providing replicable experience nationwide.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻显示中国进一步扩大服务业开放，有助于吸引外资、促进经济结构优化，可能提振市场对相关行业和区域发展的预期，对A股市场情绪有积极影响。",
+      "logic_en": "This news indicates China's further expansion of opening-up in the service industry, which may attract foreign investment and promote economic structural optimization, potentially boosting market expectations for related sectors and regional development, positively impacting A-share market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:41.959Z"
+  },
+  {
+    "newsId": "Y2N0di3mjqLorr/k",
+    "title_en": "Visiting the China-Uganda Mbale Industrial Park: \"China-Africa Friendship Endures in the Journey Towards Modernization\"",
+    "summary_cn": "记者探访中乌姆巴莱工业园，展示中非合作成果。新闻强调中非友谊在现代化进程中历久弥坚，聚焦工业园作为合作典范。内容以正面宣传为主，未涉及具体经济数据或政策变动。",
+    "summary_en": "A reporter visits the China-Uganda Mbale Industrial Park, showcasing China-Africa cooperation achievements. The news highlights the enduring friendship between China and Africa in the modernization process, focusing on the industrial park as a model of collaboration. The content is primarily positive propaganda without specific economic data or policy changes.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻内容为正面宣传中非合作，但未涉及具体经济指标、政策调整或公司业绩，对金融市场无直接影响。可能间接提振市场对中国海外投资和一带一路倡议的信心，但影响微弱且不明确。",
+      "logic_en": "The news content is positive propaganda about China-Africa cooperation but does not involve specific economic indicators, policy adjustments, or corporate performance, having no direct impact on financial markets. It may indirectly boost confidence in China's overseas investments and the Belt and Road Initiative, but the effect is minimal and unclear."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:41.978Z"
+  },
+  {
+    "newsId": "Y2N0di3lhY3nrb7m",
+    "title_en": "Visa-Free Policy Dividends Continue to Be Released, Heilongjiang's Inbound and Outbound Passengers Increase by 43.8%",
+    "summary_cn": "黑龙江入境游市场持续火爆，得益于免签政策红利的持续释放，许多外国人选择到中国旅游和购物。",
+    "summary_en": "Heilongjiang's inbound tourism market remains hot, benefiting from the continuous release of visa-free policy dividends, with many foreigners choosing to travel and shop in China.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "旅游板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Tourism Sector"
+      ],
+      "logic": "免签政策促进入境旅游增长，可能提振旅游、零售等相关行业，对市场情绪有积极影响。",
+      "logic_en": "Visa-free policies boost inbound tourism growth, potentially benefiting related sectors such as tourism and retail, positively impacting market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:38.986Z"
+  },
+  {
+    "newsId": "Y2N0di3mlrDnlobp",
+    "title_en": "Xinjiang Alashankou: Railway Port's 2025 Freight Volume Nears 18 Million Tons, Reaching Record High",
+    "summary_cn": "根据中铁集团乌鲁木齐局统计，2025年新疆阿拉山口铁路口岸货运量达1786万吨，同比增长7.8%，创35年历史新高。",
+    "summary_en": "According to China Railway Group's Urumqi Bureau, the freight volume at Xinjiang's Alashankou railway port reached 17.86 million tons in 2025, a year-on-year increase of 7.8%, setting a record high in its 35-year history.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻显示新疆阿拉山口铁路口岸货运量创历史新高，同比增长7.8%，表明中国西部物流和贸易活动活跃，可能提振市场对基础设施、物流和区域经济板块的预期，对A股市场整体情绪有积极影响。",
+      "logic_en": "The news indicates that the freight volume at Xinjiang's Alashankou railway port reached a record high with a 7.8% year-on-year increase, suggesting active logistics and trade activities in western China. This may boost market expectations for infrastructure, logistics, and regional economic sectors, positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:42.099Z"
+  },
+  {
+    "newsId": "Y2N0di3kuI7ml7bk",
+    "title_en": "Keeping Pace with the Times and Continuous Development: China-ASEAN Free Trade Area Benefits Over 2 Billion People",
+    "summary_cn": "新闻聚焦中国-东盟自贸区的发展与进步，强调其与时俱进和持续发展的特点。自贸区覆盖20多亿人口，惠及广泛区域，体现了区域经济合作的深化。报道可能涉及贸易便利化、投资增长等积极方面，展示合作成果。",
+    "summary_en": "The news focuses on the development and progress of the China-ASEAN Free Trade Area, highlighting its characteristics of keeping pace with the times and continuous development. The free trade area covers over 2 billion people, benefiting a wide region and reflecting the deepening of regional economic cooperation. The report may involve positive aspects such as trade facilitation and investment growth, showcasing cooperative achievements.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻强调中国-东盟自贸区的积极发展和惠及人口，可能提升市场对区域经济合作和贸易增长的预期，利好相关贸易、物流和制造业板块，从而对A股市场产生正面情绪影响。",
+      "logic_en": "The news emphasizes the positive development and broad benefits of the China-ASEAN Free Trade Area, potentially boosting market expectations for regional economic cooperation and trade growth. This is favorable for related sectors such as trade, logistics, and manufacturing, thereby generating positive sentiment impact on the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-12T03:54:43.065Z"
   }
 ]
