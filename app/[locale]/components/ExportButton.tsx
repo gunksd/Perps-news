@@ -42,7 +42,7 @@ export default function ExportButton({ locale }: ExportButtonProps) {
 
     try {
       if (format === 'pdf') {
-        // PDF导出 - 直接下载，不预览
+        // PDF导出 - 支持中文字符
         const response = await fetch(`/api/export?format=json&locale=${locale}`)
         if (!response.ok) throw new Error('Export failed')
 

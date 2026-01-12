@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "collect": "tsx scripts/scheduledCollect.ts",
-    "test:api": "tsx scripts/testApi.ts"
+    "test:api": "tsx scripts/testApi.ts",
+    "prepare:pdf-font": "bash scripts/downloadPdfFont.sh"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",

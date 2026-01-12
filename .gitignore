@@ -48,3 +48,8 @@ temp-*.json
 *.swp
 *.swo
 *~
+
+# PDF字体文件（太大，需要单独下载）
+public/fonts/*.ttf
+public/fonts/*.otf
+
