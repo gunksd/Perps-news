@@ -7978,5 +7978,469 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-13T03:43:28.183Z"
+  },
+  {
+    "newsId": "Y2N0di1B6IKh5LiK",
+    "title_en": "First 2025 Performance Report of A-Share Listed Banks: SPD Bank's Net Profit Increases Over 10% Year-on-Year",
+    "summary_cn": "浦发银行发布2025年度业绩快报，净利润500.17亿元，同比增长10.52%。这是A股上市银行首份2025年业绩报告，显示银行业绩稳健增长。",
+    "summary_en": "SPD Bank released its 2025 performance report, with net profit reaching 50.017 billion yuan, a year-on-year increase of 10.52%. This is the first 2025 performance report among A-share listed banks, indicating steady growth in the banking sector.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "浦发银行作为A股上市银行，其净利润同比增长超过10%，显示银行业绩向好，可能提振市场对银行板块的信心，带动相关指数上涨。",
+      "logic_en": "As an A-share listed bank, SPD Bank's net profit growth of over 10% year-on-year indicates positive performance in the banking sector, which may boost market confidence in bank stocks and drive up related indices."
+    },
+    "related_stocks": [
+      {
+        "symbol": "600000.SH",
+        "name": "上海浦东发展银行股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-13T14:16:54.690Z"
+  },
+  {
+    "newsId": "Y2N0di3ln47luILm",
+    "title_en": "Urban Renewal Activates Consumption, Beijing Retail Property Structure Continues Optimization and Adjustment in 2025",
+    "summary_cn": "世邦魏理仕报告显示，2025年北京零售物业市场新增供应53.4万平方米全部来自城市更新项目，标志着'以旧换新'成为市场主线。城市更新推动消费激活，零售物业结构持续优化调整。",
+    "summary_en": "CBRE's report indicates that in 2025, all 534,000 square meters of new supply in Beijing's retail property market came from urban renewal projects, marking 'replacing old with new' as the market's main theme. Urban renewal drives consumption activation, with retail property structure continuing to optimize and adjust.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "房地产指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Index"
+      ],
+      "logic": "新闻显示北京零售物业市场通过城市更新实现结构优化，新增供应全部来自更新项目，这有助于提升商业地产质量和消费活力，可能提振市场对房地产和消费相关板块的预期，对相关指数产生积极影响。",
+      "logic_en": "The news shows that Beijing's retail property market is optimizing its structure through urban renewal, with all new supply coming from renewal projects. This helps improve the quality of commercial real estate and consumption vitality, potentially boosting market expectations for real estate and consumption-related sectors, positively impacting related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:54.874Z"
+  },
+  {
+    "newsId": "Y2N0di3lm5vlt53m",
+    "title_en": "Sichuan Explores New Industrialization: Addressing Transformation Challenges and Cultivating Innovation Momentum",
+    "summary_cn": "四川在2025年取得多项先进制造与科技创新成果，包括首台“四川造”盾构机出口欧洲、载人电动垂直起降飞行器首架机下线、全球首个治疗肺癌的抗体偶联药物获批，以及全球最大26兆瓦级海上风电机组并网发电。这些成果展示了四川在新型工业化转型中的创新动能和应对挑战的能力。",
+    "summary_en": "In 2025, Sichuan achieved multiple advanced manufacturing and technological innovation milestones, including the first \"Made in Sichuan\" shield machine exported to Europe, the successful rollout of the first manned electric vertical take-off and landing aircraft (eVTOL), approval of the world's first antibody-drug conjugate for lung cancer treatment, and grid connection of the world's largest 26 MW offshore wind turbine. These achievements demonstrate Sichuan's innovation momentum and ability to address transformation challenges in new industrialization.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻展示了四川在先进制造、新能源和生物医药等领域的创新突破，可能提升市场对中国制造业升级和区域经济发展的预期，利好相关产业板块和区域概念股，增强投资者对经济转型的信心。",
+      "logic_en": "The news highlights Sichuan's innovation breakthroughs in advanced manufacturing, new energy, and biopharmaceuticals, potentially boosting market expectations for China's manufacturing upgrade and regional economic development. This is bullish for related industrial sectors and regional concept stocks, enhancing investor confidence in economic transformation."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:56.688Z"
+  },
+  {
+    "newsId": "Y2N0di3mlbDor7Ti",
+    "title_en": "Data Shows 'New' Changes: 3.58 Billion Yuan! Xinjiang Fruit Exports Experience Explosive Growth in the First 11 Months of 2025",
+    "summary_cn": "2025年1-11月，新疆果品出口实现爆发式增长，累计出口28万吨，金额达35.8亿元。新疆果品加速拓展海外市场，表现亮眼。新闻探讨了新疆果品如何成功开拓国际市场、打造品牌以及主要出口目的地。",
+    "summary_en": "From January to November 2025, Xinjiang fruit exports experienced explosive growth, with cumulative exports reaching 280,000 tons and a value of 3.58 billion yuan. Xinjiang fruit products are accelerating their expansion into overseas markets, delivering impressive results. The news explores how Xinjiang fruit has successfully entered international markets, built brands, and identified key export destinations.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道新疆果品出口增长，属于特定区域和行业的积极数据，可能提振相关农业和出口板块情绪，但对整体金融市场影响有限，未涉及宏观经济政策或重大市场事件，因此判断为中性。",
+      "logic_en": "This news primarily reports on the growth of Xinjiang fruit exports, which is positive data for a specific region and industry. It may boost sentiment in related agricultural and export sectors, but its impact on the overall financial market is limited as it does not involve macroeconomic policies or major market events, thus it is judged as neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:56.101Z"
+  },
+  {
+    "newsId": "Y2N0di3kuIrmtbfn",
+    "title_en": "Three Shanghai Electric Subsidiaries Honored as Shanghai Manufacturing Single Champions, Demonstrating Manufacturing Strength",
+    "summary_cn": "上海市经信委公布2025年制造业单项冠军企业名单，上海电气旗下三家企业入选，包括凯士比核电泵阀、电力电子和大华电器设备公司。这体现了上海电气在制造业细分领域的领先地位和技术实力。",
+    "summary_en": "The Shanghai Municipal Commission of Economy and Informatization released the 2025 list of 'Shanghai Manufacturing Single Champion Enterprises,' with three Shanghai Electric subsidiaries—Shanghai Electric KSB Nuclear Pump Valve Co., Ltd., Shanghai Electric Power Electronics Co., Ltd., and Shanghai Dahua Electrical Equipment Co., Ltd.—successfully making the list. This highlights Shanghai Electric's leading position and technical capabilities in specialized manufacturing sectors.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该新闻显示上海电气旗下企业获得官方认可，彰显其在制造业的硬实力和细分领域优势，可能提升投资者对公司未来业绩和行业地位的预期，从而对相关股票和指数产生积极情绪影响。",
+      "logic_en": "The news indicates that Shanghai Electric subsidiaries have received official recognition, showcasing their manufacturing strength and advantages in specialized sectors. This may boost investor expectations for the company's future performance and industry position, leading to positive sentiment effects on related stocks and indices."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601727.SH",
+        "name": "上海电气",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:56.036Z"
+  },
+  {
+    "newsId": "Y2N0di3msZ/oi4/m",
+    "title_en": "Jiangsu Proposes to Form Over Trillion Yuan AI Industry Scale by 2030",
+    "summary_cn": "江苏省发布《人工智能+行动方案》，提出到2030年人工智能产业规模超万亿元人民币，到2035年建成中国领先的AI创新策源地和产业高地，推动智能经济和智能社会发展。",
+    "summary_en": "Jiangsu Province released the \"AI+ Action Plan,\" aiming for an AI industry scale exceeding one trillion yuan by 2030 and establishing a leading AI innovation hub and industrial highland in China by 2035 to advance intelligent economy and society.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示江苏省对人工智能产业的政策支持和发展目标，可能提升市场对AI相关板块的预期，利好科技股和成长股，增强投资者信心，推动相关指数上涨。",
+      "logic_en": "The news indicates policy support and development goals for the AI industry in Jiangsu Province, potentially boosting market expectations for AI-related sectors, benefiting tech and growth stocks, enhancing investor confidence, and driving up related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:53.529Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzlm5vl",
+    "title_en": "Four Modernizations Strategy Leads the Way, Shuanghui Creates New Model for High-Quality Development in Meat Industry",
+    "summary_cn": "新闻聚焦双汇在“四化”战略引领下，打造肉类行业高质量发展新样本。报道提及“十五五”规划建议推动制造业数智化转型、智能制造等方向，为制造业升级提供指导。双汇作为行业代表，展示了战略实施的具体案例。",
+    "summary_en": "The news highlights Shuanghui creating a new model for high-quality development in the meat industry under the \"Four Modernizations\" strategy. It references the \"15th Five-Year Plan\" recommendations promoting digital and intelligent transformation, smart manufacturing, etc., providing guidance for manufacturing upgrades. Shuanghui serves as an industry example demonstrating strategic implementation.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "食品饮料板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Food and Beverage Sector"
+      ],
+      "logic": "新闻正面报道双汇的战略转型和高质量发展，可能提升市场对该公司及肉类行业的信心，反映政策支持制造业升级的积极信号，利好相关板块情绪。",
+      "logic_en": "The positive coverage of Shuanghui's strategic transformation and high-quality development may boost market confidence in the company and the meat industry, reflecting supportive policies for manufacturing upgrades, which is bullish for related sector sentiment."
+    },
+    "related_stocks": [
+      {
+        "symbol": "000895.SZ",
+        "name": "双汇发展",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:55.848Z"
+  },
+  {
+    "newsId": "Y2N0di3liJvljobl",
+    "title_en": "Record High: Xinjiang Power Grid's 2025 Electricity Sales Reach 218.336 Billion kWh",
+    "summary_cn": "国网新疆电力有限公司数据显示，2025年新疆电网售电量达2183.36亿千瓦时，同比增长3.60%，创历史新高。",
+    "summary_en": "State Grid Xinjiang Electric Power Co., Ltd. reported that in 2025, Xinjiang's power grid electricity sales reached 218.336 billion kWh, a year-on-year increase of 3.60%, setting a new historical record.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻显示新疆电网售电量创历史新高且同比增长，反映区域经济活动和电力需求增长，可能提振市场对能源和基础设施板块的信心，对A股市场整体情绪有积极影响。",
+      "logic_en": "The news indicates that Xinjiang's power grid electricity sales hit a record high with year-on-year growth, reflecting increased regional economic activity and electricity demand. This may boost market confidence in the energy and infrastructure sectors, positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:53.423Z"
+  },
+  {
+    "newsId": "Y2N0di3kupTlubTm",
+    "title_en": "Beijing Shijingshan District's GDP Surpasses Four 100-Billion-Yuan Milestones Over Five Years",
+    "summary_cn": "2025年，北京市石景山区预计全年地区生产总值完成1370亿元，同比增长5%以上。五年来，该区GDP连续跨越四个百亿台阶，年均增长约6%；一般公共预算收入年均增速6.7%，税收占比超九成；累计完成固定资产投资2309.6亿元，年均增速9.3%。",
+    "summary_en": "In 2025, Beijing's Shijingshan District is expected to achieve a regional GDP of 137 billion yuan, with growth exceeding 5%. Over the past five years, its GDP has surpassed four 100-billion-yuan milestones, averaging about 6% annual growth. General public budget revenue grew at an average annual rate of 6.7%, with taxes accounting for over 90%, and cumulative fixed-asset investment reached 230.96 billion yuan, averaging 9.3% annual growth.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道北京石景山区的地方经济数据，显示区域经济增长稳健，但属于局部性、回顾性信息，未涉及宏观政策变化或行业重大事件。对整体金融市场影响有限，可能轻微提振市场对北京地区经济韧性的信心，但无直接利多或利空驱动。",
+      "logic_en": "This news primarily reports local economic data for Beijing's Shijingshan District, indicating steady regional growth, but it is localized and retrospective, with no mention of macro policy changes or major industry events. Its impact on the overall financial market is limited, potentially slightly boosting confidence in Beijing's economic resilience, but without direct bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:57.894Z"
+  },
+  {
+    "newsId": "Y2N0di3ku4rlubTl",
+    "title_en": "Beijing Shijingshan District Aims for Digital Economy Core Industry Revenue to Reach 220 Billion Yuan This Year",
+    "summary_cn": "北京市石景山区计划在2026年加强主导产业发展，重点推动数字经济，目标实现核心产业收入2200亿元。具体措施包括建设超智算人工智能创新示范园一期和加快数据基础制度先行区。同时，该区还将优化现代金融，打造保险创新示范区和数字人民币综合性试验区。",
+    "summary_en": "Beijing's Shijingshan District plans to strengthen its leading industries in 2026, focusing on boosting the digital economy with a target of 220 billion yuan in core industry revenue. Key initiatives include building the first phase of the Supercomputing AI Innovation Demonstration Park and accelerating the construction of a data infrastructure pilot zone. Additionally, the district will enhance modern finance by creating an insurance innovation demonstration zone and a comprehensive digital yuan pilot area.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示地方政府积极推动数字经济和金融创新，可能提振相关产业的市场预期和投资情绪。具体措施如人工智能示范园和数字人民币试验区建设，有望带动科技和金融板块增长，对A股市场整体情绪产生正面影响。",
+      "logic_en": "The news indicates local government initiatives to promote the digital economy and financial innovation, potentially boosting market expectations and investor sentiment in related sectors. Measures such as the AI demonstration park and digital yuan pilot area could drive growth in technology and finance sectors, positively impacting overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:16:56.775Z"
+  },
+  {
+    "newsId": "Y2N0di3pnZLmtbfk",
+    "title_en": "Qinghai Salmon Achieves International Air Direct Transport",
+    "summary_cn": "青海机场有限公司宣布，青海三文鱼已实现国际航空直达运输。这一突破将提升青海三文鱼的出口效率和全球市场竞争力。",
+    "summary_en": "Qinghai Airport Co., Ltd. announced that Qinghai salmon has achieved international air direct transport. This breakthrough will enhance the export efficiency and global market competitiveness of Qinghai salmon.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "农业板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Agriculture Sector"
+      ],
+      "logic": "新闻显示青海三文鱼运输效率提升，可能促进出口增长，对相关农业和水产企业构成利好，提振市场对农业板块的预期。",
+      "logic_en": "The news indicates improved transport efficiency for Qinghai salmon, which may boost export growth, benefiting related agriculture and aquaculture companies and enhancing market expectations for the agriculture sector."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:09.061Z"
+  },
+  {
+    "newsId": "Y2N0di3np5HlsJTl",
+    "title_en": "Kearney Report: Chinese Brands' Overseas Expansion Welcomes 'Speed Revolution'",
+    "summary_cn": "科尔尼报告指出，中国品牌出海正经历“速度革命”，海外建立知名度的时间从10年以上大幅缩短至3-5年。这反映了中国品牌国际化进程加速，得益于数字化营销、供应链优化等因素。报告强调了中国企业在全球市场竞争力提升的趋势。",
+    "summary_en": "The Kearney report highlights a 'speed revolution' in Chinese brands' overseas expansion, reducing the time to build brand awareness abroad from over 10 years to 3-5 years. This acceleration is driven by factors like digital marketing and supply chain optimization, indicating enhanced global competitiveness for Chinese enterprises.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "该新闻显示中国品牌出海速度加快，可能提升相关企业的海外收入和市场份额，增强投资者对中国企业全球化能力的信心，从而对A股和港股市场产生积极情绪影响。",
+      "logic_en": "The news indicates accelerated overseas expansion for Chinese brands, potentially boosting overseas revenue and market share for related companies, enhancing investor confidence in Chinese firms' global capabilities, which may positively impact sentiment in A-share and Hong Kong stock markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:11.812Z"
+  },
+  {
+    "newsId": "Y2N0di3ku47nn7/m",
+    "title_en": "From Mineral Inspection to Travel Inspection: Tianjin's 'Smart Customs' Achieves Results in Multiple Scenarios",
+    "summary_cn": "天津海关通过智慧海关系统，在矿产品检验和旅客通关等多个场景实现落地应用，提升了通关效率和监管能力。该系统利用人工智能和大数据技术，优化了海关作业流程。",
+    "summary_en": "Tianjin Customs has implemented its 'Smart Customs' system in multiple scenarios, including mineral inspection and passenger clearance, enhancing efficiency and regulatory capabilities. The system utilizes AI and big data to optimize customs operations.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道天津海关的技术应用进展，属于行业或区域性的基础设施改进，对整体金融市场直接影响有限。可能间接利好物流、贸易相关板块，但未涉及具体政策或经济数据变化，市场情绪影响中性。",
+      "logic_en": "The news reports on technological advancements in Tianjin Customs, which is a regional infrastructure improvement with limited direct impact on overall financial markets. It may indirectly benefit logistics and trade sectors, but without specific policy or economic data changes, the market sentiment remains neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:10.761Z"
+  },
+  {
+    "newsId": "Y2N0di3kuJrnlYzn",
+    "title_en": "Industry Discusses Open Source Industry Ecosystem, Shanghai Focuses on Cultivating Related Talent",
+    "summary_cn": "上海市经济和信息化委员会总工程师裘薇在第二届开源产业生态大会上表示，上海开源人才集聚，开发者数量位居中国前列。新闻聚焦上海在开源产业生态方面的努力，强调人才培育的重要性。",
+    "summary_en": "Qiu Wei, Chief Engineer of the Shanghai Municipal Commission of Economy and Informatization, stated at the Second Open Source Industry Ecosystem Conference that Shanghai has a concentration of open source talent, with developer numbers ranking among the top in China. The news highlights Shanghai's efforts in the open source industry ecosystem, emphasizing the importance of talent cultivation.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道上海在开源产业生态和人才培育方面的政策动向，属于区域性产业支持信息，对整体金融市场影响有限。开源产业涉及科技领域，可能间接利好相关科技板块，但无具体政策细节或资金支持，市场预期变化不大。",
+      "logic_en": "The news primarily reports on Shanghai's policy developments in the open source industry ecosystem and talent cultivation, which is regional industrial support information with limited impact on the overall financial market. The open source industry involves the technology sector, potentially indirectly benefiting related tech segments, but lacks specific policy details or funding support, resulting in minimal changes in market expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:11.973Z"
+  },
+  {
+    "newsId": "Y2N0di3mmrTmtqjo",
+    "title_en": "Why Are Tomato Prices Soaring Nearly 10-Fold?",
+    "summary_cn": "近期西红柿价格大幅上涨近10倍，引发社会广泛关注。社交媒体上出现“鸡蛋配不上西红柿”的热议话题。新闻探讨了西红柿价格的具体情况和导致价格波动的主要原因。",
+    "summary_en": "Tomato prices have surged nearly 10-fold recently, drawing widespread attention. The phrase \"eggs can't match tomatoes\" has become a hot topic on social media. The news explores the specifics of tomato price increases and the main reasons behind the price fluctuations.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道农产品价格波动，未直接涉及金融市场政策或上市公司业绩。西红柿作为日常消费品，其价格上涨可能反映通胀压力，但单一农产品价格变动对整体股市影响有限，且新闻未提供具体经济数据或政策信号，因此对金融市场影响中性。",
+      "logic_en": "This news primarily reports on agricultural product price fluctuations without directly involving financial market policies or listed company performance. As a daily consumer good, rising tomato prices may reflect inflationary pressures, but price changes in a single agricultural product have limited impact on the overall stock market. The news does not provide specific economic data or policy signals, resulting in a neutral impact on financial markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:12.093Z"
+  },
+  {
+    "newsId": "Y2N0di3otKjmo4Dm",
+    "title_en": "Quality Inspection Finds 76 Batches of Non-Compliant Products, Involving Motor Vehicle Brake Fluid, Silk Quilts, etc.",
+    "summary_cn": "国家市场监督管理总局近期对9种产品进行国家监督抽查，共抽查668批次产品。抽查范围覆盖天猫、京东等13家平台的273家销售单位，以及四川、山东等15个省份的295家销售单位和16个省份的54家生产单位。质检结果显示有76批次产品不合格，涉及机动车制动液、蚕丝被等类别。",
+    "summary_en": "The State Administration for Market Regulation recently conducted a national supervision and sampling inspection of 9 types of products, totaling 668 batches. The inspection covered 273 sales units on 13 platforms including Tmall and JD.com, 295 sales units in 15 provinces such as Sichuan and Shandong, and 54 production units in 16 provinces. The quality inspection found 76 batches of non-compliant products, involving categories like motor vehicle brake fluid and silk quilts.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻主要报道了产品质量抽查结果，属于常规监管信息，未涉及宏观经济政策、公司业绩或重大行业变革。虽然不合格产品可能影响相关企业声誉，但新闻未明确提及具体上市公司，且抽查范围广泛，对整体市场情绪和预期影响有限。因此，对金融市场的影响偏向中性，可能仅对个别涉及产品的公司产生轻微负面情绪，但无系统性影响。",
+      "logic_en": "This news primarily reports the results of a product quality inspection, which is routine regulatory information and does not involve macroeconomic policies, corporate earnings, or major industry changes. Although non-compliant products may affect the reputation of related companies, the news does not explicitly mention specific listed companies, and the inspection covers a broad range, limiting its impact on overall market sentiment and expectations. Therefore, the impact on financial markets is neutral, potentially causing slight negative sentiment for individual companies involved in the products, but with no systemic effects."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:17.060Z"
+  },
+  {
+    "newsId": "Y2N0di3miZPpgKDi",
+    "title_en": "Building a 'Micro-drama Creation Capital': How Will Zhengzhou Break Through and Stand Out?",
+    "summary_cn": "郑州凭借微短剧产量高、企业多的优势，已成为全国微短剧创作重镇。官方提出打造'微短剧创作之都'的目标，探讨如何实现破圈突围。新闻聚焦地方产业发展规划，未涉及具体上市公司或金融市场数据。",
+    "summary_en": "Zhengzhou has become a national hub for micro-drama creation due to its high production volume and numerous related enterprises. The local government aims to build a 'micro-drama creation capital' and explores strategies to break through and stand out. The news focuses on regional industrial development planning without mentioning specific listed companies or financial market data.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻仅涉及地方性文化产业规划，未提及具体政策、资金支持或上市公司，对金融市场无直接或显著影响。可能间接利好郑州本地文化企业，但缺乏具体信息，整体市场影响中性。",
+      "logic_en": "The news only covers regional cultural industry planning without mentioning specific policies, funding, or listed companies, having no direct or significant impact on financial markets. It may indirectly benefit local cultural enterprises in Zhengzhou, but due to lack of concrete details, the overall market impact is neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-13T14:17:12.873Z"
+  },
+  {
+    "newsId": "Y2N0di3lhajnkIPp",
+    "title_en": "World's First 20 MW Wind Turbine Installed in Fujian Waters",
+    "summary_cn": "全球首台20兆瓦海上风电机组在福建闽南海域完成吊装。这是中国海上风电大容量机型应用的重要突破，标志着海上风电单机迈上20兆瓦级新台阶。",
+    "summary_en": "The world's first 20 MW offshore wind turbine has been installed in Fujian's southern waters. This marks a significant breakthrough in China's application of large-capacity offshore wind power models, indicating that offshore wind power has reached a new level of 20 MW per unit.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "新能源板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "New Energy Sector"
+      ],
+      "logic": "该新闻展示了中国在海上风电技术领域的领先突破，可能提振新能源板块的市场情绪，推动相关产业链公司估值提升，对整体新能源和绿色能源主题投资产生积极影响。",
+      "logic_en": "This news demonstrates China's leading breakthrough in offshore wind power technology, which may boost market sentiment in the new energy sector, enhance valuations of related industrial chain companies, and have a positive impact on overall new energy and green energy thematic investments."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:11.030Z"
+  },
+  {
+    "newsId": "Y2N0di3igJznpo/l",
+    "title_en": "Fuzhou-Kuala Lumpur International All-Cargo Regular Route Opens",
+    "summary_cn": "福州至吉隆坡国际全货机定期航线于1月12日开通。首班航班从福州长乐国际机场起飞，满载集成电路、电子产品、服饰鞋帽和跨境电商包裹等货物前往吉隆坡。该航线将促进两地货物运输和贸易往来。",
+    "summary_en": "The Fuzhou-Kuala Lumpur international all-cargo regular route opened on January 12. The inaugural flight departed from Fuzhou Changle International Airport, carrying goods such as integrated circuits, electronics, apparel, footwear, and cross-border e-commerce packages to Kuala Lumpur. This route is expected to enhance cargo transportation and trade between the two regions.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "航空运输指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Air Transportation Index"
+      ],
+      "logic": "该新闻涉及新国际货运航线开通，可能提升相关航空公司和物流企业的运营效率与收入预期，对航空运输和物流板块构成利好。同时，促进跨境贸易可能间接提振整体经济信心，但影响相对有限，主要集中于特定行业。",
+      "logic_en": "The news involves the opening of a new international cargo route, which may improve operational efficiency and revenue expectations for related airlines and logistics companies, benefiting the air transportation and logistics sectors. Additionally, it could indirectly boost overall economic confidence by facilitating cross-border trade, though the impact is relatively limited and primarily focused on specific industries."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:12.704Z"
+  },
+  {
+    "newsId": "Y2N0di3plJrlrprk",
+    "title_en": "Anchoring Five Trillion, Industrial Powerhouse Suzhou Demonstrates Core Strength Again",
+    "summary_cn": "新年伊始，苏州作为工业大市，通过一组数据展现了其经济实力。新闻强调苏州锚定五万亿目标，再次展示其硬核工业实力，体现了该市在工业领域的持续发展和竞争力。",
+    "summary_en": "At the beginning of the new year, Suzhou, as a major industrial city, demonstrates its economic strength through a set of data. The news highlights Suzhou's anchoring of a five trillion target, showcasing its core industrial capabilities again, reflecting the city's ongoing development and competitiveness in the industrial sector.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示苏州工业实力强劲，锚定五万亿目标，可能提振市场对中国工业板块和区域经济的信心，对相关指数产生积极情绪影响。",
+      "logic_en": "The news indicates Suzhou's strong industrial capabilities and anchoring of a five trillion target, which may boost market confidence in China's industrial sector and regional economy, positively impacting related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T14:17:10.735Z"
   }
 ]
