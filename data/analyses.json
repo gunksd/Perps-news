@@ -7391,5 +7391,592 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-12T14:17:19.811Z"
+  },
+  {
+    "newsId": "Y2N0di3lhajnkIPl",
+    "title_en": "Global Media Focus | US Media: China Will Still Be a 'Strategic High Ground' for Global Enterprises in 2026",
+    "summary_cn": "美国《财富》杂志发表文章，展望2026年中国市场，从关税不确定性、消费趋势、市场竞争、AI生产力重塑等五个方面，为全球企业高管提供战略思路。文章强调中国仍是全球企业的战略高地。",
+    "summary_en": "Fortune magazine published an article looking ahead to China's market in 2026, providing strategic insights for global executives on five aspects including tariff uncertainties, consumption trends, market competition, and AI-driven productivity. It highlights China as a strategic high ground for global enterprises.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "新闻正面评价中国市场前景，强调其作为全球企业战略高地的地位，可能提振投资者对中国相关资产（如A股、港股）的信心，利好市场情绪。",
+      "logic_en": "The news positively assesses China's market outlook, emphasizing its role as a strategic high ground for global enterprises, which may boost investor confidence in China-related assets (e.g., A-shares, Hong Kong stocks), benefiting market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:52.039Z"
+  },
+  {
+    "newsId": "Y2N0di3lkJHigJzm",
+    "title_en": "Agricultural Bank of China Empowers New Quality Productive Forces with Innovation",
+    "summary_cn": "农业银行积极支持新质生产力发展，覆盖农业、物流、新能源等多个领域。新闻强调银行通过金融手段助力产业变革，推动中国经济结构优化。这体现了政策导向下金融机构对新兴产业的扶持作用。",
+    "summary_en": "Agricultural Bank of China is actively supporting the development of new quality productive forces, spanning agriculture, logistics, and new energy sectors. The news highlights the bank's role in facilitating industrial transformation through financial means, promoting the optimization of China's economic structure. This reflects the supportive role of financial institutions in emerging industries under policy guidance.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "银行板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Banking Sector"
+      ],
+      "logic": "新闻显示农业银行积极赋能新质生产力，可能提升市场对银行在支持新兴产业方面的预期，增强投资者对银行板块未来盈利能力和政策支持的信心，从而对相关指数产生积极情绪影响。",
+      "logic_en": "The news indicates Agricultural Bank of China's active empowerment of new quality productive forces, potentially boosting market expectations for the bank's role in supporting emerging industries. This could enhance investor confidence in the banking sector's future profitability and policy support, leading to positive sentiment impacts on related indices."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601288.SH",
+        "name": "农业银行",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:53.406Z"
+  },
+  {
+    "newsId": "Y2N0di0x5pyIMTPm",
+    "title_en": "Central Bank Conducts 358.6 Billion Yuan 7-Day Reverse Repo Operation on January 13",
+    "summary_cn": "中国人民银行于2026年1月13日以固定利率、数量招标方式开展了3586亿元7天期逆回购操作。此举旨在通过公开市场操作调节短期流动性，维持银行体系资金面的合理充裕。",
+    "summary_en": "The People's Bank of China conducted a 358.6 billion yuan 7-day reverse repo operation on January 13, 2026, using a fixed interest rate and quantity bidding method. This move aims to adjust short-term liquidity through open market operations, maintaining reasonable and ample funds in the banking system.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "央行通过逆回购操作向市场注入流动性，有助于缓解短期资金压力，降低市场利率，提振投资者信心，对股市和债市构成利好。",
+      "logic_en": "The central bank's reverse repo operation injects liquidity into the market, helping to alleviate short-term funding pressures, lower market interest rates, and boost investor confidence, which is bullish for stock and bond markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-13T03:42:52.024Z"
+  },
+  {
+    "newsId": "Y2N0di3kvKDnu5/o",
+    "title_en": "Traditional Energy Companies Eye 'Three Stones'",
+    "summary_cn": "传统能源企业正关注被称为“三块石头”的矿石资源，这些矿石通过科技手段可转化为环保和航天等领域的高价值材料。新闻强调了科技在提升传统资源价值方面的作用，暗示能源企业可能寻求多元化发展。",
+    "summary_en": "Traditional energy companies are focusing on mineral resources referred to as 'three stones', which can be transformed into high-value materials for environmental protection and aerospace sectors through technological advancements. The news highlights the role of technology in enhancing the value of traditional resources, suggesting potential diversification efforts by energy firms.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻显示传统能源企业通过科技转型进入高增长领域（如环保和航天），可能提升其盈利预期和估值，对相关股票和指数产生积极情绪影响。这反映了市场对传统行业创新和多元化发展的乐观预期，可能吸引资金流入。",
+      "logic_en": "The news indicates that traditional energy companies are leveraging technology to enter high-growth sectors like environmental protection and aerospace, potentially boosting their earnings expectations and valuations, leading to positive sentiment for related stocks and indices. This reflects market optimism about innovation and diversification in traditional industries, which could attract capital inflows."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:52.406Z"
+  },
+  {
+    "newsId": "Y2N0di3ku47mnLrl",
+    "title_en": "From Robots 'Landing' at International Consumer Electronics Show to See China's Sci-Tech 'Fundamentals'",
+    "summary_cn": "国际消费电子展（CES）是全球科创风向标。今年展会上，近30家中国具身智能企业集体亮相，展品涵盖整机、零部件、躯干和“大脑”，品类齐全。中国机器人从几年前的“蹒跚学步”到如今的“能跑会跳”，成长速度引发全球关注，展现了中国科创的“基本功”。",
+    "summary_en": "The International Consumer Electronics Show (CES) is a global barometer for science and technology innovation. At this year's show, nearly 30 Chinese embodied AI companies made a collective appearance, with exhibits ranging from complete machines to components, from bodies to 'brains', offering a comprehensive product lineup. The rapid growth of Chinese robots, from 'toddling' a few years ago to 'running and jumping' today, has attracted global attention and showcases China's sci-tech 'fundamentals'.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指",
+        "科技股板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index",
+        "Technology Stock Sector"
+      ],
+      "logic": "新闻正面报道中国具身智能企业在国际展会的集体亮相和机器人技术的快速成长，这有助于提升市场对中国科创板块的信心和预期，可能吸引更多投资关注，对相关科技股和指数产生积极情绪影响。",
+      "logic_en": "The news positively reports the collective appearance of Chinese embodied AI companies at an international show and the rapid growth of robot technology, which helps boost market confidence and expectations for China's sci-tech sector, potentially attracting more investment attention and generating positive sentiment for related technology stocks and indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:55.915Z"
+  },
+  {
+    "newsId": "Y2N0di3mjqjliqjl",
+    "title_en": "Promoting Stable Growth of Industrial Economy, Ministry of Industry and Information Technology Names These Future Industries",
+    "summary_cn": "工信部为推动工业经济稳增长，点名了若干未来产业。这些产业可能包括人工智能、生物制造、商业航天、低空经济等战略性新兴领域。此举旨在通过政策引导和资源倾斜，培育新的经济增长点，增强工业发展韧性。",
+    "summary_en": "The Ministry of Industry and Information Technology has named several future industries to promote stable growth of the industrial economy. These industries likely include strategic emerging sectors such as artificial intelligence, biomanufacturing, commercial aerospace, and low-altitude economy. This move aims to foster new economic growth drivers and enhance industrial resilience through policy guidance and resource allocation.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "工信部点名未来产业，释放政策支持信号，可能提振市场对相关战略性新兴产业的投资预期。这有助于增强工业经济信心，带动相关板块情绪向好，对A股市场尤其是科技和成长板块构成利好。",
+      "logic_en": "The Ministry of Industry and Information Technology naming future industries signals policy support, potentially boosting investment expectations for related strategic emerging sectors. This helps enhance confidence in the industrial economy and drives positive sentiment in relevant sectors, constituting a bullish factor for the A-share market, especially in technology and growth segments."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:53.102Z"
+  },
+  {
+    "newsId": "Y2N0di3igJznjrDp",
+    "title_en": "\"Cash\" Becomes \"Deposit\": Digital Yuan Enters 2.0 Era",
+    "summary_cn": "央行新规正式实施，数字人民币从现金形态升级为存款形态，标志着其进入2.0时代。这一变化提升了数字人民币的金融属性和使用便利性，可能推动其在日常支付和金融场景中的更广泛应用。",
+    "summary_en": "The central bank's new regulations have officially taken effect, upgrading the digital yuan from a cash-like form to a deposit form, marking its entry into the 2.0 era. This change enhances the financial attributes and usability of the digital yuan, potentially promoting its broader application in daily payments and financial scenarios.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "金融科技板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Fintech Sector"
+      ],
+      "logic": "数字人民币升级为存款形态，增强了其金融功能和稳定性，可能提升市场对金融科技和数字货币相关板块的预期，推动相关股票表现。",
+      "logic_en": "The upgrade of the digital yuan to a deposit form enhances its financial functions and stability, potentially boosting market expectations for the fintech and digital currency-related sectors, driving performance of related stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:51.884Z"
+  },
+  {
+    "newsId": "Y2N0di3lroHlpI/p",
+    "title_en": "Ningxia Yinchuan Optimizes Real Estate Support Policies to Safeguard Stable and Healthy Market Development",
+    "summary_cn": "宁夏银川市于1月13日正式施行《银川市促进房地产市场平稳健康发展若干措施》，有效期至2027年底。政策从土地保障、规划设计、住房品质等八个方面精准施策，旨在推动房地产市场平稳健康发展。该措施体现了地方政府对房地产市场的支持态度，通过优化政策环境来稳定市场预期。",
+    "summary_en": "Yinchuan City in Ningxia officially implemented the \"Several Measures to Promote Stable and Healthy Development of the Real Estate Market\" on January 13, effective until the end of 2027. The policy targets eight areas including land supply, planning and design, and housing quality to precisely support stable and healthy market development. It reflects local government efforts to stabilize market expectations through optimized policy environments.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "房地产板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Sector"
+      ],
+      "logic": "该新闻显示地方政府出台支持性房地产政策，通过优化土地、规划等方面措施来稳定市场，可能提振房地产板块情绪，对相关指数产生积极影响。政策旨在促进市场平稳健康发展，而非刺激过度投机，因此影响偏向温和利多。",
+      "logic_en": "The news indicates local government implementation of supportive real estate policies, optimizing measures in areas like land and planning to stabilize the market. This may boost sentiment in the real estate sector and positively impact related indices. The policy aims to promote stable and healthy development rather than excessive speculation, resulting in a mild bullish effect."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:54.700Z"
+  },
+  {
+    "newsId": "Y2N0di3msJHmlL/p",
+    "title_en": "Ministry of Civil Affairs: Promoting Deep Integration of Elderly Care Service Facilities and Consumption Scenarios",
+    "summary_cn": "民政部举行新闻发布会，介绍促进银发经济发展的若干措施。\n重点推动养老服务设施与消费场景深度融合，打通供需对接堵点。\n旨在丰富银发消费场景，激发老年人消费活力，实现“买得到、用得好”。",
+    "summary_en": "The Ministry of Civil Affairs held a press conference to introduce measures for promoting the silver economy.\nIt focuses on deep integration of elderly care service facilities and consumption scenarios, addressing supply-demand bottlenecks.\nThe goal is to enrich consumption scenarios for the elderly and stimulate their spending, ensuring accessibility and usability.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "养老产业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Elderly Care Industry Index"
+      ],
+      "logic": "该政策通过推动养老服务与消费场景融合，有望扩大银发经济市场规模，提升相关产业需求。这可能会增强市场对养老产业增长前景的预期，带动相关板块情绪向好，但具体影响取决于后续实施细节和行业反应。",
+      "logic_en": "This policy, by promoting integration of elderly care services and consumption scenarios, is expected to expand the silver economy market and boost demand in related industries. It may enhance market expectations for growth in the elderly care sector, improving sentiment in related segments, though the actual impact depends on implementation details and industry responses."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:53.379Z"
+  },
+  {
+    "newsId": "Y2N0di3lt6Xkv6Hp",
+    "title_en": "Ministry of Industry and Information Technology Issues 'Benchmark Table for Administrative Penalty Discretion in Road Motor Vehicle Production'",
+    "summary_cn": "工业和信息化部印发《道路机动车辆生产领域行政处罚裁量权基准表》，旨在规范行政处罚裁量工作，保障执法公平公正。该基准表依据相关法律法规制定，自2026年2月1日起施行。此举将统一处罚标准，减少执法随意性。",
+    "summary_en": "The Ministry of Industry and Information Technology issued the 'Benchmark Table for Administrative Penalty Discretion in Road Motor Vehicle Production' to standardize penalty discretion and ensure fair law enforcement. Based on relevant laws and regulations, it will take effect from February 1, 2026, aiming to unify penalty standards and reduce arbitrariness.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻涉及汽车生产领域的行政处罚规范，旨在提高执法透明度和公平性，可能对汽车行业产生长期监管影响，但未直接改变市场供需或企业基本面，短期市场情绪偏向中性。",
+      "logic_en": "This news involves regulatory standardization for administrative penalties in the automotive production sector, aiming to enhance transparency and fairness in enforcement. It may have long-term regulatory impacts on the automotive industry but does not directly alter market supply-demand dynamics or corporate fundamentals, leading to a neutral short-term market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:42:53.623Z"
+  },
+  {
+    "newsId": "Y2N0di3ph5Hop4Ll",
+    "title_en": "Jin Guanping: Transforming Solid Waste 'Burden' into Green Wealth",
+    "summary_cn": "国务院近日印发《固体废物综合治理行动计划》，旨在加强固体废物综合治理，推动其价值化、资源化利用。该计划提出按照减量化、资源化、无害化原则，构建源头减量、过程管控、末端利用和全链条无害化管理的综合治理体系。这是实现经济社会发展全面绿色转型的重要举措，旨在变固废“包袱”为绿色财富。",
+    "summary_en": "The State Council recently issued the 'Solid Waste Comprehensive Management Action Plan' to strengthen the comprehensive management of solid waste and promote its valorization and resource utilization. The plan proposes building a comprehensive management system based on the principles of reduction, resource utilization, and harmless treatment, covering source reduction, process control, end-use, and full-chain harmless management. This is a key measure to achieve a comprehensive green transformation in economic and social development, aiming to turn solid waste 'burden' into green wealth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "环保板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Environmental Protection Sector"
+      ],
+      "logic": "该新闻涉及国务院政策推动固体废物综合治理和资源化利用，属于环保和绿色转型领域。政策出台可能提振市场对环保产业的预期，利好相关上市公司，如固废处理、资源回收等企业，从而对A股环保板块和中证指数产生积极情绪影响。逻辑基于政策支持促进产业发展和投资机会。",
+      "logic_en": "The news involves a State Council policy promoting comprehensive solid waste management and resource utilization, falling within the environmental protection and green transformation sectors. The policy issuance may boost market expectations for the environmental protection industry, benefiting related listed companies such as those in solid waste treatment and resource recycling, thereby positively impacting sentiment in the A-share environmental protection sector and the CSI Index. The logic is based on policy support driving industrial development and investment opportunities."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:13.606Z"
+  },
+  {
+    "newsId": "Y2N0di3pkrHlpKfl",
+    "title_en": "Qian Dama Discloses Hong Kong IPO Prospectus",
+    "summary_cn": "社区生鲜连锁品牌钱大妈于1月12日在港交所提交招股书，正式启动赴港上市进程。作为行业龙头，此举标志着公司进入资本市场新阶段。",
+    "summary_en": "Qian Dama, a leading community fresh food chain, disclosed its IPO prospectus on the Hong Kong Stock Exchange on January 12, officially launching its listing process. This move signifies a new capital market phase for the company as an industry leader.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "港股",
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "Hong Kong Stock Market",
+        "CSI Index"
+      ],
+      "logic": "钱大妈作为社区生鲜龙头披露招股书，可能提振市场对消费零售板块的关注和情绪，利好港股及中证指数相关板块。",
+      "logic_en": "Qian Dama's IPO prospectus disclosure, as a leading fresh food chain, may boost market attention and sentiment towards the consumer retail sector, benefiting the Hong Kong stock market and related CSI Index segments."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:07.999Z"
+  },
+  {
+    "newsId": "Y2N0di3nhKbngrno",
+    "title_en": "Focus Interview｜Leading the Era, \"Intelligent Manufacturing\" Future: Exploring the Leap Code of Leading-Level Factories",
+    "summary_cn": "央视焦点访谈报道，智能制造是制造业高质量发展的核心引擎。2025年底，工信部等六部门联合公布了首批15家领航级智能工厂名单，涵盖装备制造、原材料、电子信息等多个关键行业。这些工厂代表了中国制造智能化的最高水平，标志着我国智能制造从数字化、网络化迈向智能化的关键跃升期。",
+    "summary_en": "CCTV's Focus Interview reports that intelligent manufacturing is the core engine for high-quality development in the manufacturing sector. At the end of 2025, six departments including the Ministry of Industry and Information Technology jointly announced the first list of 15 leading-level smart factories, covering key industries such as equipment manufacturing, raw materials, and electronic information. These factories represent the highest level of intelligent manufacturing in China, marking a critical leap from digitalization and networking to intelligence in the country's manufacturing sector.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻强调了智能制造作为制造业高质量发展的核心引擎，并公布了首批领航级智能工厂名单，这体现了政策对智能制造领域的支持，可能提升市场对相关行业（如装备制造、电子信息）的预期，增强投资者信心，从而对A股市场，特别是制造业和科技相关板块产生积极影响。",
+      "logic_en": "The news highlights intelligent manufacturing as the core engine for high-quality development in the manufacturing sector and announces the first list of leading-level smart factories, reflecting policy support for the intelligent manufacturing field. This may boost market expectations for related industries (e.g., equipment manufacturing, electronic information), enhance investor confidence, and thus have a positive impact on the A-share market, especially in manufacturing and technology-related sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:13.096Z"
+  },
+  {
+    "newsId": "Y2N0di3kuLDlr4zm",
+    "title_en": "Enriching New Business Formats and Creating New Scenarios to Stimulate New Consumption Vitality",
+    "summary_cn": "新闻指出，各地正持续打造兼具创新性和体验感的消费新场景，旨在激发消费活力。这反映了政策层面推动消费升级、促进内需的积极信号。",
+    "summary_en": "The news highlights that various regions are continuously creating innovative and experiential new consumption scenarios to stimulate consumption vitality. This reflects positive signals at the policy level to promote consumption upgrading and boost domestic demand.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻强调激发消费活力，通过打造新场景促进消费升级，这有助于提振市场对消费板块的信心，可能带动相关股票表现，对整体市场情绪有积极影响。",
+      "logic_en": "The news emphasizes stimulating consumption vitality by creating new scenarios to promote consumption upgrading, which helps boost market confidence in the consumer sector and may drive related stock performance, positively impacting overall market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:07.937Z"
+  },
+  {
+    "newsId": "Y2N0di3miKroh7My",
+    "title_en": "China Has 41,700 Elderly Care Institutions and 722,000 Employees by End of 2025",
+    "summary_cn": "民政部举行新闻发布会，介绍促进银发经济发展的政策措施。截至2025年底，我国养老机构数量达4.17万家，从业人员72.2万人。民政部表示，已出台土地、税收、人才、资金等优惠政策，支持养老服务经营主体特别是民营经济发展壮大。",
+    "summary_en": "The Ministry of Civil Affairs held a press conference to introduce measures promoting the silver economy. By the end of 2025, China had 41,700 elderly care institutions and 722,000 employees. The ministry stated that preferential policies in land, tax, talent, and funding have been implemented to support the growth of elderly care service providers, especially private enterprises.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "养老产业相关板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Elderly Care Industry Sectors"
+      ],
+      "logic": "新闻显示政府持续出台优惠政策支持养老产业发展，包括土地、税收、人才和资金等方面，这有助于降低企业经营成本、吸引投资，并推动银发经济扩张。政策扶持可能提升市场对养老产业增长前景的预期，增强投资者信心，从而对相关板块产生积极影响。",
+      "logic_en": "The news indicates ongoing government support through preferential policies in land, tax, talent, and funding for the elderly care industry, which can reduce operational costs, attract investment, and drive the expansion of the silver economy. This policy support may boost market expectations for the industry's growth prospects and enhance investor confidence, positively impacting related sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:11.731Z"
+  },
+  {
+    "newsId": "Y2N0di3opb/nuqLm",
+    "title_en": "Why Tomato Prices Have Risen Sharply? Reasons and Current Supply Status at Production Areas",
+    "summary_cn": "新闻聚焦西红柿价格大幅上涨现象，探讨了涨价原因和产地供应情况。作为基础农产品，其价格波动可能反映供应链或季节性因素。报道未提供具体数据或政策细节，主要关注市场动态。",
+    "summary_en": "The news focuses on the sharp rise in tomato prices, exploring the reasons behind the increase and the current supply situation at production areas. As a basic agricultural product, its price fluctuations may reflect supply chain or seasonal factors. The report does not provide specific data or policy details, mainly focusing on market dynamics.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "农产品期货市场"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Agricultural Futures Market"
+      ],
+      "logic": "新闻仅报道西红柿价格上涨现象，未涉及宏观经济政策或公司业绩，对整体金融市场影响有限。可能轻微影响农产品期货市场情绪，但无明确利多或利空指向。",
+      "logic_en": "The news only reports the phenomenon of rising tomato prices without involving macroeconomic policies or corporate performance, having limited impact on the overall financial market. It may slightly affect sentiment in the agricultural futures market, but there is no clear bullish or bearish direction."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:09.355Z"
+  },
+  {
+    "newsId": "Y2N0di3jgJDluILl",
+    "title_en": "Market Observation: Digital Human Livestreaming, Don't Let E-commerce Become a 'Disaster'",
+    "summary_cn": "新闻关注数字人直播带货现象，指出其潜在风险，如虚假宣传、消费者权益受损等。强调需加强监管，防止带货演变为“带祸”，以维护市场秩序和消费者信任。",
+    "summary_en": "The news focuses on the phenomenon of digital human livestreaming in e-commerce, highlighting potential risks such as false advertising and consumer rights violations. It emphasizes the need for enhanced regulation to prevent e-commerce from turning into a 'disaster', aiming to maintain market order and consumer trust.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻强调数字人直播带货的风险和监管加强，可能引发市场对电商和直播行业合规性的担忧，导致相关板块情绪转弱，影响投资者信心。",
+      "logic_en": "The news highlights risks in digital human livestreaming and calls for stricter regulation, which may raise concerns about compliance in the e-commerce and livestreaming sectors, leading to weaker sentiment and reduced investor confidence in related markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:09.053Z"
+  },
+  {
+    "newsId": "Y2N0di0yMjflrrbk",
+    "title_en": "227 Enterprises Submit 496 Product Bids for Sixth National High-Value Medical Consumables Centralized Procurement",
+    "summary_cn": "第六批国家高值医用耗材集采企业递交申报材料于1月13日结束，共有227家企业的496个产品参与投标。此次集采涉及高值医用耗材，旨在通过集中采购降低价格，提高医保基金使用效率。",
+    "summary_en": "The submission of bid materials for the sixth national centralized procurement of high-value medical consumables concluded on January 13, with 227 enterprises submitting 496 products. This centralized procurement targets high-value medical consumables, aiming to reduce prices and improve the efficiency of medical insurance fund usage through bulk purchasing.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "国家集采通常导致高值医用耗材价格下降，压缩相关企业利润空间，可能引发市场对医疗耗材板块盈利能力的担忧，从而对A股医疗板块产生负面影响。",
+      "logic_en": "National centralized procurement typically leads to price reductions for high-value medical consumables, squeezing profit margins for related enterprises. This may raise market concerns about the profitability of the medical consumables sector, negatively impacting the A-share healthcare segment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:09.699Z"
+  },
+  {
+    "newsId": "Y2N0di3ov5DooYzo",
+    "title_en": "Z99/100 Direct Express Train Between Shanghai and Guangzhou, Operating for Nearly 29 Years, to Be Retired and Upgraded to EMU Train Service",
+    "summary_cn": "运行近29年的沪穗间Z99/100次直达特快列车将退出历史舞台，升级为动车组列车运行。该列车曾提供夕发朝至服务，承载着绿皮火车的乡愁记忆。此次升级标志着铁路运输现代化进程的推进。",
+    "summary_en": "The Z99/100 direct express train between Shanghai and Guangzhou, which has operated for nearly 29 years, will be retired and upgraded to EMU (Electric Multiple Unit) train service. This train offered overnight services and evoked nostalgia for green-skinned trains. The upgrade reflects progress in railway modernization.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻主要涉及铁路运输服务升级，属于基础设施改进，对整体金融市场影响有限。可能轻微提振铁路设备制造和运营相关板块情绪，但无直接重大利好或利空。市场预期变化不大，情绪偏向中性。",
+      "logic_en": "This news primarily involves the upgrade of railway transport services, which is an infrastructure improvement with limited impact on the overall financial market. It may slightly boost sentiment in railway equipment manufacturing and operation sectors, but there is no direct significant bullish or bearish effect. Market expectations remain largely unchanged, with a neutral sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:11.532Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzmiJHn",
+    "title_en": "Project 'I Use AI to Collate Ancient Texts' Releases Results: 37,000 Volunteers Complete Collation of Approximately 20,000 Ancient Texts",
+    "summary_cn": "1月10日，全国高等院校古籍整理研究委员会在北京举办论坛，总结“我用AI校古籍”项目成果。该项目由北大中文系古典文献教研室、北大数字人文研究中心与字节跳动公益联合承办，吸引了近300名学者参与。项目成果显示，3.7万名志愿者完成了约2万部古籍的整理工作，展示了AI技术在古籍数字化领域的应用进展。",
+    "summary_en": "On January 10, the National Committee for the Collation and Research of Ancient Texts of Higher Education Institutions held a forum in Beijing to summarize the results of the 'I Use AI to Collate Ancient Texts' project. The project was jointly organized by the Classical Literature Teaching and Research Office of Peking University's Chinese Department, Peking University's Digital Humanities Research Center, and ByteDance Philanthropy, attracting nearly 300 scholars. The results show that 37,000 volunteers completed the collation of approximately 20,000 ancient texts, highlighting advancements in AI technology for ancient text digitization.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "该新闻主要报道AI技术在古籍数字化领域的应用成果，属于科技和文化领域的进展，未直接涉及宏观经济数据、政策变化或企业财务信息。对金融市场无直接影响，可能间接反映AI技术应用的普及，但不足以驱动市场方向变化。",
+      "logic_en": "This news primarily reports on the application of AI technology in the digitization of ancient texts, which is an advancement in the technology and cultural sectors. It does not directly involve macroeconomic data, policy changes, or corporate financial information. There is no direct impact on financial markets; it may indirectly reflect the proliferation of AI technology applications, but it is insufficient to drive market direction changes."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-13T03:43:14.449Z"
+  },
+  {
+    "newsId": "Y2N0di3ph43nlr7p",
+    "title_en": "Critical Illness Insurance: Easy to Buy, Hard to Claim? Court Provides 'Answers' on When to Pay or Not Pay",
+    "summary_cn": "新闻聚焦重疾险理赔争议，法院明确赔付标准。\n针对投保易、理赔难问题，法院给出具体情形指引。\n旨在规范保险市场，保护消费者权益。",
+    "summary_en": "The news focuses on disputes over critical illness insurance claims, with courts clarifying payout standards.\nAddressing the issue of easy purchase but difficult claims, courts provide specific guidance on scenarios.\nAims to regulate the insurance market and protect consumer rights.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "保险板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Insurance Sector"
+      ],
+      "logic": "法院明确理赔标准有助于减少保险纠纷，长期利好保险行业规范发展，但短期可能增加保险公司理赔成本，对市场情绪影响中性。",
+      "logic_en": "Court clarification of claim standards helps reduce insurance disputes, benefiting long-term industry regulation, but may increase short-term claim costs for insurers, resulting in a neutral market sentiment impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:26.996Z"
+  },
+  {
+    "newsId": "Y2N0di3lhYnkvI/i",
+    "title_en": "Behind the 'Off-Season Not Off' in Photovoltaics: Export Tax Rebate Cancellation Fuels Rush Export Wave",
+    "summary_cn": "新闻指出，光伏行业在传统淡季出现“淡季不淡”现象，主要原因是出口退税政策取消，导致企业为享受退税优惠而提前抢出口。这反映了政策变动对行业短期行为的直接影响，可能加剧市场波动。",
+    "summary_en": "The news highlights that the photovoltaic industry is experiencing an 'off-season not off' phenomenon, primarily due to the cancellation of export tax rebates, prompting companies to rush exports to secure rebate benefits. This reflects the direct impact of policy changes on short-term industry behavior, potentially increasing market volatility.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "光伏行业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Photovoltaic Industry Index"
+      ],
+      "logic": "出口退税取消短期可能推升光伏企业抢出口，增加行业收入，但长期看政策调整可能影响出口竞争力，市场情绪复杂，整体影响偏向中性。",
+      "logic_en": "The cancellation of export tax rebates may temporarily boost photovoltaic companies' rush exports, increasing industry revenue, but in the long term, policy adjustments could affect export competitiveness, leading to mixed market sentiment and an overall neutral impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:28.120Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzph4/k",
+    "title_en": "Mass-Producing Hit Cultural Tourism IPs? Central Province Henan Builds Another 'Pillar Industry'",
+    "summary_cn": "河南省正致力于打造文旅IP，将其培育为新的支柱产业。该省计划通过规模化生产爆款文旅项目，推动经济多元化发展。此举旨在提升区域经济竞争力，并可能带动相关产业链增长。",
+    "summary_en": "Henan Province is focusing on developing cultural tourism IPs as a new pillar industry. The province plans to mass-produce hit cultural tourism projects to diversify its economy. This initiative aims to enhance regional economic competitiveness and may stimulate growth in related industrial chains.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示河南省积极发展文旅产业作为新支柱，可能提升区域经济活力和投资预期，对A股市场尤其是相关板块（如旅游、文化传媒）构成潜在利好，但具体影响取决于政策实施和市场需求。",
+      "logic_en": "The news indicates Henan Province is actively developing cultural tourism as a new pillar industry, potentially boosting regional economic vitality and investment expectations. This could be bullish for the A-share market, especially in sectors like tourism and cultural media, though the actual impact depends on policy implementation and market demand."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:28.466Z"
+  },
+  {
+    "newsId": "Y2N0di3lj4jkuIDo",
+    "title_en": "Another Wave of Free Trade Zone 'Application Boom', Can This Northwestern Province Fulfill Its Dream?",
+    "summary_cn": "新闻聚焦西北某省申请建设自贸区的新一轮热潮。\n报道探讨该省在区域经济发展中的机遇与挑战。\n分析自贸区政策对地方经济可能带来的推动作用。\n关注地方政府在区域竞争中的战略布局。",
+    "summary_en": "The news focuses on a new wave of applications for free trade zone construction in a northwestern province.\nIt discusses the opportunities and challenges for the province in regional economic development.\nAnalyzes the potential driving effect of free trade zone policies on the local economy.\nHighlights the strategic layout of local governments in regional competition.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "自贸区建设通常被视为区域经济发展的催化剂，可能提升市场对相关地区基建、物流、贸易等板块的预期。西北省份若获批自贸区，将吸引投资关注，带动区域经济概念股情绪，对A股市场整体情绪有积极影响。",
+      "logic_en": "The construction of free trade zones is generally seen as a catalyst for regional economic development, potentially boosting market expectations for sectors such as infrastructure, logistics, and trade in related areas. If the northwestern province is approved for a free trade zone, it will attract investment attention and drive sentiment for regional economic concept stocks, having a positive impact on the overall sentiment of the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:29.742Z"
+  },
+  {
+    "newsId": "ZmVkLUFnZW5jaWVz",
+    "title_en": "Agencies issue 2025 Shared National Credit Program report",
+    "summary_cn": "美国监管机构发布了2025年共享国家信贷计划报告。该报告评估了大型银团贷款的风险状况。报告显示信贷质量总体稳定，但部分领域风险有所上升。监管机构强调需持续监控信贷风险。",
+    "summary_en": "U.S. regulatory agencies issued the 2025 Shared National Credit Program report. The report assesses the risk profile of large syndicated loans. It indicates overall stable credit quality but rising risks in some areas. Regulators emphasize the need for ongoing monitoring of credit risks.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "纳斯达克指数",
+        "标普500指数",
+        "道琼斯工业平均指数"
+      ],
+      "affected_markets_en": [
+        "NASDAQ",
+        "S&P 500",
+        "Dow Jones Industrial Average"
+      ],
+      "logic": "该报告显示信贷质量总体稳定，但部分风险上升，可能引发市场对银行信贷风险的关注。由于报告内容混合了稳定信号和风险提示，对市场情绪影响有限，整体偏向中性。",
+      "logic_en": "The report shows overall stable credit quality but rising risks in some areas, which may draw market attention to bank credit risks. As the report contains mixed signals of stability and risk warnings, its impact on market sentiment is limited, leaning neutral overall."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-13T03:43:28.183Z"
   }
 ]
