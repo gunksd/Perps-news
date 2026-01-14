@@ -8778,5 +8778,433 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-14T03:52:08.389Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3kv6Ho",
+    "title_en": "CITIC Securities 2025 Net Profit Exceeds 30 Billion Yuan, Up Over 38% Year-on-Year",
+    "summary_cn": "中信证券发布2025年度业绩快报，净利润达300.51亿元，同比增长38.46%。作为中国证券业巨头，公司业绩表现强劲，超出市场预期。",
+    "summary_en": "CITIC Securities released its 2025 performance forecast, reporting a net profit of 30.051 billion yuan, a year-on-year increase of 38.46%. As a leading securities firm in China, the company's strong performance exceeded market expectations.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "金融板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Financial Sector"
+      ],
+      "logic": "中信证券作为行业龙头，净利润大幅增长38.46%，超出市场预期，可能提振投资者对证券行业和金融板块的信心，带动相关指数上涨。",
+      "logic_en": "As a leading player in the securities industry, CITIC Securities' significant net profit growth of 38.46%, exceeding market expectations, may boost investor confidence in the securities sector and financial industry, potentially driving up related indices."
+    },
+    "related_stocks": [
+      {
+        "symbol": "600030.SH",
+        "name": "中信证券股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-14T14:16:52.095Z"
+  },
+  {
+    "newsId": "Y2N0di3msrPlpZfm",
+    "title_en": "Tax Policies for Goods Import and Export in Shenzhen Park of Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone Announced",
+    "summary_cn": "中国财政部、海关总署、国家税务总局联合发布通知，明确河套深港科技创新合作区深圳园区的货物进出口税收政策。该政策旨在支持深圳园区与香港园区合作，共同打造国际科技创新高地。此举有助于促进区域科技创新和贸易便利化。",
+    "summary_en": "China's Ministry of Finance, General Administration of Customs, and State Taxation Administration jointly issued a notice clarifying tax policies for goods import and export in the Shenzhen Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone. The policy aims to support collaboration between the Shenzhen and Hong Kong parks to build an international hub for science and technology innovation. This move is expected to facilitate regional innovation and trade.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "该税收政策降低了河套合作区深圳园区的进出口成本，有利于吸引科技企业和投资，促进区域经济发展。这可能会提升市场对相关科技板块和区域经济的预期，带动投资者情绪向好。",
+      "logic_en": "The tax policy reduces import and export costs in the Shenzhen Park of the Hetao Cooperation Zone, which is likely to attract technology companies and investments, boosting regional economic development. This may enhance market expectations for related technology sectors and regional economies, fostering positive investor sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:53.508Z"
+  },
+  {
+    "newsId": "Y2N0di3ku6XliJvm",
+    "title_en": "Shanghai Electric Showcases at 2026 World Future Energy Summit, Driving Global Energy Transition with Innovative Technology",
+    "summary_cn": "2026年世界未来能源峰会于1月13日在阿布扎比开幕，主题为“智造绿色未来”。上海电气作为参展企业亮相，展示其在创新技术方面的成果，旨在推动全球能源转型。峰会吸引了全球上百家企业参与，共同探讨可持续发展路径。",
+    "summary_en": "The 2026 World Future Energy Summit opened on January 13 in Abu Dhabi, focusing on the theme 'Creating a Green Future with Intelligence'. Shanghai Electric participated as an exhibitor, showcasing its innovative technologies to drive global energy transition. The summit attracted hundreds of global companies to discuss sustainable development pathways.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示上海电气在重要国际能源峰会上展示创新技术，这有助于提升公司在全球能源转型领域的品牌形象和市场认可度，可能吸引投资者关注，对相关新能源和电气设备板块产生积极情绪。",
+      "logic_en": "The news highlights Shanghai Electric's participation in a major international energy summit, showcasing innovative technologies. This could enhance the company's brand image and market recognition in the global energy transition sector, potentially attracting investor interest and generating positive sentiment in related new energy and electrical equipment sectors."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601727.SH",
+        "name": "上海电气",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:53.512Z"
+  },
+  {
+    "newsId": "Y2N0di3lvJXpoobl",
+    "title_en": "Leading Whole-Chain Technological Innovation, Shanghai Electric Wins 6 'Wind Power Leader' Awards",
+    "summary_cn": "上海电气风电集团在2025年风电领跑者技术创新论坛上斩获6项大奖，涵盖海陆机组及后市场服务等领域。这标志着上海电气在风电高端装备和智能化服务方面展现综合实力，连续5年获奖。",
+    "summary_en": "Shanghai Electric Wind Power Group won 6 awards at the 2025 Wind Power Leader Technological Innovation Forum, covering offshore and onshore units and aftermarket services. This demonstrates Shanghai Electric's comprehensive strength in high-end wind power equipment and intelligent services, with consecutive awards for 5 years.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "新能源板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "New Energy Sector"
+      ],
+      "logic": "新闻显示上海电气在风电技术创新方面获得认可，连续获奖可能提升市场对其在新能源领域竞争力的预期，增强投资者信心，对相关板块和指数有积极情绪影响。",
+      "logic_en": "The news indicates Shanghai Electric's recognition in wind power technological innovation, with consecutive awards potentially boosting market expectations for its competitiveness in the new energy sector, enhancing investor confidence, and having a positive sentiment impact on related sectors and indices."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601727.SH",
+        "name": "上海电气集团股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:52.630Z"
+  },
+  {
+    "newsId": "Y2N0di3nnoTlh4bk",
+    "title_en": "Egypt Tourism Bureau Targets Chinese Tourist Market, Expands Cooperation in Shanghai",
+    "summary_cn": "埃及旅游局首席执行官艾哈迈德·尤瑟夫率代表团在上海与中国旅游业伙伴交流，探讨市场趋势、产品创新和定制化行程。此举旨在深化合作，开发更符合中国游客需求的旅游产品和服务。",
+    "summary_en": "Egypt Tourism Bureau CEO Ahmed Youssef led a delegation to Shanghai to engage with Chinese tourism partners, discussing market trends, product innovation, and customized itineraries. The initiative aims to enhance cooperation and develop tourism offerings better suited to Chinese tourists.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "旅游板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Tourism Sector"
+      ],
+      "logic": "新闻显示埃及旅游局积极拓展中国客源市场，可能促进中埃旅游合作，利好中国旅游相关企业，提升市场对旅游板块的预期。",
+      "logic_en": "The news indicates Egypt's tourism bureau is actively expanding the Chinese tourist market, potentially boosting Sino-Egypt tourism cooperation, benefiting Chinese tourism-related companies, and improving market expectations for the tourism sector."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:50.696Z"
+  },
+  {
+    "newsId": "Y2N0di3nkZ7pk7bv",
+    "title_en": "UBS: No Clear Signs of 'AI Bubble' in China in the Short Term",
+    "summary_cn": "瑞银证券分析师熊玮在研讨会上表示，与美国相比，中国出现AI泡沫的概率小得多。短期内未观察到明确的AI泡沫迹象，资本市场无需对此担忧。",
+    "summary_en": "UBS Securities analyst Xiong Wei stated at a seminar that compared to the US, the probability of an AI bubble forming in China is much lower. No clear signs of an AI bubble have been observed in the short term, and capital markets need not worry about this.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "瑞银作为国际投行，其观点可能缓解市场对AI板块过度投机的担忧，降低风险溢价预期，从而提振投资者对中国AI相关股票的信心，对科技股和成长股构成情绪支撑。",
+      "logic_en": "As an international investment bank, UBS's view may alleviate market concerns about excessive speculation in the AI sector, reducing risk premium expectations, thereby boosting investor confidence in Chinese AI-related stocks and providing sentiment support for tech and growth stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:51.482Z"
+  },
+  {
+    "newsId": "Y2N0di3lpJblqpLv",
+    "title_en": "Foreign Media: Coca-Cola Abandons Sale of Costa Coffee",
+    "summary_cn": "据英国《金融时报》报道，因私募股权收购方报价未达预期，可口可乐公司已放弃出售Costa咖啡的计划。知情人士透露，可口可乐已于去年12月终止与剩余竞购方的谈判，结束了持续数月的拍卖进程。",
+    "summary_en": "According to the Financial Times, Coca-Cola has abandoned plans to sell Costa Coffee due to private equity bidders' offers falling short of expectations. Two informed sources revealed that Coca-Cola terminated negotiations with remaining bidders in December last year, concluding the months-long auction process.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "NASDAQ"
+      ],
+      "logic": "该新闻对可口可乐公司影响有限，因放弃出售Costa咖啡可能反映公司对资产价值的坚持，但未涉及重大财务变动或战略调整，市场预期变化不大。整体情绪偏向中性，无明确利多或利空信号。",
+      "logic_en": "The news has limited impact on Coca-Cola as abandoning the sale of Costa Coffee may reflect the company's insistence on asset value, but it does not involve significant financial changes or strategic adjustments, with little change in market expectations. Overall sentiment is neutral, with no clear bullish or bearish signals."
+    },
+    "related_stocks": [
+      {
+        "symbol": "KO",
+        "name": "可口可乐公司",
+        "market": "US"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:52.898Z"
+  },
+  {
+    "newsId": "Y2N0di3lubTlj6/p",
+    "title_en": "Yunnan Promotes Orderly Takeoff of Low-Altitude Industry with Over 300 Flight Days Annually",
+    "summary_cn": "云南将低空经济列为战略性新兴产业和未来产业重点培育方向，发挥区位与空域优势，从产业基础、应用场景、要素保障和对外开放四方面系统推动低空产业有序发展，年可飞行天数超300天。",
+    "summary_en": "Yunnan has designated low-altitude economy as a strategic emerging and future industry, leveraging its geographical and airspace advantages to systematically promote the orderly development of the low-altitude industry through four aspects: industrial foundation, application scenarios, factor support, and opening-up, with over 300 flight days annually.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻显示云南积极推动低空产业发展，作为战略性新兴产业，可能带动相关产业链（如航空制造、无人机、基础设施等）投资和增长，提升市场对区域经济和新兴产业的乐观预期，对A股市场整体情绪有积极影响。",
+      "logic_en": "The news indicates Yunnan's active promotion of the low-altitude industry as a strategic emerging sector, potentially driving investment and growth in related supply chains (e.g., aviation manufacturing, drones, infrastructure), boosting market optimism towards regional economies and emerging industries, with a positive impact on overall sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:53.058Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzmtbfl",
+    "title_en": "\"Hai Er\" Infringes on \"Haier\"! Multiple Products on 1688 Platform Suspected of False Advertising",
+    "summary_cn": "新闻曝光1688平台上存在多款产品涉嫌虚假宣传，以“海尓”品牌模仿知名家电品牌“海尔”，误导消费者。事件涉及电商平台监管和品牌侵权问题，可能引发市场对相关企业合规性的关注。",
+    "summary_en": "The news exposes multiple products on the 1688 platform suspected of false advertising, with the brand \"Hai Er\" imitating the well-known home appliance brand \"Haier,\" misleading consumers. The incident involves e-commerce platform regulation and brand infringement issues, potentially raising market concerns about corporate compliance.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "香港恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hong Kong Hang Seng Index"
+      ],
+      "logic": "新闻曝光电商平台上的虚假宣传和品牌侵权事件，可能损害海尔品牌声誉和消费者信任，引发市场对海尔及其相关供应链企业合规风险的担忧，从而对股价产生负面影响。同时，事件可能促使监管加强，影响整个电商和家电板块的情绪。",
+      "logic_en": "The exposure of false advertising and brand infringement on the e-commerce platform may damage Haier's brand reputation and consumer trust, raising market concerns about compliance risks for Haier and its related supply chain companies, negatively impacting stock prices. Additionally, the incident could lead to stricter regulation, affecting sentiment across the e-commerce and home appliance sectors."
+    },
+    "related_stocks": [
+      {
+        "symbol": "600690.SH",
+        "name": "海尔智家",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:54.735Z"
+  },
+  {
+    "newsId": "Y2N0di3muZbljZfm",
+    "title_en": "Hunan Rushes to Deploy 'AI +' and Layout Scenario Innovation",
+    "summary_cn": "中国各地正加速布局“人工智能+”赛道，湖南凭借算力基础、产业支撑和应用场景优势，明确重点赛道与中长期目标，推动人工智能产业高质量发展。",
+    "summary_en": "China is accelerating the deployment of the 'AI +' track. Hunan, leveraging its strong computing power, complete industrial support, and rich application scenarios, has defined key areas and medium-to-long-term goals to promote high-quality development of the AI industry.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻显示湖南积极布局人工智能产业，明确重点赛道与中长期目标，这有助于推动相关产业链发展，可能提升市场对人工智能板块的预期和投资情绪，对A股科技板块构成利好。",
+      "logic_en": "The news indicates Hunan's active deployment in the AI industry with defined key areas and medium-to-long-term goals, which may promote the development of related industrial chains, enhance market expectations and sentiment towards the AI sector, and be bullish for the technology segment of the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:16:51.714Z"
+  },
+  {
+    "newsId": "Y2N0di3pnZLmtbfn",
+    "title_en": "Qinghai Provincial Council for the Promotion of International Trade: Escorting 'Qinghai Quality Products' to Sail Overseas",
+    "summary_cn": "青海省贸促会建立24小时不间断出证机制，为企业产品及时提供原产地证书，助力'青海好物'产品顺利出口。此举旨在提升青海省产品的国际竞争力，支持企业拓展海外市场。",
+    "summary_en": "The Qinghai Provincial Council for the Promotion of International Trade has established a 24-hour non-stop certification mechanism to provide timely certificates of origin for enterprise products, facilitating the export of 'Qinghai Quality Products'. This initiative aims to enhance the international competitiveness of Qinghai's products and support enterprises in expanding overseas markets.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要涉及地方贸易促进措施，对整体金融市场影响有限。可能间接利好青海省相关出口企业，但未明确提及具体公司或行业，市场预期变化不大。情绪上偏向积极，但影响范围较小，逻辑上属于结构性支持政策，不构成广泛市场驱动因素。",
+      "logic_en": "This news primarily involves local trade promotion measures, with limited impact on the overall financial market. It may indirectly benefit export-related enterprises in Qinghai Province, but no specific companies or industries are mentioned, so market expectations remain largely unchanged. The sentiment is slightly positive, but the scope of impact is narrow; logically, it is a structural support policy and not a broad market driver."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:17:10.011Z"
+  },
+  {
+    "newsId": "Y2N0di3jgIoyMDI1",
+    "title_en": "2025 China Coffee Industry Development Report Released",
+    "summary_cn": "《2025中国咖啡产业发展报告》发布交流会在北京举行。会议总结了2025年中国咖啡产业的发展成果，并探讨了产业创新升级路径与未来机遇。报告旨在为行业提供发展参考，推动咖啡产业持续增长。",
+    "summary_en": "The release exchange meeting for the '2025 China Coffee Industry Development Report' was held in Beijing. The meeting reviewed the development achievements of China's coffee industry in 2025 and discussed paths for innovation, upgrading, and future opportunities. The report aims to provide industry references and promote sustained growth in the coffee sector.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "该报告主要总结行业现状和展望未来，未涉及具体政策或财务数据变动，对市场情绪影响有限。可能间接提振消费板块信心，但无直接利多或利空驱动。",
+      "logic_en": "The report primarily summarizes industry status and future prospects without involving specific policy changes or financial data adjustments, having limited impact on market sentiment. It may indirectly boost confidence in the consumer sector but lacks direct bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:17:08.384Z"
+  },
+  {
+    "newsId": "Y2N0di045Lq/5Lq6",
+    "title_en": "Behind 800 Million People, Hides the Chinese-Style Poverty Reduction Code",
+    "summary_cn": "新闻以美国“斩杀线”现象为引，描述美国社会贫富差距问题，如互联网精英半年内可能沦为流浪汉，政府不提供兜底反而拆除流浪汉营地。内容主要聚焦美国社会问题，未直接涉及中国减贫或金融市场。",
+    "summary_en": "The news uses the American 'kill line' phenomenon as an introduction, describing wealth gap issues in U.S. society, such as internet elites potentially becoming homeless within six months, with the government not providing support but instead dismantling homeless camps. The content primarily focuses on U.S. social issues, not directly involving Chinese poverty reduction or financial markets.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [],
+      "affected_markets_en": [],
+      "logic": "新闻内容主要讨论美国社会贫富差距和流浪汉问题，未涉及具体经济政策、公司业绩或市场数据，对金融市场无直接影响。标题提及中国减贫，但正文未展开，整体对市场情绪和预期无明显影响。",
+      "logic_en": "The news content primarily discusses wealth gap and homelessness issues in U.S. society, without involving specific economic policies, corporate performance, or market data, having no direct impact on financial markets. The title mentions Chinese poverty reduction, but the body does not elaborate, overall having no significant effect on market sentiment or expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-14T14:17:09.694Z"
+  },
+  {
+    "newsId": "Y2N0di3ljqbpl6gg",
+    "title_en": "Xiamen's Sea-Rail Intermodal Transport Volume Grows Over 26% Annually During the 14th Five-Year Plan Period",
+    "summary_cn": "厦门市副市长林志成在新闻发布会上表示，该市东南沿海铁路枢纽已基本成型，中欧班列稳定开行。在“十四五”期间，海铁联运量年均增长超过26%，显示物流基础设施建设和多式联运发展成效显著。",
+    "summary_en": "Xiamen's vice mayor Lin Zhicheng announced at a press conference that the city's southeast coastal railway hub has basically taken shape, with stable operation of China-Europe freight trains. During the 14th Five-Year Plan period, sea-rail intermodal transport volume grew over 26% annually, indicating significant progress in logistics infrastructure and multimodal transport development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该新闻显示厦门物流基础设施建设和多式联运快速发展，可能提升区域经济活力和物流效率，对相关基建、物流和港口板块构成利好，增强市场对经济增长的预期。",
+      "logic_en": "The news indicates rapid development of logistics infrastructure and multimodal transport in Xiamen, which may boost regional economic activity and logistics efficiency. This is positive for related infrastructure, logistics, and port sectors, enhancing market expectations for economic growth."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:17:09.417Z"
+  },
+  {
+    "newsId": "Y2N0di3pgJrovr3o",
+    "title_en": "Tongliao to Wuhai to Xi'an Round-Trip Air Route Opens",
+    "summary_cn": "天津航空西北分公司宣布，自1月14日起新开通辽至乌海至西安往返航线。该航线将为通辽、乌海和西安三地旅客提供便捷高效的出行选择，有助于加强区域间的交通连接。",
+    "summary_en": "Tianjin Airlines Northwest Branch announced the opening of a new round-trip air route from Tongliao to Wuhai to Xi'an, effective January 14. This route will provide convenient and efficient travel options for passengers in Tongliao, Wuhai, and Xi'an, enhancing regional connectivity.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及新航线开通，属于区域交通基础设施改善，可能对航空和旅游相关板块有轻微正面影响，但影响范围有限且不直接涉及重大宏观经济或政策变化。整体市场影响中性，因新闻内容较为具体且规模较小，未明确提及具体公司或财务数据。",
+      "logic_en": "The news involves the opening of a new air route, which is an improvement in regional transportation infrastructure. It may have a slight positive impact on aviation and tourism-related sectors, but the scope is limited and does not directly involve major macroeconomic or policy changes. Overall market impact is neutral, as the news content is specific and small-scale, with no explicit mention of specific companies or financial data."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:17:09.931Z"
+  },
+  {
+    "newsId": "Y2N0di3lnKjljLvp",
+    "title_en": "Normal Prenatal Checkup in Hospital, but Birth Diagnosed with Deformity? Local Health Commission Responds",
+    "summary_cn": "媒体报道称，一名孕妇在黄冈市妇幼保健院进行产前大排畸检查时显示正常，但婴儿出生后被诊断出先天性脊柱畸形。婴儿母亲指控进行产前筛查的医生无相关资质，属于无证操作。地方卫健委已对此事作出回应。",
+    "summary_en": "Media reports indicate that a pregnant woman's prenatal anomaly scan at Huanggang Maternal and Child Health Hospital showed normal results, but the baby was diagnosed with congenital spinal deformity after birth. The mother alleges that the doctor conducting the prenatal screening lacked proper qualifications and operated without certification. The local health commission has responded to the incident.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "医疗保健板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Healthcare Sector"
+      ],
+      "logic": "该新闻涉及医疗事故和资质问题，可能引发对医疗行业监管和医疗质量的担忧，影响投资者对医疗保健板块的信心，导致市场情绪偏向负面。",
+      "logic_en": "The news involves medical malpractice and qualification issues, potentially raising concerns about healthcare regulation and quality, which could negatively impact investor confidence in the healthcare sector and lead to bearish market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:17:08.391Z"
+  },
+  {
+    "newsId": "Y2N0di3opb/ol4/o",
+    "title_en": "Tibet Autonomous Region Achieves First Cross-Border Transport of Chinese Container Trucks",
+    "summary_cn": "西藏自治区首次实现中国集装箱式货车跨境运输，两辆满载货物的货车在吉隆海关监管下顺利通关，驶向尼泊尔。这标志着中尼国际道路运输便利化水平迈上新台阶，提升了跨境物流效率。",
+    "summary_en": "The Tibet Autonomous Region has achieved the first cross-border transport of Chinese container trucks, with two fully loaded trucks successfully clearing customs under the supervision of Jilong Customs and heading to Nepal. This marks a new level of facilitation in China-Nepal international road transport, improving cross-border logistics efficiency.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道西藏自治区首次实现集装箱式货车跨境运输，属于基础设施和物流便利化进展。这有助于提升区域贸易效率，但影响范围有限，未直接涉及宏观经济政策或企业盈利变化，对整体金融市场情绪影响较小，偏向中性。",
+      "logic_en": "The news primarily reports the first cross-border transport of container trucks in the Tibet Autonomous Region, representing progress in infrastructure and logistics facilitation. This helps improve regional trade efficiency, but the impact is limited in scope, not directly involving macroeconomic policies or corporate earnings changes, resulting in minimal effect on overall financial market sentiment, leaning neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:17:09.195Z"
+  },
+  {
+    "newsId": "Y2N0di3kvZvlsbHk",
+    "title_en": "Foshan Leping: 'Hundreds of Thousands of Projects' Help Billion-Yuan Industrial Town Draw New Chapter of Integrated Development",
+    "summary_cn": "佛山乐平镇通过实施“百千万工程”，推动千亿级工业大镇实现融合发展。该工程旨在促进产业升级和区域协同，为当地经济注入新动力。新闻强调了政策支持对工业转型的积极作用。",
+    "summary_en": "Foshan Leping Town implements the 'Hundreds of Thousands of Projects' to foster integrated development in its billion-yuan industrial base. The initiative aims to drive industrial upgrading and regional coordination, injecting new momentum into the local economy. The news highlights the positive role of policy support in industrial transformation.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻显示地方政府通过“百千万工程”支持工业发展和融合，可能提升相关区域经济活力和企业信心，对A股市场尤其是工业板块产生积极情绪影响。",
+      "logic_en": "The news indicates local government support for industrial development and integration through the 'Hundreds of Thousands of Projects', potentially boosting regional economic vitality and corporate confidence, which could positively impact sentiment in the A-share market, particularly in the industrial sector."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T14:17:08.435Z"
   }
 ]
