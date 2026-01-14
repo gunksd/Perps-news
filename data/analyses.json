@@ -8442,5 +8442,341 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-13T14:17:10.735Z"
+  },
+  {
+    "newsId": "Y2N0di3ljZXml6Xm",
+    "title_en": "Behind the 20-fold Surge in Daily New Registered Buyers: Tencent Cloud Full-stack Solution Helps DHgate Handle Global Traffic Peak",
+    "summary_cn": "跨境电商正以年均两位数增速重塑全球贸易格局，2025年中国跨境电商B2B出口预计增至6.9万亿元。行业从规模扩张转向质量突围，新技术驱动的新质生产力成为升级核心引擎。腾讯云全栈方案助力敦煌网应对流量洪峰，单日新注册买家激增20倍。",
+    "summary_en": "Cross-border e-commerce is reshaping global trade with double-digit annual growth, with China's B2B export expected to reach 6.9 trillion yuan in 2025. The industry is shifting from scale expansion to quality breakthroughs, driven by new technologies as a core engine for upgrading. Tencent Cloud's full-stack solution helps DHgate handle traffic peaks, with daily new registered buyers surging 20-fold.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻显示跨境电商行业高速增长，腾讯云技术方案成功助力敦煌网应对流量激增，体现了云计算和电商行业的协同发展潜力。这可能提升市场对相关科技和电商板块的乐观情绪，特别是云计算和跨境电商概念股，因行业升级和技术驱动被视为积极信号。",
+      "logic_en": "The news highlights rapid growth in cross-border e-commerce and Tencent Cloud's successful technical solution in helping DHgate handle traffic surges, demonstrating synergy potential between cloud computing and e-commerce sectors. This may boost market optimism towards related tech and e-commerce segments, particularly cloud computing and cross-border e-commerce stocks, as industry upgrading and technology-driven trends are viewed as positive signals."
+    },
+    "related_stocks": [
+      {
+        "symbol": "00700.HK",
+        "name": "腾讯控股",
+        "market": "HK"
+      }
+    ],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-14T03:51:54.591Z"
+  },
+  {
+    "newsId": "Y2N0di3lt6XkuJrn",
+    "title_en": "Industrial Economy Maintains Steady Growth, Traditional Industries Renewal Drives High-Quality Development",
+    "summary_cn": "新闻聚焦于工业经济的平稳增长态势，强调传统产业通过焕新升级推动高质量发展。作为“十五五”开局之年的权威访谈，内容突出了产业转型对经济结构优化的积极作用。整体基调积极，旨在传递经济稳健向好的信号。",
+    "summary_en": "The news focuses on the steady growth of the industrial economy, emphasizing that traditional industries are driving high-quality development through renewal and upgrading. As an authoritative interview at the start of the \"15th Five-Year Plan,\" it highlights the positive role of industrial transformation in optimizing the economic structure. The overall tone is positive, aiming to convey signals of stable economic improvement.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻强调工业经济平稳增长和传统产业焕新，这有助于提振市场对经济基本面的信心，可能推动工业板块和相关指数上涨。积极的政策导向和产业升级预期，可能增强投资者对A股市场的乐观情绪，尤其是制造业和传统产业转型相关领域。",
+      "logic_en": "The news emphasizes steady industrial growth and renewal of traditional industries, which may boost market confidence in economic fundamentals and potentially drive up industrial sectors and related indices. Positive policy direction and expectations of industrial upgrading could enhance investor optimism in the A-share market, particularly in manufacturing and traditional industry transformation areas."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:51:51.812Z"
+  },
+  {
+    "newsId": "Y2N0di3pg5Hlt57o",
+    "title_en": "Zhengzhou Airport Zone's Cross-Border E-commerce Import and Export Value Exceeds 34.779 Billion Yuan in 2025",
+    "summary_cn": "郑州航空港区2025年跨境电商进出口货值达347.79亿元，同比增长53.28%，跃居河南省首位。该数据由管委会13日晚间发布，显示区域跨境电商业务快速增长。",
+    "summary_en": "Zhengzhou Airport Economic Comprehensive Experimental Zone's cross-border e-commerce import and export value reached 34.779 billion yuan in 2025, a year-on-year increase of 53.28%, ranking first in Henan Province. The data was released by the management committee on the evening of the 13th, indicating rapid growth in regional cross-border e-commerce business.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻显示郑州航空港区跨境电商业务高速增长，可能提振市场对区域经济和相关物流、电商板块的信心，利好A股市场情绪。",
+      "logic_en": "The news shows rapid growth in cross-border e-commerce business in Zhengzhou Airport Zone, which may boost market confidence in regional economy and related logistics/e-commerce sectors, benefiting sentiment in A-share markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:51:49.968Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3lm73k",
+    "title_en": "How is China's AI going global? What are the highlights? General Administration of Customs responds",
+    "summary_cn": "海关总署在新闻发布会上介绍2025年进出口情况，指出全球人工智能相关产品贸易增长显著，去年上半年增长约20%，以六分之一的贸易比重贡献了超过40%的全球贸易增量。初步测算显示，2025年中国人工智能相关产品贸易趋势与全球基本同步，呈现蓬勃发展态势。",
+    "summary_en": "The General Administration of Customs held a press conference on 2025 import and export data, noting that global AI-related product trade grew significantly, with about 20% growth in the first half of last year, contributing over 40% of global trade growth with one-sixth of trade share. Preliminary estimates show China's AI-related product trade trend in 2025 is largely in sync with the global pace, showing robust development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻显示中国人工智能相关产品贸易与全球同步蓬勃发展，这反映了中国AI产业的竞争力和增长潜力，可能提振市场对科技板块的信心，利好相关指数。",
+      "logic_en": "The news indicates China's AI-related product trade is thriving in sync with global trends, reflecting the competitiveness and growth potential of China's AI industry, which may boost market confidence in the tech sector and benefit related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:51:51.091Z"
+  },
+  {
+    "newsId": "Y2N0di3mtbflhbPm",
+    "title_en": "Customs Administration: China's foreign trade import and export reached 45.47 trillion yuan in 2025, up 3.8%",
+    "summary_cn": "海关总署公布2025年中国外贸数据，进出口总额45.47万亿元，同比增长3.8%。其中出口增长6.1%至26.99万亿元，进口增长0.5%至18.48万亿元。数据反映外贸保持增长态势，出口表现优于进口。",
+    "summary_en": "China's Customs Administration released 2025 foreign trade data, showing total import and export value of 45.47 trillion yuan, up 3.8% year-on-year. Exports grew 6.1% to 26.99 trillion yuan, while imports increased 0.5% to 18.48 trillion yuan. The data indicates sustained trade growth with exports outperforming imports.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "外贸数据超预期增长，特别是出口强劲，显示经济基本面稳健，可能提振市场对中国经济增长的信心，利好A股市场情绪。",
+      "logic_en": "Better-than-expected trade growth, especially strong exports, indicates robust economic fundamentals, potentially boosting market confidence in China's economic growth and benefiting A-share market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:51:51.683Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzkuInl",
+    "title_en": "Beike's Internal Notice Reiterates Neutral Market View with 'Three Must-Dos and Six Prohibitions', Launches Platform-Wide Inspection and Penalties for Violations",
+    "summary_cn": "贝壳发布内部通知，要求全平台员工和参与者严格遵守公司价值观和中性市场观。通知明确了“三必做六禁止”的自律行为要求，并启动全平台巡查，对违规行为将从严处罚。此举旨在强化平台合规管理，维护市场秩序。",
+    "summary_en": "Beike issued an internal notice requiring all platform employees and participants to strictly adhere to company values and a neutral market view. The notice specifies 'three must-dos and six prohibitions' for self-discipline and launches a platform-wide inspection, with strict penalties for violations. This move aims to strengthen compliance management and maintain market order.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "房地产板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Sector"
+      ],
+      "logic": "新闻显示贝壳重申中性市场观并加强内部合规，这有助于稳定市场预期，减少违规行为带来的不确定性。对房地产中介行业和整体市场情绪有正面影响，但未直接改变基本面或政策环境，因此整体影响偏向中性。",
+      "logic_en": "The news shows Beike reiterating a neutral market view and strengthening internal compliance, which helps stabilize market expectations and reduce uncertainty from violations. It has a positive impact on the real estate brokerage industry and overall market sentiment, but does not directly alter fundamentals or policy environment, thus the overall effect is neutral."
+    },
+    "related_stocks": [
+      {
+        "symbol": "BEKE",
+        "name": "贝壳",
+        "market": "US"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:51:52.718Z"
+  },
+  {
+    "newsId": "Y2N0di3otoXkuIfm",
+    "title_en": "Why Over Ten Thousand Foreign Business Entities Have Settled in Yiwu (Big Data Observation: Investing in China)",
+    "summary_cn": "新闻聚焦义乌吸引超万户外资经营主体落户的现象，通过大数据观察分析外资投资中国的趋势。报道探讨了义乌作为国际贸易枢纽的吸引力，包括政策支持、市场机遇和营商环境等因素。这反映了中国对外开放和吸引外资的积极态势，展示了区域经济发展的活力。",
+    "summary_en": "The news focuses on the phenomenon of over ten thousand foreign business entities settling in Yiwu, analyzing trends in foreign investment in China through big data observation. It explores Yiwu's appeal as an international trade hub, including policy support, market opportunities, and business environment factors. This reflects China's positive stance on opening up and attracting foreign investment, showcasing regional economic development vitality.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示中国吸引外资能力增强，特别是义乌作为国际贸易中心的表现，可能提振市场对中国经济开放和区域发展的信心。这有助于改善投资者情绪，对A股市场尤其是与外贸、消费相关的板块产生积极影响，但具体影响程度需结合其他宏观因素。",
+      "logic_en": "The news indicates enhanced foreign investment attraction in China, particularly Yiwu's performance as an international trade hub, which may boost market confidence in China's economic openness and regional development. This could improve investor sentiment, positively affecting the A-share market, especially sectors related to foreign trade and consumption, though the exact impact depends on other macroeconomic factors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:51:52.666Z"
+  },
+  {
+    "newsId": "Y2N0di3kuK3lm73i",
+    "title_en": "China's 'New Three' and Other Green Exports Show Impressive Growth",
+    "summary_cn": "海关总署数据显示，2025年中国高技术产品出口达5.25万亿元，同比增长13.2%。其中，以“新三样”为代表的绿色产品出口增长显著，如“新三样”增长27.1%，风力发电机组增长48.7%。自主品牌产品出口增长12.9%，占出口总值比重提升1.4个百分点。",
+    "summary_en": "According to customs data, China's high-tech product exports reached 5.25 trillion yuan in 2025, up 13.2% year-on-year. Green exports, including the 'New Three' and wind turbines, showed strong growth, with increases of 27.1% and 48.7%, respectively. Self-branded product exports rose 12.9%, raising their share of total exports by 1.4 percentage points.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示中国绿色和高技术产品出口强劲增长，特别是“新三样”和风力发电机组等细分领域表现突出，可能提振市场对相关行业和整体经济的信心，利好A股市场，尤其是科技和新能源板块。",
+      "logic_en": "The news indicates strong growth in China's green and high-tech exports, particularly in sectors like the 'New Three' and wind turbines, which may boost market confidence in related industries and the overall economy, benefiting the A-share market, especially in technology and new energy sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-14T03:51:52.990Z"
+  },
+  {
+    "newsId": "Y2N0di0yMOS9meWk",
+    "title_en": "Over 40 Billion Yuan in 20+ Days! Average of 24,000 People Shop Duty-Free in Hainan Daily After Customs Closure",
+    "summary_cn": "海关总署数据显示，海南自贸港自2025年12月18日封关以来，截至2026年1月10日，离岛免税购物人数达58.5万人次，金额38.9亿元，同比增长32.4%和49.6%。平均每天有2.4万人在海南免税购物，日均购物额1.6亿元，均高于封关前水平。",
+    "summary_en": "Customs data shows that since Hainan Free Trade Port's customs closure on December 18, 2025, as of January 10, 2026, duty-free shopping for departing islanders reached 585,000 person-times and 3.89 billion yuan, up 32.4% and 49.6% year-on-year. An average of 24,000 people shop duty-free daily in Hainan, with daily spending hitting 160 million yuan, both higher than pre-closure levels.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻显示海南免税购物数据强劲增长，表明消费复苏和政策利好效应显现，可能提振市场对消费板块和海南自贸港相关资产的信心，带动整体市场情绪向好。",
+      "logic_en": "The news shows strong growth in Hainan duty-free shopping data, indicating consumption recovery and positive policy effects, which may boost market confidence in the consumer sector and Hainan Free Trade Port-related assets, driving overall market sentiment upward."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-14T03:51:52.604Z"
+  },
+  {
+    "newsId": "Y2N0di3kvJjljJbl",
+    "title_en": "Optimizing Layout and Creating Composite Spaces: Multiple Regions Implement Measures to Unleash Economic Potential from Inefficient Land Use",
+    "summary_cn": "新闻指出，在城市发展中存在大量低效和闲置土地。自然资源部数据显示，截至2025年底，我国已再开发187万亩低效用地和600万亩闲置土地。多地通过优化布局和打造复合空间等措施，旨在激活这些土地的经济潜力。",
+    "summary_en": "The news highlights that many cities have inefficient and idle land due to various reasons. According to the Ministry of Natural Resources, by the end of 2025, China had redeveloped 1.87 million mu of inefficient land and 6 million mu of idle land. Multiple regions are implementing measures such as optimizing layouts and creating composite spaces to unleash the economic potential of these lands.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "房地产板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Sector"
+      ],
+      "logic": "该新闻显示政府推动低效用地再开发，有助于提升土地利用效率，可能刺激房地产投资和基础设施建设，对相关行业和整体经济有积极影响，从而提振市场情绪。",
+      "logic_en": "The news indicates government efforts to redevelop inefficient land, which could enhance land use efficiency, stimulate real estate investment and infrastructure construction, positively impacting related industries and the overall economy, thereby boosting market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:51:50.972Z"
+  },
+  {
+    "newsId": "Y2N0di3lm5vlubTm",
+    "title_en": "Four-Year Research Breakthrough Cultivates High-Yield and Palatable Varieties—The Rise of Saline-Alkali Wheat",
+    "summary_cn": "旱碱麦是一种能在盐碱地生长的特殊小麦品种，具备强环境适应性和抗逆性。它能在高盐度、高pH值环境中正常生长，无需人工灌溉，病虫害少，几乎不用农药，是天然绿色作物。经过四年攻关，已培育出兼顾产量与口感的良种。",
+    "summary_en": "Saline-alkali wheat is a special wheat variety that grows in saline-alkali land, with strong environmental adaptability and stress resistance. It can thrive in high salinity and pH environments, requires no artificial irrigation, has low pest and disease incidence, and uses almost no pesticides, making it a natural green crop. After four years of research, high-yield and palatable varieties have been developed.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "该新闻主要报道农业科技进展，涉及旱碱麦品种培育，可能对农业板块有长期积极影响，但未提及具体公司或财务数据，短期对金融市场直接影响有限。市场情绪可能因绿色农业概念而略偏正面，但缺乏即时催化剂，整体影响中性。",
+      "logic_en": "This news primarily reports on agricultural technology progress, involving the cultivation of saline-alkali wheat varieties, which may have long-term positive effects on the agricultural sector. However, it does not mention specific companies or financial data, so the direct impact on financial markets in the short term is limited. Market sentiment might be slightly positive due to the green agriculture concept, but the lack of immediate catalysts results in an overall neutral impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:52:10.883Z"
+  },
+  {
+    "newsId": "Y2N0di3igJznsbPn",
+    "title_en": "Is 'Rice Grain Earphones' a Tool for Slacking Off or Cheating?",
+    "summary_cn": "新闻介绍了尺寸如米粒大小的耳机，使用时需放入耳道内，外形如小钢珠。报道探讨了这种设备在职场或考试中可能被滥用的风险，引发社会关注。内容偏向于科技产品引发的伦理讨论，未涉及具体金融数据或政策。",
+    "summary_en": "The news introduces earphones as small as rice grains, which are inserted into the ear canal and resemble small steel balls. It discusses the potential misuse of such devices in workplaces or exams, raising social concerns. The content focuses on ethical debates sparked by technology products, without mentioning specific financial data or policies.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻内容主要讨论科技产品的社会伦理问题，未涉及宏观经济、公司业绩或政策变动，对金融市场无直接或间接影响。市场预期和情绪不会因此产生显著变化，属于中性事件。",
+      "logic_en": "The news primarily discusses social and ethical issues related to technology products, without involving macroeconomic factors, corporate performance, or policy changes. It has no direct or indirect impact on financial markets, and market expectations and sentiment are unlikely to be significantly affected, making it a neutral event."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-14T03:52:09.010Z"
+  },
+  {
+    "newsId": "Y2N0di3pqazlubTn",
+    "title_en": "Year of the Horse Commemorative Coin 'Sold Out in One Minute', Can It Be Reserved Again? Multiple Banks Respond",
+    "summary_cn": "2026年贺岁纪念币和纪念钞于13日晚10点开启预约，相关话题如“抢马钞”和“马年纪念币 抢不到”迅速登上热搜。纪念币在极短时间内被抢购一空，引发市场关注。多家银行对此作出回应，讨论二次预约的可能性。",
+    "summary_en": "The reservation for the 2026 Lunar New Year commemorative coins and banknotes opened at 10 PM on the 13th, with topics like '抢马钞' and '马年纪念币 抢不到' quickly trending on social media. The commemorative coins sold out rapidly, drawing market attention. Multiple banks have responded, discussing the possibility of a second reservation round.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "该新闻主要涉及纪念币的收藏和零售市场，而非直接影响股票或债券等主流金融市场。纪念币抢购现象反映了收藏品市场的热度，但未涉及宏观经济政策、公司业绩或利率变动等关键金融因素。因此，对金融市场整体影响有限，偏向中性。",
+      "logic_en": "This news primarily concerns the collectibles and retail market for commemorative coins, rather than directly impacting mainstream financial markets like stocks or bonds. The sell-out phenomenon reflects heat in the collectibles market but does not involve key financial factors such as macroeconomic policies, corporate earnings, or interest rate changes. Thus, the overall impact on financial markets is limited and leans neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-14T03:52:10.468Z"
+  },
+  {
+    "newsId": "Y2N0di3otZvkuovl",
+    "title_en": "Event Mascots Continue to Gain Fans, Promoting Cultural Tourism IP Creation and Dissemination",
+    "summary_cn": "新闻聚焦赛事吉祥物持续吸引粉丝的现象，探讨其在文旅IP打造和传播中的作用。内容涉及一线故事，强调吉祥物作为文化符号如何促进旅游和文化产业发展。",
+    "summary_en": "The news highlights how event mascots continue to attract fans, exploring their role in creating and disseminating cultural tourism IPs. It covers frontline stories, emphasizing how mascots as cultural symbols boost tourism and cultural industries.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻内容主要涉及文旅IP和吉祥物推广，属于文化产业和旅游领域的一般性报道，未提及具体经济数据、政策变化或公司业绩，对金融市场无直接或显著影响。可能间接利好相关文旅和传媒板块，但影响有限且不确定。",
+      "logic_en": "The news primarily covers cultural tourism IP and mascot promotion, a general report in the cultural and tourism sectors, without mentioning specific economic data, policy changes, or corporate earnings. It has no direct or significant impact on financial markets. It may indirectly benefit related cultural tourism and media sectors, but the effect is limited and uncertain."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-14T03:52:08.389Z"
   }
 ]
