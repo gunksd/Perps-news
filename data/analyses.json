@@ -9522,5 +9522,415 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-15T03:46:27.838Z"
+  },
+  {
+    "newsId": "Y2N0di3lpK7ooYzv",
+    "title_en": "Central Bank: China Has No Need or Intention to Gain International Trade Advantage Through Currency Depreciation",
+    "summary_cn": "中国央行副行长邹澜在国新办新闻发布会上表示，中国作为负责任的大国，没有必要也无意识通过汇率贬值来获取国际贸易竞争优势。这一表态旨在稳定市场预期，强调中国将维持汇率基本稳定。",
+    "summary_en": "China's central bank deputy governor Zou Lan stated at a press conference that China, as a responsible major country, has no need or intention to gain international trade advantage through currency depreciation. This statement aims to stabilize market expectations and emphasizes China's commitment to maintaining exchange rate stability.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "人民币汇率",
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "RMB Exchange Rate",
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "央行表态无意通过汇率贬值获取贸易优势，有助于稳定人民币汇率预期，减少市场对货币竞争性贬值的担忧，从而提振投资者信心，对股市和汇率市场构成支撑。",
+      "logic_en": "The central bank's statement that it has no intention to gain trade advantage through currency depreciation helps stabilize RMB exchange rate expectations, reduces market concerns about competitive devaluation, and boosts investor confidence, supporting stock and currency markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.85,
+    "analyzedAt": "2026-01-15T14:15:59.046Z"
+  },
+  {
+    "newsId": "Y2N0di3ljJfkuqzl",
+    "title_en": "Beijing to Launch Six Major Special Actions to Strive for a 'Good Start' in the First Quarter",
+    "summary_cn": "北京市发改委宣布将开展六大专项行动，聚焦提振消费、扩大投资、壮大产业、拓展增量、稳定预期和保障民生，力争实现一季度经济“开门红”。此举旨在通过多领域协同发力，推动经济平稳开局。",
+    "summary_en": "The Beijing Municipal Development and Reform Commission announced the launch of six major special actions focusing on boosting consumption, expanding investment, strengthening industries, expanding increments, stabilizing expectations, and ensuring people's livelihoods, aiming to achieve a 'good start' in the first quarter. This initiative seeks to promote a stable economic opening through coordinated efforts across multiple sectors.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "北京作为经济重镇推出稳增长政策，通过提振消费和扩大投资等措施，可能增强市场对经济复苏的预期，利好A股市场情绪，尤其对消费、基建和产业相关板块有积极影响。",
+      "logic_en": "Beijing, as a major economic hub, has introduced growth-stabilizing policies through measures such as boosting consumption and expanding investment, which may enhance market expectations for economic recovery, benefiting A-share market sentiment, particularly for sectors like consumption, infrastructure, and industries."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:00.220Z"
+  },
+  {
+    "newsId": "Y2N0di3mlL/kvIHl",
+    "title_en": "Government and Enterprises 'Face-to-Face' in Chengdu, Injecting New Momentum into Aerospace Industry",
+    "summary_cn": "成都举办航空航天产业链企业专场活动，政府部门与60余家企业、高校代表通过闭环机制，现场解决企业在研发、人才、市场等方面的难题。活动旨在优化营商环境，促进产业发展。",
+    "summary_en": "Chengdu held a special event for aerospace industry chain enterprises, where government departments and over 60 companies and universities addressed development challenges in R&D, talent, and market expansion through a closed-loop mechanism. The event aims to improve the business environment and boost industry growth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻显示成都政府积极支持航空航天产业发展，通过政企互动解决企业难题，可能提升市场对相关产业链企业的信心，利好航空航天板块。这反映了政策支持导向，有助于改善企业运营环境，增强投资者预期。",
+      "logic_en": "The news indicates Chengdu government actively supports the aerospace industry by addressing enterprise challenges through government-enterprise interaction, potentially boosting market confidence in related industrial chain companies and benefiting the aerospace sector. This reflects policy support orientation, helping improve business operating environments and strengthen investor expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:15:59.499Z"
+  },
+  {
+    "newsId": "Y2N0di3mlrDlhbTk",
+    "title_en": "Emerging Industries Drive New Leasing Demand for Grade A Office Buildings in Guangzhou",
+    "summary_cn": "仲量联行报告显示，三类新兴产业成为广州甲级办公楼租赁需求增长的核心驱动力。2025年，这些产业合计贡献约40%的新增租赁面积。报告展望了2026年广州房地产市场趋势。",
+    "summary_en": "According to a JLL report, three types of emerging industries have become the core drivers of leasing demand growth for Grade A office buildings in Guangzhou. In 2025, these industries collectively contributed about 40% of the new leased area. The report also provides an outlook for the Guangzhou real estate market in 2026.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "房地产指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Real Estate Index"
+      ],
+      "logic": "新闻显示新兴产业推动广州甲级办公楼租赁需求增长，表明区域经济活力和房地产市场需求改善，可能提振投资者对相关房地产和区域经济板块的信心。",
+      "logic_en": "The news indicates that emerging industries are driving leasing demand growth for Grade A office buildings in Guangzhou, suggesting improved regional economic vitality and real estate market demand, which may boost investor confidence in related real estate and regional economic sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:15:58.784Z"
+  },
+  {
+    "newsId": "Y2N0di3kupHljZfl",
+    "title_en": "Yunnan Yiliang's 'Beautiful Economy' Achieves Record Annual Output Value of 91 Billion Yuan",
+    "summary_cn": "云南省宜良县2025年苗木花卉产业全产业链综合产值达91亿元，创历史新高。经营主体超过4000家，从业人员超6万人，三角梅和非洲菊年产销量约占全国市场份额的三分之一。该产业为乡村振兴持续注入新动能。",
+    "summary_en": "Yunnan's Yiliang County achieved a record annual comprehensive output value of 91 billion yuan in 2025 for its seedling and flower industry. The sector has over 4,000 business entities and employs more than 60,000 people, with bougainvillea and gerbera accounting for about one-third of national market share. This industry continues to inject new momentum into rural revitalization.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻主要报道地方特色产业发展成就，属于正面经济数据，但影响范围有限，未涉及宏观政策或行业重大变革。可能对农业、花卉相关板块情绪有轻微提振，但整体市场影响中性，因缺乏直接金融指标或公司业绩关联。",
+      "logic_en": "The news reports achievements in a local specialty industry, representing positive economic data but with limited scope, as it does not involve macroeconomic policies or major industry changes. It may slightly boost sentiment in agriculture and flower-related sectors, but overall market impact is neutral due to the lack of direct financial indicators or corporate performance links."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:01.782Z"
+  },
+  {
+    "newsId": "Y2N0di3lronlvr3o",
+    "title_en": "Anhui's Import and Export Value Exceeds One Trillion Yuan for the First Time, Ranking First Among Central China Provinces",
+    "summary_cn": "2025年安徽省货物贸易进出口总值首次突破万亿元大关，达10135.6亿元，同比增长17.3%，位居中国中部省份第一位，创下历史最好成绩。",
+    "summary_en": "In 2025, Anhui Province's total import and export value of goods trade exceeded one trillion yuan for the first time, reaching 1013.56 billion yuan, a year-on-year increase of 17.3%, ranking first among central China provinces and setting a historical record.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示安徽省进出口强劲增长，表明区域经济活力和外贸韧性，可能提振市场对中国经济基本面和相关板块（如物流、制造业）的信心，对A股市场情绪有积极影响。",
+      "logic_en": "The news indicates strong growth in Anhui's import and export, reflecting regional economic vitality and trade resilience, which may boost market confidence in China's economic fundamentals and related sectors (e.g., logistics, manufacturing), positively impacting sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:15:59.192Z"
+  },
+  {
+    "newsId": "Y2N0di3lub/lt57l",
+    "title_en": "Guangzhou Good House Technology Exhibition Unlocks Future Living Forms",
+    "summary_cn": "第四届广东省建筑文化宣传周暨广州市智能建造和好房子创新成果展示活动在广州举办。展览以“好房子、好生活”为主题，聚焦安全、舒适、绿色、智慧四大维度。活动集中展示了本土企业在智能建造和住房创新方面的成果。",
+    "summary_en": "The 4th Guangdong Province Building Culture Promotion Week and Guangzhou Smart Construction and Good House Innovation Achievement Exhibition was held in Guangzhou. The exhibition centered on the theme \"Good House, Good Life,\" focusing on four dimensions: safety, comfort, green, and smart. It showcased innovation achievements from local enterprises in smart construction and housing.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻主要报道了广州举办的建筑文化宣传和智能建造展览活动，聚焦本土企业创新成果。这属于行业性活动，可能对建筑、房地产和科技相关板块产生轻微正面情绪，但无具体政策或数据支持，对整体金融市场影响有限，方向中性。",
+      "logic_en": "The news reports on a building culture promotion and smart construction exhibition in Guangzhou, highlighting innovation achievements from local enterprises. This is an industry event that may generate slight positive sentiment for sectors like construction, real estate, and technology, but lacks specific policy or data support, resulting in limited impact on overall financial markets, direction neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:00.328Z"
+  },
+  {
+    "newsId": "Y2N0di3mtbfljZfm",
+    "title_en": "Hainan Builds Comprehensive Intellectual Property Protection System to Empower Industrial Development",
+    "summary_cn": "海南省市场监管局、省知识产权局官员表示，在“十四五”期间，海南将聚焦特色优势产业发展需求，回应创新主体关切，构建“快速、严格、协同”的知识产权全链条保护体系。知识产权是创新成果进入市场的重要保护手段，此举旨在赋能产业发展。",
+    "summary_en": "Officials from the Hainan Provincial Market Supervision Administration and Intellectual Property Office stated that during the 14th Five-Year Plan period, Hainan will focus on the development needs of its characteristic and advantageous industries, address concerns of innovation entities, and establish a \"fast, strict, and collaborative\" comprehensive intellectual property protection system. Intellectual property is a crucial means to protect innovation outcomes entering the market, aiming to empower industrial development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示海南加强知识产权保护，有助于提升创新环境，可能吸引更多创新型企业投资，利好相关产业和区域经济，对A股市场尤其是科技和创新板块产生积极情绪影响。",
+      "logic_en": "The news indicates that Hainan is strengthening intellectual property protection, which may improve the innovation environment and attract more innovative enterprises to invest, benefiting related industries and regional economies. This could positively impact sentiment in the A-share market, particularly in technology and innovation sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:00.392Z"
+  },
+  {
+    "newsId": "Y2N0di3muZbljZfl",
+    "title_en": "Hunan Introduces Seven Major Measures to Promote Stable Economic Start in 2026",
+    "summary_cn": "湖南省政府发布《关于推动2026年一季度经济实现平稳起步的若干举措》，聚焦消费、项目建设、工业等七个方面推出系列措施，旨在推动一季度经济平稳起步。",
+    "summary_en": "The Hunan Provincial Government released \"Several Measures to Promote a Stable Economic Start in the First Quarter of 2026,\" introducing a series of measures focusing on seven areas including consumption, project construction, and industry, aiming to ensure a stable economic start in the first quarter.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "湖南省出台经济刺激措施，通过促进消费、投资和工业发展，可能提振区域经济活动和市场信心，对A股市场尤其是相关板块产生积极影响。",
+      "logic_en": "Hunan's introduction of economic stimulus measures, by promoting consumption, investment, and industrial development, may boost regional economic activity and market confidence, positively impacting the A-share market, especially related sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:15:57.698Z"
+  },
+  {
+    "newsId": "Y2N0di3ljqbpl6jm",
+    "title_en": "Xiamen Port's First Newly Built Ship of the Year Exported to Germany, Filling Multiple Technical Gaps",
+    "summary_cn": "2026年厦门港首艘通关出口新造船舶“海魔”号于1月15日驶离码头，标志着厦门船舶制造业实现新年“开门红”。该船舶出口德国，填补了多项技术空白，展示了中国船舶制造的技术进步和国际竞争力。",
+    "summary_en": "On January 15, 2026, the first newly built ship of the year, \"Haimo\"号, cleared customs and departed from Xiamen Port, marking a strong start for Xiamen's shipbuilding industry. The ship was exported to Germany, filling multiple technical gaps and demonstrating China's technological advancement and international competitiveness in shipbuilding.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "船舶制造板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shipbuilding Sector"
+      ],
+      "logic": "新闻显示厦门船舶制造业实现新年“开门红”，新造船舶出口德国并填补技术空白，这有助于提升中国船舶制造行业的国际形象和技术水平，可能提振市场对相关板块的信心和预期，从而对A股船舶制造板块和中证指数产生积极情绪影响。",
+      "logic_en": "The news indicates a strong start for Xiamen's shipbuilding industry with the export of a newly built ship to Germany, filling technical gaps. This enhances the international image and technological level of China's shipbuilding sector, potentially boosting market confidence and expectations for related sectors, thus having a positive sentiment impact on the A-share shipbuilding sector and CSI Index."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:01.404Z"
+  },
+  {
+    "newsId": "Y2N0di3ovr3lroHn",
+    "title_en": "Liaoning Provincial Department of Commerce \"Four Arrows Fired Simultaneously\" to Optimize Business Environment",
+    "summary_cn": "辽宁省商务厅发布《辽宁省商务领域优化营商环境若干措施》，围绕贸易便利化、外资保护促进、对外投资合作、利企便民服务四个方面推出具体举措。2026年重点推进智能客服、外资项目全生命周期管理、海外综合服务平台、“免申即享”信保等改革。",
+    "summary_en": "Liaoning Provincial Department of Commerce issued \"Several Measures to Optimize the Business Environment in the Commercial Sector of Liaoning Province\", introducing specific initiatives in four areas: trade facilitation, foreign investment protection and promotion, outward investment cooperation, and enterprise-friendly services. Key reforms for 2026 include smart customer service, full lifecycle management of foreign investment projects, overseas comprehensive service platforms, and \"no-application-required\" credit insurance.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻显示辽宁省积极优化营商环境，通过贸易便利化、外资保护等措施，可能提升区域经济活力和外资吸引力，对A股市场尤其是东北地区相关板块（如贸易、外资概念）构成情绪利好，但具体影响需观察政策实施效果。",
+      "logic_en": "The news indicates Liaoning Province's active efforts to optimize the business environment through trade facilitation and foreign investment protection measures, which may enhance regional economic vitality and foreign investment attractiveness. This could positively impact sentiment in the A-share market, particularly for sectors related to trade and foreign investment in Northeast China, though actual effects depend on policy implementation."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:18.785Z"
+  },
+  {
+    "newsId": "Y2N0di3ljJbop6Pk",
+    "title_en": "Resolving Risks of Small and Medium-sized Financial Institutions, Chinese Authorities Demand to Hold the Bottom Line of No 'Explosions'",
+    "summary_cn": "中国国家金融监管总局召开2026年监管工作会议，强调推进中小金融机构风险化解。会议要求着力处置存量风险，坚决遏制增量风险，牢牢守住不“爆雷”底线。这体现了官方对金融稳定的高度重视，旨在防范系统性风险。",
+    "summary_en": "China's National Financial Regulatory Administration held its 2026 regulatory work conference, emphasizing the resolution of risks in small and medium-sized financial institutions. The meeting called for addressing existing risks, resolutely curbing new risks, and firmly holding the bottom line of no 'explosions'. This reflects the authorities' high priority on financial stability to prevent systemic risks.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "新闻显示官方加强中小金融机构风险管控，有助于提升市场对金融体系稳定性的信心，减少系统性风险担忧，可能提振投资者情绪，对A股市场整体有利。",
+      "logic_en": "The news indicates that authorities are strengthening risk control for small and medium-sized financial institutions, which helps boost market confidence in the stability of the financial system, reduces concerns about systemic risks, and may improve investor sentiment, benefiting the overall A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:17.204Z"
+  },
+  {
+    "newsId": "Y2N0di3ph43luoYy",
+    "title_en": "Chongqing's 2025 Outbound Tax Refund Amount Increased Nearly Fourfold Year-on-Year",
+    "summary_cn": "重庆市税务局公布，2025年重庆办理离境退税实退税额同比增长近4倍。数据显示离境退税政策实施效果显著，反映消费活跃度提升。",
+    "summary_en": "Chongqing's tax authority announced that the actual outbound tax refund amount in 2025 increased nearly fourfold year-on-year. This indicates strong implementation of the tax refund policy and reflects rising consumer activity.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "离境退税额大幅增长表明消费需求强劲，特别是旅游和零售相关行业，可能提振市场对消费板块的乐观情绪，利好相关指数。",
+      "logic_en": "The significant increase in outbound tax refunds indicates strong consumer demand, particularly in tourism and retail sectors, which may boost market optimism towards the consumer sector and benefit related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:14.195Z"
+  },
+  {
+    "newsId": "Y2N0di3opb/ol4/m",
+    "title_en": "Tibet's Lalin Railway Carries 5.75 Million Passengers Since Opening",
+    "summary_cn": "西藏拉林铁路自2021年6月开通以来，累计运送旅客575万人次，货物173.8万吨。该铁路由青藏集团运营，数据由公司于2026年1月15日公布。",
+    "summary_en": "Since its opening in June 2021, Tibet's Lalin Railway has transported 5.75 million passengers and 1.738 million tons of cargo. The data was released by China Railway Qinghai-Tibet Group on January 15, 2026.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻仅报道铁路运营数据，未涉及财务业绩、政策变化或市场事件，对金融市场无直接利多或利空影响。可能间接反映中国基建投资成效，但无具体市场预期变化。",
+      "logic_en": "The news only reports operational data of the railway, with no mention of financial performance, policy changes, or market events, thus having no direct bullish or bearish impact on financial markets. It may indirectly reflect the effectiveness of China's infrastructure investments, but no specific market expectation shifts are indicated."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-15T14:16:15.832Z"
+  },
+  {
+    "newsId": "Y2N0di3mnqLnur3m",
+    "title_en": "Henan's New 'Chess Game' in the Large Market as a Hub",
+    "summary_cn": "河南省在2026年举行研讨会，回顾并谋划融入全国统一大市场的进展。该省一年前率先部署融入战略，现进入复盘与谋新阶段，旨在发挥枢纽作用，推动市场一体化。",
+    "summary_en": "Henan province held a seminar in 2026 to review and plan its integration into the national unified market. The province, which initiated the integration strategy a year ago, is now entering a phase of review and new planning, aiming to leverage its hub role to promote market integration.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻聚焦河南省融入全国统一大市场的战略进展，属于区域性政策研讨，未涉及具体经济数据或重大政策变动。这可能在长期内利好区域经济发展和市场一体化，但短期对金融市场直接影响有限，市场情绪可能保持中性，等待更多实质性措施出台。",
+      "logic_en": "The news focuses on Henan province's strategic progress in integrating into the national unified market, which is a regional policy discussion without specific economic data or major policy changes. This may benefit regional economic development and market integration in the long term, but has limited direct impact on financial markets in the short term, with market sentiment likely remaining neutral pending more substantive measures."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:16.951Z"
+  },
+  {
+    "newsId": "Y2N0di3lm73pk4Hl",
+    "title_en": "China Railway Guangzhou Bureau to Implement New Train Operation Diagram on January 26",
+    "summary_cn": "国铁广州局宣布自2026年1月26日起实施新列车运行图。此次调图新增旅客列车199列，安排开行旅客列车3355列，开行货物班列145列。运输能力和产品优化提升，交通网络进一步织密。",
+    "summary_en": "China Railway Guangzhou Bureau announced the implementation of a new train operation diagram starting January 26, 2026. The adjustment adds 199 passenger trains, schedules 3,355 passenger trains, and operates 145 freight trains. Transportation capacity and product optimization are enhanced, further strengthening the transportation network.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻涉及铁路运输能力提升和网络优化，可能对相关基建和物流板块产生积极预期，但未提供具体财务数据或政策细节，影响有限且间接。整体市场情绪偏向中性，因事件属于常规运营调整，未直接冲击宏观经济或金融市场。",
+      "logic_en": "The news involves improvements in railway transportation capacity and network optimization, potentially generating positive expectations for related infrastructure and logistics sectors. However, no specific financial data or policy details are provided, making the impact limited and indirect. Overall market sentiment is neutral, as the event is a routine operational adjustment without direct impact on macroeconomics or financial markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:16.866Z"
+  },
+  {
+    "newsId": "Y2N0di3kuIDlvKDm",
+    "title_en": "A Theater Ticket Activates the City's Consumption Market",
+    "summary_cn": "合肥推出低价戏票，以“一杯奶茶钱”的价格吸引消费者。\n这些戏票被赋予“杠杆功能”，旨在激活城市消费市场。\n通过文化消费带动整体消费增长，促进经济活力。",
+    "summary_en": "Hefei introduces low-priced theater tickets, priced at \"the cost of a cup of milk tea\" to attract consumers.\nThese tickets are endowed with \"leverage function\" to activate the city's consumption market.\nIt aims to boost overall consumption growth through cultural spending, enhancing economic vitality.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻描述低价戏票激活城市消费市场，通过文化消费杠杆带动整体消费增长，可能提振消费板块情绪和预期，对相关市场有积极影响。",
+      "logic_en": "The news describes low-priced theater tickets activating the city's consumption market, leveraging cultural spending to drive overall consumption growth. This may boost sentiment and expectations in the consumer sector, having a positive impact on related markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:14.938Z"
+  },
+  {
+    "newsId": "Y2N0di3lub/kuJzl",
+    "title_en": "Guangdong Launches 'Guangdong Goods Go Global' Spring Campaign with Home Appliances Leading the Way",
+    "summary_cn": "广东省于1月15日在佛山市启动“广货行天下”春季行动，以家电专场促销活动拉开2026年度线上促销序幕。该行动旨在推动广东产品，特别是家电类商品，通过线上渠道扩大销售和市场影响力。",
+    "summary_en": "Guangdong province launched the 'Guangdong Goods Go Global' spring campaign on January 15 in Foshan, starting with a home appliance promotion event to kick off the 2026 online sales initiative. The campaign aims to boost sales and market reach for Guangdong products, especially home appliances, through online channels.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "家电行业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Home Appliance Industry Index"
+      ],
+      "logic": "该新闻显示广东省政府推动家电等产品线上促销，可能刺激消费需求，利好家电行业和相关企业，对A股市场特别是家电板块产生积极情绪影响。",
+      "logic_en": "The news indicates that the Guangdong government is promoting online sales of home appliances and other products, which could stimulate consumer demand and benefit the home appliance industry and related companies, creating positive sentiment for the A-share market, especially the home appliance sector."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T14:16:16.504Z"
   }
 ]
