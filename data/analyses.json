@@ -9206,5 +9206,321 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-14T14:17:08.435Z"
+  },
+  {
+    "newsId": "Y2N0di3kuInpg6jp",
+    "title_en": "Three Departments Deploy to Regulate Competition Order in New Energy Vehicle Industry, Resolutely Resist Disorderly 'Price Wars'",
+    "summary_cn": "工业和信息化部、国家发展改革委、市场监管总局三部门联合召开新能源汽车行业企业座谈会，部署规范产业竞争秩序相关工作。会议强调要坚决抵制无序“价格战”，旨在维护市场公平竞争环境。此举旨在引导行业健康发展，避免恶性竞争损害企业利润和行业长期稳定。",
+    "summary_en": "Three departments—the Ministry of Industry and Information Technology, the National Development and Reform Commission, and the State Administration for Market Regulation—jointly held a symposium with new energy vehicle industry enterprises to deploy measures for regulating competition order. The meeting emphasized resolutely resisting disorderly 'price wars' to maintain a fair competitive environment. This aims to guide healthy industry development and avoid vicious competition that could harm corporate profits and long-term stability.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "新能源汽车板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "New Energy Vehicle Sector"
+      ],
+      "logic": "该新闻显示政府介入规范新能源汽车行业竞争，抵制无序价格战，有助于稳定行业利润预期，减少恶性竞争风险，对新能源汽车板块和相关指数构成利好。市场预期行业竞争环境将改善，企业盈利能力可能得到支撑，从而提振投资者情绪。",
+      "logic_en": "The news indicates government intervention to regulate competition in the new energy vehicle industry and resist disorderly price wars, which helps stabilize profit expectations and reduce risks of vicious competition. This is bullish for the new energy vehicle sector and related indices, as market expectations improve for a more stable competitive environment, potentially supporting corporate profitability and boosting investor sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-15T03:46:10.272Z"
+  },
+  {
+    "newsId": "Y2N0di3lpJrpobnl",
+    "title_en": "Multiple Institutional Construction Achievements Released - Full-Chain Efforts to Break the 'Involution' Dilemma",
+    "summary_cn": "新闻指出'内卷式'竞争是低价、低质、低水平的恶性竞争，扰乱市场信号、降低资源配置效率，侵蚀企业长期竞争力，阻碍产业结构优化升级与高质量发展。中央经济工作会议明确提出深入整治'内卷式'竞争，一场涵盖法治建设、退出机制、标准引领、协同监管的综合治理行动正多维度展开，旨在打破恶性循环、重塑健康市场生态。",
+    "summary_en": "The news highlights that 'involution' competition is a vicious cycle of low-price, low-quality, and low-level competition, disrupting market signals, reducing resource allocation efficiency, eroding corporate long-term competitiveness, and hindering industrial structure optimization and high-quality development. The Central Economic Work Conference explicitly proposed to deeply address 'involution' competition, with a comprehensive governance action covering legal construction, exit mechanisms, standard guidance, and coordinated supervision being implemented multi-dimensionally to break the vicious cycle and reshape a healthy market ecosystem.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻强调整治'内卷式'竞争，通过制度性建设如法治、退出机制等，旨在打破恶性竞争循环，提升市场效率和资源配置，促进产业结构优化和高质量发展。这有助于改善企业盈利能力和长期竞争力，减少无序竞争对市场的负面影响，从而提振市场信心，对A股市场整体情绪和估值修复有积极影响。",
+      "logic_en": "The news emphasizes addressing 'involution' competition through institutional construction such as legal frameworks and exit mechanisms, aiming to break the vicious cycle of competition, enhance market efficiency and resource allocation, and promote industrial structure optimization and high-quality development. This is expected to improve corporate profitability and long-term competitiveness, reduce the negative impact of disorderly competition on the market, thereby boosting market confidence and having a positive effect on overall sentiment and valuation recovery in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:13.028Z"
+  },
+  {
+    "newsId": "Y2N0di0x5pyIMTXm",
+    "title_en": "January 15: RMB to USD central parity rate set at 7.0064 yuan, up 56 basis points",
+    "summary_cn": "中国人民银行授权中国外汇交易中心公布，2026年1月15日人民币对美元中间价报7.0064元，较前一日上调56个基点。这显示人民币汇率有所升值，反映了市场供求和宏观经济基本面变化。",
+    "summary_en": "The People's Bank of China authorized the China Foreign Exchange Trade System to announce that on January 15, 2026, the central parity rate of RMB against USD was set at 7.0064 yuan, up 56 basis points from the previous day. This indicates a slight appreciation of the RMB, reflecting changes in market supply and demand and macroeconomic fundamentals.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "人民币汇率",
+        "A股市场",
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "RMB exchange rate",
+        "A-share market",
+        "CSI Index"
+      ],
+      "logic": "人民币中间价上调56个基点，显示人民币升值倾向，可能提振市场对人民币资产的信心，利好A股市场情绪，因人民币升值通常降低进口成本、吸引外资流入，对以人民币计价的资产构成支撑。",
+      "logic_en": "The 56-basis-point increase in the RMB central parity rate indicates a tendency for RMB appreciation, which may boost market confidence in RMB-denominated assets. This is bullish for the A-share market sentiment, as RMB appreciation typically reduces import costs and attracts foreign capital inflows, supporting RMB-denominated assets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:09.381Z"
+  },
+  {
+    "newsId": "Y2N0di3lhrDpnaLk",
+    "title_en": "The 'Hot Engine' on Ice: High-Cold Testing of New Energy Vehicles Continues to Heat Up",
+    "summary_cn": "新闻聚焦新能源汽车在极寒环境下的测试活动，强调其在“十五五”开局之年的重要性。报道指出，随着冬季测试持续升温，行业正积极应对低温挑战，以提升车辆性能和可靠性。这反映了中国新能源汽车产业在技术研发和市场拓展方面的持续努力。",
+    "summary_en": "The news focuses on the high-cold testing activities of new energy vehicles in extreme winter conditions, highlighting their significance at the start of the '15th Five-Year Plan'. It notes that as winter testing intensifies, the industry is actively addressing low-temperature challenges to improve vehicle performance and reliability. This reflects the ongoing efforts in technological R&D and market expansion within China's new energy vehicle sector.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "新能源汽车板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "New Energy Vehicle Sector"
+      ],
+      "logic": "新闻显示新能源汽车行业在技术测试和研发方面持续投入，特别是在极端环境下的性能提升，这有助于增强市场对行业长期发展前景的信心。积极的测试进展可能被视为行业成熟度和竞争力的体现，从而提振投资者情绪，对相关板块和指数产生正面影响。",
+      "logic_en": "The news indicates that the new energy vehicle industry continues to invest in technological testing and R&D, especially in improving performance under extreme conditions, which helps bolster market confidence in the sector's long-term growth prospects. Positive testing progress may be viewed as a sign of industry maturity and competitiveness, thereby boosting investor sentiment and having a favorable impact on related sectors and indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:10.444Z"
+  },
+  {
+    "newsId": "Y2N0di3kuqfplIDo",
+    "title_en": "Automobile Industry Competitiveness Stems from Hard Power, with Production and Sales Maintaining Over 30 Million Units for Three Consecutive Years",
+    "summary_cn": "中国汽车产业产销连续三年保持在3000万辆以上规模，显示产业规模稳定。新闻强调产业竞争力源自硬实力，如技术创新和制造能力。这反映了汽车行业的持续发展和市场地位。",
+    "summary_en": "China's automobile industry has maintained production and sales over 30 million units for three consecutive years, indicating stable industry scale. The news highlights that industry competitiveness stems from hard power, such as technological innovation and manufacturing capabilities. This reflects the ongoing development and market position of the automotive sector.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "汽车行业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Automotive Industry Index"
+      ],
+      "logic": "新闻显示汽车产业产销规模持续稳定，竞争力源自硬实力，可能提升市场对行业增长和盈利能力的预期，从而对相关股票和指数产生积极情绪影响。",
+      "logic_en": "The news indicates stable production and sales scale in the automobile industry, with competitiveness derived from hard power, potentially boosting market expectations for industry growth and profitability, leading to positive sentiment impact on related stocks and indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:07.773Z"
+  },
+  {
+    "newsId": "Y2N0di3nvo7ogqHo",
+    "title_en": "US Stocks Fall for Two Consecutive Days, Banking Stocks Decline Across the Board",
+    "summary_cn": "美东时间周三，美股三大指数连续第二个交易日下跌。道指微跌0.09%，纳指下跌1%，标普500指数下跌0.53%。银行股全线走低，市场情绪偏谨慎。",
+    "summary_en": "On Wednesday Eastern Time, the three major US stock indices fell for the second consecutive trading day. The Dow Jones dropped 0.09%, the Nasdaq fell 1%, and the S&P 500 declined 0.53%. Banking stocks declined across the board, indicating cautious market sentiment.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "纳斯达克指数",
+        "标普500指数",
+        "道琼斯工业平均指数"
+      ],
+      "affected_markets_en": [
+        "NASDAQ",
+        "S&P 500",
+        "Dow Jones Industrial Average"
+      ],
+      "logic": "新闻显示美股三大指数连续下跌，特别是纳指跌幅较大，银行股全线走低，这反映了市场避险情绪上升和投资者对金融板块的担忧，可能对整体股市形成压力。",
+      "logic_en": "The news indicates that the three major US stock indices fell for two consecutive days, with the Nasdaq experiencing a significant decline and banking stocks dropping across the board. This reflects rising risk-averse sentiment and investor concerns about the financial sector, potentially putting pressure on the overall stock market."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-15T03:46:08.734Z"
+  },
+  {
+    "newsId": "Y2N0di3mmbrog73n",
+    "title_en": "Smart Toys, Transport Robots: 'Made in China' Gains Global Popularity Through Strength",
+    "summary_cn": "2025年中国货物贸易进出口总值突破45万亿元，连续第9年保持增长。智能玩具和搬运机器人等中国产品凭借实力赢得全球市场青睐，展现中国制造业的竞争力。",
+    "summary_en": "In 2025, China's total import and export value of goods exceeded 45 trillion yuan, marking the ninth consecutive year of growth. Chinese products like smart toys and transport robots have gained global popularity through their strength, highlighting the competitiveness of China's manufacturing sector.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻显示中国进出口连续增长，智能玩具和搬运机器人等产品全球受欢迎，表明中国制造业实力增强和外贸韧性，可能提振市场对中国经济前景的信心，利好相关制造业和出口板块。",
+      "logic_en": "The news indicates continuous growth in China's imports and exports, with products like smart toys and transport robots gaining global popularity, suggesting enhanced manufacturing strength and trade resilience. This may boost market confidence in China's economic outlook, benefiting related manufacturing and export sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:07.462Z"
+  },
+  {
+    "newsId": "Y2N0di3kv4PnlJ/m",
+    "title_en": "Newly Revised Management Measures Announced to Promote Ecosystem Protection and Restoration, Clarify Fund Subsidy Standards",
+    "summary_cn": "财政部近日修订了《重点生态保护修复治理资金管理办法》，明确了“十五五”时期山水林田湖草沙一体化保护和修复工程、历史遗留废弃矿山生态修复工程的财政支持政策，规范资金使用管理，旨在促进生态系统保护和修复。",
+    "summary_en": "The Ministry of Finance recently revised the \"Management Measures for Key Ecological Protection and Restoration Funds,\" clarifying fiscal support policies for integrated protection and restoration projects of mountains, waters, forests, farmlands, lakes, grasslands, and deserts, as well as ecological restoration of historical abandoned mines during the \"15th Five-Year Plan\" period, standardizing fund usage and management to promote ecosystem protection and restoration.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该政策明确了生态保护修复领域的财政支持，可能利好环保、生态修复相关行业，如环保工程、绿色技术等，通过资金奖补标准提升市场对相关板块的预期，推动投资情绪向好。",
+      "logic_en": "This policy clarifies fiscal support for ecological protection and restoration, potentially benefiting related sectors such as environmental engineering and green technology. By setting fund subsidy standards, it enhances market expectations for these sectors, boosting investment sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:08.777Z"
+  },
+  {
+    "newsId": "Y2N0di3pgYfmi5Lm",
+    "title_en": "New Regulations on RMB Cash Acceptance and Payment to Take Effect Next Month, Rights Protection for Rejected Cash",
+    "summary_cn": "中国人民银行等三部门联合制定《人民币现金收付及服务规定》，旨在维护人民币法定货币地位，整治拒收现金行为，满足多样化支付需求，构建现金便利流通环境。规定将于2026年2月1日起施行，遇拒收现金可依法维权。",
+    "summary_en": "The People's Bank of China, along with the National Development and Reform Commission and the Financial Regulatory Administration, has formulated the \"Regulations on RMB Cash Acceptance and Payment and Services\" to uphold the legal tender status of the RMB, prevent and rectify the rejection of cash, meet diverse payment needs, and foster a convenient cash circulation environment. The regulations will take effect on February 1, 2026, allowing rights protection for rejected cash.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该规定主要针对现金支付行为，旨在规范市场秩序，维护人民币法定地位，对金融市场整体影响有限。可能轻微利好支付相关行业，但未直接涉及宏观经济或企业盈利，市场方向倾向中性。",
+      "logic_en": "The regulation primarily targets cash payment practices, aiming to standardize market order and uphold the legal status of the RMB, with limited overall impact on financial markets. It may slightly benefit payment-related sectors but does not directly involve macroeconomic or corporate earnings, leading to a neutral market direction."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:09.970Z"
+  },
+  {
+    "newsId": "Y2N0di3oiJ7lj7Do",
+    "title_en": "Stage Performances, Live Streaming Sales: Humanoid Robots Start 'Part-Time Jobs'",
+    "summary_cn": "新闻指出人形机器人正从工业应用扩展到服务领域，如舞台表演、迎宾接待和直播带货。这反映了机器人技术商业化加速，特别是在娱乐和零售场景。该趋势可能推动相关产业链发展，并引发市场对机器人应用前景的关注。",
+    "summary_en": "The news highlights that humanoid robots are expanding from industrial applications to service sectors, including stage performances, reception, and live streaming sales. This reflects accelerated commercialization of robotics technology, particularly in entertainment and retail scenarios. The trend may drive development in related industrial chains and attract market attention to robot application prospects.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "新闻显示人形机器人应用场景拓宽，商业化进程加速，可能提振市场对机器人产业链（如AI、传感器、制造）的乐观情绪，利好相关科技板块。但具体影响取决于技术落地速度和市场需求，整体偏向积极预期。",
+      "logic_en": "The news indicates that humanoid robots are expanding their application scenarios and accelerating commercialization, which may boost market optimism towards the robotics industrial chain (e.g., AI, sensors, manufacturing), benefiting related tech sectors. However, the actual impact depends on technology adoption rates and market demand, with an overall positive bias in expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:09.659Z"
+  },
+  {
+    "newsId": "Y2N0di3mkLrnqIvo",
+    "title_en": "Ctrip Under Investigation, Subjected to Multiple Interviews in the Past Year",
+    "summary_cn": "市场监管总局根据前期核查，依据《反垄断法》，对携程集团有限公司涉嫌滥用市场支配地位实施垄断行为立案调查。过去一年，携程已被多次约谈。",
+    "summary_en": "The State Administration for Market Regulation has initiated an investigation into Ctrip Group Limited for suspected abuse of market dominance and monopolistic behavior under the Anti-Monopoly Law, based on prior verification. Ctrip has been interviewed multiple times in the past year.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "中证指数",
+        "纳斯达克指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "NASDAQ"
+      ],
+      "logic": "该新闻对携程构成直接利空，因反垄断调查可能带来罚款、业务调整等负面影响，削弱投资者信心，导致股价承压。作为在线旅游平台龙头，携程事件可能引发市场对互联网行业监管收紧的担忧，影响相关板块情绪。",
+      "logic_en": "This news is directly bearish for Ctrip, as the antitrust investigation could lead to penalties, business adjustments, and other negative impacts, weakening investor confidence and putting pressure on its stock price. As a leading online travel platform, the Ctrip incident may raise concerns about tighter regulation in the internet sector, affecting sentiment in related segments."
+    },
+    "related_stocks": [
+      {
+        "symbol": "TCOM",
+        "name": "携程集团有限公司",
+        "market": "US"
+      }
+    ],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-15T03:46:27.687Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzkuJzo",
+    "title_en": "First Voyage of 'Dongying-Yangpu' Domestic and Foreign Trade Co-shipping Route Deepens North-South Logistics Coordination",
+    "summary_cn": "中远海运集运宣布开通渤海湾港'东营-洋浦'内外贸同船航线，首航船'东海之源'轮已在东营港完成装卸作业。该航线旨在深化南北物流协同，提升港口运营效率。此举标志着中国沿海物流网络进一步优化，促进区域经济一体化。",
+    "summary_en": "COSCO Shipping Lines announced the launch of the 'Dongying-Yangpu' domestic and foreign trade co-shipping route at Bohai Bay Port, with the first vessel 'Donghai Zhiyuan' completing loading and unloading operations at Dongying Port. The route aims to deepen north-south logistics coordination and improve port operational efficiency. This marks a further optimization of China's coastal logistics network, promoting regional economic integration.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "该新闻涉及物流基础设施优化和区域经济协同，可能提升相关港口和航运公司的运营效率，对物流和运输板块构成利好。市场预期物流成本降低和贸易便利性提高，可能提振投资者对相关行业的信心，从而对A股市场产生积极情绪影响。",
+      "logic_en": "The news involves optimization of logistics infrastructure and regional economic coordination, potentially improving operational efficiency for related ports and shipping companies, which is bullish for the logistics and transportation sectors. Market expectations of reduced logistics costs and enhanced trade facilitation may boost investor confidence in related industries, positively impacting sentiment in the A-share market."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601919.SH",
+        "name": "中远海运控股股份有限公司",
+        "market": "CN"
+      },
+      {
+        "symbol": "601866.SH",
+        "name": "中远海运发展股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:31.264Z"
+  },
+  {
+    "newsId": "Y2N0di3lm73mipXm",
+    "title_en": "State Investment Yangpu Port 100,000-ton Public Grain and Oil Terminal Commences Main Construction",
+    "summary_cn": "海南自贸港关键货运港口洋浦港正加速基础设施升级。1月13日，国投洋浦港10万吨级公共粮油码头项目启动钢管桩试桩施工，标志着码头正式进入主体建设阶段。该项目旨在提升港口货运能力，支持自贸港发展。",
+    "summary_en": "Yangpu Port, a key freight hub in the Hainan Free Trade Port, is accelerating infrastructure upgrades. On January 13, the State Investment Yangpu Port 100,000-ton public grain and oil terminal project commenced steel pipe pile test pile construction, marking the official start of the main construction phase. The project aims to enhance port freight capacity and support the free trade port's development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "海南板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hainan Sector"
+      ],
+      "logic": "该新闻显示海南自贸港基础设施投资加速，可能提振市场对区域经济增长和物流板块的预期。港口建设有助于提升贸易效率，支持自贸港政策落地，对相关基建、物流和海南本地股票构成利好情绪。",
+      "logic_en": "The news indicates accelerated infrastructure investment in the Hainan Free Trade Port, potentially boosting market expectations for regional economic growth and the logistics sector. Port construction enhances trade efficiency and supports the implementation of free trade port policies, creating positive sentiment for related infrastructure, logistics, and Hainan-based stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-15T03:46:27.838Z"
   }
 ]
