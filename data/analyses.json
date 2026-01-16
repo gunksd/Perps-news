@@ -10437,5 +10437,340 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-16T03:44:47.206Z"
+  },
+  {
+    "newsId": "Y2N0di3ku47igJzp",
+    "title_en": "From 'Problem List' to 'Kinetic Energy List': Shanghai Baoshan Launches Business Environment Reform",
+    "summary_cn": "上海宝山区举行优化营商环境暨投资促进大会，发布《宝山区加快打造国际一流营商环境行动方案(2026年)》。该方案以企业需求为导向，启动精准滴灌和价值赋能的改革，旨在提升区域投资吸引力。此举是宝山区在'十五五'新阶段应对企业挑战、促进经济发展的关键举措。",
+    "summary_en": "Shanghai Baoshan District held a conference to optimize the business environment and promote investment, releasing the 'Baoshan District Action Plan for Accelerating the Creation of a World-Class Business Environment (2026)'. The plan focuses on enterprise needs, launching reforms characterized by 'precision drip irrigation' and 'value empowerment' to enhance regional investment appeal. This is a key measure to address enterprise challenges and boost economic development in the new '15th Five-Year Plan' phase.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该新闻显示上海宝山区推出营商环境改革方案，通过精准对接企业需求、优化投资环境，可能提升区域经济活力和企业竞争力。这有助于吸引投资、促进企业发展，对A股市场尤其是上海本地股和相关产业板块产生积极情绪影响，但具体效果取决于后续实施情况。",
+      "logic_en": "The news indicates that Shanghai Baoshan District has launched a business environment reform plan, which may enhance regional economic vitality and enterprise competitiveness by precisely addressing enterprise needs and optimizing the investment environment. This could attract investment and promote enterprise growth, generating positive sentiment for the A-share market, especially Shanghai local stocks and related industrial sectors, though the actual impact depends on subsequent implementation."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:13.748Z"
+  },
+  {
+    "newsId": "Y2N0di3plb/msZ/k",
+    "title_en": "New Three Major Products in the Lower Yangtze River Accelerate Export via River and Sea",
+    "summary_cn": "长江下游地区的新能源汽车、锂电池和太阳能电池产品出口量快速增长。相关部门采取多项措施，支持这些产品高效通过长江和海运出口。",
+    "summary_en": "Exports of new energy vehicles, lithium batteries, and solar cells in the lower Yangtze River region are growing rapidly. Relevant departments have implemented multiple measures to support the efficient export of these products via river and sea routes.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻显示新能源汽车、锂电池和太阳能电池出口增长，表明相关产业需求强劲，可能提振市场对新能源和高端制造板块的信心，利好相关股票和指数。",
+      "logic_en": "The news indicates rapid export growth in new energy vehicles, lithium batteries, and solar cells, suggesting strong demand in related industries. This may boost market confidence in the new energy and advanced manufacturing sectors, benefiting related stocks and indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:08.860Z"
+  },
+  {
+    "newsId": "Y2N0di3ogofluobp",
+    "title_en": "Zhaoqing Gaoyao Port's Cement Exports to Hong Kong Show Strong Momentum, Expected to Exceed 600,000 Tons This Year",
+    "summary_cn": "广东肇庆封开水泥生产企业的出入境水泥罐船“中集润庆125”16日靠泊肇庆高要港，起航前往香港。今年以来经该口岸供港水泥出口量已达3万吨。预计今年出口量将超过60万吨，显示供港水泥出口势头强劲。",
+    "summary_en": "The cement tanker \"Zhongji Runqing 125\" from a cement production enterprise in Fengkai, Zhaoqing, Guangdong, docked at Zhaoqing Gaoyao Port on the 16th and set sail for Hong Kong. Since the beginning of this year, cement exports to Hong Kong through this port have reached 30,000 tons. It is expected that the export volume will exceed 600,000 tons this year, indicating strong momentum in cement exports to Hong Kong.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "新闻主要报道肇庆高要港供港水泥出口数据，显示出口势头强劲，预计今年出口量逾60万吨。这反映了特定区域水泥出口的积极表现，可能对相关水泥生产企业和港口运营公司有正面影响，但新闻未提及具体上市公司，且影响范围有限，对整体金融市场（如中证指数、恒生指数）的直接冲击较小，更多是行业或区域层面的信息，因此判断为中性。",
+      "logic_en": "The news primarily reports cement export data from Zhaoqing Gaoyao Port to Hong Kong, showing strong momentum with an expected export volume exceeding 600,000 tons this year. This reflects positive performance in cement exports from a specific region, potentially benefiting related cement production enterprises and port operators. However, the news does not mention specific listed companies, and the impact is limited in scope, having minimal direct effect on overall financial markets (e.g., CSI Index, Hang Seng Index). It is more of an industry or regional-level update, thus judged as neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:15.886Z"
+  },
+  {
+    "newsId": "Y2N0di3msZ/opb/p",
+    "title_en": "Jiangxi Deploys Twelve Major 'AI+' Key Actions to Empower Industrial Development",
+    "summary_cn": "江西部署十二大'人工智能+'重点行动，覆盖工业生产、医疗养老、文体旅游、交通运输等领域。此举旨在推进人工智能商业化规模化应用，赋能产业发展。",
+    "summary_en": "Jiangxi has deployed twelve major 'AI+' key actions covering industrial production, healthcare and elderly care, culture and tourism, and transportation. This aims to promote the commercial and large-scale application of artificial intelligence to empower industrial development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示地方政府积极推动人工智能产业发展，可能提升市场对AI相关板块的预期，利好科技股和新兴产业。",
+      "logic_en": "The news indicates local government actively promoting AI industry development, potentially boosting market expectations for AI-related sectors, benefiting tech stocks and emerging industries."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:08.255Z"
+  },
+  {
+    "newsId": "Y2N0di3liqDmi7/l",
+    "title_en": "Canadian Minister of Energy and Natural Resources: Willing to Further Deepen Mutually Beneficial Cooperation with China",
+    "summary_cn": "中国国家能源局局长王宏志在北京会见加拿大能源与自然资源部长蒂姆·霍奇森。霍奇森表示，加拿大油气资源丰富，愿与中方进一步深化互利合作。此次会晤旨在加强两国在能源领域的合作，促进资源互补和贸易往来。",
+    "summary_en": "Chinese National Energy Administration Director Wang Hongzhi met with Canadian Minister of Energy and Natural Resources Tim Hodgson in Beijing. Hodgson stated that Canada is rich in oil and gas resources and is willing to further deepen mutually beneficial cooperation with China. The meeting aims to strengthen bilateral cooperation in the energy sector, promoting resource complementarity and trade exchanges.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "能源板块",
+        "大宗商品市场"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Energy Sector",
+        "Commodity Markets"
+      ],
+      "logic": "新闻显示中加两国在能源领域合作意愿增强，可能促进能源贸易和投资，利好相关能源企业及大宗商品市场，提升市场对能源板块的积极预期。",
+      "logic_en": "The news indicates enhanced willingness for cooperation between China and Canada in the energy sector, which may boost energy trade and investment, benefiting related energy companies and commodity markets, and improving positive market expectations for the energy sector."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:10.757Z"
+  },
+  {
+    "newsId": "Y2N0di3pnZLol4/p",
+    "title_en": "Largest Yak Meatball Production Base on Qinghai-Tibet Plateau Commences Operation in Maqin, Qinghai",
+    "summary_cn": "青藏高原规模最大的牦牛肉丸生产基地在青海玛沁建成投产。该基地每日最高可生产30吨高品质牦牛肉丸，已接到来自上海、江苏、广东等地的首批订单。这标志着当地特色农产品加工能力提升，有助于推动区域经济发展。",
+    "summary_en": "The largest yak meatball production base on the Qinghai-Tibet Plateau has been completed and put into operation in Maqin County, Qinghai. With a maximum daily production capacity of 30 tons of high-quality yak meatballs, the facility has received initial orders from regions such as Shanghai, Jiangsu, and Guangdong. This development enhances local agricultural processing capabilities and supports regional economic growth.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道了青藏高原牦牛肉丸生产基地的投产，属于特定区域农业加工项目。虽然可能对当地农业产业链和消费市场有积极影响，但规模相对有限，且未涉及上市公司或重大政策变动，对整体金融市场影响较小，预期为中性。",
+      "logic_en": "This news reports the operation of a yak meatball production base on the Qinghai-Tibet Plateau, which is a regional agricultural processing project. While it may positively impact the local agricultural supply chain and consumer market, the scale is relatively limited, and it does not involve listed companies or major policy changes. Thus, its impact on the broader financial markets is minimal, with a neutral expectation."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-16T14:15:12.713Z"
+  },
+  {
+    "newsId": "Y2N0di3lronlvr3m",
+    "title_en": "Anhui Proposes Over 10,000 'AI + Everything' Applications by 2030",
+    "summary_cn": "安徽省委科技办主任吴劲松表示，到2030年，安徽的'人工智能+万物'应用将实现跨越式发展，重点应用领域全覆盖，应用落地超1万个，新一代智能终端、智能体等应用普及率超90%。",
+    "summary_en": "Wu Jinsong, director of the Anhui Provincial Party Committee's Science and Technology Office, stated that by 2030, Anhui's 'AI + Everything' applications will achieve leapfrog development, covering all key application areas, with over 10,000 applications implemented and a penetration rate of over 90% for new-generation smart terminals and agents.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示安徽计划大力推动人工智能应用，目标明确且规模较大，可能提振市场对人工智能产业链的预期，包括硬件、软件和服务提供商，从而对相关科技板块产生积极情绪。",
+      "logic_en": "The news indicates Anhui's plan to vigorously promote AI applications with clear and large-scale targets, which may boost market expectations for the AI industry chain, including hardware, software, and service providers, thereby generating positive sentiment for related technology sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:10.698Z"
+  },
+  {
+    "newsId": "Y2N0di3nm7TmjIfl",
+    "title_en": "New Regulations Set Red Lines and Rules for Food in Live Streaming E-commerce, Emphasizing Platform Responsibility",
+    "summary_cn": "市场监管总局发布《直播电商经营者落实食品安全主体责任监督管理规定》，为直播电商行业设立食品安全规范。新规强调平台主体责任，将于2026年3月20日正式实施。此举旨在加强监管，保障消费者权益，促进行业健康发展。",
+    "summary_en": "The State Administration for Market Regulation has issued new regulations for live streaming e-commerce, focusing on food safety responsibilities. The rules emphasize platform accountability and will take effect on March 20, 2026. This move aims to strengthen oversight, protect consumer rights, and promote sustainable industry growth.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "新规为直播电商行业设立明确规范，短期可能增加合规成本，但长期有助于行业规范化和消费者信任提升，对市场整体影响中性。监管加强可能抑制部分高风险行为，但未直接冲击核心业务或盈利模式，市场预期偏向稳定调整。",
+      "logic_en": "The new regulations establish clear rules for the live streaming e-commerce industry, potentially increasing short-term compliance costs but benefiting long-term standardization and consumer trust, resulting in a neutral overall market impact. Enhanced oversight may curb some high-risk activities without directly disrupting core operations or profitability, leading to stable market expectations."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:11.885Z"
+  },
+  {
+    "newsId": "Y2N0di3npo/lt57i",
+    "title_en": "Fuzhou Establishes Nearly 1,500 Taiwan-funded Enterprises During the 14th Five-Year Plan Period, with Contracted Taiwan Investment of Approximately $2.4 Billion",
+    "summary_cn": "福州市在“十四五”期间推动两岸融合发展示范区建设，新设台资企业近1500家，合同台资约24亿美元。福马“小三通”航线持续加密，累计运营超5400航次，运送旅客逾20万人次。这体现了福州在促进两岸经济合作方面的积极进展。",
+    "summary_en": "During the 14th Five-Year Plan period, Fuzhou promoted the construction of a demonstration zone for cross-strait integrated development, establishing nearly 1,500 Taiwan-funded enterprises with contracted investment of about $2.4 billion. The Fuzhou-Matsu \"mini three links\" route was continuously expanded, operating over 5,400 voyages and transporting more than 200,000 passengers. This reflects Fuzhou's positive progress in enhancing cross-strait economic cooperation.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻显示福州在“十四五”期间吸引大量台资，合同台资达24亿美元，新设企业近1500家，这有助于提升区域经济活力和两岸经贸合作预期。市场可能解读为政策支持下的经济融合积极信号，利好相关区域板块和整体市场情绪，但未涉及具体公司或行业，影响较为宏观。",
+      "logic_en": "The news indicates that Fuzhou attracted significant Taiwan investment during the 14th Five-Year Plan period, with contracted investment of $2.4 billion and nearly 1,500 new enterprises established. This is expected to enhance regional economic vitality and cross-strait trade cooperation expectations. The market may interpret this as a positive signal of economic integration under policy support, benefiting related regional sectors and overall market sentiment, but it does not involve specific companies or industries, making the impact relatively macro."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:14.957Z"
+  },
+  {
+    "newsId": "Y2N0di3kuKTkvJro",
+    "title_en": "Two Sessions Observation: Zhejiang's Private Economy 'Renewal' Sets Out Again",
+    "summary_cn": "新闻聚焦浙江省政协会议中关于民营经济“焕新再出发”的讨论。多位政协委员建言献策，探讨在“十五五”时期战略机遇与风险挑战并存的背景下，浙江民营经济如何向新而行、向高攀登。民营经济作为浙江的最大特色和优势，面临新形势下的发展路径调整。",
+    "summary_en": "The news highlights discussions at the Zhejiang Provincial Political Consultative Conference on the 'renewal' of the private economy. Multiple committee members offered suggestions on how Zhejiang's private economy can advance towards innovation and higher quality amid strategic opportunities and risks during the '15th Five-Year Plan' period. Private economy is noted as Zhejiang's key feature and advantage, facing adjustments in development paths under new circumstances.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻强调浙江民营经济的政策支持和创新导向，可能提升市场对民营企业发展前景的预期，利好相关板块情绪。浙江作为民营经济大省，此类积极讨论可能增强投资者信心，推动资金流向民营企业和创新领域，对A股市场尤其是中小板和创业板产生正面影响。",
+      "logic_en": "The news emphasizes policy support and innovation orientation for Zhejiang's private economy, potentially boosting market expectations for the development prospects of private enterprises and benefiting sentiment in related sectors. As Zhejiang is a major province for private economy, such positive discussions may enhance investor confidence, driving capital flows towards private enterprises and innovation sectors, positively impacting the A-share market, especially small and medium-sized boards and the ChiNext."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:13.824Z"
+  },
+  {
+    "newsId": "Y2N0di3igJznp5Hn",
+    "title_en": "‘Research + Consumption’ Helps Chengkou Old Bacon Spread from Daba Mountains to the World",
+    "summary_cn": "第三届城口老腊肉购物周暨外贸优品中华行城口巡展活动在重庆九龙坡区杨家坪步行街开幕。活动旨在通过‘科研+消费’模式，推动城口老腊肉从大巴山走向世界。新闻聚焦地方特色产品推广，未涉及宏观经济或金融市场数据。",
+    "summary_en": "The third Chengkou Old Bacon Shopping Week and Foreign Trade Quality Products China Tour Chengkou Exhibition opened in Yangjiaping Pedestrian Street, Chongqing. The event aims to promote Chengkou old bacon from the Daba Mountains globally through a 'research + consumption' model. The news focuses on local specialty product promotion without macroeconomic or financial market data.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [],
+      "affected_markets_en": [],
+      "logic": "新闻内容为地方性消费活动报道，未提及宏观经济政策、公司业绩或市场数据，对金融市场无直接影响。",
+      "logic_en": "The news is a report on a local consumption event, with no mention of macroeconomic policies, corporate performance, or market data, having no direct impact on financial markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-16T14:15:28.626Z"
+  },
+  {
+    "newsId": "Y2N0di3ljZfkuqzi",
+    "title_en": "Nanjing-Taipei All-Cargo Aircraft Regular Route Opens",
+    "summary_cn": "1月15日，一架载有27吨货物的全货机从南京禄口国际机场起飞，标志着南京—台北全货机定班航线正式开通。该航线将提升两地货运效率，促进经贸往来。",
+    "summary_en": "On January 15, an all-cargo aircraft carrying 27 tons of goods took off from Nanjing Lukou International Airport, marking the official opening of the Nanjing-Taipei all-cargo aircraft regular route. This route will enhance freight efficiency and promote economic and trade exchanges between the two regions.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "台湾加权指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Taiwan Weighted Index"
+      ],
+      "logic": "该新闻显示两岸货运物流效率提升，可能促进贸易增长，对相关物流、航空和贸易板块构成利好，提振市场情绪。",
+      "logic_en": "The news indicates improved cross-strait freight logistics efficiency, potentially boosting trade growth, which is positive for related logistics, aviation, and trade sectors, enhancing market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:28.260Z"
+  },
+  {
+    "newsId": "Y2N0di3ljJfkuqzk",
+    "title_en": "Beijing Liangma River Cultural Economic Belt Activates Waterfront Vitality",
+    "summary_cn": "北京在“十四五”期间通过创新社会共治模式，推行水岸共治，实施六大工程，全面激活亮马河水岸活力。项目包括80万平方米高品质空间、18公里滨水绿道和6公里游船航线，打造市民喜爱的水上会客厅。",
+    "summary_en": "During the 14th Five-Year Plan period, Beijing has innovated social co-governance models for the Liangma River, implementing water-land co-management and six major projects to fully activate waterfront vitality. The project includes 800,000 square meters of high-quality space, 18 kilometers of waterfront greenways, and 6 kilometers of boat routes, creating a popular waterfront gathering spot for citizens.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道北京亮马河文化经济带的城市更新项目，属于地方性基础设施建设，对整体金融市场影响有限。可能间接利好相关区域经济，但无直接金融政策或公司业绩变动，市场预期变化不大。",
+      "logic_en": "This news primarily reports on urban renewal projects in Beijing's Liangma River cultural economic belt, which is a local infrastructure development with limited impact on overall financial markets. It may indirectly benefit the regional economy but lacks direct financial policy or corporate performance changes, resulting in minimal market expectation shifts."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:30.381Z"
+  },
+  {
+    "newsId": "Y2N0di3lub/kuJwy",
+    "title_en": "Guangdong's Total Electricity Consumption Exceeds 950 Billion kWh in 2025",
+    "summary_cn": "广东电网公司发布数据显示，2025年广东全社会用电量达9589.73亿千瓦时，同比增长4.93%，继续位居全国首位。",
+    "summary_en": "Guangdong Power Grid Company reported that Guangdong's total electricity consumption reached 958.973 billion kWh in 2025, a year-on-year increase of 4.93%, maintaining its leading position nationwide.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "新闻显示广东用电量持续增长，反映区域经济活跃度较高，可能提振市场对中国经济基本面的信心，对A股市场情绪有积极影响。",
+      "logic_en": "The news indicates sustained growth in Guangdong's electricity consumption, reflecting higher regional economic activity, which may boost market confidence in China's economic fundamentals and positively impact sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T14:15:27.712Z"
+  },
+  {
+    "newsId": "Y2N0di1B6IKh5Y2K",
+    "title_en": "A-share semiconductor and power grid equipment sectors strengthen on January 16",
+    "summary_cn": "1月16日，中国A股主要股指小幅下跌，但半导体和电网设备板块逆势上涨，表现突出。",
+    "summary_en": "On January 16, China's A-share major indices declined slightly, but the semiconductor and power grid equipment sectors rose against the trend, showing strong performance.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻显示A股整体小幅下行，但半导体和电网设备板块逆势走强，表明市场存在结构性机会，整体影响中性。",
+      "logic_en": "The news indicates that the overall A-share market declined slightly, but the semiconductor and power grid equipment sectors strengthened against the trend, suggesting structural opportunities, with an overall neutral impact."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-16T14:15:26.417Z"
   }
 ]
