@@ -9932,5 +9932,510 @@
     "related_stocks": [],
     "confidence": 0.7,
     "analyzedAt": "2026-01-15T14:16:16.504Z"
+  },
+  {
+    "newsId": "Y2N0di3lpK7ooYzl",
+    "title_en": "What Signals Does the Central Bank's 'Targeted Interest Rate Cut' Release?",
+    "summary_cn": "央行在1月15日的新年首次发布会上宣布多项货币政策措施，包括下调结构性货币政策工具利率0.25个百分点、扩大工具范围和规模，以及降低商用房首付比例。此举旨在精准支持特定经济领域，释放流动性并降低融资成本。",
+    "summary_en": "On January 15, the central bank announced multiple monetary policy measures at its first press conference of the new year, including cutting interest rates on structural monetary policy tools by 0.25 percentage points, expanding the scope and scale of these tools, and reducing down payment ratios for commercial properties. This move aims to provide targeted support to specific economic sectors, releasing liquidity and lowering financing costs.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "央行定向降息和扩大政策工具范围释放了宽松货币政策信号，有助于降低企业融资成本、提振市场流动性，可能刺激股市情绪，尤其利好金融、房地产及相关受益行业。",
+      "logic_en": "The central bank's targeted interest rate cuts and expansion of policy tools signal accommodative monetary policy, which helps reduce corporate financing costs and boost market liquidity, potentially stimulating stock market sentiment, especially benefiting financial, real estate, and related sectors."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-16T03:44:13.339Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzosLfl",
+    "title_en": "\"Grain Economy\" Heats Up, Card Track Welcomes Another IPO Contender",
+    "summary_cn": "卡牌公司Suplay（超级玩咖）近日向港交所递交上市申请，打响2026年卡牌行业上市第一枪。该公司手握故宫文化收藏卡、哈利·波特卡牌等爆款产品。同时，创投服务平台小饭桌创始人李晶官宣加盟，以集团联合创始人兼CFO身份助力IPO，双重消息引发市场广泛关注。",
+    "summary_en": "Card company Suplay (Super Play) recently submitted an IPO application to the Hong Kong Stock Exchange, marking the first IPO in the card industry in 2026. The company holds popular products such as the Palace Museum cultural collection cards and Harry Potter cards. Additionally, Li Jing, founder of the venture capital service platform Xiaofanzhuo, announced joining as group co-founder and CFO to support the IPO, with both news items attracting widespread market attention.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "港股",
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "Hong Kong Stock Market",
+        "CSI Index"
+      ],
+      "logic": "该新闻显示卡牌行业公司积极寻求上市，并获知名人士加盟，可能提振市场对新兴消费和文创板块的信心，吸引资金关注，对相关市场情绪有正面影响。",
+      "logic_en": "The news indicates that companies in the card industry are actively seeking IPOs and attracting high-profile talent, which may boost market confidence in emerging consumer and cultural innovation sectors, drawing capital attention and having a positive impact on related market sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:14.045Z"
+  },
+  {
+    "newsId": "Y2N0di3mlrDog73m",
+    "title_en": "New Energy Vehicle Waste Power Battery Recycling to Implement Full Life Cycle Supervision",
+    "summary_cn": "工业和信息化部等六部门联合印发《新能源汽车废旧动力电池回收和综合利用管理暂行办法》，旨在加强废旧动力电池回收和综合利用的全链条监督管理，构建规范、安全、高效的回收利用体系。此举标志着新能源汽车废旧动力电池回收利用将开启全生命周期监管，以促进资源循环利用和环境保护。",
+    "summary_en": "Six departments including the Ministry of Industry and Information Technology jointly issued the \"Interim Measures for the Management of Recycling and Comprehensive Utilization of Waste Power Batteries for New Energy Vehicles.\" The move aims to strengthen full-chain supervision of waste power battery recycling and comprehensive utilization, establishing a standardized, safe, and efficient recycling system. This marks the implementation of full life cycle supervision for new energy vehicle waste power battery recycling, promoting resource recycling and environmental protection.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该政策通过加强监管和规范回收体系，有望提升新能源汽车产业链的可持续性和环保标准，降低环境风险，增强行业长期发展信心。这可能会吸引更多投资者关注新能源汽车及相关回收企业，推动相关板块情绪向好，但具体影响取决于后续执行细节和市场反应。",
+      "logic_en": "This policy, by strengthening supervision and standardizing the recycling system, is expected to enhance the sustainability and environmental standards of the new energy vehicle industry chain, reduce environmental risks, and boost long-term development confidence. This may attract more investor attention to new energy vehicles and related recycling companies, fostering positive sentiment in related sectors, though the specific impact depends on subsequent implementation details and market reactions."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:15.192Z"
+  },
+  {
+    "newsId": "Y2N0di3ph5Hono3m",
+    "title_en": "Financial Support for the Real Economy Increases in Scale and Optimizes in Structure (Authoritative Release)",
+    "summary_cn": "新闻宣布下调各类结构性货币政策工具利率和各类再贷款一年期利率。此举旨在加大金融对实体经济的支持力度，并优化信贷结构。政策调整体现了货币政策的精准性和灵活性，以促进经济稳定增长。",
+    "summary_en": "The news announces a reduction in interest rates for various structural monetary policy tools and one-year relending rates. This move aims to enhance financial support for the real economy and optimize credit structure. The policy adjustment reflects the precision and flexibility of monetary policy to promote stable economic growth.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "下调利率降低了实体经济的融资成本，可能刺激投资和消费，对股市整体情绪有提振作用。市场预期流动性改善和企业盈利前景向好，倾向于利多A股市场。",
+      "logic_en": "The interest rate cut reduces financing costs for the real economy, potentially stimulating investment and consumption, which boosts overall market sentiment. Expectations of improved liquidity and better corporate earnings prospects tend to be bullish for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-16T03:44:11.982Z"
+  },
+  {
+    "newsId": "Y2N0di3mnLrlmajk",
+    "title_en": "Robot Leasing Transforms from Fragmented Services to Ecosystem Layout",
+    "summary_cn": "机器人租赁行业正从零散服务模式向生态化布局转型。在擎天租平台发布会上，业界聚焦共建产业生态，通过平台赋能租赁业务，推动标准化和规模化发展。此举旨在打造多方共赢的新租赁生态，覆盖代理商、开发商及终端用户。",
+    "summary_en": "The robot leasing industry is shifting from fragmented service models to an ecosystem-based layout. At the launch event of the Qingtianzu platform, industry professionals focused on building a collaborative industrial ecosystem, leveraging platforms to enhance leasing operations and drive standardization and scale. This initiative aims to create a new leasing ecosystem that benefits multiple stakeholders, including agents, developers, and end-users.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "新闻显示机器人租赁行业向生态化、标准化和规模化转型，可能提升行业效率和市场渗透率，增强投资者对相关科技和创新板块的信心，从而对A股市场产生积极情绪影响。",
+      "logic_en": "The news indicates a transformation in the robot leasing industry towards ecosystem-based, standardized, and scaled operations, which could improve industry efficiency and market penetration, boosting investor confidence in related technology and innovation sectors, thereby positively impacting sentiment in the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:13.005Z"
+  },
+  {
+    "newsId": "Y2N0di0x5pyIMTbm",
+    "title_en": "January 16th: RMB to USD central parity rate reported at 7.0078 yuan, down 14 basis points",
+    "summary_cn": "中国人民银行授权中国外汇交易中心公布，2026年1月16日人民币对美元中间价报7.0078元，较前一日下调14个基点。中间价下调显示人民币兑美元汇率走弱，反映市场供需或政策调控变化。",
+    "summary_en": "The People's Bank of China authorized the China Foreign Exchange Trade System to announce that on January 16, 2026, the central parity rate of RMB against USD was set at 7.0078 yuan, down 14 basis points from the previous day. The downward adjustment indicates a weakening of the RMB against the USD, reflecting changes in market supply and demand or policy adjustments.",
+    "market_impact": {
+      "direction": "利空",
+      "direction_en": "Bearish",
+      "affected_markets": [
+        "人民币汇率",
+        "A股市场",
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "RMB exchange rate",
+        "A-share market",
+        "CSI Index"
+      ],
+      "logic": "人民币中间价下调14个基点，显示人民币兑美元汇率走弱，可能引发市场对人民币贬值预期的担忧。这通常利空A股市场，因为人民币贬值会增加进口成本和资本外流压力，影响企业盈利和市场情绪。同时，汇率波动可能影响外资流入，对中证指数等大盘指数构成压力。",
+      "logic_en": "The downward adjustment of the RMB central parity rate by 14 basis points indicates a weakening of the RMB against the USD, which may raise concerns about RMB depreciation expectations. This is generally bearish for the A-share market, as RMB depreciation increases import costs and capital outflow pressures, affecting corporate profits and market sentiment. Additionally, exchange rate fluctuations may impact foreign capital inflows, putting pressure on broad indices like the CSI Index."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-16T03:44:15.514Z"
+  },
+  {
+    "newsId": "Y2N0di3ng63or4Tk",
+    "title_en": "Hot Review: Ice and Snow 'Cold Resources' Spur 'Hot Manufacturing'",
+    "summary_cn": "新闻指出，随着大寒将至，冰雪活动如雪地风筝、冰爬犁等在全国各地兴起，冰雪经济持续升温。我国冰雪旅游人次已连续三个冰雪季突破3亿，2024-2025冰雪季消费规模超1875亿元，同比增长超25%。冰雪产业向纵深发展，带动冰雪装备技术爆发，\"冷资源\"正催生\"热制造\"。",
+    "summary_en": "The news highlights that as the Great Cold approaches, ice and snow activities such as snow kites and ice sleds are flourishing across China, boosting the ice and snow economy. China's ice and snow tourism has exceeded 300 million visits for three consecutive seasons, with consumption in the 2024-2025 season surpassing 187.5 billion yuan, a year-on-year increase of over 25%. The deepening development of the ice and snow industry is driving a technological boom in equipment, turning 'cold resources' into 'hot manufacturing'.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块",
+        "制造业指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector",
+        "Manufacturing Index"
+      ],
+      "logic": "新闻显示冰雪经济快速增长，消费规模大幅提升，可能提振市场对相关消费和制造业板块的预期，带动投资情绪向好。冰雪装备技术爆发暗示产业升级潜力，利好相关产业链。",
+      "logic_en": "The news indicates rapid growth in the ice and snow economy, with significant increases in consumption, potentially boosting market expectations for related consumer and manufacturing sectors and improving investment sentiment. The technological boom in ice and snow equipment suggests potential for industrial upgrading, benefiting related supply chains."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:15.318Z"
+  },
+  {
+    "newsId": "Y2N0di3mmoLml7bl",
+    "title_en": "Temporary Outbound Repair Policy Implemented for Two Years, Hainan Reduces Tariffs by Over 40 Million Yuan",
+    "summary_cn": "海南自贸港试点进口税收政策实施满两周年。海口海关数据显示，两年来受理暂时出境货物复运进境申报修理费达30.6亿元，减免关税超4000万元。该政策旨在降低企业成本，促进贸易便利化。",
+    "summary_en": "The pilot import tax policy in Hainan Free Trade Port has been implemented for two years. Haikou Customs data shows that over this period, it processed declarations for re-imported goods after temporary outbound repairs worth 30.6 billion yuan, reducing tariffs by over 40 million yuan. The policy aims to lower business costs and facilitate trade.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "海南自贸港相关板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hainan Free Trade Port-related sectors"
+      ],
+      "logic": "该政策通过减免关税降低企业运营成本，可能提升海南自贸港的吸引力，利好相关贸易和物流企业，增强市场对区域经济发展的乐观预期。",
+      "logic_en": "The policy reduces business operating costs through tariff reductions, potentially enhancing the appeal of the Hainan Free Trade Port, benefiting related trade and logistics companies, and boosting market optimism about regional economic development."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:12.711Z"
+  },
+  {
+    "newsId": "Y2N0di3ku47igJzl",
+    "title_en": "From 'Good Houses' to 'Good Communities': How China Construction Jiugrow Grows with the City Sub-center",
+    "summary_cn": "2025年北京楼市深度分化，但通州城市副中心的中建·运河玖院项目逆市热销。该项目自9月首开以来，创下通州商品住宅单日销售额纪录，并在100天内网签903套，夺得2025年北京新建商品住宅网签套数与面积双冠王。这一成绩超越单个项目热销，成为观察市场转向、产品价值与城市发展共鸣的样本。",
+    "summary_en": "In 2025, Beijing's property market showed deep differentiation amid ongoing adjustments, but the Zhongjian·Canal Jiuyuan project in Tongzhou, the city sub-center, bucked the trend with strong sales. Since its launch in September, it set a record for single-day sales of commercial housing in Tongzhou and achieved 903 online signings within 100 days, winning the dual titles of highest online signings and area for new commercial housing in Beijing in 2025. This performance goes beyond mere project success, serving as a sample to observe market shifts, product value, and resonance with urban development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "房地产板块",
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "Real Estate Sector",
+        "CSI Index"
+      ],
+      "logic": "新闻显示中建玖合在楼市调整期实现逆市热销，可能提振市场对房地产行业信心，特别是优质项目和城市副中心发展相关企业。这反映了产品价值和城市发展共鸣的积极信号，可能缓解行业焦虑，对房地产板块情绪有正面影响。",
+      "logic_en": "The news indicates that China Construction Jiugrow achieved strong sales against the market trend during a property market adjustment period, potentially boosting market confidence in the real estate sector, especially for high-quality projects and companies related to urban sub-center development. This reflects positive signals of product value and resonance with urban growth, which may alleviate industry anxiety and have a favorable impact on sentiment in the real estate sector."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601668.SH",
+        "name": "中国建筑股份有限公司",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:18.080Z"
+  },
+  {
+    "newsId": "Y2N0di3pu4Tph5Hn",
+    "title_en": "Gold Fever Remains High! Multiple Banks Issue Structured Deposits Linked to Gold",
+    "summary_cn": "黄金市场热度持续高涨，投资者对黄金资产需求旺盛。多家银行推出挂钩黄金的结构性存款产品，以满足市场投资需求。这反映了当前市场对黄金作为避险资产的偏好增强。",
+    "summary_en": "The gold market remains highly popular, with strong investor demand for gold assets. Multiple banks have launched structured deposit products linked to gold to meet market investment needs. This reflects the increased preference for gold as a safe-haven asset in the current market.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "黄金期货",
+        "黄金ETF",
+        "银行股"
+      ],
+      "affected_markets_en": [
+        "Gold Futures",
+        "Gold ETFs",
+        "Bank Stocks"
+      ],
+      "logic": "新闻显示黄金投资需求旺盛，银行推出相关产品可能进一步刺激黄金市场交易活跃度，提升市场对黄金资产的关注度，对黄金及相关金融产品构成利好。",
+      "logic_en": "The news indicates strong gold investment demand, and banks launching related products may further stimulate trading activity in the gold market, increasing market attention to gold assets, which is bullish for gold and related financial products."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:11.682Z"
+  },
+  {
+    "newsId": "Y2N0di3opoHmjpLp",
+    "title_en": "Five-Year Wait? Gold Price Rises, Bank Safe Deposit Boxes in Short Supply",
+    "summary_cn": "金价上涨导致银行保险箱需求激增，建设银行北京某支行表示近期保险箱已被租满，许多客户购买金条后直接存入。",
+    "summary_en": "Rising gold prices have led to a surge in demand for bank safe deposit boxes. A China Construction Bank branch in Beijing reported that boxes were recently fully rented, with many customers storing gold bars immediately after purchase.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "黄金市场",
+        "银行板块"
+      ],
+      "affected_markets_en": [
+        "Gold Market",
+        "Banking Sector"
+      ],
+      "logic": "新闻显示金价上涨刺激实物黄金需求，客户购买金条后存入银行保险箱，反映避险情绪升温和对黄金的保值需求增加，可能支撑金价。银行保险箱业务需求上升，对银行非利息收入有正面影响。",
+      "logic_en": "The news indicates rising gold prices are stimulating demand for physical gold, with customers storing gold bars in bank safe deposit boxes, reflecting increased safe-haven sentiment and demand for gold as a store of value, potentially supporting gold prices. Increased demand for bank safe deposit box services positively impacts banks' non-interest income."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601939.SH",
+        "name": "中国建设银行",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:31.971Z"
+  },
+  {
+    "newsId": "Y2N0di3jgIrluILl",
+    "title_en": "Market Supervision Administrative Penalty Cases Illegal Gains Determination Measures Issued",
+    "summary_cn": "市场监管总局近日出台《市场监督管理行政处罚案件违法所得认定办法》，共17条，旨在规范违法所得认定、统一执法尺度，促进严格规范公正文明执法。该办法明确了违法所得认定的基本原则、计算规则及疑难问题处理规则，为监管执法提供清晰指引。此举有助于提升市场监管的透明度和可预期性，强化对违法行为的打击力度。",
+    "summary_en": "The State Administration for Market Regulation recently issued the \"Measures for Determining Illegal Gains in Market Supervision Administrative Penalty Cases,\" consisting of 17 articles, aiming to standardize the determination of illegal gains, unify enforcement standards, and promote strict, standardized, fair, and civilized law enforcement. The measures clarify the basic principles, calculation rules, and handling rules for difficult issues in determining illegal gains, providing clear guidance for regulatory enforcement. This move helps enhance the transparency and predictability of market supervision and strengthens the crackdown on illegal activities.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及市场监管法规的完善，旨在规范执法和打击违法行为，长期看有助于营造更公平的市场环境，但短期对整体市场情绪影响有限，未直接涉及宏观经济数据或重大政策调整，因此对金融市场影响中性。",
+      "logic_en": "This news involves the improvement of market supervision regulations, aiming to standardize enforcement and crack down on illegal activities. In the long term, it helps create a fairer market environment, but in the short term, it has limited impact on overall market sentiment as it does not directly involve macroeconomic data or major policy adjustments, thus having a neutral effect on financial markets."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:34.338Z"
+  },
+  {
+    "newsId": "Y2N0di0yNemhuei3",
+    "title_en": "25 Cross-Border Trade Facilitation Measures Replicated Nationwide",
+    "summary_cn": "海关总署联合多部门在25个城市开展跨境贸易便利化专项行动，形成一批经验做法。现决定在全国复制推广其中25项成熟政策措施，以提升贸易效率。此举旨在优化营商环境，促进跨境贸易发展。",
+    "summary_en": "Customs, along with multiple departments, conducted a cross-border trade facilitation campaign in 25 cities, generating effective practices. 25 mature policy measures are now being replicated nationwide to enhance trade efficiency. This aims to improve the business environment and boost cross-border trade.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "该新闻涉及跨境贸易便利化措施在全国推广，预计将降低贸易成本、提升效率，利好外贸相关行业和整体经济。这有助于改善市场对经济增长的预期，可能提振投资者情绪，对A股市场产生积极影响。",
+      "logic_en": "The news involves nationwide replication of cross-border trade facilitation measures, which is expected to reduce trade costs and improve efficiency, benefiting foreign trade-related sectors and the overall economy. This helps improve market expectations for economic growth, potentially boosting investor sentiment and having a positive impact on the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.8,
+    "analyzedAt": "2026-01-16T03:44:32.209Z"
+  },
+  {
+    "newsId": "Y2N0di3oj5zpuJ/m",
+    "title_en": "Cainiao Carries Supplies for 'China House', Assisting Chinese Athletes in Milan Campaign",
+    "summary_cn": "菜鸟与国家体育总局体育器材装备中心合作，承运米兰“中国之家”的物资运输。这是继巴黎“中国之家”后，菜鸟再次承担国际顶级赛事的物流任务。",
+    "summary_en": "Cainiao has partnered with the National Sports Administration's Equipment Center to transport supplies for the 'China House' in Milan. Following its support for the Paris 'China House', Cainiao is again undertaking logistics for a major international event.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "香港恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "新闻显示菜鸟持续获得国际顶级赛事物流合作，可能提升其品牌影响力和业务拓展预期，对物流和电商板块情绪有积极影响。",
+      "logic_en": "The news indicates Cainiao's continued involvement in logistics for major international events, potentially boosting its brand influence and business expansion prospects, positively impacting sentiment in logistics and e-commerce sectors."
+    },
+    "related_stocks": [
+      {
+        "symbol": "09988.HK",
+        "name": "阿里巴巴集团控股有限公司",
+        "market": "HK"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:31.575Z"
+  },
+  {
+    "newsId": "Y2N0di3njovovono",
+    "title_en": "Wang Huiyao Responds to 'China Shock 2.0': Not a China Shock, but a Future Shock",
+    "summary_cn": "全球化智库创始人王辉耀回应“中国冲击论2.0”，认为这并非中国冲击，而是未来冲击。他强调中国的发展是全球趋势的一部分，而非孤立事件。这一回应旨在缓解国际对中国经济影响的担忧，促进合作对话。",
+    "summary_en": "Wang Huiyao, founder of the Center for China and Globalization, responds to 'China Shock 2.0', arguing it's not a China shock but a future shock. He emphasizes China's development as part of global trends, not an isolated event. This response aims to ease international concerns about China's economic impact and foster cooperation.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数",
+        "恒生指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hang Seng Index"
+      ],
+      "logic": "新闻内容为政策回应，未涉及具体经济数据或政策变动，主要影响市场情绪和预期。王辉耀的言论可能缓解对中国经济负面影响的担忧，但缺乏实质性利好或利空信息，对金融市场方向影响有限，偏向中性。",
+      "logic_en": "The news is a policy response without specific economic data or policy changes, primarily affecting market sentiment and expectations. Wang Huiyao's remarks may ease concerns about negative impacts from China's economy, but lack substantial bullish or bearish information, resulting in limited directional impact on financial markets, leaning neutral."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:33.041Z"
+  },
+  {
+    "newsId": "Y2N0di3osIHmmK/k",
+    "title_en": "Who is the Leading Non-Provincial Capital City in Central and Western China? A New Challenger Emerges",
+    "summary_cn": "新闻探讨中西部非省会龙头城市的竞争格局，指出新挑战者出现。内容聚焦区域经济发展和城市地位变化，但未提供具体经济数据或政策细节。",
+    "summary_en": "The news discusses the competitive landscape of leading non-provincial capital cities in central and western China, highlighting the emergence of a new challenger. It focuses on regional economic development and shifts in city status, without providing specific economic data or policy details.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻仅讨论区域城市竞争，未涉及具体经济政策、企业业绩或市场数据，对金融市场直接影响有限。可能间接影响区域经济预期，但缺乏明确利多或利空信号。",
+      "logic_en": "The news only discusses regional city competition without involving specific economic policies, corporate earnings, or market data, having limited direct impact on financial markets. It may indirectly affect regional economic expectations, but lacks clear bullish or bearish signals."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:30.634Z"
+  },
+  {
+    "newsId": "Y2N0di3nlJ/pspzm",
+    "title_en": "Fresh Fruits and Vegetables, New Year Flowers, and Specialty Foods Take Center Stage: Vibrant Pre-Holiday Consumption Scene Emerges",
+    "summary_cn": "2026年开年以来，消费市场持续火热，呈现量价齐升态势。生鲜果蔬、年宵花卉、特色美食等品类齐上阵，激发消费潜力与活力。节前消费场景热闹，显示消费市场活跃度提升。",
+    "summary_en": "Since the beginning of 2026, the consumer market has remained robust, showing a trend of both volume and price increases. Categories like fresh fruits and vegetables, New Year flowers, and specialty foods are driving consumption, stimulating market potential and vitality. The lively pre-holiday consumption scene indicates enhanced market activity.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "消费板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Consumer Sector"
+      ],
+      "logic": "新闻显示消费市场量价齐升，节前消费活跃，可能提振市场对消费板块的预期，利好相关指数和消费股。这反映了经济复苏或消费信心增强的积极信号，可能带动市场情绪向好。",
+      "logic_en": "The news indicates a simultaneous increase in volume and price in the consumer market, with active pre-holiday consumption, which may boost market expectations for the consumer sector, benefiting related indices and stocks. This reflects positive signals of economic recovery or enhanced consumer confidence, potentially driving market sentiment upward."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:32.530Z"
+  },
+  {
+    "newsId": "Y2N0di3igJzmlrDl",
+    "title_en": "\"New National Subsidy\" Implemented, Continuously Stimulating Market Vitality",
+    "summary_cn": "国家新一轮消费品以旧换新补贴政策已正式实施，各地正优化消费场景和服务，推动消费市场加速焕新。该政策旨在通过财政补贴刺激消费需求，提升市场活力。",
+    "summary_en": "The new round of national subsidy policy for consumer goods replacement has been implemented, with local governments optimizing consumption scenarios and services to accelerate market renewal. The policy aims to stimulate consumer demand and enhance market vitality through fiscal subsidies.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数",
+        "深证成指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index",
+        "Shenzhen Component Index"
+      ],
+      "logic": "该政策通过财政补贴直接刺激消费需求，可能提升相关消费品行业（如家电、汽车）的销售预期，从而利好消费板块和整体市场情绪，对A股市场产生积极影响。",
+      "logic_en": "The policy directly stimulates consumer demand through fiscal subsidies, potentially boosting sales expectations in related consumer goods sectors (e.g., home appliances, automobiles), which is bullish for the consumer sector and overall market sentiment, positively impacting the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:31.107Z"
+  },
+  {
+    "newsId": "Y2N0di3ku4rlubTv",
+    "title_en": "This Year, Which Major National Projects of Central Enterprises Are Worth Anticipating",
+    "summary_cn": "习近平总书记对中央企业工作作出重要指示，强调央企在新征程上要肩负职责使命，服务国家大局、高质量发展和民生保障，勇担社会责任，为中国式现代化建设贡献力量。新闻聚焦央企在2026年可能推出的重大国家项目，体现了政策对央企发展的支持导向。",
+    "summary_en": "President Xi Jinping issued important instructions on the work of central enterprises, emphasizing that they should shoulder their responsibilities and missions in the new journey, serve the national overall situation, high-quality development, and people's livelihood, bravely undertake social responsibilities, and contribute more to the construction of Chinese-style modernization. The news focuses on major national projects that central enterprises may launch in 2026, reflecting policy support for their development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "上证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Shanghai Composite Index"
+      ],
+      "logic": "新闻传达了高层对央企的积极政策信号，强调其服务国家战略和高质量发展的角色，可能提振市场对央企板块的信心，预期央企在重大项目投资和创新方面将获得更多支持，从而对相关指数产生正面情绪影响。",
+      "logic_en": "The news conveys positive policy signals from top leadership towards central enterprises, emphasizing their role in serving national strategies and high-quality development. This may boost market confidence in the central enterprise sector, with expectations of increased support for major project investments and innovation, thereby generating positive sentiment impact on related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:33.191Z"
+  },
+  {
+    "newsId": "Y2N0di3kvIHkuJrl",
+    "title_en": "Enterprise Annuity, Adding Security for Retirement",
+    "summary_cn": "人力资源社会保障部与财政部联合发布《关于进一步做好企业年金工作的意见》。该意见旨在推动企业年金制度发展，为职工养老提供更多保障。专家解读了企业年金的定义、对职工和用人单位的作用，以及政策亮点。",
+    "summary_en": "The Ministry of Human Resources and Social Security and the Ministry of Finance jointly issued the \"Opinions on Further Improving Enterprise Annuity Work.\" This policy aims to promote the development of enterprise annuity systems, providing more security for employees' retirement. Experts explained the definition of enterprise annuities, their roles for employees and employers, and key policy highlights.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要涉及养老金政策，属于长期结构性改革，短期内对金融市场直接影响有限。企业年金发展可能增加长期资金流入，但具体实施和规模尚不明确，市场预期变化较小，情绪偏向中性。",
+      "logic_en": "This news primarily involves pension policy, which is a long-term structural reform with limited direct impact on financial markets in the short term. The development of enterprise annuities may increase long-term capital inflows, but specific implementation and scale are unclear, leading to minimal changes in market expectations and a neutral sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:31.902Z"
+  },
+  {
+    "newsId": "Y2N0di3otrPnkIPk",
+    "title_en": "Football as a Medium, Regional Coordination Adds New Momentum to Comprehensive Revitalization of Northeast China",
+    "summary_cn": "新闻以足球为媒介，强调区域协同发展，为东北全面振兴注入新动能。内容简短，仅提及发展是硬道理，未提供具体经济数据或政策细节。",
+    "summary_en": "The news uses football as a medium to emphasize regional coordinated development, adding new momentum to the comprehensive revitalization of Northeast China. The content is brief, only mentioning that development is the absolute principle, without providing specific economic data or policy details.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "新闻内容过于简短和宏观，仅提及区域协同和振兴概念，缺乏具体政策、资金或项目细节，对金融市场影响有限。可能轻微提振东北地区相关板块情绪，但无实质性利好支撑。",
+      "logic_en": "The news content is too brief and macro, only mentioning concepts like regional coordination and revitalization, lacking specific policies, funding, or project details, with limited impact on financial markets. It may slightly boost sentiment in sectors related to Northeast China, but there is no substantial positive support."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-16T03:44:47.206Z"
   }
 ]
