@@ -10772,5 +10772,212 @@
     "related_stocks": [],
     "confidence": 0.8,
     "analyzedAt": "2026-01-16T14:15:26.417Z"
+  },
+  {
+    "newsId": "Y2N0di3nlKjkuozo",
+    "title_en": "Release Date Announced for Rose Variety Named After 'Second Uncle Baohua'",
+    "summary_cn": "以“二舅宝华”命名的月季品种已完成优先种植权竞拍，即将进入规模化生产阶段。新闻主要关注该品种的上市时间安排，并探讨其他具有“中国风”特色的新品种发展前景。",
+    "summary_en": "The rose variety named after 'Second Uncle Baohua' has completed the auction for priority planting rights and is set to enter large-scale production. The news focuses on the release timeline for this variety and discusses the development prospects of other new varieties with 'Chinese style' characteristics.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要报道园艺新品种的商业化进展，涉及农业或花卉产业，但未提及具体财务数据、政策变化或宏观经济影响。对金融市场整体影响有限，可能仅对相关农业板块产生轻微情绪波动，但无明确利多或利空驱动因素。",
+      "logic_en": "The news primarily reports on the commercialization progress of a new horticultural variety, involving the agricultural or flower industry, but does not mention specific financial data, policy changes, or macroeconomic impacts. It has limited overall impact on financial markets, potentially causing minor sentiment fluctuations in related agricultural sectors, but lacks clear bullish or bearish drivers."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:24.536Z"
+  },
+  {
+    "newsId": "Y2N0di3lgZrlpb3l",
+    "title_en": "Hainan to Deepen Integration of 'Medical, Tourism, and Residence' Multi-Industries to Boost Medical 'Consumption Article'",
+    "summary_cn": "海南在2026年全省卫生健康工作会议上宣布，今年将推动'特许医疗+健康管理+康复疗养'产业链发展，深化'医、旅、居'多业态融合，旨在做好医疗健康'消费文章'，促进医疗健康消费增长。",
+    "summary_en": "At the 2026 Hainan Provincial Health Work Conference, it was announced that Hainan will promote the development of the 'special medical + health management + rehabilitation and recuperation' industry chain this year, deepening the integration of 'medical, tourism, and residence' multi-industries to enhance medical health 'consumption article' and boost medical health consumption.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "海南板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Hainan Sector"
+      ],
+      "logic": "新闻显示海南将深化医疗健康与旅游、居住的融合，推动产业链发展，这有助于提升医疗健康消费，可能刺激相关产业增长，对海南本地经济和医疗健康板块产生积极影响，市场预期医疗健康消费需求增加，情绪偏向乐观。",
+      "logic_en": "The news indicates that Hainan will deepen the integration of medical health with tourism and residence, promoting industry chain development, which is expected to boost medical health consumption and stimulate growth in related sectors. This may positively impact the local economy and medical health sector in Hainan, with market expectations leaning towards increased demand and optimistic sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:25.799Z"
+  },
+  {
+    "newsId": "Y2N0di3mt7HmsZXp",
+    "title_en": "Shenzhen-Shanwei Railway Three-Electricity Relocation Project Achieves Key Breakthrough",
+    "summary_cn": "深汕铁路三电迁改项目取得关键突破，坪山站次高压燃气管道迁改工程成功实现安全接驳通气。该项目由厦深铁路广东公司建设管理，中铁城建集团承建，是全线关键控制性工程之一。",
+    "summary_en": "The Shenzhen-Shanwei Railway three-electricity relocation project has achieved a key breakthrough, with the successful safe connection and ventilation of the secondary high-pressure gas pipeline relocation at Pingshan Station. This project, managed by Xiashen Railway Guangdong Company and constructed by China Railway Construction Group, is one of the key control projects along the entire line.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻涉及铁路基建项目进展，可能对基建板块产生积极情绪，但未涉及具体财务数据或政策变动，影响有限。",
+      "logic_en": "This news involves progress in railway infrastructure projects, which may generate positive sentiment for the infrastructure sector, but it does not involve specific financial data or policy changes, limiting its impact."
+    },
+    "related_stocks": [
+      {
+        "symbol": "601186.SH",
+        "name": "中国铁建",
+        "market": "CN"
+      }
+    ],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:24.464Z"
+  },
+  {
+    "newsId": "Y2N0di3pmY3kvY7n",
+    "title_en": "Reducing Logistics Costs: 'National Team' is Building an 'Open Ecosystem' for the Entire Industry",
+    "summary_cn": "中国拥有全球最大的物流网络，国家层面正在推动降低物流成本，通过打造开放生态来服务全行业。此举旨在提升物流效率，优化供应链体系，为经济发展提供支撑。",
+    "summary_en": "China possesses the world's largest logistics network. At the national level, efforts are underway to reduce logistics costs by creating an open ecosystem to serve the entire industry. This initiative aims to enhance logistics efficiency, optimize supply chain systems, and support economic development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "降低物流成本有助于提升企业盈利能力和运营效率，特别是对物流、制造和零售等行业构成利好。国家推动开放生态建设可能促进相关基础设施投资和技术升级，提振市场对经济前景的乐观情绪。",
+      "logic_en": "Reducing logistics costs can enhance corporate profitability and operational efficiency, particularly benefiting sectors like logistics, manufacturing, and retail. The national push for an open ecosystem may stimulate infrastructure investment and technological upgrades, boosting market optimism about economic prospects."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:23.420Z"
+  },
+  {
+    "newsId": "Y2N0di3mtbfljZfl",
+    "title_en": "First Spring Festival Travel Rush Approaches After Hainan Island's Full Closure, Qiongzhou Strait Passenger Volume Expected to Increase by 12%",
+    "summary_cn": "中国交通运输部珠江航务管理局预计，今年春运期间琼州海峡客滚运输将运送旅客466万人次、车辆117万台次，同比增长12%和10%。新能源车运输量预计达20万台次，同比增长超50%。这主要受海南自由贸易港封关运作和旺盛的车客需求推动。",
+    "summary_en": "The Pearl River Navigation Administration under China's Ministry of Transport forecasts that during the Spring Festival travel rush, Qiongzhou Strait will transport 4.66 million passengers and 1.17 million vehicles, up 12% and 10% year-on-year. New energy vehicle transport is expected to reach 200,000 units, a surge of over 50%. This growth is driven by strong travel demand and the operation of the Hainan Free Trade Port after its full closure.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "交通运输板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Transportation Sector"
+      ],
+      "logic": "新闻显示海南封关后首次春运客运量预期增长，特别是新能源车运输量大幅上升，这可能提振市场对海南自贸港相关交通、物流和新能源产业链的乐观情绪，利好相关板块。",
+      "logic_en": "The news indicates expected growth in passenger and vehicle transport during the first Spring Festival after Hainan's full closure, with a significant rise in new energy vehicle shipments. This may boost market optimism towards sectors related to the Hainan Free Trade Port, such as transportation, logistics, and new energy industries, supporting bullish sentiment."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:26.152Z"
+  },
+  {
+    "newsId": "Y2N0di3pppblsYrp",
+    "title_en": "First Chongqing Artificial Intelligence Empowering Scientific Research Conference Held",
+    "summary_cn": "首届重庆市人工智能赋能科学研究大会于1月16日在重庆科学会堂召开。\n会议聚焦人工智能技术在科学研究领域的应用与赋能。\n旨在推动科技创新与产业升级，促进区域经济发展。",
+    "summary_en": "The first Chongqing Artificial Intelligence Empowering Scientific Research Conference was held on January 16 at the Chongqing Science Hall.\nThe conference focused on the application and empowerment of AI technology in scientific research.\nIt aims to promote technological innovation, industrial upgrading, and regional economic development.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "创业板指"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "ChiNext Index"
+      ],
+      "logic": "该新闻显示地方政府积极推动人工智能与科学研究融合，可能提升市场对AI技术应用前景的预期，利好科技板块及相关产业链。\n会议召开有助于增强投资者对科技创新和区域经济发展的信心，可能带动相关股票情绪向好。",
+      "logic_en": "The news indicates local government actively promoting the integration of AI and scientific research, potentially boosting market expectations for AI technology applications, benefiting the technology sector and related industries.\nThe conference may enhance investor confidence in technological innovation and regional economic development, likely improving sentiment for related stocks."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:24.044Z"
+  },
+  {
+    "newsId": "Y2N0di3pk4Hot68x",
+    "title_en": "Railway 12306 Mobile App Launches Migrant Worker Spring Festival Ticket Booking Service",
+    "summary_cn": "铁路12306手机客户端推出务工人员春运预约购票服务，符合条件的务工人员可通过专区预约购买2026年春运期间往返车票，旨在保障重点群体旅客春运出行。",
+    "summary_en": "The Railway 12306 mobile app has launched a ticket booking service for migrant workers during the Spring Festival travel season. Eligible workers can reserve round-trip tickets for the 2026 Spring Festival period through a dedicated section, aiming to ensure travel for key demographic groups.",
+    "market_impact": {
+      "direction": "中性",
+      "direction_en": "Neutral",
+      "affected_markets": [
+        "中证指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index"
+      ],
+      "logic": "该新闻主要涉及铁路客运服务优化，对金融市场直接影响有限。可能间接反映政府关注民生和交通基础设施，但无明确财务或政策变动，市场预期变化不大。",
+      "logic_en": "This news primarily involves optimization of railway passenger services, with limited direct impact on financial markets. It may indirectly reflect government focus on public welfare and transportation infrastructure, but there are no clear financial or policy changes, so market expectations remain largely unchanged."
+    },
+    "related_stocks": [],
+    "confidence": 0.9,
+    "analyzedAt": "2026-01-17T03:27:22.784Z"
+  },
+  {
+    "newsId": "Y2N0di3liqjmhJ/l",
+    "title_en": "Dynamic Theaters, Space Capsule Recliners... Cinema Upgrades Spark New Vitality in Film Consumption",
+    "summary_cn": "2026年初，中国电影市场观影热度持续。截至1月15日晚10时，2026年电影票房已超过12.75亿元，市场持续升温。影院通过升级动感影厅、太空舱躺椅等设施，激发电影消费新活力。",
+    "summary_en": "At the beginning of 2026, China's film market continues to see strong viewing enthusiasm. As of 10 PM on January 15, the 2026 box office has exceeded 1.275 billion yuan, with the market heating up. Cinema upgrades, such as dynamic theaters and space capsule recliners, are sparking new vitality in film consumption.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "文化传媒板块"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "Culture and Media Sector"
+      ],
+      "logic": "新闻显示电影市场消费活跃，票房数据强劲，影院升级可能提升行业盈利预期，对文化传媒板块和相关指数构成积极情绪支撑。",
+      "logic_en": "The news indicates active film market consumption with strong box office data, and cinema upgrades may enhance industry profit expectations, providing positive sentiment support for the culture and media sector and related indices."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:23.985Z"
+  },
+  {
+    "newsId": "Y2N0di3ku47igJzk",
+    "title_en": "From 'Convenient Services' to 'Value-Added Services': Optimizing Business Environment Becomes a Key Focus at the Start of the Year",
+    "summary_cn": "新闻聚焦“十五五”开局之年，强调优化营商环境从提供便捷服务转向增值服务，成为年初重点工作。这体现了政策层面对企业发展的支持，旨在提升经济活力和竞争力。",
+    "summary_en": "The news highlights the start of the '15th Five-Year Plan', emphasizing that optimizing the business environment is shifting from convenient services to value-added services, becoming a key focus at the beginning of the year. This reflects policy support for enterprise development, aiming to enhance economic vitality and competitiveness.",
+    "market_impact": {
+      "direction": "利多",
+      "direction_en": "Bullish",
+      "affected_markets": [
+        "中证指数",
+        "沪深300指数"
+      ],
+      "affected_markets_en": [
+        "CSI Index",
+        "CSI 300 Index"
+      ],
+      "logic": "优化营商环境政策通常降低企业运营成本、提升效率，可能增强市场对经济增长和企业盈利的预期，从而提振投资者情绪，对A股市场构成利好。",
+      "logic_en": "Policies to optimize the business environment typically reduce operational costs and improve efficiency for enterprises, potentially enhancing market expectations for economic growth and corporate profits. This could boost investor sentiment and be bullish for the A-share market."
+    },
+    "related_stocks": [],
+    "confidence": 0.7,
+    "analyzedAt": "2026-01-17T03:27:24.084Z"
   }
 ]
